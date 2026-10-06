@@ -1,0 +1,13 @@
+[
+  {
+    "id": "a1b2c3",
+    "text": "Data Engineer",
+    "hostedUrl": "https://jobs.lever.co/acme/a1b2c3",
+    "applyUrl": "https://jobs.lever.co/acme/a1b2c3/apply",
+    "createdAt": 1759000000000,
+    "workplaceType": "remote",
+    "categories": {"location": "Toronto, ON", "commitment": "Full-time", "team": "Data"},
+    "descriptionPlain": "Build pipelines in Python and Airflow.",
+    "lists": [{"text": "Requirements", "content": "<li>3+ years Python</li><li>SQL</li>"}]
+  }
+]

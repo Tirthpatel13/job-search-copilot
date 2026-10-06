@@ -1,0 +1,21 @@
+{
+  "jobs": [
+    {
+      "id": 4012345,
+      "title": "Senior Backend Engineer (Python)",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4012345",
+      "location": {"name": "Remote - Canada"},
+      "updated_at": "2026-09-30T14:02:11-04:00",
+      "company_name": "ExampleCorp",
+      "content": "&lt;p&gt;We are hiring a &lt;strong&gt;Senior Backend Engineer&lt;/strong&gt;.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Python and FastAPI&lt;/li&gt;&lt;li&gt;PostgreSQL&lt;/li&gt;&lt;li&gt;Kubernetes&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "id": 4012346,
+      "title": "Product Designer",
+      "absolute_url": "https://boards.greenhouse.io/examplecorp/jobs/4012346",
+      "location": {"name": "New York, NY"},
+      "updated_at": "2026-09-29T10:00:00-04:00",
+      "content": "&lt;p&gt;Design things.&lt;/p&gt;"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Remote Backend Jobs</title>
+<item>
+  <title>Backend Engineer at Globex</title>
+  <link>https://example.com/jobs/globex-backend</link>
+  <description>&lt;p&gt;Python, Go and AWS.&lt;/p&gt;</description>
+  <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+  <guid>globex-backend</guid>
+</item>
+<item>
+  <title>Initech: Python Developer</title>
+  <link>https://example.com/jobs/initech-python</link>
+  <description>Remote role building APIs.</description>
+  <guid>initech-python</guid>
+</item>
+</channel></rss>
