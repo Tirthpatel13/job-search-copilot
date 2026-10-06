@@ -27,7 +27,7 @@ T = TypeVar("T")
 
 USER_AGENT = (
     "Mozilla/5.0 (compatible; JobSearchCopilot/0.1; personal job search; "
-    "+https://github.com/your-username/job-search-copilot)"
+    "+https://github.com/Tirthpatel13/job-search-copilot)"
 )
 
 

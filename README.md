@@ -1,6 +1,6 @@
 # Job Search Copilot
 
-[![CI](https://github.com/your-username/job-search-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/job-search-copilot/actions/workflows/ci.yml)
+[![CI](https://github.com/Tirthpatel13/job-search-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/Tirthpatel13/job-search-copilot/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
@@ -146,7 +146,7 @@ job-search-copilot/
 Requires Python 3.10+ and an [Anthropic API key](https://console.anthropic.com/).
 
 ```bash
-git clone https://github.com/your-username/job-search-copilot.git
+git clone https://github.com/Tirthpatel13/job-search-copilot.git
 cd job-search-copilot
 python -m venv .venv
 source .venv/bin/activate            # Windows: .venv\Scripts\activate
@@ -401,8 +401,8 @@ git remote add origin https://github.com/<your-username>/job-search-copilot.git
 git push -u origin main
 ```
 
-Replace `your-username` in the badge URLs above and in `jobcopilot/sources/base.py`
-(the User-Agent), and your name in `LICENSE`.
+If you fork this, replace `Tirthpatel13` in the badge URLs above and in `jobcopilot/sources/base.py`
+(the User-Agent), and the name in `LICENSE`.
 
 **Suggested description:** *Human-in-the-loop job search copilot: aggregates
 listings from multiple boards, ranks them against your profile with Claude, and
