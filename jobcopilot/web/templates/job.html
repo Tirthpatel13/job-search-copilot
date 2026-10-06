@@ -1,0 +1,118 @@
+{% extends "base.html" %}
+{% block title %}{{ job.title }} at {{ job.company }}{% endblock %}
+{% block content %}
+<a class="muted small" href="/">&larr; All jobs</a>
+<article class="job-detail">
+  <header class="job-head">
+    <div class="score big {% if job.score is none %}score-none{% elif job.score >= 75 %}score-high{% elif job.score >= 50 %}score-mid{% else %}score-low{% endif %}">
+      {{ job.score if job.score is not none else '–' }}
+    </div>
+    <div>
+      <h1>{{ job.title }}</h1>
+      <p class="muted">{{ job.company }} &middot; {{ job.location or 'Location n/a' }}{% if job.is_remote and 'remote' not in job.location|lower %} &middot; Remote{% endif %}</p>
+      <p class="muted small">{% if job.salary %}{{ job.salary }} &middot; {% endif %}{% if job.date_posted %}Posted {{ job.date_posted }} &middot; {% endif %}Seen on {{ job.sources|join(', ') }}</p>
+    </div>
+  </header>
+
+  <div class="actions">
+    <a class="btn btn-primary" href="{{ job.best_apply_url }}" target="_blank" rel="noopener noreferrer">Open apply page &nearr;</a>
+    <form method="post" action="/jobs/{{ job.id }}/score" data-busy><button class="btn" {% if not claude_enabled %}disabled{% endif %}>{{ 'Re-score' if job.score is not none else 'Score' }}</button></form>
+  </div>
+  <p class="muted small">You always review and submit applications yourself. This app never applies for you.</p>
+
+  <form class="status-form" method="post" action="/jobs/{{ job.id }}/status">
+    {% for s in statuses %}
+    <button name="status" value="{{ s }}" class="chip chip-btn chip-{{ s }} {% if job.status.value == s %}active{% endif %}">{{ s }}</button>
+    {% endfor %}
+  </form>
+
+  {% if job.score is not none %}
+  <section class="card">
+    <h3>Fit</h3>
+    <p>{{ job.score_reason }}</p>
+    {% if job.matched %}<h4>Matches</h4><ul>{% for m in job.matched %}<li>{{ m }}</li>{% endfor %}</ul>{% endif %}
+    {% if job.gaps %}<h4>Gaps to review</h4><ul class="gaps">{% for g in job.gaps %}<li>{{ g }}</li>{% endfor %}</ul>{% endif %}
+  </section>
+  {% endif %}
+
+  <section class="card">
+    <h3>Tailored resume</h3>
+    <form method="post" action="/jobs/{{ job.id }}/tailor" data-busy>
+      <button class="btn" {% if not claude_enabled %}disabled{% endif %}>{{ 'Re-tailor' if resume else 'Tailor my resume' }}</button>
+    </form>
+    {% if resume %}
+    <p class="muted small">Generated {{ resume.created_at[:16].replace('T', ' ') }} UTC</p>
+    <div class="kw">
+      <div><span class="kw-num">{{ resume.keywords.before.percent }}%</span><span class="muted small">before</span></div>
+      <div class="kw-arrow">&rarr;</div>
+      <div><span class="kw-num">{{ resume.keywords.after.percent }}%</span><span class="muted small">after</span></div>
+      <div class="muted small">keyword match</div>
+    </div>
+    <p>
+      <a class="btn" href="/files/{{ job.id }}/{{ resume.files.docx }}">Download DOCX</a>
+      <a class="btn" href="/files/{{ job.id }}/{{ resume.files.pdf }}">Download PDF</a>
+    </p>
+    {% if resume.keywords.gained %}<h4>Keywords now covered</h4><p class="tags">{% for k in resume.keywords.gained %}<span class="chip chip-applied">{{ k }}</span>{% endfor %}</p>{% endif %}
+    {% if resume.keywords.not_in_profile %}<h4>Not in your profile (not added)</h4><p class="tags">{% for k in resume.keywords.not_in_profile %}<span class="chip chip-rejected">{{ k }}</span>{% endfor %}</p>{% endif %}
+    {% if resume.verification.removed or resume.verification.warnings or resume.resume.review_items %}
+    <div class="review">
+      <h4>Review before use</h4>
+      <ul>
+        {% for r in resume.verification.removed %}<li>Removed: {{ r }}</li>{% endfor %}
+        {% for w in resume.verification.warnings %}<li>{{ w }}</li>{% endfor %}
+        {% for r in resume.resume.review_items %}<li>{{ r }}</li>{% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% if resume.resume.change_log %}<details><summary>What changed</summary><ul>{% for c in resume.resume.change_log %}<li>{{ c }}</li>{% endfor %}</ul></details>{% endif %}
+    <details><summary>Preview text</summary><pre class="preview">{{ resume.text }}</pre></details>
+    {% endif %}
+  </section>
+
+  <section class="card">
+    <h3>Cover letter</h3>
+    <form method="post" action="/jobs/{{ job.id }}/cover-letter" data-busy>
+      <button class="btn" {% if not claude_enabled %}disabled{% endif %}>{{ 'Redraft' if cover else 'Draft cover letter' }}</button>
+    </form>
+    {% if cover %}
+    <div class="review"><b>Draft, review before use.</b>
+      {% if cover.letter.review_items %}<ul>{% for r in cover.letter.review_items %}<li>{{ r }}</li>{% endfor %}</ul>{% endif %}
+    </div>
+    <pre class="preview">{{ cover.text }}</pre>
+    <a class="btn" href="/files/{{ job.id }}/{{ cover.files.docx }}">Download DOCX</a>
+    {% endif %}
+  </section>
+
+  <section class="card">
+    <h3>Application questions</h3>
+    <form method="post" action="/jobs/{{ job.id }}/answers" data-busy>
+      <textarea name="questions" rows="4" placeholder="Paste the form's questions, one per line" required></textarea>
+      <button class="btn" {% if not claude_enabled %}disabled{% endif %}>Draft answers</button>
+    </form>
+    {% if answers %}
+    <ul class="answers">
+      {% for a in answers.answers %}
+      <li class="{% if a.needs_review %}needs-review{% endif %}">
+        <b>{{ a.question }}</b>
+        {% if a.answer %}<p>{{ a.answer }}</p><p class="muted small">From: {{ a.source }}</p>{% endif %}
+        {% if a.needs_review %}<p class="warn small">{{ 'Not covered by your profile. Answer this yourself.' if not a.answer else 'Review this answer.' }}</p>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </section>
+
+  <section class="card">
+    <h3>Notes</h3>
+    <form method="post" action="/jobs/{{ job.id }}/notes">
+      <textarea name="notes" rows="3" placeholder="Recruiter name, follow-up date, ...">{{ job.notes }}</textarea>
+      <button class="btn">Save notes</button>
+    </form>
+  </section>
+
+  <section class="card">
+    <h3>Description</h3>
+    <div class="description">{{ job.description or 'No description available. Open the listing for details.' }}</div>
+  </section>
+</article>
+{% endblock %}

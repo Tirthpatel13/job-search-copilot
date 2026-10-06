@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Profile{% endblock %}
+{% block content %}
+<h1>Profile</h1>
+<p class="muted">Claude only uses the facts in these files. Edit them in <code>{{ settings.profile_dir }}/</code>.</p>
+{% if error %}<div class="flash flash-error">{{ error }}</div>{% endif %}
+{% if profile %}
+  {% if profile.is_example %}<div class="flash flash-error">Using the example profile. Upload your resume or add files to <code>{{ settings.profile_dir }}/</code>.</div>{% endif %}
+  <section class="card">
+    <h3>Resume <span class="muted small">({{ profile.resume_file }})</span></h3>
+    <details><summary>Show extracted text</summary><pre class="preview">{{ profile.resume }}</pre></details>
+  </section>
+  <section class="card">
+    <h3>Target criteria</h3>
+    <details><summary>Show</summary><pre class="preview">{{ profile.criteria or 'Missing criteria.md' }}</pre></details>
+  </section>
+  <section class="card">
+    <h3>Experience answers</h3>
+    <details><summary>Show</summary><pre class="preview">{{ profile.answers or 'Missing EXPERIENCE_ANSWERS.md' }}</pre></details>
+  </section>
+{% endif %}
+<section class="card">
+  <h3>Upload base resume</h3>
+  <form method="post" action="/profile/resume" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".pdf,.docx,.md,.txt" required>
+    <button class="btn btn-primary">Upload</button>
+  </form>
+  <p class="muted small">PDF, DOCX, Markdown or plain text. Replaces the current resume.</p>
+</section>
+<section class="card">
+  <h3>Settings</h3>
+  <ul class="small">
+    <li>Claude model: <code>{{ settings.claude_model }}</code> (effort {{ settings.claude_effort }})</li>
+    <li>API key: {{ 'configured' if settings.claude_enabled else 'missing' }}</li>
+    <li>Scheduled fetch: {{ 'every %d h' % settings.schedule_fetch_hours if settings.schedule_fetch_hours else 'off' }}</li>
+  </ul>
+</section>
+{% endblock %}

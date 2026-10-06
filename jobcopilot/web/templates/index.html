@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="toolbar">
+  <div class="stats">
+    <span><b>{{ stats.total }}</b> jobs</span>
+    <span><b>{{ stats.scored }}</b> scored</span>
+    <span><b>{{ stats.get('applied', 0) }}</b> applied</span>
+    <span><b>{{ stats.get('interview', 0) }}</b> interviews</span>
+  </div>
+  <button id="fetch-now" class="btn btn-primary" type="button">Fetch now</button>
+</section>
+<p id="fetch-status" class="muted small">
+  {% if last_run and last_run.finished_at %}Last fetch {{ last_run.finished_at[:16].replace('T', ' ') }} UTC
+  {% if last_run.summary.get('new') is not none %}&middot; {{ last_run.summary.new }} new{% endif %}
+  {% for name, s in last_run.summary.get('sources', {}).items() %}{% if s.error %} &middot; <span class="warn" title="{{ s.error }}">{{ name }} failed</span>{% endif %}{% endfor %}
+  {% else %}No fetch yet. Tap "Fetch now".{% endif %}
+</p>
+{% if not claude_enabled %}<div class="flash flash-error">ANTHROPIC_API_KEY is not set, so jobs are fetched but not scored.</div>{% endif %}
+
+<form class="filters" method="get" action="/">
+  <input type="search" name="q" value="{{ f.q }}" placeholder="Search title, company, location" aria-label="Search">
+  <div class="filter-row">
+    <select name="status" aria-label="Status">
+      <option value="">Any status</option>
+      {% for s in statuses %}<option value="{{ s }}" {% if f.status == s %}selected{% endif %}>{{ s|capitalize }}</option>{% endfor %}
+    </select>
+    <select name="source" aria-label="Source">
+      <option value="">Any source</option>
+      {% for s in sources %}<option value="{{ s }}" {% if f.source == s %}selected{% endif %}>{{ s }}</option>{% endfor %}
+    </select>
+    <select name="min_score" aria-label="Minimum score">
+      <option value="">Any score</option>
+      {% for n in [50, 60, 70, 80, 90] %}<option value="{{ n }}" {% if f.min_score == n|string %}selected{% endif %}>{{ n }}+</option>{% endfor %}
+    </select>
+    <select name="sort" aria-label="Sort">
+      <option value="score" {% if f.sort == 'score' %}selected{% endif %}>Best match</option>
+      <option value="newest" {% if f.sort == 'newest' %}selected{% endif %}>Newest</option>
+      <option value="posted" {% if f.sort == 'posted' %}selected{% endif %}>Date posted</option>
+      <option value="company" {% if f.sort == 'company' %}selected{% endif %}>Company</option>
+    </select>
+    <label class="check"><input type="checkbox" name="remote" value="1" {% if f.remote %}checked{% endif %}> Remote</label>
+    <button class="btn" type="submit">Apply</button>
+  </div>
+</form>
+
+<ul class="job-list">
+  {% for job in jobs %}
+  <li class="job-card">
+    <a href="/jobs/{{ job.id }}">
+      <div class="score {% if job.score is none %}score-none{% elif job.score >= 75 %}score-high{% elif job.score >= 50 %}score-mid{% else %}score-low{% endif %}">
+        {{ job.score if job.score is not none else '–' }}
+      </div>
+      <div class="job-main">
+        <h2>{{ job.title }}</h2>
+        <p class="muted">{{ job.company }} &middot; {{ job.location or 'Location n/a' }}{% if job.is_remote and 'remote' not in job.location|lower %} &middot; Remote{% endif %}</p>
+        {% if job.score_reason %}<p class="reason">{{ job.score_reason }}</p>{% endif %}
+        <p class="tags">
+          <span class="chip chip-{{ job.status.value }}">{{ job.status.value }}</span>
+          {% for s in job.sources %}<span class="chip">{{ s }}</span>{% endfor %}
+          {% if job.salary %}<span class="chip">{{ job.salary }}</span>{% endif %}
+        </p>
+      </div>
+    </a>
+  </li>
+  {% else %}
+  <li class="empty">No jobs match. Adjust filters or fetch new jobs.</li>
+  {% endfor %}
+</ul>
+{% endblock %}
