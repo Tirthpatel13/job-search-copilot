@@ -281,10 +281,10 @@ python -m jobcopilot.cli serve --port 8000   # web app
 **cron** (on a machine that stays on):
 
 ```cron
-0 8 * * 1-5 cd /path/to/job-search-copilot && .venv/bin/python -m jobcopilot.cli run >> data/cron.log 2>&1
+0 8 * * * cd /path/to/job-search-copilot && .venv/bin/python -m jobcopilot.cli run >> data/cron.log 2>&1
 ```
 
-**GitHub Actions** (`.github/workflows/fetch-jobs.yml`) runs weekday mornings at
+**GitHub Actions** (`.github/workflows/fetch-jobs.yml`) runs every morning at
 13:00 UTC and on demand (`workflow_dispatch`). It fetches, scores, uploads
 `data/evaluated-jobs.csv` as an artifact, and commits it. The CSV is re-imported
 on each run, so jobs that already have a score are not scored again.

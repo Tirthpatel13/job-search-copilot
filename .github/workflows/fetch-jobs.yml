@@ -2,8 +2,8 @@ name: Fetch and score jobs
 
 on:
   schedule:
-    # 13:00 UTC, Monday to Friday (morning in the Americas). Adjust to taste.
-    - cron: "0 13 * * 1-5"
+    # 13:00 UTC every day (morning in the Americas). Adjust to taste.
+    - cron: "0 13 * * *"
   workflow_dispatch:
 
 permissions:
