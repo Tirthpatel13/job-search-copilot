@@ -1,0 +1,58 @@
+# Copy to config/preferences.yaml and edit. If preferences.yaml is missing,
+# this example file is used.
+
+search:
+  # Search terms for search-based sources, and the title filter for every job:
+  # a job passes if its title contains all words of at least one entry.
+  titles:
+    - Python Developer
+    - Backend Engineer
+    - Data Engineer
+  # "Remote" searches remote roles; other entries are city/region strings.
+  locations:
+    - Remote
+    - Toronto, ON
+  remote_only: false
+  results_per_source: 25    # per title x location, per source
+  hours_old: 72             # only jobs posted in the last N hours (search sources)
+  country_indeed: Canada    # Indeed/Glassdoor country, e.g. USA, Canada, UK, India
+
+filters:
+  # If set, the title or description must mention at least one of these.
+  include_keywords: [python]
+  # Jobs mentioning any of these are dropped.
+  exclude_keywords: [security clearance, unpaid, commission only]
+  exclude_companies: []
+  # Allowed levels: intern, junior, mid, senior, lead, manager (empty = any).
+  seniority: [junior, mid, senior]
+
+sources:
+  linkedin:
+    enabled: true
+  indeed:
+    enabled: true
+  glassdoor:
+    enabled: true
+  simplyhired:
+    enabled: true
+  greenhouse:
+    enabled: true
+    # Board tokens from https://boards.greenhouse.io/<token>
+    boards: [gitlab, airbnb]
+  lever:
+    enabled: false
+    # Company slugs from https://jobs.lever.co/<company>
+    companies: [palantir]
+  rss:
+    enabled: false
+    feeds:
+      - url: https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss
+        company: ""
+
+rate_limit:
+  min_interval_seconds: 3   # minimum gap between requests to the same source
+  max_retries: 3            # retries with exponential backoff
+
+scoring:
+  enabled: true
+  max_jobs_per_run: 30      # caps Claude API spend per run
