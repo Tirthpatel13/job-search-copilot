@@ -224,6 +224,7 @@ gap or a question for you rather than guessed. Examples are in
 from ..models import Job
 from .base import JobSource, register
 
+
 @register
 class MyBoardSource(JobSource):
     name = "myboard"
@@ -231,8 +232,16 @@ class MyBoardSource(JobSource):
     def fetch(self) -> list[Job]:
         with self.client() as client:
             data = self.http_get(client, "https://example.com/jobs.json").json()
-        return [Job(title=d["title"], company=d["company"], location=d["location"],
-                    url=d["url"], source=self.name) for d in data]
+        return [
+            Job(
+                title=d["title"],
+                company=d["company"],
+                location=d["location"],
+                url=d["url"],
+                source=self.name,
+            )
+            for d in data
+        ]
 ```
 
 Import it in `jobcopilot/sources/__init__.py` and enable it in preferences:
