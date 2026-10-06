@@ -1,0 +1,14 @@
+services:
+  app:
+    build: .
+    env_file: .env
+    environment:
+      SCHEDULE_FETCH_HOURS: ${SCHEDULE_FETCH_HOURS:-24}
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./profile:/app/profile
+      - ./output:/app/output
+      - ./config:/app/config
+    restart: unless-stopped

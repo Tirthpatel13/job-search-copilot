@@ -1,0 +1,65 @@
+name: Fetch and score jobs
+
+on:
+  schedule:
+    # 13:00 UTC, Monday to Friday (morning in the Americas). Adjust to taste.
+    - cron: "0 13 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-jobs
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Personal files are not committed. Optionally provide your resume as a secret
+      # (PROFILE_RESUME_MD); otherwise the example profile is used for scoring.
+      - name: Write profile from secrets
+        env:
+          PROFILE_RESUME_MD: ${{ secrets.PROFILE_RESUME_MD }}
+          PROFILE_CRITERIA_MD: ${{ secrets.PROFILE_CRITERIA_MD }}
+          PROFILE_ANSWERS_MD: ${{ secrets.PROFILE_ANSWERS_MD }}
+        run: |
+          mkdir -p profile
+          if [ -n "$PROFILE_RESUME_MD" ]; then printf '%s' "$PROFILE_RESUME_MD" > profile/resume.md; fi
+          if [ -n "$PROFILE_CRITERIA_MD" ]; then printf '%s' "$PROFILE_CRITERIA_MD" > profile/criteria.md; fi
+          if [ -n "$PROFILE_ANSWERS_MD" ]; then printf '%s' "$PROFILE_ANSWERS_MD" > profile/EXPERIENCE_ANSWERS.md; fi
+
+      - name: Fetch and score
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'claude-opus-5-5' }}
+          DATABASE_PATH: ${{ runner.temp }}/jobs.db
+        run: python -m jobcopilot.cli run --csv data/evaluated-jobs.csv
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: evaluated-jobs
+          path: data/evaluated-jobs.csv
+
+      - name: Commit tracking file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/evaluated-jobs.csv
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update evaluated jobs $(date -u +%Y-%m-%d)"
+            git push
+          fi
