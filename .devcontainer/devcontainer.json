@@ -1,0 +1,13 @@
+{
+  "name": "Job Search Copilot",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install -r requirements.txt",
+  "postStartCommand": "bash scripts/codespace_start.sh",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": { "label": "Job Copilot", "onAutoForward": "openBrowser" }
+  },
+  "secrets": {
+    "ANTHROPIC_API_KEY": { "description": "Claude API key used to score jobs and tailor resumes." }
+  }
+}
