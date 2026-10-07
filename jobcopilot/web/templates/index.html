@@ -24,6 +24,7 @@
 </details>
 {% endif %}
 {% endif %}
+{% if claude_enabled and last_run and last_run.summary.get('score_error') %}<div class="flash flash-error">Scoring failed: {{ last_run.summary.score_error }}</div>{% endif %}
 {% if not claude_enabled %}<div class="flash flash-error">ANTHROPIC_API_KEY is not set, so jobs are fetched but not scored.</div>{% endif %}
 
 <form class="filters" method="get" action="/">

@@ -31,7 +31,15 @@ You are helping one job seeker. Ground rules that override everything else:
 
 
 class LLMError(RuntimeError):
-    """Claude could not produce a usable answer (refusal, truncation, API error)."""
+    """Claude could not produce a usable answer (refusal, truncation, API error).
+
+    `fatal` marks account problems (bad key, no credits) that will fail every
+    request, so batch jobs can stop instead of repeating the same error.
+    """
+
+    def __init__(self, message: str, *, fatal: bool = False) -> None:
+        super().__init__(message)
+        self.fatal = fatal
 
 
 class StructuredLLM(Protocol):
@@ -84,9 +92,13 @@ class ClaudeLLM:
         except anthropic.RateLimitError as exc:
             raise LLMError("Claude rate limit reached; try again shortly") from exc
         except anthropic.AuthenticationError as exc:
-            raise LLMError("Invalid ANTHROPIC_API_KEY") from exc
+            raise LLMError("Invalid ANTHROPIC_API_KEY", fatal=True) from exc
         except anthropic.APIStatusError as exc:
-            raise LLMError(f"Claude API error {exc.status_code}: {exc.message}") from exc
+            body = exc.body if isinstance(exc.body, dict) else {}
+            detail = (body.get("error") or {}).get("message") or exc.message
+            fatal = exc.status_code == 403 or "credit balance" in detail
+            message = f"Claude API error {exc.status_code}: {detail}"
+            raise LLMError(message, fatal=fatal) from exc
         except anthropic.APIConnectionError as exc:
             raise LLMError("Could not reach the Claude API") from exc
 

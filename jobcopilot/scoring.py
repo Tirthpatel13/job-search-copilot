@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+from typing import Any
 
 from pydantic import BaseModel, Field
 
@@ -64,16 +65,24 @@ def score_job(llm: StructuredLLM, profile: Profile, job: Job) -> JobScore:
     return result
 
 
-def score_pending(db: Database, llm: StructuredLLM, profile: Profile, limit: int) -> dict[str, int]:
-    """Score up to `limit` unscored jobs; one failure never stops the batch."""
+def score_pending(db: Database, llm: StructuredLLM, profile: Profile, limit: int) -> dict[str, Any]:
+    """Score up to `limit` unscored jobs.
+
+    One job's failure never stops the batch, but an account-level error (bad key,
+    no credits) does, since every remaining request would fail the same way.
+    """
     done = failed = 0
+    summary: dict[str, Any] = {}
     for job in db.unscored_jobs(limit):
         try:
             result = score_job(llm, profile, job)
         except LLMError as exc:
             log.warning("Scoring failed for %s (%s): %s", job.title, job.id, exc)
             failed += 1
+            summary["score_error"] = str(exc)
+            if getattr(exc, "fatal", False):
+                break
             continue
         db.save_score(job.id, result.score, result.reason, result.gaps, result.matched)
         done += 1
-    return {"scored": done, "score_failures": failed}
+    return {"scored": done, "score_failures": failed, **summary}

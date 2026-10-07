@@ -46,7 +46,11 @@ def test_score_pending_saves_results_and_isolates_failures(db, profile):
         def generate(self, **kwargs):
             return respond(kwargs["prompt"])
 
-    assert score_pending(db, Flaky({}), profile, limit=10) == {"scored": 1, "score_failures": 1}
+    assert score_pending(db, Flaky({}), profile, limit=10) == {
+        "scored": 1,
+        "score_failures": 1,
+        "score_error": "refused",
+    }
     job = db.get_job("a")
     assert (job.score, job.gaps) == (72, ["Kubernetes"])
     assert db.get_job("b").score is None
@@ -100,3 +104,12 @@ def test_claude_llm_raises_on_unusable_stop(stop_reason):
 def test_claude_llm_requires_key():
     with pytest.raises(LLMError):
         ClaudeLLM(Settings(anthropic_api_key=""))
+
+
+def test_score_pending_stops_on_account_error(db, profile):
+    db.upsert_jobs([make_job(id="a"), make_job(id="b", title="Data Engineer")])
+    error = LLMError("Claude API error 400: Your credit balance is too low", fatal=True)
+    llm = FakeLLM({JobScore: error})
+    summary = score_pending(db, llm, profile, limit=10)
+    assert summary == {"scored": 0, "score_failures": 1, "score_error": str(error)}
+    assert len(llm.calls) == 1
