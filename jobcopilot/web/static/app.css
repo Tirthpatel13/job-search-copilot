@@ -136,3 +136,5 @@ summary { cursor: pointer; min-height: 32px; }
 .busy[hidden] { display: none; }
 .spinner { width: 42px; height: 42px; border: 4px solid rgba(255,255,255,0.3); border-top-color: #fff; border-radius: 50%; animation: spin 0.9s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
+.fetch-errors { margin: -4px 0 12px; color: var(--muted, #5b6472); word-break: break-word; }
+.fetch-errors ul { margin: 6px 0 0; padding-left: 18px; }

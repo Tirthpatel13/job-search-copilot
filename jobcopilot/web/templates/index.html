@@ -15,6 +15,15 @@
   {% for name, s in last_run.summary.get('sources', {}).items() %}{% if s.error %} &middot; <span class="warn" title="{{ s.error }}">{{ name }} failed</span>{% endif %}{% endfor %}
   {% else %}No fetch yet. Tap "Fetch now".{% endif %}
 </p>
+{% if last_run and last_run.finished_at %}
+{% set failed = last_run.summary.get('sources', {}).items() | selectattr('1.error') | list %}
+{% if failed %}
+<details class="fetch-errors small">
+  <summary>Why sources failed</summary>
+  <ul>{% for name, s in failed %}<li><b>{{ name }}</b>: {{ s.error }}</li>{% endfor %}</ul>
+</details>
+{% endif %}
+{% endif %}
 {% if not claude_enabled %}<div class="flash flash-error">ANTHROPIC_API_KEY is not set, so jobs are fetched but not scored.</div>{% endif %}
 
 <form class="filters" method="get" action="/">
