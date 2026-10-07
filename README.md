@@ -307,6 +307,13 @@ repository private if you enable this workflow.
 
 The PWA install prompt needs HTTPS (or `localhost`). Pick one:
 
+- **[GitHub Codespaces](https://github.com/features/codespaces)** (free monthly
+  hours, nothing to install, works from a phone browser). On the repo page tap
+  **Code → Codespaces → Create codespace on main**. The app starts on port 8000,
+  seeded with the jobs from `data/evaluated-jobs.csv`; open the **Ports** tab and
+  tap the globe icon for its private HTTPS URL. Add `ANTHROPIC_API_KEY` under
+  **Settings → Codespaces → Secrets** (separate from the Actions secret) to score
+  and tailor. Codespaces stop when idle, so this is for sessions, not always-on.
 - **Home machine or Raspberry Pi + [Tailscale](https://tailscale.com/)** (free,
   private, recommended). Run `docker compose up -d`, then `tailscale serve --bg 8000`
   to get an HTTPS URL that only your devices can reach.
