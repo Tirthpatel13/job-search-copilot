@@ -1,4 +1,9 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at
+5156663796697b50,Senior Data Engineer,BitGo,"Toronto, Ontario, Canada",0,,2026-10-09,linkedin,https://www.linkedin.com/jobs/view/4476828297,,,,,new,2026-10-10T17:44:02+00:00,
+7cf94248a07c59dc,Senior Data Engineer,Luxoft,"Toronto, Ontario, Canada",0,,2026-10-07,linkedin,https://www.linkedin.com/jobs/view/4476782998,,,,,new,2026-10-10T17:44:02+00:00,
+07639ba33357a64f,Backend API Engineer - .NET / SQL Server / Web API / Azure,Cognizant,"Halifax, NS, Canada",1,"CAD 90,000 - 117,500 /yearly",2026-10-09,indeed,https://ca.indeed.com/viewjob?jk=f7199ef3e54a8927,https://careers.cognizant.com/global-en/jobs/00070896671/backend-api-engineer-net-sql-server-web-api-azure/,,,,new,2026-10-10T17:44:02+00:00,
+15a981cd4fa9bde5,Backend Developer – Java/Python & AI,Capco,"Toronto, Ontario, Canada",0,,2026-10-10,linkedin,https://www.linkedin.com/jobs/view/4478007087,,,,,new,2026-10-10T17:42:30+00:00,
+72bad175fa979ba1,Senior Python Developer,Altis Technology,"Greater Toronto Area, Canada",0,"CAD 135,000 - 155,000 /yearly",2026-10-09,linkedin,https://www.linkedin.com/jobs/view/4476860348,,,,,new,2026-10-10T17:42:30+00:00,
 0aa6bd793916795a,Senior Data Engineer,Altus Group,"Toronto, Ontario, Canada",0,,2026-10-09,linkedin,https://www.linkedin.com/jobs/view/4466635213,,,,,new,2026-10-09T18:45:04+00:00,
 ed976605be20fe03,Senior Data Engineer,BMO,"Toronto, Ontario, Canada",0,,2026-10-09,linkedin,https://www.linkedin.com/jobs/view/4431147180,,,,,new,2026-10-09T18:45:04+00:00,
 8847b1b43c2f7516,Data Engineer & Data Designer,Lorven Technologies Inc.,"Toronto, Ontario, Canada",0,USD 100 - 130 /yearly,2026-10-09,linkedin,https://www.linkedin.com/jobs/view/4476822455,,,,,new,2026-10-09T18:45:04+00:00,
@@ -17,7 +22,7 @@ a2d6a62051d478a5,Senior Data Engineer (Remote),Stryker,"Portage, MI, USA",1,,202
 d6f28001ef572523,Python Developer_6+ yrs,Inadev,"Toronto, Ontario, Canada",0,,2026-10-08,linkedin,https://www.linkedin.com/jobs/view/4472547048,,,,,new,2026-10-08T19:12:32+00:00,
 77265a97dbd97571,Python Backend Engineer,VBeyond Corporation,"Toronto, Ontario, Canada",0,,2026-10-07,linkedin,https://www.linkedin.com/jobs/view/4476910603,,,,,new,2026-10-08T19:12:32+00:00,
 83669240a9455d84,Senior Data Engineer,Clio,"Toronto, Ontario, Canada",0,,2026-10-07,linkedin,https://www.linkedin.com/jobs/view/4475481413,,,,,new,2026-10-07T19:18:01+00:00,
-60f4bb6cbef4ff6a,Senior Data Engineer,Scotiabank,"Toronto, Ontario, Canada",0,,2026-10-07,linkedin,https://www.linkedin.com/jobs/view/4457181224,,,,,new,2026-10-07T19:18:01+00:00,
+60f4bb6cbef4ff6a,Senior Data Engineer,Scotiabank,"Toronto, Ontario, Canada",0,,2026-10-07,linkedin;indeed,https://www.linkedin.com/jobs/view/4457181224,https://jobs.scotiabank.com/job/Toronto-Senior-Data-Engineer-ON-M5H-1H1/606909417/,,,,new,2026-10-07T19:18:01+00:00,
 0efda2862069b039,Senior Data Engineer,Scene+,"Toronto, Ontario, Canada",0,"CAD 100,000 - 115,000 /yearly",2026-10-07,linkedin;indeed,https://www.linkedin.com/jobs/view/4476758181,https://scene.applytojob.com/apply/RAHuf0bMIT/Senior-Data-Engineer?source=INDE&~,,,,new,2026-10-07T19:18:01+00:00,
 c1e5ea4785f8cea7,"Software Engineer, Web3 Backend",Robinhood,"Toronto, Ontario, Canada",0,,2026-10-07,linkedin,https://www.linkedin.com/jobs/view/4474436761,,,,,new,2026-10-07T19:17:05+00:00,
 110c1c87e99ceba5,"Backend Engineer, Growth & Agents",EvenUp,"Toronto, Ontario, Canada",0,"CAD 160,000 - 230,000 /yearly",2026-10-07,linkedin,https://www.linkedin.com/jobs/view/4439463349,,,,,new,2026-10-07T19:17:05+00:00,
