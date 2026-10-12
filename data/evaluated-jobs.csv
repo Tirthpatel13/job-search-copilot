@@ -1,4 +1,10 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at
+e517a40faf3b6ce2,"Senior Software Engineer, Backend (Marketing & Privacy Engineering)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-10-09,indeed,https://ca.indeed.com/viewjob?jk=36999aae983877d0,https://grnh.se/j8t4wshg3us,,,,new,2026-10-12T21:39:16+00:00,
+20933fce03acac67,"Senior Software Engineer, Backend, AI Labs",Epiq,"Greater Toronto Area, Canada",0,,2026-10-12,linkedin,https://www.linkedin.com/jobs/view/4468700656,,,,,new,2026-10-12T21:39:00+00:00,
+aca5fea348d325fd,Python Developer,Iris Software Inc.,"Toronto, Ontario, Canada",0,,2026-10-12,linkedin,https://www.linkedin.com/jobs/view/4477577600,,,,,new,2026-10-12T21:39:00+00:00,
+7990a6cb887d5da2,"Senior Engineer, Data Enablement, Data Platforms",CPP Investments | Investissements RPC,"Toronto, Ontario, Canada",0,,2026-10-12,linkedin,https://www.linkedin.com/jobs/view/4411545422,,,,,new,2026-10-12T21:39:00+00:00,
+42c270ef44f981ef,Python Backend Engineer,Enterprise Solutions Inc.,"Toronto, Ontario, Canada",0,,2026-10-12,linkedin,https://www.linkedin.com/jobs/view/4475996474,,,,,new,2026-10-12T21:39:00+00:00,
+4a6f87531db387d5,Python Developer,Synechron,"Greater Toronto Area, Canada",0,"CAD 120,000 - 125,000 /yearly",2026-10-11,linkedin,https://www.linkedin.com/jobs/view/4459237889,,,,,new,2026-10-12T21:39:00+00:00,
 ef50d15e8cd51707,"Senior Data Engineer I - QuantumBlack, AI by McKinsey","QuantumBlack, AI by McKinsey","Toronto, Ontario, Canada",0,,2026-10-11,linkedin,https://www.linkedin.com/jobs/view/4423525558,,,,,new,2026-10-11T17:59:03+00:00,
 1ca8a1e5608016ed,Data Engineer,Lyft,"Toronto, Ontario, Canada",0,,2026-10-10,linkedin,https://www.linkedin.com/jobs/view/4450202250,,,,,new,2026-10-11T17:59:03+00:00,
 815b264f6fdac973,Data Engineer II (Restaurant AI CoPilot),OpenTable,"Toronto, Ontario, Canada",0,,2026-10-10,linkedin,https://www.linkedin.com/jobs/view/4467897996,,,,,new,2026-10-11T17:59:03+00:00,
