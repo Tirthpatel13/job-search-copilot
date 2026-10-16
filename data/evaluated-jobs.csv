@@ -1,4 +1,12 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at
+b106f39b96798ac2,Senior II Software Engineer - Data Services,Akamai,Canada,1,"CAD 120,400 - 216,600 /yearly",2026-10-16,indeed,https://ca.indeed.com/viewjob?jk=7da7fd41fa12ec35,https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4003,,,,new,2026-10-16T17:14:32+00:00,
+84321f45a452e8a9,Data Engineer,Zurich Canada,"Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4470030555,,,,,new,2026-10-16T17:14:26+00:00,
+402df8cedd7fd5ee,Sr. Data Engineer,Livingston International,"Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4479313727,,,,,new,2026-10-16T17:14:26+00:00,
+baf8a738589cb90e,"Data Engineer, Early Career - 2026 (CAN)",Amazon,"Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4471631559,,,,,new,2026-10-16T17:14:26+00:00,
+2fa42dd4e406ce80,Data Engineer II,TD,"Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4480510516,,,,,new,2026-10-16T17:14:26+00:00,
+8c80bb5141265ec4,"Senior Data Engineer, Risk Technology",Investment Management Corporation of Ontario (IMCO),"Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4470001579,,,,,new,2026-10-16T17:14:26+00:00,
+23505e11b671a1be,Senior Data Engineer,Autodesk,"Toronto, Ontario, Canada",0,"CAD 107,000 - 157,300 /yearly",2026-10-15,linkedin;indeed,https://www.linkedin.com/jobs/view/4479165878,https://jobs.autodesk.com/careers/job/1443154005442,,,,new,2026-10-16T17:14:26+00:00,
+4ef1625fa848ea5e,Senior Data Engineer (DBX),Munich Re,"Toronto, Ontario, Canada",0,,2026-10-14,linkedin,https://www.linkedin.com/jobs/view/4470940282,,,,,new,2026-10-16T17:14:26+00:00,
 28c33c8c8e57dee2,"Senior Software Engineer, Backend (Lakehouse Infra)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-10-13,indeed,https://ca.indeed.com/viewjob?jk=a4eae000d454d628,https://grnh.se/buxnh4ie3us,,,,new,2026-10-14T17:53:47+00:00,
 dcfaf4e6e8d301b3,"Senior Data Engineer - Data Infra (Ontario, Canada)",Dandy,"Toronto, Ontario, Canada",0,,2026-10-14,linkedin,https://www.linkedin.com/jobs/view/4470952558,,,,,new,2026-10-14T17:53:40+00:00,
 16756a2b68ef8a47,Data Engineer III,ZoomInfo,"Toronto, Ontario, Canada",0,,2026-10-14,linkedin,https://www.linkedin.com/jobs/view/4469332425,,,,,new,2026-10-14T17:53:40+00:00,
