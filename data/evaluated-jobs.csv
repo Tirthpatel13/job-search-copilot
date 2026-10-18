@@ -1,4 +1,8 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at
+15ab7aca33978490,Data Engineer Sr,Insight,"Toronto, Ontario, Canada",0,,2026-10-17,linkedin,https://www.linkedin.com/jobs/view/4472241527,,,,,new,2026-10-18T16:27:30+00:00,
+cd107a0995ea7d31,Data Engineer (Data Modeling/Data Governance),Tangerine,"Toronto, Ontario, Canada",0,,2026-10-17,linkedin,https://www.linkedin.com/jobs/view/4470398510,,,,,new,2026-10-18T16:27:30+00:00,
+38f077cfc093a54e,Data Engineer (Databricks) - Consultant,Deloitte,"Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4471676080,,,,,new,2026-10-18T16:27:30+00:00,
+03fc5cc69d319827,Sr. IFRS17 Data Engineer,"Zodiac Solutions, Inc","Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4477712607,,,,,new,2026-10-18T16:27:30+00:00,
 06fca3cef22ceb0f,Backend Engineer,Lakeview Loan Servicing,"Toronto, ON, Canada",1,"CAD 140,000 - 240,000 /yearly",2026-10-17,indeed,https://ca.indeed.com/viewjob?jk=27d364910bdbb195,https://careers.bayview.com/lls/jobs/9153/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,,,,new,2026-10-17T16:14:03+00:00,
 a771e1dc94d9eb29,Senior Data Engineer,HOOPP (Healthcare of Ontario Pension Plan),"Toronto, Ontario, Canada",0,,2026-10-17,linkedin,https://www.linkedin.com/jobs/view/4472054295,,,,,new,2026-10-17T16:14:02+00:00,
 5f8dca944b76e42e,Data Engineer Lakehouse,Augmented,"Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4479626168,,,,,new,2026-10-17T16:14:02+00:00,
