@@ -1,4 +1,6 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at
+d5a7cdb7ca7b0387,GCP Data Engineer,Ardent SoftSol Inc.,"Toronto, Ontario, Canada",0,,2026-10-19,linkedin,https://www.linkedin.com/jobs/view/4480257663,,,,,new,2026-10-19T19:09:25+00:00,
+7f64128b14021a3e,Remote Python Developer,turing,"Remote, Canada",1,CAD 200 - 300 /hourly,2026-10-19,indeed,https://ca.indeed.com/viewjob?jk=5ad984210b23f75a,https://turing.betterteam.com/remote-python-developer-92?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic,,,,new,2026-10-19T19:09:25+00:00,
 15ab7aca33978490,Data Engineer Sr,Insight,"Toronto, Ontario, Canada",0,,2026-10-17,linkedin,https://www.linkedin.com/jobs/view/4472241527,,,,,new,2026-10-18T16:27:30+00:00,
 cd107a0995ea7d31,Data Engineer (Data Modeling/Data Governance),Tangerine,"Toronto, Ontario, Canada",0,,2026-10-17,linkedin,https://www.linkedin.com/jobs/view/4470398510,,,,,new,2026-10-18T16:27:30+00:00,
 38f077cfc093a54e,Data Engineer (Databricks) - Consultant,Deloitte,"Toronto, Ontario, Canada",0,,2026-10-16,linkedin,https://www.linkedin.com/jobs/view/4471676080,,,,,new,2026-10-18T16:27:30+00:00,
