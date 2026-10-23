@@ -11,11 +11,13 @@ from __future__ import annotations
 import json
 import re
 from collections.abc import Iterator
+from datetime import datetime, timezone
 from typing import Any
 from urllib.parse import urlencode
 
 from ..models import Job
 from .base import JobSource, html_to_text, register
+from .rss import iso_date
 
 BASE = "https://www.simplyhired.com"
 _NEXT_DATA = re.compile(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', re.S)
@@ -32,6 +34,14 @@ def _walk_jobs(node: Any) -> Iterator[dict[str, Any]]:
     elif isinstance(node, list):
         for item in node:
             yield from _walk_jobs(item)
+
+
+def _date(value: Any) -> str:
+    """ISO date from an ISO/RFC string or epoch milliseconds; other values unchanged."""
+    if isinstance(value, (int, float)) and not isinstance(value, bool):
+        seconds = value / 1000 if value > 1e11 else value
+        return datetime.fromtimestamp(seconds, tz=timezone.utc).date().isoformat()
+    return iso_date(str(value or ""))
 
 
 def parse_search_page(html: str) -> list[Job]:
@@ -56,7 +66,7 @@ def parse_search_page(html: str) -> list[Job]:
                 description=html_to_text(str(raw.get("snippet") or raw.get("description") or "")),
                 is_remote="remote" in location.lower(),
                 salary=str(salary),
-                date_posted=str(raw.get("dateOnIndeed") or raw.get("datePosted") or ""),
+                date_posted=_date(raw.get("dateOnIndeed") or raw.get("datePosted")),
                 external_id=key,
                 source="simplyhired",
             )

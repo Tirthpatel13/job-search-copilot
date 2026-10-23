@@ -9,6 +9,7 @@ a manifest and service worker make it an installable PWA.
 from __future__ import annotations
 
 import base64
+import logging
 import secrets
 import threading
 from collections.abc import Callable
@@ -27,10 +28,12 @@ from ..db import Database
 from ..llm import ClaudeLLM, LLMError, StructuredLLM
 from ..models import Status
 from ..pipeline import RUN_LOCK, run_pipeline
-from ..profile import ProfileError, load_profile, save_resume_upload
+from ..profile import ProfileError, find_resume, load_profile, save_resume_upload
 from ..scheduler import PeriodicFetcher
 from ..scoring import score_job
 from ..tailoring import answer_questions, draft_cover_letter, tailor_resume
+
+log = logging.getLogger(__name__)
 
 HERE = Path(__file__).parent
 STATIC = HERE / "static"
@@ -59,6 +62,10 @@ def create_app(
     app.mount("/static", StaticFiles(directory=STATIC), name="static")
     templates = Jinja2Templates(directory=HERE / "templates")
     templates.env.globals["statuses"] = [s.value for s in Status]
+    # scraped links are untrusted: only render http(s) URLs, never javascript: and friends
+    templates.env.filters["is_web_url"] = lambda url: (
+        str(url or "").lower().startswith(("https://", "http://"))
+    )
 
     # ---- optional password (HTTP Basic) for internet-exposed deployments ------
 
@@ -72,7 +79,8 @@ def create_app(
                 _, _, pw = base64.b64decode(header[6:]).decode().partition(":")
             except (ValueError, UnicodeDecodeError):
                 pw = ""
-            if secrets.compare_digest(pw, settings.app_password):
+            # compare bytes: compare_digest raises TypeError on non-ASCII str
+            if secrets.compare_digest(pw.encode(), settings.app_password.encode()):
                 return await call_next(request)
         return Response("Authentication required", 401, {"WWW-Authenticate": 'Basic realm="jobs"'})
 
@@ -94,12 +102,22 @@ def create_app(
         url = f"/jobs/{job_id}" + (f"?msg={quote(msg)}" if msg else "")
         return RedirectResponse(url, status_code=303)
 
+    def own_profile():
+        """The user's profile; generated documents must never use the example one."""
+        profile = load_profile(settings.profile_dir)
+        if profile.is_example:
+            raise ProfileError("Upload your resume on the Profile page first")
+        return profile
+
     def run_llm_action(job_id: str, action: Callable[[], Any], ok: str) -> RedirectResponse:
         try:
             action()
         except (LLMError, ProfileError, HTTPException) as exc:
             detail = exc.detail if isinstance(exc, HTTPException) else str(exc)
             return back(job_id, f"Error: {detail}")
+        except Exception as exc:  # e.g. a document that fails to render
+            log.exception("Action failed for job %s", job_id)
+            return back(job_id, f"Error: something went wrong ({type(exc).__name__})")
         return back(job_id, ok)
 
     # ---- pages --------------------------------------------------------------------
@@ -140,6 +158,7 @@ def create_app(
                     "sort": sort,
                 },
                 "claude_enabled": settings.claude_enabled,
+                "using_example_profile": find_resume(settings.profile_dir) is None,
             },
         )
 
@@ -189,9 +208,7 @@ def create_app(
         job = job_or_404(job_id)
         return run_llm_action(
             job_id,
-            lambda: tailor_resume(
-                db, llm_or_error(), load_profile(settings.profile_dir), job, settings.output_dir
-            ),
+            lambda: tailor_resume(db, llm_or_error(), own_profile(), job, settings.output_dir),
             "Tailored resume ready. Review it before using it.",
         )
 
@@ -200,21 +217,21 @@ def create_app(
         job = job_or_404(job_id)
         return run_llm_action(
             job_id,
-            lambda: draft_cover_letter(
-                db, llm_or_error(), load_profile(settings.profile_dir), job, settings.output_dir
-            ),
+            lambda: draft_cover_letter(db, llm_or_error(), own_profile(), job, settings.output_dir),
             "Cover letter drafted. Review it before using it.",
         )
 
     @app.post("/jobs/{job_id}/answers")
     def answers(job_id: str, questions: str = Form(...)):
         job = job_or_404(job_id)
+        if not questions.strip():
+            return back(job_id, "Error: enter at least one question")
         return run_llm_action(
             job_id,
             lambda: answer_questions(
                 db,
                 llm_or_error(),
-                load_profile(settings.profile_dir),
+                own_profile(),
                 job,
                 questions.splitlines(),
             ),
@@ -223,9 +240,11 @@ def create_app(
 
     @app.get("/files/{job_id}/{filename}")
     def download(job_id: str, filename: str):
-        base = (settings.output_dir / job_id).resolve()
+        root = settings.output_dir.resolve()
+        base = (root / job_id).resolve()
         path = (base / filename).resolve()
-        if base not in path.parents or not path.is_file():
+        # both parts must be plain names: "..", "." or separators would escape output_dir
+        if base.parent != root or path.parent != base or not path.is_file():
             raise HTTPException(404, "File not found")
         return FileResponse(path, filename=filename)
 
@@ -264,7 +283,10 @@ def create_app(
             llm = None
             with suppress(LLMError):  # no API key: fetch still runs, scoring is skipped
                 llm = make_llm(settings)
-            run_pipeline(settings, db, llm=llm)
+            try:
+                run_pipeline(settings, db, llm=llm)
+            except Exception:  # the run records the error; keep the thread from dying noisily
+                log.exception("Fetch failed")
 
         threading.Thread(target=work, name="fetch-now", daemon=True).start()
         return JSONResponse({"started": True, "running": True})

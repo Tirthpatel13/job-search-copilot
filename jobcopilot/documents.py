@@ -1,13 +1,16 @@
 """ATS-friendly DOCX and PDF rendering.
 
 Rules applied: single column, standard section headings, real text (no images,
-tables or text boxes), standard fonts (Calibri in DOCX, Helvetica in PDF),
+tables or text boxes), standard fonts (Calibri in DOCX; in PDF a Unicode font such as
+DejaVu Sans when installed so non-Latin names render, otherwise Helvetica),
 simple bullets, and contact details in the body rather than a header/footer
 (some ATS parsers skip headers).
 """
 
 from __future__ import annotations
 
+import os
+from functools import cache
 from pathlib import Path
 from typing import TYPE_CHECKING
 from xml.sax.saxutils import escape
@@ -19,12 +22,74 @@ from reportlab.lib.enums import TA_CENTER
 from reportlab.lib.pagesizes import LETTER
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.units import inch
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import ListFlowable, ListItem, Paragraph, SimpleDocTemplate, Spacer
+
+from .profile import strip_control_chars
 
 if TYPE_CHECKING:
     from .tailoring import TailoredResume
 
 FONT = "Calibri"
+
+_WINDOWS_FONTS = Path(os.environ.get("WINDIR", "C:/Windows")) / "Fonts"
+# (regular, bold) candidates for a TrueType font with wide Unicode coverage.
+_UNICODE_FONTS = [
+    (d / "DejaVuSans.ttf", d / "DejaVuSans-Bold.ttf")
+    for d in (
+        Path("/usr/share/fonts/truetype/dejavu"),
+        Path("/usr/share/fonts/dejavu"),
+        Path("/usr/share/fonts/TTF"),
+        Path("/usr/local/share/fonts"),
+        Path("/Library/Fonts"),
+        Path.home() / "Library/Fonts",
+        Path.home() / ".local/share/fonts",
+        _WINDOWS_FONTS,
+    )
+] + [
+    (Path("/System/Library/Fonts/Supplemental/Arial Unicode.ttf"), None),
+    (Path("/Library/Fonts/Arial Unicode.ttf"), None),
+    (_WINDOWS_FONTS / "arialuni.ttf", None),
+]
+
+
+@cache
+def pdf_fonts() -> tuple[str, str]:
+    """(regular, bold) PDF font names: a Unicode TTF if one is installed, else Helvetica."""
+    for regular, bold in _UNICODE_FONTS:
+        if not regular.is_file():
+            continue
+        try:
+            pdfmetrics.registerFont(TTFont("ResumeSans", str(regular)))
+            bold_name = "ResumeSans"
+            if bold is not None and bold.is_file():
+                pdfmetrics.registerFont(TTFont("ResumeSans-Bold", str(bold)))
+                bold_name = "ResumeSans-Bold"
+            return "ResumeSans", bold_name
+        except Exception:  # unreadable or unsupported font file: try the next one
+            continue
+    return "Helvetica", "Helvetica-Bold"
+
+
+def _clean(text: str) -> str:
+    """Strip characters DOCX/PDF cannot hold (python-docx raises on control chars)."""
+    return strip_control_chars(text or "")
+
+
+def _clean_resume(r: TailoredResume) -> TailoredResume:
+    """A copy of the resume with every string sanitized for rendering."""
+
+    def walk(value):
+        if isinstance(value, str):
+            return _clean(value)
+        if isinstance(value, list):
+            return [walk(v) for v in value]
+        if isinstance(value, dict):
+            return {k: walk(v) for k, v in value.items()}
+        return value
+
+    return type(r).model_validate(walk(r.model_dump()))
 
 
 def _sections(r: TailoredResume) -> list[tuple[str, list[tuple[str, list[str]]]]]:
@@ -71,6 +136,7 @@ def _base_document() -> Document:
 
 def render_resume_docx(r: TailoredResume, path: Path) -> Path:
     """Write the resume as a single-column DOCX."""
+    r = _clean_resume(r)
     doc = _base_document()
     name = doc.add_paragraph()
     name.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -100,8 +166,10 @@ def render_resume_docx(r: TailoredResume, path: Path) -> Path:
 
 def render_resume_pdf(r: TailoredResume, path: Path) -> Path:
     """Write the resume as a text-based (selectable, parseable) single-column PDF."""
-    body = ParagraphStyle("body", fontName="Helvetica", fontSize=10.5, leading=13.5)
-    bold = ParagraphStyle("bold", parent=body, fontName="Helvetica-Bold")
+    r = _clean_resume(r)
+    regular_font, bold_font = pdf_fonts()
+    body = ParagraphStyle("body", fontName=regular_font, fontSize=10.5, leading=13.5)
+    bold = ParagraphStyle("bold", parent=body, fontName=bold_font)
     heading = ParagraphStyle("h", parent=bold, fontSize=12, spaceBefore=10, spaceAfter=3)
     name = ParagraphStyle("name", parent=bold, fontSize=18, leading=22, alignment=TA_CENTER)
     center = ParagraphStyle("center", parent=body, alignment=TA_CENTER)
@@ -145,7 +213,7 @@ def render_cover_letter_docx(
     """Write a plain cover letter DOCX."""
     doc = _base_document()
     for text in [greeting, *paragraphs, closing]:
-        doc.add_paragraph(text)
+        doc.add_paragraph(_clean(text))
     path.parent.mkdir(parents=True, exist_ok=True)
     doc.save(str(path))
     return path

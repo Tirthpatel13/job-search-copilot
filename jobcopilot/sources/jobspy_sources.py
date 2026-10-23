@@ -13,7 +13,9 @@ import math
 from typing import Any, ClassVar
 
 from ..models import Job
-from .base import JobSource, register, with_retries
+from .base import JobSource, attempts_for, register, with_retries
+
+log = logging.getLogger(__name__)
 
 
 def _clean(value: Any) -> Any:
@@ -90,17 +92,24 @@ class JobSpySource(JobSource):
         from jobspy import scrape_jobs  # heavy import (pandas), loaded only when used
 
         jobs: list[Job] = []
+        errors: list[Exception] = []
         collector = _ErrorCollector()
         jobspy_logger = logging.getLogger(f"JobSpy:{self.logger_name}")
         jobspy_logger.addHandler(collector)
         try:
             for term, location, remote in self._searches():
-                jobs.extend(self._search(scrape_jobs, term, location, remote))
+                try:
+                    jobs.extend(self._search(scrape_jobs, term, location, remote))
+                except Exception as exc:  # keep results from the other searches
+                    log.warning("%s search %r in %s failed: %s", self.name, term, location, exc)
+                    errors.append(exc)
         finally:
             jobspy_logger.removeHandler(collector)
-        if not jobs and collector.messages:
-            # JobSpy logs blocks/HTTP errors and returns nothing; surface that as a failure.
-            raise RuntimeError("; ".join(dict.fromkeys(collector.messages))[:300])
+        if not jobs and (collector.messages or errors):
+            # JobSpy logs blocks/HTTP errors and returns nothing, or every search raised;
+            # surface that as a failure. Partial results are kept instead.
+            messages = collector.messages + [f"{type(e).__name__}: {e}" for e in errors]
+            raise RuntimeError("; ".join(dict.fromkeys(messages))[:300])
         return jobs
 
     def _search(self, scrape_jobs: Any, term: str, location: str | None, remote: bool) -> list[Job]:
@@ -120,7 +129,9 @@ class JobSpySource(JobSource):
                 proxies=self.proxies,
             )
 
-        df = with_retries(_call, attempts=self.prefs.max_retries, retry_on=(Exception,))
+        df = with_retries(
+            _call, attempts=attempts_for(self.prefs.max_retries), retry_on=(Exception,)
+        )
         return [row_to_job(r, self.name) for r in df.to_dict("records")]
 
 

@@ -11,7 +11,7 @@ import logging
 from typing import Protocol, TypeVar
 
 import anthropic
-from pydantic import BaseModel
+from pydantic import BaseModel, ValidationError
 
 from .config import Settings
 
@@ -35,11 +35,14 @@ class LLMError(RuntimeError):
 
     `fatal` marks account problems (bad key, no credits) that will fail every
     request, so batch jobs can stop instead of repeating the same error.
+    `stop_batch` marks transient but batch-wide problems (rate limits): stop the
+    current batch, but a later run may succeed.
     """
 
-    def __init__(self, message: str, *, fatal: bool = False) -> None:
+    def __init__(self, message: str, *, fatal: bool = False, stop_batch: bool = False) -> None:
         super().__init__(message)
         self.fatal = fatal
+        self.stop_batch = stop_batch or fatal
 
 
 class StructuredLLM(Protocol):
@@ -90,7 +93,7 @@ class ClaudeLLM:
                 **extra,
             )
         except anthropic.RateLimitError as exc:
-            raise LLMError("Claude rate limit reached; try again shortly") from exc
+            raise LLMError("Claude rate limit reached; try again shortly", stop_batch=True) from exc
         except anthropic.AuthenticationError as exc:
             raise LLMError("Invalid ANTHROPIC_API_KEY", fatal=True) from exc
         except anthropic.APIStatusError as exc:
@@ -101,6 +104,10 @@ class ClaudeLLM:
             raise LLMError(message, fatal=fatal) from exc
         except anthropic.APIConnectionError as exc:
             raise LLMError("Could not reach the Claude API") from exc
+        except anthropic.APIError as exc:
+            raise LLMError(f"Claude API error: {exc}") from exc
+        except ValidationError as exc:
+            raise LLMError(f"Claude's answer did not match the expected format: {exc}") from exc
 
         if response.stop_reason == "refusal":
             raise LLMError("Claude declined this request")

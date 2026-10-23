@@ -61,11 +61,18 @@ def main(argv: list[str] | None = None) -> int:
         csv_path: Path | None = getattr(args, "csv", None)
         if csv_path:
             print(f"Imported {db.import_csv(csv_path)} jobs from {csv_path}")
-        summary = run_pipeline(settings, db, score=args.command == "run")
-        print(json.dumps(summary, indent=2))
-        if csv_path:
-            print(f"Exported {db.export_csv(csv_path)} jobs to {csv_path}")
+        try:
+            summary = run_pipeline(settings, db, score=args.command == "run")
+            print(json.dumps(summary, indent=2))
+        finally:
+            # Export even if the run failed part-way, so fetched/scored jobs are kept.
+            if csv_path:
+                print(f"Exported {db.export_csv(csv_path)} jobs to {csv_path}")
         return 0
+
+    if args.command == "score" and args.limit is not None and args.limit < 0:
+        print("error: --limit must be 0 or more", file=sys.stderr)
+        return 2
 
     if args.command == "export":
         print(f"Exported {db.export_csv(args.path)} jobs to {args.path}")
@@ -85,7 +92,11 @@ def main(argv: list[str] | None = None) -> int:
     profile = load_profile(settings.profile_dir)
 
     if args.command == "score":
-        limit = args.limit or load_preferences(settings.preferences_file).max_jobs_to_score
+        limit = (
+            args.limit
+            if args.limit is not None
+            else load_preferences(settings.preferences_file).max_jobs_to_score
+        )
         print(json.dumps(score_pending(db, llm, profile, limit), indent=2))
         return 0
 

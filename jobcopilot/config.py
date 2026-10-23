@@ -6,6 +6,7 @@ and fill in your own values.
 
 from __future__ import annotations
 
+import logging
 import os
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -15,12 +16,21 @@ from dotenv import load_dotenv
 DEFAULT_MODEL = "claude-opus-5-5"
 
 
-def _env_int(name: str, default: int) -> int:
+log = logging.getLogger(__name__)
+
+
+def _env_float(name: str, default: float) -> float:
     raw = os.getenv(name, "").strip()
     try:
-        return int(raw) if raw else default
+        return float(raw) if raw else default
     except ValueError:
+        log.warning("Ignoring %s=%r: not a number", name, raw)
         return default
+
+
+def _env_path(name: str, default: str) -> Path:
+    """An unset or blank variable means the default, never the current directory."""
+    return Path(os.getenv(name, "").strip() or default)
 
 
 @dataclass(frozen=True)
@@ -36,7 +46,7 @@ class Settings:
     preferences_file: Path = Path("config/preferences.yaml")
     output_dir: Path = Path("output")
     app_password: str = ""
-    schedule_fetch_hours: int = 0
+    schedule_fetch_hours: float = 0
     jobspy_proxies: list[str] = field(default_factory=list)
 
     @property
@@ -55,11 +65,11 @@ class Settings:
             claude_model=os.getenv("CLAUDE_MODEL", "").strip() or DEFAULT_MODEL,
             claude_effort=os.getenv("CLAUDE_EFFORT", "").strip() or "medium",
             claude_fallbacks=os.getenv("CLAUDE_FALLBACKS", "default").strip().lower() != "off",
-            database_path=Path(os.getenv("DATABASE_PATH", "data/jobs.db")),
-            profile_dir=Path(os.getenv("PROFILE_DIR", "profile")),
-            preferences_file=Path(os.getenv("PREFERENCES_FILE", "config/preferences.yaml")),
-            output_dir=Path(os.getenv("OUTPUT_DIR", "output")),
+            database_path=_env_path("DATABASE_PATH", "data/jobs.db"),
+            profile_dir=_env_path("PROFILE_DIR", "profile"),
+            preferences_file=_env_path("PREFERENCES_FILE", "config/preferences.yaml"),
+            output_dir=_env_path("OUTPUT_DIR", "output"),
             app_password=os.getenv("APP_PASSWORD", ""),
-            schedule_fetch_hours=_env_int("SCHEDULE_FETCH_HOURS", 0),
+            schedule_fetch_hours=_env_float("SCHEDULE_FETCH_HOURS", 0),
             jobspy_proxies=proxies,
         )

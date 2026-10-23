@@ -231,3 +231,132 @@ def test_jobspy_logged_block_becomes_source_error(monkeypatch):
     prefs = _jobspy_prefs()
     with pytest.raises(RuntimeError, match="429"):
         LinkedInSource(prefs, prefs.source("linkedin")).fetch()
+
+
+def _status_error(code: int) -> httpx.HTTPStatusError:
+    request = httpx.Request("GET", "https://example.com")
+    response = httpx.Response(code, request=request)
+    return httpx.HTTPStatusError(f"{code}", request=request, response=response)
+
+
+@pytest.mark.parametrize(("code", "calls"), [(404, 1), (403, 1), (400, 1), (429, 3), (503, 3)])
+def test_with_retries_only_retries_transient_http_errors(code, calls):
+    n = {"calls": 0}
+
+    def fails():
+        n["calls"] += 1
+        raise _status_error(code)
+
+    with pytest.raises(httpx.HTTPStatusError):
+        with_retries(fails, attempts=3, sleep=lambda s: None)
+    assert n["calls"] == calls
+
+
+def test_with_retries_zero_attempts_still_calls_once():
+    calls = []
+    assert with_retries(lambda: calls.append(1) or "ok", attempts=0) == "ok"
+    assert calls == [1]
+
+
+@pytest.mark.parametrize(("max_retries", "expected_calls"), [(0, 1), (1, 2), (3, 4)])
+def test_http_get_uses_max_retries_plus_one_attempts(monkeypatch, max_retries, expected_calls):
+    monkeypatch.setattr(base.time, "sleep", lambda s: None)
+    calls = []
+
+    def handler(request):
+        calls.append(request)
+        return httpx.Response(503)
+
+    prefs = preferences_from_dict(
+        {"rate_limit": {"min_interval_seconds": 0, "max_retries": max_retries}}
+    )
+    source = _GoodSource(prefs, prefs.source("good"))
+    client = httpx.Client(transport=httpx.MockTransport(handler))
+    with client, pytest.raises(httpx.HTTPStatusError):
+        source.http_get(client, "https://example.com/x")
+    assert len(calls) == expected_calls
+
+
+def test_jobspy_keeps_partial_results_when_one_search_fails(monkeypatch):
+    calls = []
+
+    def scrape_jobs(**kwargs):
+        calls.append(kwargs)
+        if kwargs["location"] is None:
+            raise ValueError("remote search exploded")
+        return _FakeFrame([{"title": "Backend Engineer", "company": "Acme", "job_url": "u1"}])
+
+    _install_fake_jobspy(monkeypatch, scrape_jobs)
+    prefs = preferences_from_dict(
+        {
+            "search": {"titles": ["Backend Engineer"], "locations": ["Remote", "Toronto, ON"]},
+            "rate_limit": {"min_interval_seconds": 0, "max_retries": 0},
+        }
+    )
+    jobs = LinkedInSource(prefs, prefs.source("linkedin")).fetch()
+    assert [j.url for j in jobs] == ["u1"]
+    assert len(calls) == 2
+
+
+def test_jobspy_raises_when_every_search_fails(monkeypatch):
+    def scrape_jobs(**kwargs):
+        raise ValueError("blocked")
+
+    _install_fake_jobspy(monkeypatch, scrape_jobs)
+    prefs = preferences_from_dict(
+        {
+            "search": {"titles": ["Backend Engineer"], "locations": ["Remote", "Toronto, ON"]},
+            "rate_limit": {"min_interval_seconds": 0, "max_retries": 0},
+        }
+    )
+    with pytest.raises(RuntimeError, match="blocked"):
+        LinkedInSource(prefs, prefs.source("linkedin")).fetch()
+
+
+def test_greenhouse_skips_malformed_postings_and_prefers_first_published():
+    payload = json.loads((FIXTURES / "greenhouse_malformed.json").read_text())
+    jobs = parse_board(payload, "x")
+    assert [j.title for j in jobs] == ["", "Platform Engineer", "Data Engineer"]
+    assert jobs[0].location == "" and jobs[0].url == "" and jobs[0].description == ""
+    assert jobs[1].date_posted == "2026-10-01"  # first_published wins over updated_at
+    assert jobs[2].date_posted == "2026-10-19"
+    assert jobs[2].is_remote
+
+
+def test_lever_skips_malformed_postings_and_converts_list_html():
+    payload = json.loads((FIXTURES / "lever_malformed.json").read_text())
+    jobs = parse_postings(payload, "acme")
+    assert [j.title for j in jobs] == ["", "Backend Engineer"]
+    good = jobs[1]
+    assert "<" not in good.description
+    assert "- 3+ years Python" in good.description
+    assert "SQL & dbt" in good.description
+    assert good.date_posted == "2025-09-27"
+
+
+def test_lever_fixture_list_content_is_text():
+    jobs = parse_postings(json.loads((FIXTURES / "lever.json").read_text()), "acme")
+    assert "<li>" not in jobs[0].description
+    assert "- 3+ years Python" in jobs[0].description
+
+
+def test_rss_dates_are_iso():
+    from jobcopilot.sources.rss import iso_date
+
+    jobs = parse_feed((FIXTURES / "rss.xml").read_text())
+    assert jobs[0].date_posted == "2026-10-05"
+    assert jobs[1].date_posted == ""
+    assert iso_date("Mon, 05 Oct 2026 23:30:00 -0500") == "2026-10-06"  # converted to UTC
+    assert iso_date("2026-10-05T22:00:00-04:00") == "2026-10-06"
+    assert iso_date("last week") == "last week"
+
+
+def test_simplyhired_dates_are_iso():
+    from jobcopilot.sources.simplyhired import _date
+
+    jobs = parse_search_page((FIXTURES / "simplyhired.html").read_text())
+    assert jobs[0].date_posted == "2026-10-01"
+    assert _date("2026-10-01T08:00:00Z") == "2026-10-01"
+    assert _date(1759000000000) == "2025-09-27"
+    assert _date(None) == ""
+    assert _date("3 days ago") == "3 days ago"

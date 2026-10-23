@@ -1,0 +1,3 @@
+id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at
+old1,Backend Engineer,Acme,"Toronto, Ontario, Canada",0,"CAD 100,000 - 120,000 /yearly",2026-10-22,linkedin;indeed,https://www.linkedin.com/jobs/view/1,,74,Good fit.,Kubernetes; Go,applied,2026-10-22T17:55:39+00:00,2026-10-22T18:00:00+00:00
+old2,Data Engineer,Globex,Remote,1,,2026-10-21,greenhouse,https://boards.greenhouse.io/globex/jobs/2,,,,,new,2026-10-21T17:55:39+00:00,

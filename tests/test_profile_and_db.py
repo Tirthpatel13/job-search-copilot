@@ -52,12 +52,13 @@ def test_profile_falls_back_to_example(tmp_path):
 
 
 def test_uploaded_resume_replaces_previous(tmp_path):
-    save_resume_upload(tmp_path, "cv.md", b"Old")
-    save_resume_upload(tmp_path, "My CV.docx", _docx_bytes("New resume"))
+    save_resume_upload(tmp_path, "cv.md", b"Old resume " * 10)
+    new_text = "New resume: Jane Doe, Python developer at Example Corp since 2020."
+    save_resume_upload(tmp_path, "My CV.docx", _docx_bytes(new_text))
     assert not (tmp_path / "resume.md").exists()
     profile = load_profile(tmp_path)
     assert profile.resume_file == "resume.docx"
-    assert profile.resume == "New resume"
+    assert profile.resume == new_text
     assert not profile.is_example
 
 

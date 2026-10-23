@@ -69,7 +69,8 @@ def score_pending(db: Database, llm: StructuredLLM, profile: Profile, limit: int
     """Score up to `limit` unscored jobs.
 
     One job's failure never stops the batch, but an account-level error (bad key,
-    no credits) does, since every remaining request would fail the same way.
+    no credits) or a rate limit does, since every remaining request would fail the
+    same way.
     """
     done = failed = 0
     summary: dict[str, Any] = {}
@@ -80,8 +81,13 @@ def score_pending(db: Database, llm: StructuredLLM, profile: Profile, limit: int
             log.warning("Scoring failed for %s (%s): %s", job.title, job.id, exc)
             failed += 1
             summary["score_error"] = str(exc)
-            if getattr(exc, "fatal", False):
+            if getattr(exc, "fatal", False) or getattr(exc, "stop_batch", False):
                 break
+            continue
+        except Exception as exc:  # unexpected per-job failure: record it, keep going
+            log.exception("Unexpected scoring error for %s (%s)", job.title, job.id)
+            failed += 1
+            summary["score_error"] = f"{type(exc).__name__}: {exc}"[:300]
             continue
         db.save_score(job.id, result.score, result.reason, result.gaps, result.matched)
         done += 1

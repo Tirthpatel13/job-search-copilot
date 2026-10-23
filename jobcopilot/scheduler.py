@@ -19,7 +19,7 @@ log = logging.getLogger(__name__)
 class PeriodicFetcher:
     """Runs the pipeline on a background daemon thread at a fixed interval."""
 
-    def __init__(self, settings: Settings, db: Database, hours: int) -> None:
+    def __init__(self, settings: Settings, db: Database, hours: float) -> None:
         self.settings = settings
         self.db = db
         self.interval = hours * 3600

@@ -73,29 +73,41 @@ def run_pipeline(
     """Run one full fetch (and optional scoring) pass and return its summary."""
     if not RUN_LOCK.acquire(blocking=False):
         return {"skipped": "a fetch is already running"}
-    run_id = db.start_run()
+    run_id: int | None = None
     summary: dict[str, Any] = {}
     try:
+        run_id = db.start_run()
         prefs = prefs or load_preferences(settings.preferences_file)
         results = run_sources(prefs, settings)
         raw = [j for r in results for j in r.jobs]
         kept, rejected = filter_jobs(raw, prefs)
         unique = deduplicate(kept)
         inserted, updated = db.upsert_jobs(unique)
-        summary = {
-            "sources": {r.name: {"count": len(r.jobs), "error": r.error} for r in results},
-            "fetched": len(raw),
-            "filtered_out": rejected,
-            "unique": len(unique),
-            "new": inserted,
-            "updated": updated,
-        }
+        summary.update(
+            {
+                "sources": {r.name: {"count": len(r.jobs), "error": r.error} for r in results},
+                "fetched": len(raw),
+                "filtered_out": rejected,
+                "unique": len(unique),
+                "new": inserted,
+                "updated": updated,
+            }
+        )
         if score and prefs.scoring_enabled:
             summary.update(_score(settings, db, llm, prefs))
         return summary
+    except BaseException as exc:
+        # Recorded on the run so the UI can show why it failed; then re-raised.
+        summary["error"] = f"{type(exc).__name__}: {exc}"[:500]
+        raise
     finally:
-        db.finish_run(run_id, summary)
-        RUN_LOCK.release()
+        try:
+            if run_id is not None:
+                db.finish_run(run_id, summary)
+        except Exception:
+            log.exception("Could not record the end of fetch run %s", run_id)
+        finally:
+            RUN_LOCK.release()
 
 
 def _score(
@@ -105,5 +117,9 @@ def _score(
         llm = llm or ClaudeLLM(settings)
     except LLMError as exc:
         return {"scoring_skipped": str(exc)}
-    profile = load_profile(settings.profile_dir)
-    return score_pending(db, llm, profile, prefs.max_jobs_to_score)
+    try:
+        profile = load_profile(settings.profile_dir)
+        return score_pending(db, llm, profile, prefs.max_jobs_to_score)
+    except Exception as exc:  # scoring problems must not lose the fetch results
+        log.exception("Scoring failed")
+        return {"score_error": f"{type(exc).__name__}: {exc}"[:300]}

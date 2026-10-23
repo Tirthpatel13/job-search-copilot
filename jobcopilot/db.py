@@ -65,7 +65,7 @@ CREATE TABLE IF NOT EXISTS fetch_runs (
 
 SORTS = {
     "score": "score IS NULL, score DESC, fetched_at DESC",
-    "newest": "fetched_at DESC",
+    "newest": "fetched_at DESC, rowid ASC",
     "posted": "date_posted DESC",
     "company": "company COLLATE NOCASE ASC",
 }
@@ -87,7 +87,36 @@ CSV_FIELDS = [
     "status",
     "fetched_at",
     "scored_at",
+    # Appended later; older files without them still import.
+    "matched",
+    "notes",
+    "seniority",
+    "external_id",
+    "source",
+    "description",
 ]
+
+
+def _csv_list(value: str | None, legacy_sep: str) -> list[str]:
+    """Parse a list cell: JSON (current format) or `legacy_sep`-joined (older exports)."""
+    value = (value or "").strip()
+    if not value:
+        return []
+    if value.startswith("["):
+        try:
+            parsed = json.loads(value)
+        except ValueError:
+            parsed = None
+        if isinstance(parsed, list):
+            return [str(v) for v in parsed]
+    return [v.strip() for v in value.split(legacy_sep) if v.strip()]
+
+
+def _csv_status(value: str | None) -> Status:
+    try:
+        return Status((value or "new").strip() or "new")
+    except ValueError:
+        return Status.NEW
 
 
 def _row_to_job(row: sqlite3.Row) -> Job:
@@ -361,8 +390,13 @@ class Database:
 
     # ---- CSV tracking file (used by the GitHub Actions workflow) -------------
 
-    def export_csv(self, path: Path) -> int:
-        """Write every job (newest first) to a CSV tracking file."""
+    def export_csv(self, path: Path | str) -> int:
+        """Write every job (newest first) to a CSV tracking file.
+
+        List columns (sources, gaps, matched) are JSON so items containing the
+        old separators survive a round trip.
+        """
+        path = Path(path)
         path.parent.mkdir(parents=True, exist_ok=True)
         jobs = self.list_jobs(sort="newest", limit=100_000)
         with path.open("w", newline="", encoding="utf-8") as fh:
@@ -378,46 +412,110 @@ class Database:
                         "is_remote": int(j.is_remote),
                         "salary": j.salary,
                         "date_posted": j.date_posted,
-                        "sources": ";".join(j.sources),
+                        "sources": json.dumps(j.sources),
                         "url": j.url,
                         "apply_url": j.apply_url,
                         "score": "" if j.score is None else j.score,
                         "score_reason": j.score_reason,
-                        "gaps": "; ".join(j.gaps),
+                        "gaps": json.dumps(j.gaps),
                         "status": j.status.value,
                         "fetched_at": j.fetched_at,
                         "scored_at": j.scored_at,
+                        "matched": json.dumps(j.matched),
+                        "notes": j.notes,
+                        "seniority": j.seniority,
+                        "external_id": j.external_id,
+                        "source": j.source,
+                        "description": j.description,
                     }
                 )
         return len(jobs)
 
-    def import_csv(self, path: Path) -> int:
-        """Seed the database from a previous CSV export so already-scored jobs are not re-scored."""
+    def import_csv(self, path: Path | str) -> int:
+        """Seed the database from a previous CSV export so already-scored jobs are not re-scored.
+
+        Accepts both the current format (JSON list cells, extra columns) and older
+        exports (`;`-joined sources, `; `-joined gaps). For jobs already in the
+        database, listing data is merged as in `upsert_jobs`; the CSV's evaluation
+        fills a missing score, and its status/notes replace untouched defaults.
+        """
+        path = Path(path)
         if not path.exists():
             return 0
         jobs: list[Job] = []
         with path.open(newline="", encoding="utf-8") as fh:
             for r in csv.DictReader(fh):
+                sources = _csv_list(r.get("sources"), ";")
+                score = (r.get("score") or "").strip()
                 jobs.append(
                     Job(
                         id=r["id"],
-                        title=r["title"],
-                        company=r["company"],
-                        location=r["location"],
-                        is_remote=r["is_remote"] == "1",
-                        salary=r["salary"],
-                        date_posted=r["date_posted"],
-                        sources=[s for s in r["sources"].split(";") if s],
-                        source=(r["sources"].split(";") or [""])[0],
-                        url=r["url"],
-                        apply_url=r["apply_url"],
-                        score=int(r["score"]) if r["score"] else None,
-                        score_reason=r["score_reason"],
-                        gaps=[g for g in r["gaps"].split("; ") if g],
-                        status=Status(r["status"] or "new"),
-                        fetched_at=r["fetched_at"],
-                        scored_at=r["scored_at"],
+                        title=r.get("title") or "",
+                        company=r.get("company") or "",
+                        location=r.get("location") or "",
+                        is_remote=(r.get("is_remote") or "").strip() == "1",
+                        salary=r.get("salary") or "",
+                        date_posted=r.get("date_posted") or "",
+                        sources=sources,
+                        source=r.get("source") or (sources[0] if sources else ""),
+                        url=r.get("url") or "",
+                        apply_url=r.get("apply_url") or "",
+                        description=r.get("description") or "",
+                        external_id=r.get("external_id") or "",
+                        seniority=r.get("seniority") or "",
+                        score=int(float(score)) if score else None,
+                        score_reason=r.get("score_reason") or "",
+                        gaps=_csv_list(r.get("gaps"), "; "),
+                        matched=_csv_list(r.get("matched"), "; "),
+                        status=_csv_status(r.get("status")),
+                        notes=r.get("notes") or "",
+                        fetched_at=r.get("fetched_at") or "",
+                        scored_at=r.get("scored_at") or "",
                     )
                 )
+        existing = self._existing_ids([j.id for j in jobs])
         self.upsert_jobs(jobs)
+        self._fill_from_csv([j for j in jobs if j.id in existing])
         return len(jobs)
+
+    def _existing_ids(self, ids: list[str]) -> set[str]:
+        found: set[str] = set()
+        with self.connect() as conn:
+            for i in range(0, len(ids), 500):
+                chunk = ids[i : i + 500]
+                marks = ",".join("?" * len(chunk))
+                rows = conn.execute(f"SELECT id FROM jobs WHERE id IN ({marks})", chunk)
+                found.update(r["id"] for r in rows)
+        return found
+
+    def _fill_from_csv(self, jobs: list[Job]) -> None:
+        """Copy CSV evaluation/workflow state onto rows that lack it."""
+        now = utcnow_iso()
+        with self.connect() as conn:
+            for job in jobs:
+                if job.score is not None:
+                    conn.execute(
+                        """UPDATE jobs SET score = ?, score_reason = ?, gaps = ?, matched = ?,
+                        scored_at = ?, updated_at = ? WHERE id = ? AND score IS NULL""",
+                        (
+                            job.score,
+                            job.score_reason,
+                            json.dumps(job.gaps),
+                            json.dumps(job.matched),
+                            job.scored_at,
+                            now,
+                            job.id,
+                        ),
+                    )
+                if job.status is not Status.NEW:
+                    conn.execute(
+                        """UPDATE jobs SET status = ?, updated_at = ?
+                        WHERE id = ? AND (status IS NULL OR status = 'new')""",
+                        (job.status.value, now, job.id),
+                    )
+                if job.notes:
+                    conn.execute(
+                        """UPDATE jobs SET notes = ?, updated_at = ?
+                        WHERE id = ? AND (notes IS NULL OR notes = '')""",
+                        (job.notes, now, job.id),
+                    )

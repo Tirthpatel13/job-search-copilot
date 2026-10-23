@@ -13,17 +13,38 @@
   var button = document.getElementById("fetch-now");
   var statusEl = document.getElementById("fetch-status");
 
+  function getJSON(url, options) {
+    return fetch(url, Object.assign({ credentials: "same-origin" }, options)).then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    });
+  }
+
+  function giveUp(message) {
+    button.disabled = false;
+    button.textContent = "Fetch now";
+    if (statusEl) statusEl.textContent = message;
+  }
+
+  var pollErrors = 0;
   function poll() {
-    fetch("/api/fetch/status", { credentials: "same-origin" })
-      .then(function (r) { return r.json(); })
+    getJSON("/api/fetch/status")
       .then(function (data) {
+        pollErrors = 0;
         if (data.running) {
           setTimeout(poll, 4000);
         } else {
           window.location.reload();
         }
       })
-      .catch(function () { setTimeout(poll, 8000); });
+      .catch(function () {
+        pollErrors += 1;
+        if (pollErrors >= 5) {
+          giveUp("Lost contact with the app. Reload the page to see if the fetch finished.");
+        } else {
+          setTimeout(poll, 8000);
+        }
+      });
   }
 
   if (button) {
@@ -31,16 +52,13 @@
       button.disabled = true;
       button.textContent = "Fetching…";
       if (statusEl) statusEl.textContent = "Fetching and scoring jobs. This can take a few minutes.";
-      fetch("/api/fetch", { method: "POST", credentials: "same-origin" })
+      getJSON("/api/fetch", { method: "POST" })
         .then(function () { setTimeout(poll, 3000); })
         .catch(function () {
-          button.disabled = false;
-          button.textContent = "Fetch now";
-          if (statusEl) statusEl.textContent = "Could not start the fetch. Are you online?";
+          giveUp("Could not start the fetch. Check that the app is still running.");
         });
     });
-    fetch("/api/fetch/status", { credentials: "same-origin" })
-      .then(function (r) { return r.json(); })
+    getJSON("/api/fetch/status")
       .then(function (data) {
         if (data.running) {
           button.disabled = true;

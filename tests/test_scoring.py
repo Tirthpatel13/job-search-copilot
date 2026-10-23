@@ -113,3 +113,76 @@ def test_score_pending_stops_on_account_error(db, profile):
     summary = score_pending(db, llm, profile, limit=10)
     assert summary == {"scored": 0, "score_failures": 1, "score_error": str(error)}
     assert len(llm.calls) == 1
+
+
+class _RaisingMessages:
+    def __init__(self, exc):
+        self.exc = exc
+
+    def parse(self, **kwargs):
+        raise self.exc
+
+
+def _raising_llm(exc):
+    client = SimpleNamespace(beta=SimpleNamespace(messages=_RaisingMessages(exc)))
+    return ClaudeLLM(Settings(anthropic_api_key="k"), client=client)
+
+
+def _validation_error():
+    from pydantic import ValidationError
+
+    try:
+        JobScore.model_validate({"score": "lots"})
+    except ValidationError as exc:
+        return exc
+    raise AssertionError("expected a ValidationError")
+
+
+def test_claude_llm_maps_generic_api_and_validation_errors():
+    import anthropic
+    import httpx
+
+    request = httpx.Request("POST", "https://api.anthropic.com/v1/messages")
+    for exc in (anthropic.APIError("weird", request, body=None), _validation_error()):
+        with pytest.raises(LLMError) as info:
+            _raising_llm(exc).generate(system="S", profile="P", prompt="Q", schema=JobScore)
+        assert not info.value.fatal
+
+
+def test_claude_llm_rate_limit_stops_batch():
+    import anthropic
+    import httpx
+
+    request = httpx.Request("POST", "https://api.anthropic.com/v1/messages")
+    response = httpx.Response(429, request=request)
+    exc = anthropic.RateLimitError("slow down", response=response, body=None)
+    with pytest.raises(LLMError) as info:
+        _raising_llm(exc).generate(system="S", profile="P", prompt="Q", schema=JobScore)
+    assert info.value.stop_batch and not info.value.fatal
+
+
+def test_score_pending_stops_on_rate_limit(db, profile):
+    db.upsert_jobs([make_job(id="a"), make_job(id="b", title="Data Engineer")])
+    llm = FakeLLM({JobScore: LLMError("Claude rate limit reached", stop_batch=True)})
+    summary = score_pending(db, llm, profile, limit=10)
+    assert summary == {
+        "scored": 0,
+        "score_failures": 1,
+        "score_error": "Claude rate limit reached",
+    }
+    assert len(llm.calls) == 1
+
+
+def test_score_pending_isolates_unexpected_errors(db, profile):
+    db.upsert_jobs([make_job(id="a"), make_job(id="b", title="Data Engineer")])
+
+    class Weird(FakeLLM):
+        def generate(self, **kwargs):
+            if "Data Engineer" in kwargs["prompt"]:
+                raise KeyError("boom")
+            return JobScore(score=60, reason="ok", matched=[], gaps=[])
+
+    summary = score_pending(db, Weird({}), profile, limit=10)
+    assert summary["scored"] == 1 and summary["score_failures"] == 1
+    assert summary["score_error"].startswith("KeyError")
+    assert db.get_job("a").score == 60

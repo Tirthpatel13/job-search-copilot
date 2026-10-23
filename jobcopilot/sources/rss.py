@@ -8,6 +8,8 @@ from __future__ import annotations
 
 import re
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from typing import Any
 
 from ..models import Job
@@ -18,6 +20,24 @@ _ATOM = "{http://www.w3.org/2005/Atom}"
 
 def _text(el: ET.Element | None) -> str:
     return (el.text or "").strip() if el is not None else ""
+
+
+def iso_date(value: str) -> str:
+    """RFC 822 (RSS) or ISO 8601 (Atom) date -> UTC `YYYY-MM-DD`; unparseable input unchanged."""
+    value = (value or "").strip()
+    if not value:
+        return ""
+    dt: datetime | None
+    try:
+        dt = parsedate_to_datetime(value)
+    except (TypeError, ValueError, IndexError):
+        try:
+            dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        except ValueError:
+            return value
+    if dt.tzinfo is not None:
+        dt = dt.astimezone(timezone.utc)
+    return dt.date().isoformat()
 
 
 def _split_title(title: str, default_company: str) -> tuple[str, str]:
@@ -50,7 +70,11 @@ def parse_feed(xml_text: str, company: str = "") -> list[Job]:
                 url=link,
                 description=html_to_text(desc),
                 is_remote="remote" in f"{raw_title} {location}".lower(),
-                date_posted=_text(item.find("pubDate")) or _text(item.find(f"{_ATOM}updated")),
+                date_posted=iso_date(
+                    _text(item.find("pubDate"))
+                    or _text(item.find(f"{_ATOM}published"))
+                    or _text(item.find(f"{_ATOM}updated"))
+                ),
                 external_id=_text(item.find("guid")) or link,
                 source="rss",
             )

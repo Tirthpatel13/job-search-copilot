@@ -11,6 +11,7 @@ from __future__ import annotations
 import hashlib
 import re
 from collections.abc import Iterable
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from .models import Job
 
@@ -81,20 +82,75 @@ def merge(primary: Job, other: Job) -> Job:
     return primary
 
 
+_TRACKING_PARAMS = {
+    "fbclid",
+    "gclid",
+    "msclkid",
+    "mc_cid",
+    "mc_eid",
+    "ref",
+    "refid",
+    "referrer",
+    "source",
+    "src",
+    "trk",
+    "trackingid",
+    "utm",
+}
+
+
+def _is_tracking_param(name: str) -> bool:
+    name = name.lower()
+    return name.startswith("utm_") or name in _TRACKING_PARAMS
+
+
+def url_key(url: str) -> str:
+    """Canonical form of a job URL for duplicate detection.
+
+    Lowercases only the scheme and host, drops the fragment, trailing slash and
+    tracking parameters, but keeps the rest of the query: on Indeed
+    (`viewjob?jk=ID`), Glassdoor (`?jl=ID`) and Greenhouse (`?gh_jid=ID`) the
+    query string *is* the job id.
+    """
+    url = (url or "").strip()
+    if not url:
+        return ""
+    parts = urlsplit(url)
+    query = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)]
+    query = sorted((k, v) for k, v in query if not _is_tracking_param(k))
+    return urlunsplit(
+        (
+            parts.scheme.lower(),
+            parts.netloc.lower(),
+            parts.path.rstrip("/"),
+            urlencode(query),
+            "",
+        )
+    )
+
+
 def deduplicate(jobs: Iterable[Job]) -> list[Job]:
     """Assign fingerprints and collapse duplicates, preserving first-seen order."""
     by_id: dict[str, Job] = {}
     by_url: dict[str, str] = {}
+    by_ext: dict[tuple[str, str], str] = {}
     for job in jobs:
         job.id = job.id or fingerprint(job)
         if not job.sources:
             job.sources = [job.source]
-        url_key = job.url.split("?")[0].rstrip("/").lower()
-        existing_id = job.id if job.id in by_id else by_url.get(url_key) if url_key else None
+        key = url_key(job.url)
+        ext = (job.source, job.external_id) if job.source and job.external_id else None
+        existing_id = (
+            job.id
+            if job.id in by_id
+            else (by_ext.get(ext) if ext else None) or (by_url.get(key) if key else None)
+        )
         if existing_id:
             merge(by_id[existing_id], job)
             continue
         by_id[job.id] = job
-        if url_key:
-            by_url[url_key] = job.id
+        if key:
+            by_url[key] = job.id
+        if ext:
+            by_ext[ext] = job.id
     return list(by_id.values())

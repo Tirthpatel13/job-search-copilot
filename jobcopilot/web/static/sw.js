@@ -1,5 +1,5 @@
 // Service worker: cache the app shell, network-first for pages, offline fallback.
-const CACHE = "jobcopilot-v1";
+const CACHE = "jobcopilot-v2";
 const SHELL = [
   "/static/app.css",
   "/static/app.js",
@@ -29,8 +29,21 @@ self.addEventListener("fetch", (event) => {
   if (url.pathname.startsWith("/api/") || url.pathname.startsWith("/files/")) return;
 
   if (url.pathname.startsWith("/static/")) {
-    // Cache-first for static assets.
-    event.respondWith(caches.match(req).then((hit) => hit || fetch(req)));
+    // Stale-while-revalidate: answer from cache, refresh it in the background so
+    // updated CSS/JS reach installed apps on the next load.
+    event.respondWith(
+      caches.open(CACHE).then((cache) =>
+        cache.match(req).then((hit) => {
+          const update = fetch(req)
+            .then((res) => {
+              if (res.ok) cache.put(req, res.clone());
+              return res;
+            })
+            .catch(() => hit);
+          return hit || update;
+        })
+      )
+    );
     return;
   }
 

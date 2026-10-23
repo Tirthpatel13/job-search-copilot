@@ -13,6 +13,7 @@
   {% if last_run and last_run.finished_at %}Last fetch {{ last_run.finished_at[:16].replace('T', ' ') }} UTC
   {% if last_run.summary.get('new') is not none %}&middot; {{ last_run.summary.new }} new{% endif %}
   {% for name, s in last_run.summary.get('sources', {}).items() %}{% if s.error %} &middot; <span class="warn" title="{{ s.error }}">{{ name }} failed</span>{% endif %}{% endfor %}
+  {% elif last_run %}A fetch is running.
   {% else %}No fetch yet. Tap "Fetch now".{% endif %}
 </p>
 {% if last_run and last_run.finished_at %}
@@ -24,6 +25,8 @@
 </details>
 {% endif %}
 {% endif %}
+{% if last_run and last_run.summary.get('error') %}<div class="flash flash-error">The last fetch stopped with an error: {{ last_run.summary.error }}</div>{% endif %}
+{% if using_example_profile %}<div class="flash flash-error">No resume uploaded yet, so jobs are scored against the example profile. <a href="/profile">Upload your resume</a>.</div>{% endif %}
 {% if claude_enabled and last_run and last_run.summary.get('score_error') %}<div class="flash flash-error">Scoring failed: {{ last_run.summary.score_error }}</div>{% endif %}
 {% if not claude_enabled %}<div class="flash flash-error">ANTHROPIC_API_KEY is not set, so jobs are fetched but not scored.</div>{% endif %}
 

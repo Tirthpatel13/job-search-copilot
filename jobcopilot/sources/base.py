@@ -49,20 +49,45 @@ class RateLimiter:
             self._last = time.monotonic()
 
 
+RETRYABLE_STATUS = frozenset({429, 500, 502, 503, 504})
+
+
+def is_retryable(exc: BaseException) -> bool:
+    """Network failures and 429/5xx responses are worth retrying; other 4xx are not."""
+    if isinstance(exc, httpx.HTTPStatusError):
+        code = exc.response.status_code
+        return code == 429 or code >= 500
+    return isinstance(exc, httpx.TransportError)
+
+
+def attempts_for(max_retries: int) -> int:
+    """Total calls for a `max_retries` setting: the first try plus the retries."""
+    return max(1, int(max_retries) + 1)
+
+
 def with_retries(
     fn: Callable[[], T],
     *,
     attempts: int = 3,
     base_delay: float = 1.0,
     retry_on: tuple[type[BaseException], ...] = (httpx.HTTPError,),
+    should_retry: Callable[[BaseException], bool] | None = None,
     sleep: Callable[[float], None] = time.sleep,
 ) -> T:
-    """Call `fn`, retrying with exponential backoff and jitter on `retry_on` errors."""
+    """Call `fn`, retrying with exponential backoff and jitter on `retry_on` errors.
+
+    `fn` is always called at least once. With the default `retry_on`, only
+    transport errors and 429/5xx responses are retried (a 404 or 403 will not
+    change on retry); pass `should_retry` to override that check.
+    """
+    attempts = max(1, attempts)
+    if should_retry is None:
+        should_retry = is_retryable if retry_on == (httpx.HTTPError,) else (lambda exc: True)
     for attempt in range(1, attempts + 1):
         try:
             return fn()
         except retry_on as exc:
-            if attempt == attempts:
+            if attempt == attempts or not should_retry(exc):
                 raise
             delay = base_delay * 2 ** (attempt - 1) + random.uniform(0, base_delay / 2)
             log.warning(
@@ -114,7 +139,7 @@ class JobSource(ABC):
             resp.raise_for_status()
             return resp
 
-        return with_retries(_do, attempts=self.prefs.max_retries)
+        return with_retries(_do, attempts=attempts_for(self.prefs.max_retries))
 
     @staticmethod
     def client() -> httpx.Client:
