@@ -1,4 +1,241 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+ea7b7d3b9afebb05,Senior Data Engineer,Sunlife,"Toronto, Ontario, Canada",0,"CAD 85,000 - 128,000 /yearly",2026-10-24,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4481998661,https://sunlife.wd3.myworkdayjobs.com/fr-CA/Experienced-Jobs/job/Toronto-Ontario/Senior-Data-Engineer_JR00129029,,,[],new,2026-10-24T16:31:21+00:00,,[],,senior,li-4481998661,linkedin,"Vous êtes aussi unique que votre parcours, votre expérience et votre point de vue. Ici, vous serez encouragé, habilité et défié à être à votre meilleur. Vous travaillerez avec des collègues dynamiques – des experts dans leurs domaines – qui sont désireux de partager leurs connaissances avec vous. Vos leaders vous inspireront et vous aideront à atteindre votre potentiel et à vous envoler vers de nouveaux horizons. Chaque jour, vous aurez de nouvelles et passionnantes occasions de rendre la vie plus brillante pour nos Clients – qui sont au cœur de tout ce que nous faisons.
+
+  
+
+Chez Sun Life, nous sommes guidés par notre Raison d'être : aider nos Clients à réaliser la sécurité financière à vie et à vivre une vie plus saine. Nos valeurs façonnent notre façon de travailler : bienveillance, authenticité, audace, inspiration et impact.
+
+  
+
+Quand vous vous joignez à Sun Life, vous travaillez avec des collègues passionnés et des leaders habilitants qui soutiennent votre croissance et célèbrent vos contributions, afin que vous puissiez faire une différence significative dans la vie de nos Clients.
+
+  
+
+Découvrez comment vous pouvez faire une différence dans la vie des personnes, des familles et des communautés du monde entier.
+
+  
+
+**Description de poste:**
+
+The Client Experience Office (CXO) is an important pillar of Sun Life Canada’s Data and Analytics growth and corporate strategy and as such, is seeking experienced data engineering individual with a proven track record working with data consumers to extract meaningful insights from enterprise data. This Senior Business data engineer will play an indispensable role in assembling the necessary data products that fuel myriads of analytical models used by our various business units across Canada.
+
+Reporting to the Manager of Data Engineering, the Senior Business Data Engineer will be a key member of Data Enablement Team responsible for building enriched data products that provide deep insights about our Client, Advisor, Product, Transactions along with their intricate relationships. The Senior Business Data Engineer will work with data analysts and data scientists to help answer complex business enquires such as identifying new business opportunities, understanding our client behavior and optimizing areas of our sales cycles.
+
+**What will you do:**
+
+* Design and engineer data models that represent our key business entities such as our Advisor, Client & Product
+* Ensure high level of data quality and data integrity are maintained across data sources for business data assets
+* Convert complex business and technical rules into logic for data flows and data pipelines
+* Obsessed with understanding our enterprise data and interpreting it in the best way possible to derive business value
+* Work with our Data Science teams to implement data products for various use cases
+* Collaborate with stakeholders and incorporate into solution design for various use case requirements
+* Standardize metadata into a common glossary along with the necessary documentation for data consumers
+* This is a senior individual contributor role bridging the requirements of Business consumers and data engineering practitioners to support the overall Business Data Strategy.
+* This role will be partnering closely with CXO business stakeholders, enterprise governance and risk partners, and CXO data practitioners
+
+**What do you need to succeed?**
+
+* 3-5 years hands-on experience working on major Cloud technologies and programming languages for data processing and analytics
+* 3+ years experience with AWS and Snowflake platforms for building robust ETL pipelines, Catalog management, Data Quality and Governance implementation to keep data compliant and reliable.
+* 3+ years experience and proficiency in Python, Pyspark and SQL
+* Demonstrated Experience in cost and performance optimization of Spark and SQL jobs
+* 5 years hands-on experience with relational database systems, relational models, dimensional models, and analytical models
+* 3-5 years experience with engineering data products as input to various analytical models
+* 3-5 years building feedback loops between model deployment and its data – i.e. tune & tweak data products to achieve scale, optimization, etc.
+* Sound understanding of Data Management principles (data warehousing, data quality, master data management, etc.) and Data Governance principles. Sound understanding of data modelling and a passion for analytics
+* Proven ability to leverage knowledge of data engineering to extract, conform and integrate a variety of operational data sources into production-grade data products
+* Experience of popular data formats like Parquet and Iceberg
+* Experience in BI Tools like Tableau , Quicksight , Streamlit is a definite plus.
+* Experience working with very large datasets and familiarity with big data technologies
+* Excellent verbal and written communication skills; have executive presence and proven ability to partner with Data Scientists to articulate insights gleaned from the model and the underlying data
+
+**What will be nice to have**
+
+* Understand and Embrace Agile Operating Model
+* Understanding of AI concepts and Machine learning and familiarity with AI services of AWS and Snowflake platforms
+* Knowledge of fundamental statistical models & techniques
+* Knowledge and experience working with DevOps technologies
+* Experience working in a large financial services organization
+* Undergraduate degree in Computer Science, Mathematics, Engineering, or equivalent
+* Graduate degree in business or quantitative science strongly preferred
+
+**What’s in it for you:**
+
+* We’re honoured to be recognized as a 2026 Best Workplaces in Canada by Great Place to Work® Canada.
+* *We are thrilled to be recognized by* ***Excellence Canada*** *with their top-level certification, the* ***Canada Order of Excellence for Mental Health at Work®*** *, for prioritizing employee well-being, fostering a positive work culture, and achieving excellence in mental health.*
+* Wellness programs that support the three pillars of your health – mental, physical, and financial
+* The opportunity to move along a variety of career paths with amazing networking potential.
+* As a hybrid organization, you and your leader use business and Client need to choose where you work, at home or in the
+
+**Unique Requirements:**
+
+This role requires Reliability Status Clearance. In addition to a law enforcement inquiry and a credit check, as part of your application, the Government of Canada will ask if you lived or travelled outside of Canada for 6-consecutive months during the last 5 years, and you must account for all activities during this time. Important: Obtaining Reliability Status Clearance within a reasonable amount of time is a condition required to start employment for this role at Sun Life.
+
+Must be able to satisfactorily complete applicable background checks prior to the start date and during employment, in accordance with Sun Life’s policies and practices.
+
+  
+
+L'étendue du salaire de base s'applique au lieu principal pour lequel l'emploi est affiché. Elle peut varier en fonction du lieu de travail du candidat retenu ou d'autres facteurs. En plus du salaire de base, les employés admissibles de Sun Life participent à divers régimes d'encouragement dont le paiement est discrétionnaire et assujetti au rendement individuel et à celui de l'entreprise. Certains rôles axés sur les ventes comportent des régimes d'encouragement à la vente basés sur les résultats des ventes individuelles ou de groupe.
+
+  
+
+La diversité et l'inclusion ont toujours été au cœur de nos valeurs chez Sun Life. Une main-d'œuvre diversifiée avec des perspectives variées et des idées créatives profite à nos Clients, aux communautés où nous opérons et à nous tous comme collègues. Nous accueillons les demandes de personnes qualifiées de tous les milieux.
+
+  
+
+Les personnes handicapées qui ont besoin d'accommodements dans le processus de demande ou celles qui ont besoin d'offres d'emploi dans un format différent peuvent envoyer une demande par courriel à thebrightside@sunlife.com .
+
+  
+
+Nous sommes fiers d'être une organisation hybride qui offre à nos employés le choix et la flexibilité de travailler à la fois au bureau et virtuellement en fonction des besoins de l'entreprise, de nos Clients et de vous.
+
+  
+
+Nous pouvons utiliser l'intelligence artificielle pour soutenir la recherche de candidats, le filtrage et la planification des entrevues.
+
+  
+
+Nous remercions tous les candidats d'avoir manifesté de l'intérêt pour ce poste. Seuls les candidats sélectionnés pour une entrevue seront contactés.
+
+  
+
+**Échelle salariale** **:**
+
+85,000/85 000 - 128,000/128 000
+
+**Catégorie** **d'emploi** **:**
+
+Advanced Analytics
+
+**Fin de** **l'affichage** **:**
+
+29/10/2026"
+44874e3f01a55ee7,Senior/Lead Azure Data Engineer,Wipro,"Toronto, Ontario, Canada",0,,2026-10-23,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481950089,,,,[],new,2026-10-24T16:31:21+00:00,,[],,senior,li-4481950089,linkedin,"**Job Description**
+Job Description
+  
+  
+We are seeking a highly skilled
+**Senior/Lead Azure Data Engineer**
+to design, develop, and optimize large-scale cloud-based data solutions on Microsoft Azure. The ideal candidate will have strong expertise in
+**Azure Data Factory (ADF), Azure Databricks, PySpark, and Autosys**
+, with hands-on experience building scalable data pipelines, data transformation frameworks, and enterprise-grade data platforms.
+  
+  
+The candidate will collaborate with business stakeholders, architects, and development teams to deliver high-performance data solutions that support analytics, reporting, regulatory, and operational requirements.
+  
+  
+**Key Responsibilities**
+
+* Design, develop, and maintain scalable data ingestion and transformation pipelines using Azure Data Factory (ADF).
+* Build and optimize data processing solutions using Azure Databricks and PySpark.
+* Develop and maintain batch and near real-time data integration workflows.
+* Implement data quality, validation, reconciliation, and monitoring frameworks.
+* Schedule, monitor, and troubleshoot jobs using Autosys and cloud-native orchestration tools.
+* Design and implement robust ETL/ELT solutions leveraging Azure cloud services.
+* Optimize Spark jobs for performance, scalability, and cost efficiency.
+* Collaborate with Data Architects and Solution Architects to define enterprise data models and standards.
+* Support production deployments, incident management, and performance tuning activities.
+* Ensure adherence to security, governance, and compliance standards.
+* Mentor junior engineers and provide technical leadership for project delivery.
+* Participate in code reviews, architecture discussions, and best practice implementation.
+
+**Required Qualifications**
+
+* Bachelor’s or master’s degree in computer science, Information Technology, Engineering, or related field.
+* 8+ years of experience in Data Engineering and Data Warehousing.
+* 5+ years of experience with Azure Data Platform technologies.
+* Strong hands-on experience with:
+
++ Azure Data Factory (ADF)
++ Azure Databricks
++ ADLS
++ MYSQL
++ PySpark
++ SQL
++ Autosys
+
+* Experience designing and implementing ETL/ELT frameworks.
+* Strong understanding of distributed computing and Spark architecture.
+* Experience working with large-scale structured and semi-structured datasets.
+* Proficiency in Python and SQL programming.
+* Experience with source control tools such as Git/Azure DevOps.
+
+Mandatory Skills: DataBricks - Data Engineering
+  
+  
+Experience: 5-8 Years
+  
+  
+The expected compensation for this role ranges from CAD 77000 to CAD 120000 .
+  
+  
+Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.
+  
+  
+Wipro is committed to creating an accessible, supportive, and inclusive workplace. Reasonable accommodation will be provided to all applicants including persons with disabilities, throughout the recruitment and selection process. Accommodations must be communicated in advance of the application, where possible, and will be reviewed on an individual basis. Wipro provides equal opportunities to all and values diversity."
+93887d4b40598012,Senior Python Developer,CGI,"Toronto, Ontario, Canada",0,"CAD 85,000 - 135,000 /yearly",2026-10-23,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4483138945,https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1026-1884&BRID=1343453&sbdid=936,,,[],new,2026-10-24T16:29:29+00:00,,[],,senior,li-4483138945,linkedin,"Position Description
+  
+  
+We are seeking a Senior Python Developer with 8+ years of experience in Python scripting, data engineering, and SQL. The successful candidate will collaborate with business users, support code migration and refactoring, and help drive technical decisions.
+  
+  
+This hybrid role is based in downtown Toronto and/or the client office, with a minimum on-site presence of 2 days per week, subject to change at any time.
+  
+  
+Your future duties and responsibilities
+  
+  
+
+* Develop and maintain Python scripts and solutions.
+* Support data engineering activities and SQL-related tasks.
+* Perform code migration and refactoring, including documentation.
+* Collaborate with line-of-business (LOB) users to understand needs and drive technical decisions.
+* Communicate effectively with technical and business stakeholders.
+
+**Required Qualifications To Be Successful In This Role**
+
+* 8+ years of experience in Python development.
+* Knowledge of Python and SAS scripting.
+* Experience with Anaconda.
+* Experience in data engineering and SQL.
+* Experience with code migration, refactoring, and documentation.
+* Strong communication skills and the ability to work with business users and drive decisions.
+
+Assets
+  
+  
+
+* QA and validation skills.
+* GitHub experience.
+* Bash and server experience, including Crontab and SFTP.
+* Fraud or forensic analytics experience.
+
+CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $85,000–$135,000. This role is an existing vacancy.
+  
+  
+**Together, as owners, let’s turn meaningful insights into action.**
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+At CGI, we value the strength that diversity brings and are committed to fostering a workplace where everyone belongs. We collaborate with our clients to build more inclusive communities and empower all CGI partners to thrive. As an equal-opportunity employer, being able to perform your best during the recruitment process is important to us. If you require an accommodation, please inform your recruiter.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.
+  
+  
+To learn more about accessibility at CGI, contact us via email. Please note that this email is strictly for accessibility requests and cannot be used for application status inquiries.
+  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world."
 8484e174f3f748ec,"Data Engineer, Fraud Predictive Analytics",BMO Financial Group,"Toronto, ON, Canada",0,"CAD 80,000 - 175,000 /yearly",2026-10-23,"[""indeed""]",https://ca.indeed.com/viewjob?jk=7b0ab9a7295ec3fa,https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Data-Engineer--Fraud-Predictive-Analytics_R260029493,,,[],new,2026-10-23T17:49:13+00:00,,[],,mid,in-7b0ab9a7295ec3fa,indeed,"Application Deadline:
 
 11/29/2026
@@ -2182,7 +2419,65 @@ Location: Toronto, ON
 Fulltime
 
 Java and Python, we are seeking a skilled Backend Developer with 5 to 8 years of experience in designing, developing, and maintaining scalable backend applications. The ideal candidate will have strong hands-on expertise in Java and Python, with proven experience building backend services, APIs, integrations, and data reporting solutions. The Backend Developer will be responsible for developing reliable, high-performance, and maintainable applications that support business and project requirements. This role requires experience in designing and implementing data reporting pipelines, data processing workflows, report automation, and backend integrations using Java and Python. The candidate should be able to work with structured and unstructured data, transform data into usable reporting formats, and ensure report accuracy, performance, and availability. Key responsibilities include developing RESTful APIs and microservices, integrating backend systems with databases and external applications, writing clean and reusable code, troubleshooting production issues, and improving application performance. The candidate will collaborate with business analysts, data teams, QA engineers, and other developers to gather requirements and deliver effective technical solutions. Required skills include strong proficiency in Java, Python, backend development, REST APIs, microservices, SQL, database design, data processing, data reporting, ETL concepts, debugging, unit testing, version control, and performance optimization. Experience with reporting frameworks, data visualization tools, cloud platforms, CI/CD pipelines, and Agile development methodologies will be an added advantage."
-7e2ae4f9fb13333e,Python Developer,Envision Technology Solutions,"Toronto, Ontario, Canada",0,,2026-10-22,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481352797,,,,[],new,2026-10-22T17:54:17+00:00,,[],,,,linkedin,
+7e2ae4f9fb13333e,Python Developer,Envision Technology Solutions,"Toronto, Ontario, Canada",0,,2026-10-22,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481352797,,,,[],new,2026-10-22T17:54:17+00:00,,[],,,,linkedin,"**Sr Software Engineer (Backend)**
+
+**Toronto, ON**
+
+**Fulltime**
+
+Primary Responsibilities
+
+Engineering and Architecture
+
+• Design, build, and maintain backend financial and payments system flows (e.g., core banking, ACH, wire, card, and digital asset transaction processing).
+
+• Influence software architecture and lead design decisions for the Platform, with particular focus on payments and money-movement systems.
+
+• Develop, test, and launch new features and releases for the Platform.
+
+• Document processes and key data flows
+
+• Ensure compliance with regulatory requirements and support audit certification efforts, including documenting systems for regulatory and internal audit purposes.
+
+Product & Requirements Enablement
+
+• Partner with engineering, product, operations, and compliance teams to translate business needs into clear, actionable technical requirements and specifications.
+
+• Organize and decompose business requirements into well-structured functional and technical specs that other engineers can execute against.
+
+• Act as a bridge between business stakeholders and the engineering team, clarifying scope, surfacing technical trade-offs, and reducing ambiguity before development begins.
+
+• Document and improve engineering processes, workflows, and SDLC practices to increase team efficiency and knowledge sharing.
+
+Leadership & Team Enablement
+
+• Set technical direction and best practices that enable other engineers to deliver high-quality work independently.
+
+• Influence and align cross-functional partners and engineering peers without relying on formal authority or direct reports.
+
+• As needed mentor engineers on logic, code quality, and requirements-writing practices.
+
+• Make independent, sound decisions on system design and process improvements within defined parameters.
+
+Skills and Experience
+
+• Minimum of 5 years of experience in software engineering, including designing, building, deploying, scaling, and maintaining modern, cloud-based production services, with knowledge of service-oriented architecture.
+
+• Proven experience designing and building backend financial or payments system flows (e.g., APIs workflows supporting core banking, payment rails, ledgers, settlement, or digital asset transaction processing).
+
+• Proficiency writing high-quality, well-tested code using one or more languages (e.g., Python, Next.js, React, Golang, C#), building APIs, and building/using databases (e.g., Postgres, DynamoDB).
+
+• Demonstrated ability to gather and translate business requirements into technical specifications
+
+• Strong written and verbal communication skills, with the ability to create clear, detailed technical and functional documentation.
+
+• Leadership and influencing skills — comfortable guiding and developing other engineers and driving alignment across teams without formal direct-report authority.
+
+• Self-directed work style with the ability to manage multiple priorities and make sound independent decisions.
+
+• Creativity, organization, and troubleshooting skills.
+
+• Experience with Blockchain technology (e.g., Bitcoin, Ethereum) or crypto-forward experience, including familiarity with onchain activity and dApps or blockchain-based services is a nice to have."
 4cf15c371eff6f5b,Senior Consultant - Python Developer (Data Solutions & Analytics),EY,"Toronto, Ontario, Canada",0,,2026-10-21,"[""linkedin""]",https://www.linkedin.com/jobs/view/4462547646,,,,[],new,2026-10-22T17:54:17+00:00,,[],,,,linkedin,"At EY, we’re all in to shape your future with confidence.
   
   
