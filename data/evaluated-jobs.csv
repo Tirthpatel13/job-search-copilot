@@ -1,4 +1,139 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+34a0900ebbc8a9f1,AI Cloud Data Engineer,Altera,"Toronto, Ontario, Canada",0,,2026-10-23,"[""linkedin""]",https://www.linkedin.com/jobs/view/4483165730,,,,[],new,2026-10-25T17:02:56+00:00,,[],,mid,li-4483165730,linkedin,"**Job Details**
+**Job Description:**
+**Altera is seeking a talented and driven AI Data Engineer**
+to design, develop, and deploy AI-powered applications, data platforms, and machine learning solutions that transform data into actionable intelligence. In this role, you will build scalable data and AI systems, develop advanced analytics and machine learning models, and create intelligent applications that enable data-driven decision-making across the organization. You will work closely with engineers, product teams, and business stakeholders to deliver innovative AI solutions from concept to production.
+  
+  
+Job Responsibilities
+  
+  
+
+* Design, develop, and optimize AI-powered applications, data pipelines, and scalable cloud-based data platforms.
+* Build and deploy machine learning, deep learning, and Generative AI solutions to solve complex business and engineering challenges.
+* Develop algorithms, predictive models, and analytical frameworks that transform structured and unstructured data into actionable insights.
+* Create and maintain RAG systems, vector databases, AI agents, and intelligent search solutions to enhance knowledge discovery and automation.
+* Conduct large-scale experimentation, model evaluation, and performance benchmarking to improve AI solution effectiveness and reliability.
+* Explore, acquire, process, and integrate data from diverse sources while ensuring data quality, integrity, and governance.
+* Analyze datasets to identify trends, patterns, anomalies, and opportunities, implementing corrective actions where necessary.
+* Develop dashboards, visualizations, reports, and data-driven applications that effectively communicate insights to technical and business audiences.
+* Collaborate with software engineers, data scientists, and product teams to ensure AI models and analytics solutions are scalable, maintainable, and production-ready.
+* Build and maintain AI/ML training, inference, and deployment pipelines using modern MLOps and cloud-native practices.
+* Establish and promote best practices for data engineering, machine learning, experimentation, coding standards, and model governance.
+* Support troubleshooting, monitoring, and optimization of AI and analytics platforms using commercial and custom-built tools.
+* Evaluate emerging AI, machine learning, and data technologies to drive innovation and improve platform capabilities.
+* Contribute to research, prototyping, and development efforts related to AI, machine learning, and advanced analytics initiatives
+
+Our compensation is designed to reflect the Canadian labour market. The actual salary offered may vary based on several factors, including the position’s location, as well as the candidate’s experience, skills, training, and job-specific knowledge. In addition to base salary, we offer performance-based incentive opportunities that reward both individual contributions and overall company success.
+  
+  
+Estimated Salary Range: $110K – $120K CAD
+  
+  
+We use artificial intelligence to screen, assess, or select applicants for the position. This posting is for an existing vacancy. Canadian work experience is not required for this role. Applicants must be eligible for any required Canada export authorizations.
+  
+  
+**Qualifications**
+
+* The candidate must have a Bachelor's or Master's Degree in Computer Science, Artificial Intelligence, Cybersecurity, Software Engineering, or a related field.
+* Strong programming skills in Python and experience developing production software applications.
+* 1+ years' experience with machine learning, deep learning, Generative AI, and large language models (LLMs).
+* Familiarity with AI frameworks such as PyTorch, TensorFlow, LangChain, Semantic Kernel, or similar technologies.
+* Experience with cloud platforms such as Azure, AWS, or Google Cloud.
+* Knowledge of data engineering concepts, ETL/ELT pipelines, data warehousing, and distributed data processing.
+* Experience with MLOps, model deployment, CI/CD, containers, and Kubernetes.
+* Strong analytical, problem-solving, and communication skills.
+* Ability to work cross-functionally and translate business requirements into technic
+
+**Job Type**
+Regular
+  
+  
+**Shift**
+Shift 1 (Canada)
+  
+  
+**Primary Location:**
+Toronto, Ontario, Canada
+  
+  
+**Additional Locations:**
+**Posting Statement**
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance."
+c4283487813f6dca,"Senior Backend Engineer, Entities",EvenUp,"Toronto, Ontario, Canada",0,"CAD 160,000 - 215,000 /yearly",2026-10-23,"[""linkedin""]",https://www.linkedin.com/jobs/view/4446008230,,,,[],new,2026-10-25T17:02:02+00:00,,[],,senior,li-4446008230,linkedin,"EvenUp is on a mission to close the justice gap using technology and AI. We empower personal injury lawyers and victims to get the justice they deserve. Our products enable law firms to secure faster settlements, higher payouts, and better outcomes for victims injured through no fault of their own in vehicle collisions, accidents, natural disasters, and more.
+  
+  
+We are one of the fastest-growing vertical SaaS companies in history, and we are just getting started. EvenUp is backed by top VCs, including Bessemer Venture Partners, Bain Capital Ventures, SignalFire, and Lightspeed. We are looking to expand our team with talented, driven, and collaborative individuals who seek to have a lasting impact. Learn more at www.evenuplaw.com.
+  
+  
+**🎥 Life as an Engineer at EvenUp**
+Join EvenUp’s AI Platform team, dedicated to making large language models (LLMs) more accessible, scalable, and impactful across the engineering organization. We build leading LLM-powered systems for the legal industry, transforming how complex legal documents are extracted, summarized, and structured for use by our clients every day.
+  
+  
+This role operates at the intersection of backend engineering, LLM integration, and hands-on experimentation. You will collaborate with a multidisciplinary team of Data Scientists, Researchers, and Software Engineers to tackle challenging generative AI problems. Together, we maintain the foundational infrastructure enabling EvenUp’s product teams to leverage LLMs safely and efficiently at scale.
+  
+  
+This is an excellent opportunity for engineers seeking deep technical ownership, backend system design, and work on innovative platforms that create impact across an entire company—while contributing to technology that advances fairness and accessibility within the legal system.
+  
+  
+This is a hybrid role, 3x per week at our SF office three days per week.
+  
+  
+**What you’ll do:**
+
+* Backend Systems & Infrastructure: Lead the design, development, and optimization of robust backend systems for deploying LLM-based algorithms and services.
+* End-to-End Ownership: Manage projects through their complete lifecycle—from architecture to deployment, monitoring, and improvement.
+* Cross-Team Enablement: Work with other engineering teams to understand use cases and deliver scalable platform solutions.
+* Engineering Excellence: Develop high-quality, maintainable code using a modern tech stack (Python, Postgres, Kubernetes, Elasticsearch).
+* Growth & Collaboration: Grow as an engineer working alongside world-class peers on impactful, cutting-edge generative AI projects.
+
+**What we look for:**
+
+* Extensive experience building frameworks, libraries, and distributed systems with a focus on reliability, observability, and performance.
+* Proficiency delivering production-ready code, managing infrastructure, and building RESTful APIs to industry standards.
+* Experience owning and delivering complex technical projects.
+* Success in startup or high-growth environments valuing speed, collaboration, and ownership.
+* Proficiency in Python or other languages (Go, Java, C++).
+* Strong written and verbal communication skills, with proven cross-disciplinary collaboration.
+
+**Responsibilities:**
+
+* Design, build, and enhance scalable backend systems supporting LLM-driven products and internal platforms.
+* Own infrastructure and services for reliable deployment, experimentation, and iteration of AI-powered systems.
+* Collaborate with engineering teams to gather requirements and deliver reusable, scalable solutions.
+* Influence the technical direction and long-term architecture of EvenUp’s AI platform.
+* Maintain high standards for reliability, performance, observability, and maintainability.
+* Drive projects from early design through deployment, monitoring, and iterative improvement.
+
+**Bonus (Nice to have):**
+
+* Background with AI systems, LLMs, or machine learning infrastructure.
+* Experience in legal tech or social impact–driven products.
+* Prior work supporting internal platforms or developer-facing tools.
+
+**Benefits & Perks:**
+As part of our total rewards package, we offer attractive benefits and perks to our employees, including:
+  
+  
+
+* Choice of medical, dental, and vision insurance plans for you and your family.
+* Additional insurance coverage options for life, accident, or critical illness.
+* Flexible paid time off, sick leave, short-term and long-term disability.
+* 10 US observed holidays, and Canadian statutory holidays by province.
+* A home office stipend.
+* 401(k) for US-based employees and RRSP for Canada-based employees.
+* Paid parental leave.
+* A local in-person meet-up program.
+* Hubs in San Francisco and Toronto.
+
+*(Please note the above benefits & perks are for full-time employees)*
+***Notice to Candidates:***
+*To ensure fairness and proper consideration, we do not accept resumes or expressions of interest via email or social media messages. If you’re interested in a role, please submit your application directly through our*
+*careers page*
+*.*
+*Please note that EvenUp may use AI notetakers and other recording devices in the recruiting process. If you interview with us, with your consent, we may record your conversations and summarize them into notes for internal use. Recording is optional, and declining will not affect your candidacy.*
+*EvenUp is an equal opportunity employer. We are committed to diversity and inclusion in our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.*
+Compensation Range: CA$160K - CA$215K"
 ea7b7d3b9afebb05,Senior Data Engineer,Sunlife,"Toronto, Ontario, Canada",0,"CAD 85,000 - 128,000 /yearly",2026-10-24,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4481998661,https://sunlife.wd3.myworkdayjobs.com/fr-CA/Experienced-Jobs/job/Toronto-Ontario/Senior-Data-Engineer_JR00129029,,,[],new,2026-10-24T16:31:21+00:00,,[],,senior,li-4481998661,linkedin,"Vous êtes aussi unique que votre parcours, votre expérience et votre point de vue. Ici, vous serez encouragé, habilité et défié à être à votre meilleur. Vous travaillerez avec des collègues dynamiques – des experts dans leurs domaines – qui sont désireux de partager leurs connaissances avec vous. Vos leaders vous inspireront et vous aideront à atteindre votre potentiel et à vous envoler vers de nouveaux horizons. Chaque jour, vous aurez de nouvelles et passionnantes occasions de rendre la vie plus brillante pour nos Clients – qui sont au cœur de tout ce que nous faisons.
 
   
