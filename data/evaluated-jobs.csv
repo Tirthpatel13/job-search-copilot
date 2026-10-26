@@ -1,4 +1,196 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+019c53e4c9f17234,"Data Engineer - Python, PySpark, SQL, Snowflake & API Integration",Tms Llc,"Toronto, ON, Canada",1,CAD 35 - 40 /hourly,2026-10-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=6c98406945536e94,https://jobs.smartrecruiters.com/TMSLLC/744000157814178-data-engineer-python-pyspark-sql-snowflake-api-integration,,,[],new,2026-10-26T19:05:35+00:00,,[],,mid,in-6c98406945536e94,indeed,"**Job Description**
+
+**Data Engineer -** **Python, PySpark, SQL, Snowflake & API Integration**
+
+**Job Description:**
+
+We are seeking a skilled **Data Engineer** with strong hands-on experience in Python, PySpark, SQL, Snowflake, and API integrations to build scalable data pipelines and cloud-based data solutions.
+
+**Key Responsibilities:**
+
+* Design, develop, and optimize data pipelines using Python, PySpark, SQL, and Snowflake.
+* Integrate REST APIs and external data sources into Snowflake-based data platforms.
+* Build and maintain ETL/ELT workflows for data ingestion, transformation, and processing.
+* Develop efficient SQL queries and optimize Snowflake performance.
+* Implement data quality, validation, monitoring, and automation.
+* Collaborate with engineering and analytics teams to deliver reliable data solutions.
+
+**Required Qualifications:**
+
+* 3+ years of experience in Data Engineering.
+* Strong hands-on expertise in **Python, PySpark, SQL, and Snowflake**.
+* Experience with REST APIs, JSON, and API-based data integration.
+* Knowledge of ETL/ELT processes, data modeling, and data warehousing.
+* Experience with cloud platforms such as AWS, Azure, or GCP is preferred.
+
+ **Additional Information**
+
+All your information will be kept confidential according to EEO guidelines."
+7356fcd1944f8f54,Backend Engineer (Python/FastAPI),turing,"Remote, Canada",1,CAD 200 - 300 /hourly,2026-10-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=71b22ac4076337f1,https://turing.betterteam.com/backend-engineer-%28python-fastapi%29-52?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic,,,[],new,2026-10-26T19:05:29+00:00,,[],,mid,in-71b22ac4076337f1,indeed,"**About Us:**
+
+Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&L.
+
+**Ideal Background:**
+
+This role is ideal for engineers who have built production systems at companies like Google, Microsoft, Apple, Amazon, Meta, or similar high-scale engineering organizations. We especially welcome graduates from top computer science programs such as Stanford, MIT, Carnegie Mellon, UC Berkeley, Georgia Tech, and comparable institutions — though exceptional experience and skill always take precedence over pedigree.
+
+**Project Overview:**
+
+As a Software Engineering evaluator, you will create cutting-edge datasets for training, benchmarking, and advancing large language models, collaborating closely with researchers. This includes curating code examples, providing precise solutions, and making corrections — with a primary focus on Python across backend services, data pipelines, and ML infrastructure, alongside JavaScript (including ReactJS), C/C++, Java, Rust, and Go. You will evaluate and refine AI-generated code for efficiency, scalability, and reliability, and work with cross-functional teams to enhance enterprise-level AI-driven coding solutions.
+
+**What Does a Typical Day Look Like?**
+
+* Work on AI model training initiatives by curating code examples, building solutions, and correcting code — primarily in Python, with additional work in JavaScript (including ReactJS), C/C++, Java, Rust, and Go.
+* Evaluate and refine AI-generated code to ensure that it is efficient, scalable, and reliable.
+* Collaborate with cross-functional teams to enhance AI-driven coding solutions against industry performance benchmarks.
+* Build agents and automated verification tools in Python that can verify the quality of code and identify error patterns.
+* Hypothesize on steps in the software engineering cycle (prototyping, architecture design, API design, production implementation, launch, experiments, monitoring, operational maintenance) and evaluate model capabilities on them.
+* Design verification mechanisms that can automatically verify a solution to a software engineering task.
+
+**Required Skills:**
+
+* Several years of software engineering experience (3 years or more).
+* Strong expertise in Python with deep knowledge of frameworks, tooling, and best practices for building production-grade software.
+* Experience building full-stack applications and deploying scalable software using modern languages and tools.
+* Deep understanding of software architecture, design, development, debugging, and code quality/review assessment.
+* Excellent oral and written communication skills for clear, structured evaluation rationales.
+
+**Engagement Details:**
+
+* Commitment: flexible engagement, minimum 10 hrs/week, up to 40 hrs/week.
+* Type: Contractor (no medical/paid leave).
+* Duration: 1 month (potential extensions based on performance and fit).
+* Location: Candidates must be based in the United States.
+
+**Evaluation Process:**
+
+* The application process takes 15–30 minutes.
+* Completion of an AI video interview is required."
+5db2c06697630be1,Platform Engineering – Data Infrastructure III,Peoples Group,"Toronto, ON, Canada",0,"CAD 130,000 - 140,000 /yearly",2026-10-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=921297699caee1cd,https://recruiting.ultipro.ca/PEO5000PTC/JobBoard/6694b516-8e57-41f9-b4c2-78527f59c1f4/OpportunityDetail?opportunityId=01796ddb-ac0b-4437-96cb-fd5cfb7fc602&postingId=9e554449-bc57-48bc-aae8-21828cbd2509,,,[],new,2026-10-26T19:05:26+00:00,,[],,senior,in-921297699caee1cd,indeed,"We are hiring for this position out of our Toronto, Vancouver and Calgary offices. Successful candidates who apply outside of these areas will be expected to relocate and reside in a location that is within a commutable distance.
+
+**About the role:**
+
+As an experienced platform engineer, you build and run the infrastructure that other engineers depend on, and you measure your success by how fast and safely they can ship. Here, your customers are our data teams, and the platform you build powers products used by merchants and service providers across Canada. You have designed a platform from the ground up, lived with the consequences, and can explain what you would do differently. You know the difference between a proof of concept and a production-grade system, and you treat security, reliability, and cost as design inputs rather than afterthoughts. You are hands-on, you own what you build, and you work comfortably with engineering, security, and business partners to get the right solution into production.
+
+**About the day-to-day:**
+
+* **Build and evolve the data platform**
+* + Design and maintain platform infrastructure as code, with reusable modules and consistent environments
+  + Build CI/CD golden paths that let data engineers ship safely and independently
+  + Automate provisioning, access management, and platform changes to eliminate manual toil
+* **Run it reliably**
+* + Own platform availability, high availability, disaster recovery, and capacity planning
+  + Define and maintain SLOs, monitoring, and alerting across storage, compute, and orchestration
+  + Participate in the on-call rotation and lead blameless postmortems
+* **Secure it by design**
+* + Implement access control, secrets management, encryption, and data masking in partnership with Security
+  + Keep the platform audit-ready through automated, policy-driven controls
+* **Make data teams faster**
+* + Treat data engineers as your customers by reducing friction and improving developer experience
+  + Contribute to solution design and peer code reviews with a platform and reliability lens
+  + Evaluate new technologies and take the successful ones from proof of concept to production
+
+**About the qualifications:**
+
+* 6+ years in Platform, DevOps, or SRE roles, including at least one greenfield platform build you can speak to end-to-end (architecture decisions, trade-offs, and what you would do differently)
+* Deep, hands-on expertise with Terraform at scale, including module design, state management, and drift control across many environments (Terragrunt or equivalent patterns)
+* Production experience with Docker and Kubernetes, including upgrades, networking, RBAC, and incident response
+* Proven experience designing CI/CD pipelines as a shared platform for engineering teams (GitLab CI, Jenkins, GitHub Actions or equivalent)
+* Strong experience with cloud-native services on AWS, Azure, or GCP, including object storage, serverless compute, managed databases, and IAM
+* Experience building observability with meaningful SLOs, actionable alerting, and dashboards (Datadog, Prometheus, Grafana or equivalent)
+* Experience securing platforms that handle sensitive data and PII, including access control, secrets management, encryption, and working in partnership with security teams
+* Strong scripting and automation skills in Python or Go
+* Experience operating data platforms or tooling (Snowflake, Airflow, dbt, Kafka) an asset
+* Experience with data governance, cataloging, or masking policies (Snowflake Horizon, Purview, Unity Catalog) an asset
+* Experience with policy-as-code (OPA, Sentinel) an asset
+* Experience managing cost on consumption-based cloud platforms an asset
+* Experience in a financial institution or regulated environment (PCI DSS, OSFI) an asset
+* AWS and Azure certifications are assets
+* You have written a postmortem that changed how your team operates
+* You explain technical trade-offs clearly to both engineers and non-technical stakeholders, in writing and verbally
+
+**About us:**
+
+Peoples Group is a trusted financial services company for the innovators at the forefront of Canada’s economic future. With offices in Vancouver, Calgary and Toronto, we are driving change by working alongside challenger banks, fintechs, brokers, and merchants to foster a dynamic and competitive financial ecosystem.
+
+Our culture is built on four core behaviors: **Grit to Grow**, **Connect to Collaborate**, **Putting Clients First**, and **Owning the Outcome**. We believe people do not simply choose a company to work for—they choose a company that makes a positive impact in the lives of Canadians. Above all, we value people, build meaningful relationships, focus on individual strengths, and approach our work with passion.
+
+**About the work environment:**
+
+Peoples Group offers a flexible and hybrid work environment. In this role you will work a combination of in-office and remotely from home. Typically, you'll be working regular business hours, Monday to Friday between 8:00am and 4:30pm with flexibility around start/end times.
+
+**We offer:**
+
+* A hybrid work environment, enabling you to balance your personal and professional life seamlessly.
+
+* Competitive salaries, profit sharing, RRSP matching and benefits from day one.
+
+* Generous paid time off to help achieve a healthy work-life balance.
+
+* A commitment to your well-being in five key areas: Financial, Physical, Social, Career, and Community.
+
+**Hiring process:**
+
+If your application is selected, you will be invited for a first interview with one of our Talent Acquisition Business Partners. Depending on the role, interviews may be conducted virtually or in-person. The hiring team will communicate any in-person requirements throughout the process.
+
+**Compensation:**
+
+The expected salary for this role is approximately $130,000.00 - $140,000.00 annually. Actual compensation may vary based on experience, skills, and qualifications.
+
+NOTE: This job posting is for an existing vacancy. Peoples Group is an Equal Employment Opportunity employer. Please accept our utmost appreciation for your interest; however, only those applicants under consideration will be contacted.
+
+We value and celebrate individuality while fostering an inclusive workplace for everyone. If there's any way we can support or accommodate you during the selection process, please don't hesitate to let us know."
+db5bf7cd59a80540,AWS Data Engineer,Virtusa,"Toronto, Ontario, Canada",0,,2026-10-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481005811,,,,[],new,2026-10-26T19:05:13+00:00,,[],,mid,li-4481005811,linkedin,"**Job Requirements**
+Backend/API Developer
+  
+  
+**Location:**
+PCS CA~TORONTO
+  
+  
+**Years of Experience:**
+7-10 Years
+  
+  
+**Job Summary:**
+We are seeking a skilled Backend/API Developer with extensive experience in building robust and scalable applications. The ideal candidate will have a strong background in cloud technologies, particularly AWS, and will be responsible for developing and maintaining backend services and APIs that support our applications.
+  
+  
+**Responsibilities**
+
+* Design, develop, and maintain backend services and APIs.
+* Collaborate with front-end developers to integrate user-facing elements with server-side logic.
+* Implement security and data protection measures.
+* Optimize applications for maximum speed and scalability.
+* Monitor and troubleshoot application performance issues.
+* Participate in code reviews and maintain coding standards.
+* Stay updated with emerging technologies and industry trends.
+
+**Mandatory Skills**
+
+* Proficiency in AWS services (EC2, S3, Lambda, RDS, etc.)
+* Strong experience in backend programming languages (e.g., Java, Python, Node.js).
+* Experience with RESTful API design and development.
+* Solid understanding of database management systems (SQL and NoSQL).
+* Familiarity with version control systems (e.g., Git).
+
+**Preferred Skills**
+
+* Experience with containerization technologies (e.g., Docker, Kubernetes).
+* Knowledge of microservices architecture.
+* Familiarity with CI/CD pipelines.
+* Experience in Agile/Scrum methodologies.
+
+**Qualifications**
+
+* Bachelor's degree in Computer Science, Engineering, or a related field.
+* 7-10 years of relevant experience in backend development.
+* Strong problem-solving skills and attention to detail.
+* Excellent communication and teamwork abilities.
+
+**Work Experience**
+1015years"
 34a0900ebbc8a9f1,AI Cloud Data Engineer,Altera,"Toronto, Ontario, Canada",0,,2026-10-23,"[""linkedin""]",https://www.linkedin.com/jobs/view/4483165730,,,,[],new,2026-10-25T17:02:56+00:00,,[],,mid,li-4483165730,linkedin,"**Job Details**
 **Job Description:**
 **Altera is seeking a talented and driven AI Data Engineer**
