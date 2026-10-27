@@ -1,4 +1,838 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+7c36202b782eacb7,"Senior Software Engineer, Backend (AI Platform)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-10-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=727ec0f5ead8ab1d,https://grnh.se/jfw1zjaf3us,,,[],new,2026-10-27T18:39:16+00:00,,[],,senior,in-727ec0f5ead8ab1d,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+Affirm's engineering team is building a large-scale, fault-tolerant, and global infrastructure that is shared across multiple financial products, merchants, and vendors. Ensuring that our infrastructure is transparently available to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of writing blameless postmortems as well as writing detailed tech specs and gathering feedback before large changes to systems.  
+  
+The AI Platform team owns Affirm's paved path for building, running, evaluating, and governing AI systems. Our customers are not only Affirm users, but also every engineer and a growing set of production workloads at Affirm. As a team, we are responsible for building and exposing simple, governed interfaces to models, tools, and agents, with identity, cost attribution, reliability, and security built in. Examples of components we own include the LLM Gateway that fronts every approved model (Claude, ChatGPT, and open-weight models across AWS Bedrock and other providers), the MCP Gateway that mediates and audits tool calls, the Agent Runtime that gives agentic workloads bounded execution, and the evals and observability layer that tells teams whether an AI change is better, cheaper, or safe to ship. We are early: the gateway is in daily use across engineering, the first production agent is live, and the next year takes us from developer productivity to production inference and agents.  
+  
+**What You'll Do**
+
+* Plan, execute, and own technical decisions and projects within the AI Platform team, from design through launch and on-call.
+* Design and build the gateway, runtime, and evaluation services that take AI workloads at Affirm from pilot to production, securely scaling across millions of users and their transactions.
+* Make AI spend attributable and governable: build the identity, quota, routing, caching, and failover controls that let teams adopt new models and tools without re-solving the same platform problems.
+* Partner with security, infrastructure, and product engineering teams to set the guardrails for agentic workloads and the on-behalf-of identity model for tool access.
+* Create and monitor metrics for your team's systems, and own the operational health of what you ship: monitoring, alerting, runbooks, and on-call.
+* Set and improve code review and design standards, and advocate for them beyond your team through writing and tech talks.
+* Use AI tools and agentic workflows every day as a multiplier for your own code, design review, and operations, and push the team on what a small AI-native team can deliver.
+* Educate, mentor, and grow engineers in the team, and drive best practices around design, coding, and testing.
+
+  
+
+**What We Look For**
+
+* You have 4+ years of experience designing, developing and launching backend systems at scale using languages like Python or Kotlin.
+* You have a track record of developing highly available distributed systems using technologies like AWS, MySQL and Kubernetes.
+* You have practical experience building with LLMs, agents, or AI frameworks in production: inference APIs, LLM gateways (LiteLLM or similar), MCP, tool calling, evals, or agent runtimes.
+* You understand AI usage and the infrastructure needed to support and leverage AI workloads across different disciplines.
+* You have experience defining a technical plan for the delivery of a significant feature or system component with an elegant, simple and extensible design. You write high quality code that is easily understood and used by others.
+* You are proficient at making significant changes in a large code base, and have developed a suite of tools and practices that enable you and your team to do so safely.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+* This position requires either equivalent practical experience or a Bachelor's degree in a related field.
+  
+
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan
+
+**Pay Grade - N**  
+  
+**Equity Grade - 6**  
+  
+Employees new to Affirm *typically come in at the start of the pay range*. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.  
+  
+Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)  
+  
+CAN base pay range per year: $153,000 - $213,000 CAD
+
+#LI-Remote
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
+e1948e85d3f1c757,"Senior Software Engineer, Data Platform",Okta,"Toronto, Ontario, Canada",0,,2026-10-27,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474058713,,,,[],new,2026-10-27T18:39:13+00:00,,[],,senior,li-4474058713,linkedin,"**Secure Every Identity, from AI to Human**
+Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.
+  
+  
+This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.
+
+About the Team
+
+The Data Platform team is responsible for the foundational data services, systems, and data products for Okta that benefit our users. Today, the Data Platform team solves challenges and enables:
+
+* Streaming analytics
+* Interactive end-user reporting
+* Data and ML platform for Okta to scale
+* Telemetry of our products and data
+
+Our elite team is fast, creative and flexible. We encourage ownership. We expect great things from our engineers and reward them with stimulating new projects, new technologies and the chance to have significant equity in a company. Okta is about to change the cloud computing landscape forever.
+
+About the Position
+
+This is an opportunity for experienced Software Engineers to join our fast growing Data Platform organization that is passionate about scaling high volume, low-latency, distributed data-platform services & data products. In this role, you will get to work with engineers throughout the organization to build foundational infrastructure that allows Okta to scale for years to come. As a member of the Data Platform team, you will be responsible for designing, building, and deploying the systems that power our data analytics and ML. Our analytics infrastructure stack sits on top of many modern technologies, including Kinesis, Flink, ElasticSearch, and Snowflake.
+
+We are looking for experienced Software Engineers who can help design and own the building, deploying and optimizing the streaming infrastructure. This project has a directive from engineering leadership to make OKTA a leader in the use of data and machine learning to improve end-user security and to expand that core-competency across the rest of engineering. You will have a sizable impact on the direction, design & implementation of the solutions to these problems.
+
+Job Duties and Responsibilities:
+
+* Design, implement and own data-intensive, high-performance, scalable platform components
+* Work with engineering teams, architects and cross functional partners on the development of projects, design, and implementation
+* Conduct and participate in design reviews, code reviews, analysis, and performance tuning
+* Coach and mentor engineers to help scale up the engineering organization
+* Debug production issues across services and multiple levels of the stack
+
+Required Knowledge, Skills, and Abilities:
+
+* 4+ years of experience of software development
+
+* Proficient in at least one language while comfortable in more than one of the backend languages, preferably Java or Typescript, Ruby, GoLang, Python.
+* Have experience working with at least one of the database technologies - MySQL, Redis, or PostgreSQL.
+* Demonstrable knowledge of computer science fundamentals with strong API Design skills.
+* Comfortable working on a geographically distributed extended team. Brings the right attitude to the team: ownership, accountability, attention to detail, and customer focus.
+* Track record of delivering work incrementally to get feedback and iterating over solutions.
+* Comfortable in React or similar front-end UI stacks; if not comfortable yet, you are willing to learn
+
+Nice to have
+
+* Experience using a cloud-based distributed computing technologies such as
+
++ Messaging systems such as Kinesis, Kafka
++ Data processing systems like Flink, Spark, Beam
++ Storage & Compute systems such as Snowflake, Hadoop
++ Coordinators and schedulers like the ones in Kubernetes, Hadoop, Mesos
+
+* Maintained security, encryption, identity management, or authentication infrastructure
+* Leveraged major public cloud providers to build mission-critical, high volume services
+* Hands-on experience in developing Data Integration applications for large scale (petabyte scale) environments with experience in both batch and online systems.
+* Contributed to the development of distributed systems or used one or more at high volume or criticality such as Kafka or Hadoop
+
+#P25837\_3573444
+
+Below is the annual salary range for candidates located in Canada. Your actual salary will depend on factors such as your skills, qualifications, and experience. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental, and vision insurance, RRSP with a match, healthcare spending, telemedicine, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program, please visit: https://rewards.okta.com/can.
+
+The annual base salary range for this position for candidates located in Canada is between:: $136,000 CAD - $187,000 CAD
+
+**The Okta Experience**
+
+* Supporting Your Well-Being
+* Driving Social Impact
+* Developing Talent and Fostering Connection + Community
+
+We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.
+  
+  
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.
+  
+  
+If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation.
+  
+  
+Notice for New York City Applicants & Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please click here to view our full NYC AEDT Notice."
+23291fc5d15d2196,"Software Development Engineer II, Omnichannel Metrics (OCM) - Measurement, Ad Tech, and Data Science (MADS)",Amazon,"Toronto, Ontario, Canada",0,,2026-10-27,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475829887,,,,[],new,2026-10-27T18:39:13+00:00,,[],,mid,li-4475829887,linkedin,"**Description**
+Every time an advertiser runs a campaign on Amazon, they want to know: did it drive sales at Target, Walmart, Costco, and hundreds of other retailers? Omnichannel Metrics (OCM) answers that question — and we're just getting started. We build the ML-powered attribution systems that connect billions of ad impressions to real-world purchases across the entire retail landscape, processing massive-scale panel data to give advertisers measurement insights no competitor can match. OCM is one of Amazon Ads' highest-growth products, directly responsible for unlocking advertiser investment by proving the full omnichannel value of Amazon media.
+  
+  
+Right now, we're shipping some of the most ambitious projects in MADS: Fine-Grained OCM that breaks attribution down to category and retailer level for the first time, OCM for Autos bringing omnichannel measurement to the automotive vertical, OCM Local building location-based foot traffic measurement for restaurants and retail, a Combined Methodology that unifies our Panel and Circana measurement into a single omnichannel view, and international expansion of the Unified Panel to 8 new marketplaces. Looking ahead to 2027, we're building real-time streaming attribution, integrating LLMs for agentic report generation and automated campaign optimization, expanding into healthcare and home services verticals, and launching causal incrementality measurement. The problems are genuinely hard — privacy-safe identity resolution at scale, calibrating ML models across sparse panel data, building streaming systems that produce daily estimates from weekly ground truth — and the ambiguity is high. You won't be handed a spec; you'll be defining what to build and how.
+  
+  
+As an SDE II, you will own the architecture and delivery of major system components end-to-end. You'll make technology choices that shape how OCM scales from thousands to tens of thousands of active studies, design distributed data pipelines processing billions of events in Spark/EMR, and build the AI-powered features that transform OCM from a reporting tool into an autonomous measurement platform. You'll work across Scala, Java, and Python, with deep expertise in big data technologies (Apache Spark, Kestrel, EMR), AWS infrastructure (Lambda, DynamoDB, Step Functions, CDK), and data modeling for both relational and non-relational systems.
+  
+  
+You will lead technical design reviews, mentor engineers, and raise the engineering bar across the team. You'll partner directly with applied scientists on ML model productionization and with product managers to translate ambiguous customer problems into scalable technical solutions. This is a team where an L5 engineer has outsized impact — we're small enough that your architectural decisions become the system, and high-visibility enough (S-team and VP-level goals) that leadership sees the results.
+  
+  
+The ideal candidate thrives in ambiguity, has a track record of delivering complex distributed systems in fast-moving environments, and gets energized by problems that sit at the intersection of big data, ML, and product. You're not just looking for a job — you're looking for a team where you can shape the technical direction of a product that's redefining how the advertising industry measures success.
+  
+  
+Key job responsibilities
+  
+  
+
+* Design and build scalable data pipelines processing billions of ad impression and panel receipt events using Spark/EMR on Kestrel, powering omnichannel attribution for thousands of active advertiser studies
+* Lead architecture decisions for OCM's calibration, report generation, and data processing systems spanning multiple pipelines across multiple AWS accounts
+* Own end-to-end delivery of major product features — from technical design through production launch — including real-time streaming attribution, AI-powered report generation, and new vertical measurement frameworks
+* Drive operational excellence across OCM's distributed systems: improve observability, eliminate silent failures, and build self-healing capabilities to meet advertiser SLAs
+* Mentor junior engineers, raise the bar on code quality through design reviews and CRs, and establish engineering best practices across the team
+* Partner with applied scientists and product managers to translate ML model requirements into production-grade systems that serve advertiser-facing measurement products
+
+A day in the life
+  
+  
+You might start your morning reviewing the overnight calibration pipeline run, investigating why a study's attributed sales look anomalous. After standup, you pair with an applied scientist to optimize a Spark job that processes panelist receipt data against ad exposure signals. In the afternoon, you lead a design review for a new streaming architecture that will reduce OCM's reporting latency from weeks to days. You close the day reviewing a CR from a teammate building LLM-powered receipt data extraction. Your work directly impacts how major brands like Procter & Gamble, Hasbro, and Scotts Miracle-Gro measure and optimize billions in advertising spend across Amazon and beyond.
+  
+  
+**About The Team**
+Omnichannel Metrics (OCM) is part of MADS (Measurement, Ad Tech, and Data Science) within Amazon Ads. We answer the question every advertiser asks: ""Did my Amazon ad drive sales at Target, Walmart, and other retailers?"" Our team builds the ML-powered attribution systems that measure off-Amazon impact using panel data from millions of shoppers. We're a high-impact team in startup mode — shipping features that directly unlock advertiser investment and competing head-to-head with Google and Meta's measurement offerings. We value ownership, technical depth, and moving fast.
+  
+  
+**Basic Qualifications**
+
+* 3+ years of non-internship professional software development experience
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**Preferred Qualifications**
+
+* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+The base salary range for this position is listed below. As a total compensation company, Amazon's package may include other elements such as sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon offers comprehensive benefits including health insurance (medical, dental, vision, prescription, basic life & AD&D insurance), Registered Retirement Savings Plan (RRSP), Deferred Profit Sharing Plan (DPSP), paid time off, and other resources to improve health and well-being. We thank all applicants for their interest, however only those interviewed will be advised as to hiring status.
+  
+  
+CAN, ON, Toronto - 114,800.00 - 191,800.00 CAD annually
+  
+  
+  
+**Company**
+- Amazon Development Centre Canada ULC
+  
+  
+Job ID: A10568330"
+3a5d5942fe40de18,Intermediate Data Engineer,Swoon,"Toronto, Ontario, Canada",0,CAD 80 - 90 /hourly,2026-10-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4482999151,,,,[],new,2026-10-27T18:39:13+00:00,,[],,mid,li-4482999151,linkedin,"**Location:**
+Toronto, ON
+
+**Work model:**
+4 days onsite
+
+**Type:**
+Contract
+
+**Duration:**
+12 months
+
+**Rate:**
+80-90/HR INC
+
+**About the Opportunity**
+
+We are seeking a Data Engineer with experience in data engineering, cloud technologies, and machine learning operations to support the development and improvement of data capabilities.
+
+In this role, you will build, maintain, and enhance data pipelines that support analytics, machine learning, and AI applications. You will work with data scientists, technology teams, and business stakeholders to connect data sources, improve data quality, and enable reliable delivery of data to analytical models and downstream systems.
+
+The ideal candidate is a hands-on engineer who can work through complex technical challenges, understand business requirements, and translate them into practical, scalable solutions.
+
+**Key Responsibilities**
+
+* Design, develop, and maintain data pipelines that support analytics, machine learning, and AI applications.
+* Build and optimize data integrations, transformations, and preprocessing workflows across multiple source systems.
+* Develop and maintain solutions using Python, SQL, and cloud-based data engineering tools.
+* Support the deployment, integration, monitoring, and ongoing improvement of machine learning models and associated pipelines.
+* Contribute to the migration and modernization of data processes and platforms into cloud-based environments.
+* Prepare and structure data for predictive models, advanced analytics, and AI applications, including large language model use cases.
+* Troubleshoot pipeline issues, improve data reliability, and identify opportunities to enhance performance and efficiency.
+* Collaborate with data scientists, developers, and business stakeholders to understand requirements and deliver effective technical solutions.
+* Translate business needs into clear technical requirements and actionable development plans.
+* Document processes, technical solutions, and data workflows to support maintainability and knowledge sharing.
+
+**Required Qualifications**
+
+* Approximately 4+ years of experience in data engineering, data integration, or a related technical role.
+* Strong programming experience with Python.
+* Hands-on experience with SQL and data transformation.
+* Experience with cloud-based data platforms and services; AWS is preferred.
+* Familiarity with PySpark or other distributed data processing technologies.
+* Experience building and maintaining data pipelines for analytics, machine learning, or AI applications.
+* Understanding of machine learning operations, including model deployment, integration, monitoring, or production support.
+* Experience working with multiple data sources and transforming complex datasets into usable formats.
+* Strong analytical and problem-solving skills, with the ability to break complex requirements into manageable steps.
+* Excellent communication skills and the ability to collaborate across technical and business teams.
+
+**Nice to Have**
+
+* Experience with SAS or supporting the migration of legacy data processes to Python.
+* Exposure to machine learning platforms, AI integrations, or large language model workflows.
+* Experience in financial services or another complex, regulated environment.
+* Familiarity with data governance, data quality, and production data management practices.
+
+**What Makes You a Great Fit**
+
+You are a practical, solutions-oriented engineer who enjoys building reliable data solutions and improving existing processes. You can understand a system’s current state, identify the desired outcome, and develop a logical plan to get there.
+
+You are comfortable working with technical and non-technical stakeholders, asking the right questions, and explaining complex concepts clearly. You bring technical depth, business awareness, and a willingness to learn and contribute within a collaborative team."
+c6970376dce6ea2f,Data Engineer,Insight Global,"Toronto, Ontario, Canada",0,CAD 85 - 89 /hourly,2026-10-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4482999185,,,,[],new,2026-10-27T18:39:13+00:00,,[],,mid,li-4482999185,linkedin,"**Title: Data Engineer**
+
+**Location: 3x per week onsite DT Toronto**
+
+**Duration: 12 month contract + possible extensions**
+
+Data Engineer to support a large enterprise transformation focused on building data pipelines, integrating data, and migrating data workloads from on-premises environments to AWS.
+
+This person should be technically strong in Python and SQL, have hands-on AWS migration experience, and be comfortable partnering directly with business stakeholders. Experience with Machine Learning and MLOps is a strong plus, particularly supporting models through integration and production environments.
+
+**Key Responsibilities**
+
+* Design, develop, and maintain data pipelines.
+* Migrate existing data pipelines and workloads from on-premises infrastructure to AWS.
+* Gather, integrate, transform, and prepare data from multiple sources.
+* Use Python and SQL extensively for data development and manipulation.
+* Support integration of data into existing enterprise platforms and applications.
+* Partner with business and technical stakeholders to understand requirements and translate them into technical solutions.
+* Support ML/MLOps integration into production environments where applicable.
+* Work within an enterprise environment supporting business-critical applications and workflows.
+* Communicate technical concepts clearly to both technical and non-technical stakeholders.
+
+**Must-Have Skills**
+
+* Strong Python development experience.
+* Advanced SQL skills.
+* 3+ years of Data Engineering experience
+* Hands-on experience developing and migrating data pipelines.
+* Proven experience migrating data/workloads from on-premises environments to AWS.
+* Strong hands-on experience working within the AWS ecosystem.
+* Experience integrating and transforming data from multiple sources.
+* Strong communication and stakeholder-management skills.
+* Ability to operate in a consultative capacity, working directly with the business.
+* Experience working within a large enterprise environment.
+
+*\*Artificial intelligence tools are used to assist in screening and assessing applicants for this position.*
+
+*\*Pay range for this role is between $85-89/hr CAD.*
+
+*\*This role is an existing vacancy.*
+
+*\*No requirement for Canadian experience or education.*"
+6d24e0b9ce0a5b53,Sr. IFRS17 Data Engineer,Tata Consultancy Services,"Toronto, Ontario, Canada",0,"CAD 90,000 - 110,000 /yearly",2026-10-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4482684915,,,,[],new,2026-10-27T18:39:13+00:00,,[],,senior,li-4482684915,linkedin,"**Inclusion without Exception**
+
+Tata Consultancy Services (TCS) is an equal opportunity employer, and embraces diversity in race, nationality, ethnicity, gender, age, physical ability, neurodiversity, and sexual orientation, to create a workforce that reflects the societies we operate in. Our continued commitment to Culture and Diversity is reflected in our people stories across our workforce and implemented through equitable workplace policies and processes.
+
+TCS has been serving the Canadian marketplace for more than 35 years and today is the technology partner of choice for many of the country's leading organizations. As one of the largest IT services providers in Canada and globally, TCS is aiming to become the world's largest AI-led technology services company and is enabling its clients to transform themselves across the full AI stack, from infrastructure to intelligence.
+
+Rooted in the heritage and values of the Tata Group, TCS is focused on creating long-term value for its clients, investors, employees, and the communities it serves. With a highly skilled workforce supporting customers from coast to coast, TCS has consistently been recognized as a Top Employer by the Top Employers Institute, including a recent top ranking at the country level.
+
+TCS also sponsors 14 of the world's most prestigious marathons and endurance events, including the TCS Toronto Waterfront Marathon, reflecting its commitment to health, sustainability, and community empowerment.
+
+**Sr. IFRS17 Data Engineer**
+
+**Job Description**
+
+**Must-Have Skills**
+
+* **Demonstrated knowledge of IFRS 17, data analysis, and the insurance domain.**
+* **Expert knowledge of:**
+* **Data analysis**
+* **SQL**
+* **Python**
+* **PySpark**
+* **Develop and maintain backend systems using Python and PySpark, ensuring high performance, scalability, and reliability.**
+* **Design and implement data engineering and ETL pipelines using PySpark.**
+* **Collaborate with cross-functional teams to identify and prioritize project requirements.**
+* **Mentor and guide engineers by providing technical guidance and conducting code reviews.**
+* **Lead the technical direction of the team, including architecture, design, and implementation of software systems.**
+* **Collaborate with product owners to define and prioritize requirements.**
+* **Develop and maintain technical documentation, including architecture diagrams and technical specifications.**
+* **Participate in code reviews to ensure high-quality code and adherence to coding standards.**
+* **Collaborate with DevOps and Operations teams to ensure smooth application deployment and operation.**
+* **Strong expertise in DevOps practices and CI/CD pipelines.**
+* **Strong technical leadership, mentoring, and coaching skills.**
+* **Ability to make technical decisions, prioritize tasks, and manage technical resources.**
+* **Excellent communication and collaboration skills.**
+* **Ability to drive technical innovation by researching and evaluating new technologies and recommending technical solutions.**
+* **Strong problem-solving skills with the ability to debug complex issues.**
+* **Willingness to learn new technologies and adapt to new challenges.**
+* **Stay current with the latest technologies and frameworks and apply this knowledge to improve existing systems and processes.**
+
+**Good to Have**
+
+* **Dataiku exposure.**
+
+**Salary Range - CA$ 90,000 - CA$ 110,000 Per Year**
+
+Tata Consultancy Services Canada Inc. is committed to meeting the accessibility needs of all individuals in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code (OHRC). Should you require accommodation during the recruitment and selection process, please inform Human Resources.
+
+Thank you for your interest in TCS. Candidates that meet the qualifications for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile."
+5d0fff2a45b42615,"Senior Software Engineer, Backend (AI Platform)",Affirm,"Remote, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-10-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=1fe6bdce8477d253,https://grnh.se/jfw1zjaf3us,,,[],new,2026-10-27T18:39:13+00:00,,[],,senior,in-1fe6bdce8477d253,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+Affirm's engineering team is building a large-scale, fault-tolerant, and global infrastructure that is shared across multiple financial products, merchants, and vendors. Ensuring that our infrastructure is transparently available to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of writing blameless postmortems as well as writing detailed tech specs and gathering feedback before large changes to systems.  
+  
+The AI Platform team owns Affirm's paved path for building, running, evaluating, and governing AI systems. Our customers are not only Affirm users, but also every engineer and a growing set of production workloads at Affirm. As a team, we are responsible for building and exposing simple, governed interfaces to models, tools, and agents, with identity, cost attribution, reliability, and security built in. Examples of components we own include the LLM Gateway that fronts every approved model (Claude, ChatGPT, and open-weight models across AWS Bedrock and other providers), the MCP Gateway that mediates and audits tool calls, the Agent Runtime that gives agentic workloads bounded execution, and the evals and observability layer that tells teams whether an AI change is better, cheaper, or safe to ship. We are early: the gateway is in daily use across engineering, the first production agent is live, and the next year takes us from developer productivity to production inference and agents.  
+  
+**What You'll Do**
+
+* Plan, execute, and own technical decisions and projects within the AI Platform team, from design through launch and on-call.
+* Design and build the gateway, runtime, and evaluation services that take AI workloads at Affirm from pilot to production, securely scaling across millions of users and their transactions.
+* Make AI spend attributable and governable: build the identity, quota, routing, caching, and failover controls that let teams adopt new models and tools without re-solving the same platform problems.
+* Partner with security, infrastructure, and product engineering teams to set the guardrails for agentic workloads and the on-behalf-of identity model for tool access.
+* Create and monitor metrics for your team's systems, and own the operational health of what you ship: monitoring, alerting, runbooks, and on-call.
+* Set and improve code review and design standards, and advocate for them beyond your team through writing and tech talks.
+* Use AI tools and agentic workflows every day as a multiplier for your own code, design review, and operations, and push the team on what a small AI-native team can deliver.
+* Educate, mentor, and grow engineers in the team, and drive best practices around design, coding, and testing.
+
+  
+
+**What We Look For**
+
+* You have 4+ years of experience designing, developing and launching backend systems at scale using languages like Python or Kotlin.
+* You have a track record of developing highly available distributed systems using technologies like AWS, MySQL and Kubernetes.
+* You have practical experience building with LLMs, agents, or AI frameworks in production: inference APIs, LLM gateways (LiteLLM or similar), MCP, tool calling, evals, or agent runtimes.
+* You understand AI usage and the infrastructure needed to support and leverage AI workloads across different disciplines.
+* You have experience defining a technical plan for the delivery of a significant feature or system component with an elegant, simple and extensible design. You write high quality code that is easily understood and used by others.
+* You are proficient at making significant changes in a large code base, and have developed a suite of tools and practices that enable you and your team to do so safely.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+* This position requires either equivalent practical experience or a Bachelor's degree in a related field.
+  
+
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan
+
+**Pay Grade - N**  
+  
+**Equity Grade - 6**  
+  
+Employees new to Affirm *typically come in at the start of the pay range*. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.  
+  
+Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)  
+  
+CAN base pay range per year: $153,000 - $213,000 CAD
+
+#LI-Remote
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
+429fd8f071e93004,Python Developer,HISH IT SERVICES,"Toronto, Ontario, Canada",0,,2026-10-27,"[""linkedin""]",https://www.linkedin.com/jobs/view/4484077179,,,,[],new,2026-10-27T18:37:23+00:00,,[],,mid,li-4484077179,linkedin,"Role : SAS/Python Developer/Lead
+
+Location: Remote
+
+Job type: Contract(1 year) - High possibility of Extension
+
+Pay : CAD $50 /Hour
+
+Start date : Immediate
+
+**\*\*multiple positions\*\***
+
+\*\*\*
+**Candidates must have a valid work permit to work in Canada**
+\*\*\*
+
+**Overview:**
+
+Client is modernizing its U.S. Banking analytics ecosystem by migrating legacy SAS-based workloads to Anaconda/Python. This role supports the SAS decommissioning program through application migration, automation development, governance activities, and modernization of analytical processes. The objective is to migrate or retire all active SAS workloads by December 2027.
+
+**Key Responsibilities**
+
+* Analyze business and technical requirements to design scalable solutions.
+* Interpret and migrate SAS programs, datasets, and processes to Python-based environments.
+* Develop, test, and maintain high-quality Python applications and scripts.
+* Build and support Unix-based automation and data processing pipelines.
+* Optimize applications for performance, scalability, and reliability.
+* Maintain technical documentation and source code repositories using Git.
+* Collaborate with business stakeholders, developers, and infrastructure teams to deliver migration and modernization objectives.
+
+**Required Technical Skills**
+
+* Proficiency in Python (Anaconda), SQL, and SAS.
+* Experience with relational databases, including Netezza and Redshift.
+* Strong Linux/Unix scripting and CRON scheduling experience.
+* Familiarity with GitHub and GitHub Copilot.
+* Experience with unit testing, debugging, and code optimization.
+* Working knowledge of SAS Enterprise Guide and JupyterHub.
+
+**Professional Competencies**
+
+* Strong analytical and problem-solving skills.
+* Effective written and verbal communication.
+* Ability to collaborate across technical and business teams.
+* Commitment to code quality, accuracy, and continuous improvement.
+
+**\*\* CANDIDATES WHO CAN WORK CST ARE PREFERRED**"
+bb8d1b2f495119a0,"Lead SAS/Python Developer (Contract/FTE, Remote)",Adastra,"Markham, Ontario, Canada",1,,2026-10-27,"[""linkedin""]",https://www.linkedin.com/jobs/view/4483277561,,,,[],new,2026-10-27T18:37:23+00:00,,[],,mid,li-4483277561,linkedin,"**Overview**
+Adastra is seeking a Lead SAS/Python Developer to support a large-scale modernization initiative focused on migrating legacy SAS-based workloads to Anaconda/Python. In this role, you will provide technical leadership for SAS decommissioning and migration activities, while remaining hands-on in application migration, automation development, governance activities, and modernization of analytical processes. You will work across technical and business teams to lead the migration or retirement of active SAS workloads, establish development standards, guide technical implementation, and ensure the scalability, reliability, and maintainability of analytical solutions.
+  
+  
+**Primary Location:**
+Across Canada or USA (must be able to work Central (CST) hours)
+  
+  
+**Work Model:**
+Fully Remote
+  
+  
+**Employment Type:**
+Contractor or Full-Time
+  
+  
+**Vacancy Status:**
+New
+  
+  
+**Responsibilities**
+
+* Provide technical leadership and hands-on development throughout SAS-to-Python migration and modernization initiatives
+* Analyze complex business and technical requirements to design scalable solutions and define technical approaches
+* Lead the interpretation and migration of SAS programs, datasets, and processes to Python-based environments
+* Develop, test, and maintain high-quality Python applications and scripts
+* Build and support Unix-based automation and data processing pipelines
+* Establish and promote development standards, coding best practices, and reusable patterns across the team
+* Conduct code and technical design reviews and provide guidance to developers
+* Optimize applications for performance, scalability, reliability, and maintainability
+* Identify technical risks, dependencies, and migration challenges and drive solutions through to resolution
+* Maintain technical documentation and source code repositories using Git
+* Collaborate with business stakeholders, developers, infrastructure teams, and other technical partners to deliver migration and modernization objectives
+* Act as a technical point of contact for development and migration activities, supporting technical decision-making across the initiative
+
+**Qualifications, Skills & Experience**
+
+* Senior/Lead-level software development experience, including demonstrated experience providing technical leadership within complex development or modernization initiatives
+* Strong hands-on expertise in Python, including Anaconda, as well as SQL and SAS
+* Strong ability to understand, interpret, and modernize complex SAS programs and workflows
+* Experience with relational databases, including Netezza and Redshift
+* Strong Linux/Unix scripting experience
+* Experience with CRON scheduling and automation
+* Strong experience with unit testing, debugging, code optimization, and performance tuning
+* Experience conducting code reviews, establishing development standards, and guiding other developers on technical implementation
+* Ability to own technical solutions from requirements and design through development, testing, and implementation
+* Strong analytical, troubleshooting, and problem-solving skills
+* Strong written and verbal communication skills, with the ability to communicate technical concepts and recommendations to both technical and business stakeholders
+* Ability to collaborate effectively across technical and business teams
+* Commitment to code quality, accuracy, maintainability, and continuous improvement
+* Ability to work within CST hours is preferred
+
+**NICE TO HAVE**
+
+* Familiarity with GitHub and GitHub Copilot
+* Working knowledge of SAS Enterprise Guide
+* Working knowledge of JupyterHub
+* Previous experience leading or supporting large-scale SAS-to-Python migration or SAS decommissioning initiatives
+* Experience mentoring or providing technical direction to development teams
+
+**About Adastra**
+Adastra is a global leader in AI and data-driven transformation, helping organizations lead with artificial intelligence—responsibly, strategically, and at scale. With over 25 years of experience, Adastra empowers enterprise clients to unlock business value through data innovation, operational excellence, and smart customer engagement.
+  
+  
+Trusted by some of the world’s most prominent brands, Adastra delivers end-to-end solutions grounded in thoughtful strategy, robust governance, and deep technical expertise. From defining vision to ensuring execution, Adastra guides organizations through every stage of their AI, data and cloud journey—building future-ready capabilities and delivering measurable, lasting impact.
+  
+  
+Adastra serves clients across key industries including financial services, automotive, manufacturing, technology, media and telecom (TMT), healthcare, retail, and professional services. The company employs more than 2,000 professionals across North America, Europe, and Asia.
+  
+  
+**What We Offer**
+
+* Opportunity for advancement and career progression
+* Competitive compensation
+* Successful referral program
+* The opportunity to work with one of Canada’s 50 Best Managed Companies
+* Satisfaction of working for a reputable company
+* A flexible, dynamic, and diverse workplace
+
+**EQUAL OPPORTUNITY EMPLOYER**
+In our commitment to promote fair and equitable treatment of all employees and applicants, Adastra Corporation provides equal employment opportunities for all individuals regardless of age, sex, disability, race, ethnic origin, citizenship, creed, sexual orientation, marital status, or any other ground as described in the Ontario Human Rights Code. In addition, accommodation will be provided during the hiring process. Adastra Corporation’s implementation and support of employment initiatives, encourage diversified labour force participation and equal access to opportunities based on merit and performance.
+  
+  
+AI Usage - Our hiring process includes the use of AI-enabled tools to screen applications (e.g., keyword matching, qualification ranking). A human recruiter reviews all AI-generated shortlists to make informed hiring decisions.
+  
+  
+There has been an increased instance of fraudulent job offers coming from people posing as Adastra HR employees. Please note that Adastra will never request fees as part of our recruiting process and any emails sent to you that are not from ‘@adastragrp.com’ or ‘@talent.icims.com’ are fraudulent. All employment offers are sent via DocuSign and if you receive an employment offer from a suspicious email and not via DocuSign, it is fraudulent.
+  
+  
+Contact careers@adastragrp.com to inquire about jobs at Adastra, to report a suspicious request for money or personal information from external websites or suspicious employment offers."
+d90e38a32d7231e4,"SAS/Python Developer (Contract/FTE, Remote)",Adastra,"Markham, Ontario, Canada",1,,2026-10-27,"[""linkedin""]",https://www.linkedin.com/jobs/view/4483268903,,,,[],new,2026-10-27T18:37:23+00:00,,[],,mid,li-4483268903,linkedin,"**Overview**
+Adastra is seeking a SAS/Python Developer to support a large-scale modernization initiative focused on migrating legacy SAS-based workloads to Anaconda/Python. In this role, you will support SAS decommissioning through application migration, automation development, governance activities, and modernization of analytical processes. You will work across technical and business teams to migrate or retire active SAS workloads while improving the scalability, reliability, and maintainability of analytical solutions.
+  
+  
+**Primary Location:**
+Across Canada or USA (must be able to work Central (CST) hours)
+  
+  
+**Work Model:**
+Fully Remote
+  
+  
+**Employment Type:**
+Contractor or Full-Time
+  
+  
+**Vacancy Status:**
+New
+  
+  
+**Responsibilities**
+
+* Analyze business and technical requirements to design scalable solutions
+* Interpret and migrate SAS programs, datasets, and processes to Python-based environments
+* Develop, test, and maintain high-quality Python applications and scripts
+* Build and support Unix-based automation and data processing pipelines
+* Optimize applications for performance, scalability, and reliability
+* Maintain technical documentation and source code repositories using Git
+* Collaborate with business stakeholders, developers, and infrastructure teams to deliver migration and modernization objectives
+
+**Qualifications, Skills & Experience**
+
+* Intermediate to senior-level development experience, with Lead-level experience considered for designated Lead openings
+* Proficiency in Python, including Anaconda, as well as SQL and SAS
+* Experience with relational databases, including Netezza and Redshift
+* Strong Linux/Unix scripting experience
+* Experience with CRON scheduling and automation
+* Experience with unit testing, debugging, and code optimization
+* Strong analytical and problem-solving skills
+* Effective written and verbal communication skills
+* Ability to collaborate across technical and business teams
+* Commitment to code quality, accuracy, and continuous improvement
+* Ability to work within CST hours is preferred
+
+**NICE TO HAVE**
+
+* Familiarity with GitHub and GitHub Copilot
+* Working knowledge of SAS Enterprise Guide
+* Working knowledge of JupyterHub
+* Experience supporting SAS-to-Python migration or SAS decommissioning initiatives
+
+**About Adastra**
+Adastra is a global leader in AI and data-driven transformation, helping organizations lead with artificial intelligence—responsibly, strategically, and at scale. With over 25 years of experience, Adastra empowers enterprise clients to unlock business value through data innovation, operational excellence, and smart customer engagement.
+  
+  
+Trusted by some of the world’s most prominent brands, Adastra delivers end-to-end solutions grounded in thoughtful strategy, robust governance, and deep technical expertise. From defining vision to ensuring execution, Adastra guides organizations through every stage of their AI, data and cloud journey—building future-ready capabilities and delivering measurable, lasting impact.
+  
+  
+Adastra serves clients across key industries including financial services, automotive, manufacturing, technology, media and telecom (TMT), healthcare, retail, and professional services. The company employs more than 2,000 professionals across North America, Europe, and Asia.
+  
+  
+**What We Offer**
+
+* Opportunity for advancement and career progression
+* Competitive compensation
+* Successful referral program
+* The opportunity to work with one of Canada’s 50 Best Managed Companies
+* Satisfaction of working for a reputable company
+* A flexible, dynamic, and diverse workplace
+
+**EQUAL OPPORTUNITY EMPLOYER**
+In our commitment to promote fair and equitable treatment of all employees and applicants, Adastra Corporation provides equal employment opportunities for all individuals regardless of age, sex, disability, race, ethnic origin, citizenship, creed, sexual orientation, marital status, or any other ground as described in the Ontario Human Rights Code. In addition, accommodation will be provided during the hiring process. Adastra Corporation’s implementation and support of employment initiatives, encourage diversified labour force participation and equal access to opportunities based on merit and performance.
+  
+  
+AI Usage - Our hiring process includes the use of AI-enabled tools to screen applications (e.g., keyword matching, qualification ranking). A human recruiter reviews all AI-generated shortlists to make informed hiring decisions.
+  
+  
+There has been an increased instance of fraudulent job offers coming from people posing as Adastra HR employees. Please note that Adastra will never request fees as part of our recruiting process and any emails sent to you that are not from ‘@adastragrp.com’ or ‘@talent.icims.com’ are fraudulent. All employment offers are sent via DocuSign and if you receive an employment offer from a suspicious email and not via DocuSign, it is fraudulent.
+  
+  
+Contact careers@adastragrp.com to inquire about jobs at Adastra, to report a suspicious request for money or personal information from external websites or suspicious employment offers."
+cfaae2818fe1df6f,Full Stack Python Developer,STACK IT Recruitment,"Toronto, Ontario, Canada",0,"CAD 100,000 - 120,000 /yearly",2026-10-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4483737145,,,,[],new,2026-10-27T18:37:23+00:00,,[],,mid,li-4483737145,linkedin,"**🏗️Are you a full stack developer who wants to build reliable, production-grade features on complex financial data, from backend services to client reporting?**
+
+We're hiring an Intermediate
+**Full Stack Python Developer**
+to join an established financial software company building portfolio management software for banks and institutional clients. The role owns each feature from start to finish: understanding the business need, planning how it fits across the front end, backend, and data layer, and seeing it through testing and release.
+
+**💻 Who You Are**
+
+* A developer who takes full ownership of the features they deliver and remains the point of reference for them long after release
+* Comfortable working in unfamiliar areas of the system, approaching new domains, layers, and tools with curiosity rather than hesitation
+* Attentive to how software behaves once it is live, writing code that is maintainable, observable, and straightforward to troubleshoot under production conditions
+* Someone who uses AI coding tools with discipline, treating agents as assistants to be directed and verified, with clear limits on what they can access
+* Receptive to feedback and generous with knowledge, contributing to a team where everyone supports one another across the stack
+* Inclined to understand the business problem first, asking the questions needed to clarify a requirement before deciding how to build it
+
+**📍 Work Type**
+
+* Location: Toronto, ON (Hybrid, 3 days per week)
+* Vacancy Type: This role is a newly created position
+
+**Requirements**
+
+**🎯 What You'll Do**
+
+* Own product features end-to-end, analyzing requirements with stakeholders, designing the approach across the front end, backend, and data layer, and carrying the work through testing and release
+* Divide your time across the full stack, with the greater share on backend services and significant, ongoing involvement in front-end development
+* Design, build, and maintain Python services and APIs using FastAPI within a microservices architecture hosted on Azure
+* Develop maintainable user interfaces in React and TypeScript that present financial data and reporting to end users
+* Work within complex PostgreSQL data schemas, applying sound practices for data integrity and the protection of personally identifiable information
+* Build and maintain features that aggregate data from overnight and real-time feeds across multiple financial systems into end-user reporting
+* Investigate and resolve data issues in production, including identifying and optimizing slow-running queries
+* Build logging and maintainability into your applications so that critical production systems can be monitored and troubleshot effectively
+* Direct AI coding agents such as Claude through implementation, use GitHub Copilot within code review, and configure your own agent tooling within the established architecture
+
+**⭐ What We're Looking For**
+
+* 3+ years of professional software development experience, with a track record of delivering production features
+* Solid Python backend experience with FastAPI or a comparable web framework, including RESTful API design, or strong backend experience in C#/.NET and readiness to work in Python
+* Hands-on experience building production interfaces with React and TypeScript
+* Strong SQL skills and relational database experience, ideally with PostgreSQL, including data modeling, query analysis, and performance tuning
+* A sound understanding of microservices architecture and of how services, data feeds and integrations interact in a production system
+* Practical experience with AI coding assistants or agents such as Claude Code, GitHub Copilot or Cursor, including providing context, reviewing generated code and verifying results, or clear readiness to adopt them quickly
+* Proficiency with Git and modern delivery practices, including code review and automated testing
+* The ability to translate business requirements into a clear implementation plan and to explain reasoning and trade-offs to technical and non-technical colleagues
+
+**Nice to have:**
+
+* Experience in FinTech, wealth management or portfolio management software
+* Experience with Azure services and CI/CD pipelines in Azure DevOps
+* Experience with production monitoring, log analytics, or support of business-critical systems
+
+**🔥 What Makes This Role Exciting**
+
+* **End-to-End Ownership:**
+  You'll take each feature from the first requirements conversation to release, with responsibility across the whole system rather than a single layer
+* **Complex Financial Data:**
+  The work draws on data from many financial systems, arriving both overnight and in real time
+* **Freedom in Tooling:**
+  There are no restrictions on AI tools, and new ones are evaluated as soon as they appear
+* **A Growing Scope:**
+  Developers are increasingly involved in how their work is deployed, monitored, and supported, giving you room to grow beyond writing code
+
+**Benefits**
+
+* **Base Salary:**
+  $100,000 - $120,000
+* **Paid Time Off:**
+  Competitive vacation and personal days to maintain a healthy work-life balance
+* **Health Benefits:**
+  Medical, dental, and vision benefits to support your overall well-being
+
+**📩 Ready for a change? Apply Now!**
+
+At STACK IT Recruitment, we connect top talent with standout opportunities. If you meet at least 70% of the qualifications, we encourage you to apply — we'd love to chat!
+
+Know someone perfect for this role? Share it with your network — you might just help someone take the next big step in their career.
+
+✨ We're proud to support diversity and inclusion. Need accommodation during the hiring process? Just let us know — we're here to support you!
+
+**AI Use Disclosure:**
+STACK IT uses AI-enhanced tools to support initial candidate screening and interview note analysis. All assessments and hiring decisions remain human-led"
+7d62a82cefea388d,Forward Deployed Engineer (Python/Pyspark Developer),Apptoza Inc.,"Toronto, Ontario, Canada",0,,2026-10-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481823048,,,,[],new,2026-10-27T18:37:23+00:00,,[],,mid,li-4481823048,linkedin,"**Forward Deployed Engineer (Python/Pyspark Developer)**
+
+**Toronto ON, Hybrid (Full time)**
+
+The opportunity
+
+We are looking for a senior Forward Deployed Engineer who combines production-grade software engineering, data engineering, AI application development, and client-facing consulting. You will embed with business users, client SMEs, product owners, and engineering teams to understand complex workflows, rapidly validate solutions using real data, remove technical blockers, and own delivery through production launch, stabilization, adoption, and handover.
+
+What you will do
+
+• Embed with client SMEs, product owners, business users, and engineers to map workflows, users, data, constraints, and decision points.
+
+• Agree on the first useful release, measurable success criteria, and a practical roadmap from prototype to production.
+
+• Profile unfamiliar client data using Python, pandas, PySpark, and SQL to assess coverage, quality, volumes, distributions, edge cases, and feasibility.
+
+• Build thin working solutions using real client data and APIs, validate them with users, and iteratively harden them for production.
+
+• Design, develop, and deploy enterprise AI and data applications using Python, PySpark, SQL, REST APIs, FastAPI, and cloud data platforms.
+
+• Build Claude-powered applications, copilots, and AI workflows using prompt engineering, RAG, vector databases, semantic search, and agentic AI patterns.
+
+• Design batch, real-time, and streaming data pipelines and integrations across enterprise systems.
+
+• Implement MLOps/LLMOps capabilities, including lifecycle management, CI/CD, MLflow, monitoring, deployment automation, rollback, and production support.
+
+• Create evaluation datasets with client SMEs, measure model and LLM quality, perform structured error analysis, and prioritize improvements.
+
+• Resolve data-access, API, identity, network, security, infrastructure, and deployment blockers with client teams.
+
+• Own post-go-live monitoring, incident diagnosis, rollback, stabilization, latency, performance, reliability, and cost optimization.
+
+• Measure adoption and business impact using agreed KPIs, then complete structured handover with runbooks, support ownership, and knowledge transfer.
+
+What you bring
+
+• 10+ years of experience in data engineering, AI application development, cloud data platforms, and production software engineering.
+
+• Strong hands-on expertise in Python, PySpark, SQL, REST APIs, FastAPI, Git, Docker, Kubernetes, Airflow, MLflow, CI/CD, and distributed processing.
+
+• Experience with Claude, prompt engineering, RAG, vector databases, semantic search, and agentic AI patterns.
+
+• Strong knowledge of ETL/ELT, batch and streaming pipelines, data quality, metadata, lineage, observability, and DataOps.
+
+• Experience operationalizing MLOps/LLMOps, including model lifecycle management, automated deployment, monitoring, rollback, and production support.
+
+• Knowledge of enterprise cloud services across compute, storage, integration, orchestration, networking, monitoring, security, and cost optimization.
+
+• Understanding of IAM/RBAC, encryption, secrets management, privacy controls, auditability, compliance, and secure data access.
+
+• Ability to translate business requirements into scalable designs, define non-functional requirements, estimate effort, and drive implementation.
+
+• BFSI experience and strong client-facing skills across discovery, rapid prototyping, solution shaping, workshops, and technical presentations.
+
+• Bachelor's degree in a relevant discipline. Cloud, Kubernetes, AI engineering, MLOps, data engineering, architecture, or security certifications are preferred.
+
+Thanks & regards,
+
+**Lakshmi Bhavani ,**
+
+**Apptoza Inc.**
+
+Phone:
+**678-392-3978 Ext 4640**
+
+Phone: 437-291-3224 Ext 1105
+
+Mail id : Lakshmi.bhavani@apptoza.com"
+9946b29113d87bfd,SAS/Python Developer,Insight Global,"Toronto, Ontario, Canada",0,CAD 49 - 56 /hourly,2026-10-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4483250384,,,,[],new,2026-10-27T18:37:23+00:00,,[],,mid,li-4483250384,linkedin,"**12 month contract**
+
+**Hybrid 2x per week in office**
+
+**Pay: $49/hr T4 $56/hr incorp**
+
+**Must Haves**
+
+* 2-5 years of experience with hands on development with
+  **SAS and Python**
+* Strong hands-on experience with
+  **SAS, including data steps, macros, and SAS SQL**
+* Experience converting or modernizing
+  **SAS code into Python**
+* **Strong Python development experience, including working with dataframes and data manipulation libraries**
+* Experience
+  **working within Anaconda environments**
+  , including cloud-based Anaconda platforms and server connectivity
+* Experience using
+  **GitHub Copilot**
+  and an understanding of AI-assisted development tools
+* Strong understanding of data concepts, data transformation, and data processing best practices
+* Experience producing clear technical documentation and status updates
+* Ability to work independently in a highly technical, heads-down development environment
+* Strong communication skills with the ability to articulate technical work and progress to stakeholders
+
+**Nice to Haves**
+
+* Experience with agentic prompting and advanced GitHub Copilot capabilities
+* Experience troubleshooting development environment, server connectivity, architecture, or engineering-related issues
+* Experience working in Visual Studio or similar development environments
+* Experience supporting large-scale migration or modernization initiatives
+* Previous experience working with teams where SAS remains a primary technology used across the organization
+* Banking or financial services experience is considered an asset but is not required
+
+**Job Description**
+
+Insight Global is hiring for a SAS/Python Developer on a 12-month contract. This individual will join a team focused on modernizing existing SAS-based processes and supporting the transition of legacy code into Python-based solutions. The successful candidate will spend the majority of their time developing and converting SAS code, including data steps, macros, and SAS SQL, into scalable Python solutions while leveraging tools such as Anaconda and GitHub Copilot.
+
+This is a highly technical, hands-on role requiring strong coding expertise and the ability to work independently with minimal oversight. Approximately 80% of the position will be dedicated to development work, including code conversion, enhancement, and optimization activities. The remaining responsibilities will include providing status updates to stakeholders, maintaining proper technical documentation, and assisting with development environment, server connectivity, and related engineering support activities.
+
+The ideal candidate is a strong problem solver who can clearly explain their technical approach, work effectively within established development standards, and contribute to ongoing modernization efforts through high-quality coding practices and thorough documentation. This position follows a hybrid work model, requiring onsite attendance two days per week.
+
+*Artificial intelligence tools are used to assist in screening and assessing applicants for this position.*
+
+***Vacancy:***
+*This posting is for a currently vacant role, and the successful candidate will be hired into an existing open position.*"
 019c53e4c9f17234,"Data Engineer - Python, PySpark, SQL, Snowflake & API Integration",Tms Llc,"Toronto, ON, Canada",1,CAD 35 - 40 /hourly,2026-10-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=6c98406945536e94,https://jobs.smartrecruiters.com/TMSLLC/744000157814178-data-engineer-python-pyspark-sql-snowflake-api-integration,,,[],new,2026-10-26T19:05:35+00:00,,[],,mid,in-6c98406945536e94,indeed,"**Job Description**
 
 **Data Engineer -** **Python, PySpark, SQL, Snowflake & API Integration**
@@ -3603,22 +4437,315 @@ Ability to rapidly build thin working solutions using real client data and APIs,
 Experience creating business-relevant evaluation datasets with client SMEs, measuring ML or LLM quality, performing structured error analysis, grouping failures by root cause, and prioritizing improvements across releases.
 
 Ability to measure user adoption and business impact after launch using usage data and agreed KPIs such as time saved, error reduction, straight-through processing, quality improvement, or productivity gains"
-5f2849dfbc75ac62,Senior Data Engineer,Relay,"Toronto, Ontario, Canada",0,,2026-10-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4371718099,,,,[],new,2026-10-06T22:28:23+00:00,,[],,,,linkedin,
+5f2849dfbc75ac62,Senior Data Engineer,Relay,"Toronto, Ontario, Canada",0,,2026-10-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4371718099,,,,[],new,2026-10-06T22:28:23+00:00,,[],,,,linkedin,"Relay is a digital banking platform that gives self-made business owners the tools and know-how to be great with money—bringing clarity, confidence, and control to every dollar earned, so they can turn hard work into lasting success. We do this by replacing financial guesswork with real visibility, transforming cash flow from a constant source of stress into a clear signal owners can use to run stronger, more resilient businesses.
+  
+  
+We’re looking for a
+**Senior Data Engineer**
+to help us scale our data ecosystem as Relay enters an exciting new chapter of growth. This is a unique opportunity to be responsible for key aspects of the evolution of our data and analytics stack as the company grows. You'll have a dedicated interest in ensuring our teams have access to the right data at the right time in order for us to make the best decisions for our customers.
+  
+  
+**What You'll Be Doing**
+
+* Data Modeling & Transformation: Build and maintain robust dbt models in Snowflake that enable reliable, privacy-preserving analysis across Relay's core data
+* Platform Scalability: Own and evolve the systems and processes that underpin our data platform as Relay continues to grow
+* Data Infrastructure & Tooling: Design and build the systems that help us track core KPIs and ensure all our teams have the timely and accurate data they need to function effectively
+* Analytics & Business Intelligence: Partner with stakeholders to build the systems that track core KPIs and ensure every team has timely, accurate data to operate effectively
+* Security & Compliance: Work closely with Trust, Security, and Governance teams to keep customer data safe through best-in-class security and compliance practices
+
+**What You'll Bring**
+
+* You have 3+ years of Data Engineering experience
+* You write SQL that goes well beyond SELECT, WHERE and GROUP BY -- think complex window functions, query optimization, and schema design
+* You're fluent in Python and know how to write clean, maintainable, production-grade code
+* You have hands-on experience with our core stack: dbt for transformations, Dagster for orchestration, Snowflake as our data warehouse, and cloud infrastructure (AWS, GCP, or Azure)
+* You have experience with BI/data visualization tools (Looker, Metabase, Mode, etc.) and understand what it takes to support a great analytics layer
+* You have a track record of extracting real value from large, complex datasets -- and a genuine curiosity for what the data is telling you
+* You can drive work independently, collaborate well with cross-functional stakeholders, and know when to ask for input vs. just move
+
+**Bonus Points**
+
+* You have an understanding of applied statistics, are able to create quantitative models, and can clearly communicate findings to a technical and non-technical audience
+* You have domain knowledge of Banking or SaaS analytics, and are familiar with concepts like LTV, churn, retention, etc.
+* You have experience with streaming or microbatch analytics (Spark Streaming, Flink, Beam, etc.) and design methodologies of persistent event stores (AWS Kinesis, GCP PubSub, Apache Kafka, Apache Pulsar, etc.)
+* You’ve joined a company at its early stages and have seen it through scale
+
+**The Interview Process**
+**Stage 1**
+: A 30-minute Google Meet video call with a member of the Talent team
+  
+  
+**Stage 2**
+: A 45-minute technical deep dive via Google Meet with our Engineering Manager, Data
+  
+  
+**Stage 3:**
+A 60-minute case study presented to a panel of technical stakeholders
+  
+  
+**Stage 4:**
+A 45-minute in-person interview with a member of the Leadership team
+  
+  
+**Our Compensation Approach**
+We believe Relayers should feel rewarded for the impact they have on our mission and growth. Compensation follows impact. As impact increases, compensation grows, and we do not limit compensation changes to a once-a-year review cycle.
+  
+  
+The annual salary range for this role is $144,000 - $176,000 CAD.
+  
+  
+For candidates who demonstrate full readiness for the defined scope of the role, the typical starting salary is $160,000 CAD. Offers below this point reflect candidates we believe can grow into the full scope of the role with support and development. Offers above this point reflect impact that meaningfully exceeds the role’s defined expectations or an expanded scope from day one.
+  
+  
+We encourage you to have a conversation with your recruiter and ask questions about compensation throughout the hiring process. For more information on our compensation philosophy and perks and benefits, visit our Candidate Hub.
+  
+  
+**Why Relay Might Be the Perfect Fit For You**
+
+* You push relentlessly for reinvention: You're always asking ""how can this be better?"" -- in your work, in your craft, in yourself. Comfort is a signal to push harder, not coast. You'd rather build something better than defend something familiar.
+* You crave autonomy: We trust our team with big challenges and the freedom to solve them. If you’re someone who takes initiative, is comfortable taking risks, and seeks input when needed, you’ll find the freedom here empowering.
+* You own your work: You take pride in your work, follow through on commitments, and feel a deep sense of responsibility for outcomes, not just tasks.
+* You build with AI, not just use it: You're actively embedding AI into how you work, pushing what's possible, and bringing your team along with you.
+* You care about impact, not noise: You care deeply about the substance of your work. You measure success by results, not recognition, and you let your work speak for itself.
+* You’re energized by complexity and ambiguity: You enjoy tackling problems that don’t come with a playbook. You’re comfortable building from scratch, iterating as you go, and collaborating to shape the best path forward.
+* You seek out feedback: You see directness as respect, not criticism. You actively seek input, sit with hard truths, and use feedback as fuel for improvement.
+* Small businesses are why we're here: Relay exists to help them thrive -- and that mission has to resonate with you.
+
+**Join Us**
+We're looking for people who are relentless, curious, and care deeply about the work. You're encouraged to apply even if your experience doesn't perfectly match the job description -- your perspective and drive matter more. We welcome diverse backgrounds and people who think critically, challenge the status quo, and want to help small businesses thrive.
+  
+  
+If you require accommodations at any stage of the hiring process, please reach out to your Talent Partner.
+  
+  
+*Disclaimer: For compliance reasons, all offers of employment at Relay are conditional upon a successful background check and employment verification through Certn.*
+*Important Notice: Relay’s recruitment team only contacts candidates and corresponds from official corporate email addresses ending in @relayfi.com. We will never ask for sensitive personal data (such as bank account details, credit card numbers, or social security/insurance numbers) during the initial application or interview stages.*"
 a31a118c7baf6109,Python Developer,"Zodiac Solutions, Inc","Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474095520,,,,[],new,2026-10-06T22:26:38+00:00,,[],,,,linkedin,
 aac852858492de22,Python Developer – Data Engineering,Precision Technologies,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475111383,,,,[],new,2026-10-06T22:26:38+00:00,,[],,,,linkedin,
 b34ee6155685edc4,Full-Stack Engineer - Backend Leaning (Remote),Pragmatike,"Toronto, Ontario, Canada",1,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474660420,,,,[],new,2026-10-06T22:26:38+00:00,,[],,,,linkedin,
 2304bd269bc8100b,"Senior Software Engineer, Backend (Lake Analytics Platform)",Affirm,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4438395312,,,,[],new,2026-10-06T22:26:38+00:00,,[],,,,linkedin,
 a5f09a0ed65636c1,"Intermediate Software Developer, Full Stack (Python/React)",Intact,"Toronto, Ontario, Canada",0,,2026-10-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4422070405,,,,[],new,2026-10-06T22:26:38+00:00,,[],,,,linkedin,
-f1fb7c56725d2edb,Data Engineer,Movable Ink,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4466129095,,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,
+f1fb7c56725d2edb,Data Engineer,Movable Ink,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4466129095,,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,"Movable Ink scales content personalization for marketers through data-activated content generation and AI decisioning. The world’s most innovative brands rely on Movable Ink to maximize revenue, simplify workflow and boost marketing agility. Headquartered in New York City with close to 600 employees, Movable Ink serves its global client base with operations throughout North America, Central America, Europe, Australia, and Japan.
+
+As a Data Engineer, you will help drive the direction of our Enterprise Data Warehouse, work hands-on with teammates across the organization to get access to relevant data, and empower teams to make data driven decisions about the direction of our business.  Movable Ink collects campaign data resulting from Billions of requests served each day.  Come and help us manage and make sense of the massive amount of data we’re ingesting!
+
+**Responsibilities:**
+
+* Design, build, test, deploy, and maintain end-to-end multi-source ELT pipelines while optimizing for costs and meeting data service level agreements (SLAs)
+* Maintain and extend our Data Warehouse infrastructure to minimize manual work, increase performance, and decrease the frequency and severity of incidents
+* Collaborate with the data platform, product engineering, and analytics teams to understand data needs and deliver reliable data products
+* Work with the rest of the (Site Reliability Engineering) SRE team to ensure smooth, continued delivery of our service our business partners
+* Aggregate, combine, and curate event data with our internal business systems to enable key business decisions
+
+**Qualifications:**
+
+* 3+ years experience as a Data Engineer
+* Hands-on experience with columnar/OLAP (Online Analytical Processing) databases at petabyte scale
+* Proven track record of operationalizing data pipelines, including building monitoring, alerting, SLA dashboards, and runbooks for production systems
+* Strong experience building tooling and automation for database management and maintenance
+* Expertise with modern ELT Tools (e.g. dbt, Airbyte, Flink) and orchestration platforms (e.g. Airflow, Dagster)
+* Deep, technical understanding of Kimball and medallion architectures
+* Experience with one or more high level programming languages (e.g. Python, Java, and SQL)
+* Experience with Agile software development
+* Experience working with version control tools (e.g. git)
+* Experience working within the Continuous Integration / Continuous Delivery (CI/CD) paradigm
+* Experience with Infrastructure-as-Code (IaC) tools such as Terraform, CloudFormation, or similar
+
+**How to Stand Out:**
+
+* Experience with implementing APIs, Reverse ETL, and data contracts
+* Significant experience with AWS & AWS Managed Services (e.g Redshift, Aurora, Airflow, Flink)
+* Familiarity with data visualization tools (e.g. Tableau)
+* Experience with managing data lakes with open-source file formats (e.g. Iceberg)
+
+The base pay range for this position is $125,000-$170,000/year, which can include additional bonus depending on the position ultimately offered, in addition to a full range of medical, financial, and/or other benefits. The base pay offered may vary depending on job-related knowledge, skills, and experience.
+
+Studies have shown that women, communities of color, and historically underrepresented people are less likely to apply to jobs unless they meet every single qualification. We are committed to building a diverse and inclusive culture where all Inkers can thrive. If you’re excited about the role but don’t meet all of the abovementioned qualifications, we encourage you to apply. Our differences bring a breadth of knowledge and perspectives that makes us collectively stronger.
+
+We welcome and employ people regardless of race, color, gender identity or expression, religion, genetic information, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, ethnicity, family or marital status, physical and mental ability, political affiliation, disability, Veteran status, or other protected characteristics. We are proud to be an equal opportunity employer."
 9534342c80ac1492,Data Engineer,Rivago Infotech Inc,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474090143,,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,
 6b32a16c424365a2,Senior Data Engineer (banking Domain),E-Solutions,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476330229,,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,
 e88bfb75963919f0,"Associate, Data Engineer",BMO,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4432024808,,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,
 f34aa5131a317acc,"Senior Data Engineer, NimbleRx",Swoop,"Toronto, Ontario, Canada",0,,2026-10-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474641170,,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,
 58dc81a6dfed48cd,"Data Engineer / BI Developer – GCP, dbt & Power BI",OSI Digital,"Toronto, Ontario, Canada",0,"CAD 40,000 - 90,000 /yearly",2026-10-05,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4475852988,https://osidigital.applytojob.com/apply/GrMFh1Ed8X/Data-Engineer-BI-Developer-GCP-Dbt-Power-BI?source=INDE&~,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,
-678a0a6a1ee858ef,Sr. Data Engineer - Depop,eBay,"Toronto, Ontario, Canada",0,,2026-10-04,"[""linkedin""]",https://www.linkedin.com/jobs/view/4454687732,,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,
+678a0a6a1ee858ef,Sr. Data Engineer - Depop,eBay,"Toronto, Ontario, Canada",0,,2026-10-04,"[""linkedin""]",https://www.linkedin.com/jobs/view/4454687732,,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,linkedin,"At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+  
+  
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
+  
+  
+Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+  
+  
+**About The Team And Role**
+Depop is a peer-to-peer circular fashion marketplace where anyone can buy, sell and discover secondhand fashion. Depop's mission is simple: to make fashion circular by making secondhand as exciting and rewarding as buying new.
+  
+  
+Founded in 2011, Depop’s diverse community has helped move resale into the mainstream, where buying secondhand is no longer an alternative, but how people of different ages now engage with fashion. Today, more than 56 million registered users come to Depop to find great value, express their own personal style and give clothes a longer life. We believe that everything you want already exists, and our role is to help people discover it. From everyday essentials to vintage and designer finds, Depop brings together a wide range of affordable styles in one place. It’s a marketplace where anyone can clear out their wardrobe or build a business, explore their style, and take part in a more circular way to shop.
+  
+  
+Powered by a team of over 500 people, our company is headquartered in London, with offices in New York. For more information, visit our News Room here.
+  
+  
+We are looking for an experienced Senior Data Engineer to design and build scalable data systems that power critical experiences across eBay.
+  
+  
+In this role, you will take technical ownership of complex, high-volume real-time and batch data pipelines, helping shape the architecture and engineering patterns behind our data platform. You will work with technologies including Kafka, Flink, Spark, Databricks, Airflow, dbt, and AWS to solve challenging distributed-data problems where scalability, performance, reliability, and accuracy are critical.
+  
+  
+Beyond delivering individual projects, you will help drive technical decisions, identify architectural improvements, establish reusable engineering patterns, and mentor other engineers. You will partner closely with Data Science, Product, Analytics, and Engineering teams to translate complex requirements into scalable production systems.
+  
+  
+What You Will Accomplish
+  
+  
+
+* Design data systems at scale: Architect, build, and operate high-volume real-time and batch data pipelines using Kafka, Spark, and Flink.
+* Drive streaming architecture: Design reliable, low-latency streaming solutions capable of processing large volumes of events while maintaining strong performance, fault tolerance, and data accuracy.
+* Build reliable data workflows: Design and manage complex workflow orchestration using Airflow, improving reliability, observability, and operational efficiency.
+* Strengthen data quality: Establish automated data validation, monitoring, and observability practices using technologies such as Monte Carlo, Great Expectations, or similar frameworks.
+* Build cloud-native data platforms: Leverage Databricks and AWS to develop scalable data services and infrastructure that improve performance, reliability, developer productivity, and cost efficiency.
+* Develop scalable transformations: Build maintainable transformation workflows using dbt and establish reusable patterns for producing trusted, high-quality datasets.
+* Own complex initiatives end-to-end: Lead major data engineering projects from architecture and technical design through implementation, testing, deployment, monitoring, and production support.
+* Solve complex distributed-systems problems: Diagnose performance bottlenecks, reliability issues, and scalability constraints across large-scale data systems and drive long-term architectural solutions.
+* Influence technical direction: Contribute to architectural decisions, technical roadmaps, engineering standards, and technology choices across the broader data organization.
+* Raise the engineering bar: Drive improvements in code quality, testing, observability, documentation, operational excellence, and engineering practices.
+* Build reusable platforms: Develop common libraries, frameworks, and engineering patterns that can be leveraged across multiple teams and use cases.
+* Mentor engineers: Provide technical guidance through design reviews, code reviews, troubleshooting, and mentorship while helping strengthen the overall engineering capabilities of the team.
+
+What You Will Bring
+  
+  
+
+* 8+ years of professional software engineering or data engineering experience, with significant experience designing, building, and operating large-scale production data pipelines, distributed systems, or backend data platforms.
+* B.S. or M.S. in Computer Science or a related technical discipline, or equivalent practical experience.
+* Strong programming skills in Python, Java, and/or Scala, with strong computer science and software engineering fundamentals.
+* Deep understanding of data structures, algorithms, concurrency, multithreading, and distributed computing concepts.
+* Strong hands-on experience designing and building distributed data processing systems using technologies such as Kafka, Spark, and Flink.
+* Experience developing, deploying, optimizing, and supporting production data workloads using Databricks.
+* Strong experience designing and operating cloud-native data solutions using AWS or a comparable cloud platform.
+* Experience building and managing complex data workflows using Apache Airflow.
+* Experience developing scalable data transformations using dbt or similar frameworks.
+* Experience with data observability, quality, validation, and reliability technologies such as Monte Carlo, Great Expectations, or equivalent tools.
+* Strong understanding of distributed systems architecture, relational databases, NoSQL technologies, data modeling, and large-scale data processing.
+* Strong software engineering fundamentals, including object-oriented design, design patterns, automated testing, CI/CD, monitoring, and production support.
+* Demonstrated experience troubleshooting complex performance, scalability, and reliability issues within production data systems.
+* Experience making architectural decisions and driving technical projects involving multiple engineers or partner teams.
+* Strong communication skills with the ability to influence technical decisions and collaborate effectively across Product, Data Science, Analytics, and Engineering organizations.
+
+Ideally, You Will Also Have
+  
+  
+
+* Experience architecting high-volume, low-latency streaming platforms using Kafka, Flink, Spark Structured Streaming, or similar technologies.
+* Experience processing data at significant scale, including systems handling millions or billions of events or large-scale distributed datasets.
+* A proven track record of building reusable libraries, frameworks, platforms, or common engineering patterns adopted by other engineers or teams.
+* Experience optimizing distributed workloads for latency, throughput, scalability, reliability, and cost.
+* Deep knowledge of Databricks and related technologies such as Delta Lake, Unity Catalog, Structured Streaming, or Lakehouse architectures.
+* Experience working in ecommerce, marketplace, fintech, payments, or another high-scale consumer technology environment.
+* Experience influencing architecture and engineering practices beyond your immediate projects.
+* Experience mentoring engineers and providing technical leadership without requiring formal people-management responsibilities.
+* A strong ownership mindset with a demonstrated ability to take ambiguous, technically complex initiatives from concept through successful production deployment.
+
+**Additional Details**
+The base pay range for this position is expected in the range below:
+  
+  
+C$133,200 - C$177,800
+  
+  
+Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including RRSP eligibility, various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+  
+  
+This job posting relates to an existing vacancy within eBay.
+  
+  
+eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility.
+  
+  
+We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center and AI Hiring Guidelines."
 725d96ff4576c35d,"Senior AI Software Engineer, Agentic Systems & Data Fabric",Kinaxis,"Remote, CA",1,CAD 200 - 300 /hourly,2026-10-05,"[""indeed""]",https://ca.indeed.com/viewjob?jk=75563c6ef1330a2e,https://careers-kinaxis.icims.com/jobs/35471/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,,,[],new,2026-10-06T22:17:16+00:00,,[],,,,indeed,
 0597a3227cbc594f,Data Engineer - Remote,RecruiterForge,"New York, United States",1,"USD 140,000 - 190,000 /yearly",2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474908277,,,,[],new,2026-10-06T22:16:50+00:00,,[],,,,linkedin,
-81f8ffdb5c700208,Full Stack Python Developer (Backend focused),Capco,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4467232388,,,,[],new,2026-10-06T22:15:26+00:00,,[],,,,linkedin,
+81f8ffdb5c700208,Full Stack Python Developer (Backend focused),Capco,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4467232388,,,,[],new,2026-10-06T22:15:26+00:00,,[],,,,linkedin,"**Build modern digital platforms at the intersection of engineering, cloud technology, and financial services.**
+**The Role**
+We are looking for an experienced Senior Full-Stack Python Software Engineer to design and build high-quality digital solutions using Python web frameworks and modern front-end technologies.
+  
+  
+You will bring strong foundations in computer science, including data structures, algorithms, SQL and NoSQL databases, distributed systems, and communication protocols. Working closely with Product Owners, architects, business analysts, Tech Leads, and fellow engineers, you will translate business needs into efficient, maintainable solutions.
+  
+  
+You will have the opportunity to build advanced systems using modern technologies while gaining valuable experience with financial services digital marketing platforms.
+  
+  
+**What You’ll Do**
+
+* Design, develop, test, and maintain high-quality full-stack solutions using Python, Django, and Angular, with potential future migration to ReactJS.
+* Collaborate with Product Owners, architects, business analysts, Tech Leads, and engineers to understand requirements and deliver practical, well-designed solutions.
+* Develop and customize CMS capabilities using Wagtail, integrate PostgreSQL, and design robust task and messaging solutions.
+* Build and consume REST APIs and microservices, applying established API practices including OpenAPI and Swagger.
+* Contribute to cloud-based applications using AWS, modern CI/CD and code-quality tooling, Git, automated testing, and collaborative code reviews.
+
+**What We’re Looking For**
+
+* Strong hands-on software engineering experience, with significant experience using Python and Django or Flask/FastAPI, alongside front-end development using Angular (at least 7+ years).
+* Strong computer science fundamentals, including data structures, algorithms, SQL and NoSQL databases, data modelling, distributed systems, and communication protocols.
+* Experience with relational databases, preferably PostgreSQL, alongside AWS cloud services, deployment strategies, Git, and modern CI/CD practices such as Jenkins.
+* Strong reasoning and problem-solving skills, with the ability to interpret evolving requirements, ask effective questions, and consider solutions in the context of the wider product.
+* Effective communication and collaboration skills, with experience contributing within Agile, cross-functional engineering teams.
+
+**Bonus Points For**
+
+* Experience with Wagtail or another CMS framework.
+* Knowledge of ReactJS alongside Angular.
+* Experience with messaging or streaming technologies such as Celery, RabbitMQ, or Kafka.
+* Experience using AI-enabled coding tools such as GitHub Copilot to support software development.
+* Exposure to Retrieval-Augmented Generation (RAG), agentic approaches, or other AI-enabled engineering practices.
+
+**Why Join Capco**
+
+* Deliver high-impact technology solutions for Tier 1 financial institutions.
+* Work in a collaborative, flat, and entrepreneurial consulting culture.
+* Access continuous learning, training, and industry certifications.
+* Be part of a team shaping the future of digital financial services.
+* Help shape the future of digital transformation across FS & Energy.
+
+We offer a competitive, people-first benefits package designed to support every aspect of your life:
+  
+  
+**Benefits**
+
+* Comprehensive Benefits Coverage – 100% company-paid health, life, and disability insurance effective from Day 1 of employment.
+* Retirement Savings Program – Registered Retirement Savings Plan (RRSP) with the option of receiving a matching employer contribution.
+* Virtual Health Care & Support – Company-paid virtual health care and Employee & Family Assistance Program (EFAP) available to employees and their dependents/partners.
+* Family & Wellness Support – Parental leave top-up from Day 1, a new parent gift, and fitness reimbursement to support health and well-being.
+* Career Development – A Business Coach from Day 1, providing personalized one-on-one coaching to support career growth, accelerate development, and help you achieve your professional goals at Capco.
+
+**Inclusion at Capco**
+We’re committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we’ll be happy to help. We value each person’s unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.
+  
+  
+**Use of Artificial Intelligence in Talent Acquisition**
+At Capco, we use artificial intelligence (AI) tools to support and enhance several parts of talent acquisition. This includes using AI-enabled features within LinkedIn to help source potential candidates, speeding up routine recruitment communications such as emails and creating compelling and brand-aligned job postings that accurately reflect role requirements, and AI-scheduling applications to improve the efficiency of interview coordination.
+  
+  
+AI is used as a support tool only. All hiring decisions are made by talent acquisition and hiring teams.
+  
+  
+**Why This Role Is Open**
+We are currently hiring for this role due to an existing or newly created vacancy within our organization. This position is open as part of our ongoing business needs, and we are actively reviewing applications to fill this role with a qualified candidate who can make an immediate impact.
+  
+  
+**Pay Transparency**
+The salary range for this position is listed below. Additionally, this position may also be eligible to receive an annual discretionary/variable bonus payment.
+  
+  
+Capco is committed to providing fair and equitable compensation to our people. Our compensation policies and salary ranges are designed to allow our people to progress through the salary range as they demonstrate strong performance and develop in their role over time. The base pay offered to selected candidates will be within the salary range and the placement will vary based upon a variety of factors, including, but not limited to job-related knowledge, skills, experience and internal equity.
+  
+  
+Canada Pay Transparency
+  
+  
+$118,000—$152,000 CAD"
 19d1a77f76edc27a,Python Developer with core Banking and payment,VySystems,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476316479,,,,[],new,2026-10-06T22:15:26+00:00,,[],,,,linkedin,
 98dc4a9e1df73959,Python Full-Stack Developer with Django  & AI Experience,"Zodiac Solutions, Inc","Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474073321,,,,[],new,2026-10-06T22:15:26+00:00,,[],,,,linkedin,
 eb6ecff14039683a,Python Developer (AWS CLOUD),J&M Group,"Toronto, Ontario, Canada",0,,2026-10-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475885525,,,,[],new,2026-10-06T22:15:26+00:00,,[],,,,linkedin,
