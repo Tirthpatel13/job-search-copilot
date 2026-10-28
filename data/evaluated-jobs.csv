@@ -1,4 +1,425 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+91a8f8ade184054b,Senior Data Engineer – Guidewire / Databricks & Fabric,GFT Technologies,"Greater Toronto Area, Canada",0,,2026-10-28,"[""linkedin""]",https://www.linkedin.com/jobs/view/4482539596,,,,[],new,2026-10-28T18:45:22+00:00,,[],,senior,li-4482539596,linkedin,"**Job Description**
+
+We are seeking an experienced
+**Senior Data Engineer**
+to support a large-scale data and reporting modernization initiative within the insurance sector.
+
+The successful candidate will play a key role in modernizing Guidewire operational reporting by designing and developing scalable data pipelines and analytics solutions using
+**Azure Databricks, Microsoft Fabric, and Power BI**
+.
+
+**Key Responsibilities**
+
+* Design, develop, and optimize data pipelines using
+  **Azure Databricks, Python, Spark SQL, and Databricks Asset Bundles (DAB)**
+  .
+* Modernize Guidewire operational reporting and migrate legacy data processes to cloud-based solutions.
+* Convert Oracle SQL queries and stored procedures into optimized Spark SQL transformations.
+* Develop reusable data pipelines and curated
+  **Gold Data Products**
+  .
+* Build and maintain Microsoft Fabric solutions, including Lakehouse, OneLake Shortcuts, Semantic Models, and Power BI.
+* Ensure data quality, performance, security, and governance across analytical solutions.
+* Collaborate with business and technical teams to translate reporting requirements into scalable data solutions.
+* Support testing, deployment, and continuous improvement activities.
+
+**Required Qualifications**
+
+* Strong hands-on experience with
+  **Azure Databricks, Python, Spark SQL, and SQL**
+  .
+* Experience with
+  **Informatica PowerCenter**
+  .
+* Experience applying
+  **Large Language Models (LLMs) to the Software Development Life Cycle (SDLC)**
+  .
+* Experience designing and implementing
+  **ETL/ELT pipelines**
+  and cloud-based data solutions.
+* Hands-on experience with
+  **Microsoft Fabric and Power BI**
+  , including Lakehouse and Semantic Models.
+* Solid understanding of data modeling, data architecture, and governance.
+* Experience with legacy reporting modernization and Oracle databases.
+* Strong communication and problem-solving skills, with experience working in Agile environments.
+
+**Nice to Have**
+
+* Experience with
+  **Guidewire**
+  and insurance-related reporting.
+* Knowledge of the insurance or financial services industry.
+* Experience with
+  **DevOps and CI/CD practices**
+  in Databricks environments."
+c974e122eaa67cbe,"Backend Engineer, Data",Stripe,"Toronto, Ontario, Canada",0,,2026-10-28,"[""linkedin""]",https://www.linkedin.com/jobs/view/4484420256,,,,[],new,2026-10-28T18:45:22+00:00,,[],,mid,li-4484420256,linkedin,"Who we are
+  
+  
+**About Stripe**
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.
+  
+  
+**About The Team**
+The Data Foundations team drives Data Engineering and Data Apps and Tooling work across Stripe, enabling Stripes to leverage data to make informed decisions and build user-centric products. We provide tools and infrastructure to move, store, process, and analyze data, both at rest and in motion. We are looking for talented data-minded software engineers to help us manage business-critical data leveraged across the entire organization. If you are passionate about data, excited about designing data pipelines and data-driven user experiences, and motivated by having an outsized impact on the business, we want to hear from you.
+  
+  
+Team Matching: exact team matching for one of the subteams will begin during final stages. Please note we may also consider you for different orgs based on your experience, location, etc. More information on our team matching process can be found here.
+  
+  
+What you'll do
+  
+  
+Every record in our data warehouse is vitally important for the businesses that use Stripe, so we're looking for people with a strong background in software engineering and data to help us scale while maintaining correct and complete data. You'll work with a variety of internal teams across Product, Data Science, and GTM to help them solve their data needs. Your work will provide visibility into how these stakeholders and the Data Foundations organization are performing and how we can deliver a better experience to Stripe's customers.
+  
+  
+**Responsibilities**
+
+* Design, develop, and own data pipelines, models, and products that power the Product, Data Science, and GTM functions
+* Develop strong subject matter expertise and manage the service level agreements for both data pipelines and full stack web applications that support these critical stakeholders
+* Build and refine Stripe's data foundations - infrastructure, pipelines, and tools to enable various teams at Stripe - working with Scala, Spark, and Airflow
+* Leverage LLMs and Agents at scale to produce high-quality data on ambiguous problems
+* Refine our existing data marts that help the GTM organization forecast the future potential performance of the business and reliably measure ongoing attainment toward targets
+* Build data services that track key product metrics and measure the impact of different strategies employed by teams in the field
+* Our tech stack is Spark, Scala, Java, SQL, and Python - and while we don't expect everyone on the team to be an expert in all of these, you will work across all of these technologies throughout your tenure on the team.
+
+Who you are
+  
+  
+We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+  
+  
+**Minimum Requirements**
+
+* Must have 6+ years of experience in a Software Engineering role, with a focus on building and maintaining data services or data-intensive applications
+* A strong engineering background and an interest in data
+* Prior experience with writing and debugging data pipelines using a distributed data framework (Spark, Hadoop, Pig, etc.)
+* An inquisitive nature in diving into data inconsistencies to pinpoint issues and resolve deep-rooted data quality issues
+* Knowledge of a backend development language (such as Scala, Java, or Go) and strong SQL experience
+* The ability to communicate cross-functionally, derive requirements, and architect shared datasets
+
+**Preferred Qualifications**
+
+* Experience creating and maintaining data marts to power business reporting needs
+* Experience working with Product or GTM (Sales and Marketing) teams
+
+Hybrid work at Stripe
+  
+  
+This role is available either in an office or a remote location (35+ miles or 56+ km from a Stripe office).
+  
+  
+In-office expectations
+  
+  
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+  
+  
+Working remotely at Stripe
+  
+  
+A remote location is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently live or plan to live.
+  
+  
+Pay and benefits
+  
+  
+The annual salary range for this role in the primary location is CA$172,000 - CA$258,000. This range may change if you are hired in another location. For sales roles, the range provided is the role’s On Target Earnings (“OTE”) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and specific location. Applicants interested in this role and who are not located in the primary location may request the annual salary range for their location during the interview process.
+  
+  
+Specific benefits and details about what compensation is included in the salary range listed above will vary depending on the applicant’s location and can be discussed in more detail during the interview process. Benefits/additional compensation for this role may include: equity, company bonus or sales commissions/bonuses; retirement plans; health benefits; and wellness stipends.
+  
+  
+We look forward to hearing from you.
+  
+  
+At Stripe, we're looking for people with passion, grit, and integrity. You're encouraged to apply even if your experience doesn't precisely match the job description. Your skills and passion will stand out—and set you apart—especially if your career has taken some extraordinary twists and turns. At Stripe, we welcome diverse perspectives and people who think rigorously and aren't afraid to challenge assumptions. Join us.
+  
+  
+Apply now"
+a65490b275bee4e4,Senior Backend Software Engineer,AutoScale Ventures,"Ottawa, ON, Canada",1,,2026-10-28,"[""indeed""]",https://ca.indeed.com/viewjob?jk=2d631ad62b39fdda,https://autoscale-ventures.careers-page.com/jobs/99887d3a-2468-47d3-a4b8-f6c3862293dc?utm_medium=free_job_board&utm_source=indeed,,,[],new,2026-10-28T18:45:22+00:00,,[],,senior,in-2d631ad62b39fdda,indeed,"**Senior Software Engineer (Full-Time, Remote) — Canada**  
+Work Schedule: 9:00 AM - 5:00 PM PST
+
+**About the role**
+
+At AutoScale Ventures, we build large-scale systems behind products like VinAudit.ca (vehicle history and data) and SquidProxies.com (proxy infrastructure). We're looking for a Senior Software Engineer to design, build, and evolve the backend systems that power these data-heavy products in production.
+
+You'll be designing and developing critical backend components and guiding other engineers through execution. If you enjoy owning systems end to end, from design through long-term support, this role is for you.
+
+**What you'll do**
+
+* Design, build, and evolve backend systems that power data-heavy production products such as market feeds, crawlers, APIs, and data pipelines.
+* Take ownership of major backend initiatives across their full lifecycle — design, development and implementation, rollout, and long-term maintenance and support.
+* Write and maintain scalable APIs and backend services used at meaningful scale.
+* Lead architectural improvements and redesigns of existing systems to improve reliability, performance, and maintainability.
+* Break complex designs into executable components and delegate effectively when working with other engineers.
+* Collaborate with leadership and senior engineers on technical direction.
+* Mentor developers through code reviews, design discussions, and best practices.
+
+**What we're looking for**
+
+* 5+ years of professional software engineering or architectural experience (or equivalent depth).
+* A proven track record of building backend systems from scratch, launching them into production, and supporting and evolving them over time.
+* Experience designing and operating APIs or backend systems at scale.
+* Strong systems thinking — you can reason about performance, failure modes, scaling, and long-term maintainability.
+* Experience in startup or startup-like environments, or owning major systems within larger companies.
+* Comfort working autonomously and making high-impact technical decisions.
+* Familiarity with AI-assisted development tools (e.g., Copilot, ChatGPT, code-generation and review tools) to support productivity and code quality.
+
+**Nice to have**
+
+* Python experience.
+* Experience redesigning or evolving legacy systems.
+* Background in data-heavy systems (crawlers, feeds, ingestion pipelines, analytics backends).
+* Infrastructure or scaling experience (high-throughput systems, reliability, performance tuning).
+* Experience mentoring mid-level and senior developers.
+
+**What We Value**  
+We're looking for someone who is curious, independent, and excited to build systems that solve real problems at scale.
+
+You should enjoy thinking beyond individual features — understanding how systems fit together, making thoughtful technical decisions, and taking ownership from initial design through production and beyond. We value engineers who can move comfortably between architecture and hands-on development.
+
+We value someone who naturally thinks:
+
+* How should we design this to work reliably at scale?
+* What could fail, and how should we account for it?
+* Is there a simpler or more maintainable approach?
+* What will this system look like as it grows?
+* How can AI help me build, test, and improve this more effectively?
+* What can I improve beyond the immediate task?
+
+Most importantly, we're looking for someone who enjoys building, solving difficult problems, and taking meaningful ownership of the systems they create.
+
+**Benefits & perks**
+
+* Fully remote work — work from anywhere in Canada with a reliable connection.
+* Healthcare coverage for you and your family.
+* Paid leave, vacation, and holidays.
+* Equipment funds to set up or upgrade your work station.
+* Performance-based profit-sharing tied to the company's financial standing.
+* Stability and long-term growth opportunities.
+* A supportive, globally distributed team culture.
+
+**About us**
+
+AutoScale Ventures is a technology-driven company with 50+ team members across Canada, the U.S., the Philippines, Pakistan, India, and China. We operate a group of businesses spanning tech, data services, infrastructure, and AI, including VinAudit.com (vehicle data) and SquidProxies.com (proxy infrastructure)."
+74406518748ed194,"Senior Backend Product Engineer, Menu Operations",HelloFresh,"Toronto, Ontario, Canada",0,,2026-10-28,"[""linkedin""]",https://www.linkedin.com/jobs/view/4484704971,,,,[],new,2026-10-28T18:44:21+00:00,,[],,senior,li-4484704971,linkedin,"**S'more About The Team**
+The Menu Operations team ensures the accuracy, reliability, and consistency of data and workflows across our ecosystem. This role will focus on automated data validation, cross-system reconciliation, monitoring, troubleshooting, and developing scalable solutions that improve data quality and operational efficiency.
+  
+  
+The role will work closely with engineering, product, culinary, editorial, and business teams to identify data issues, improve validation processes, and standardize best practices across markets.
+  
+  
+As we continue evolving this system, extending its capabilities, and preparing for expansion, we are looking for a Senior Software Engineer with strong backend experience, a talent for turning complex logic into clean, reliable systems, and enough full-stack fluency to support and enhance our internal application.
+  
+  
+Above all, we are looking for people who will make HelloFresh better. We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.
+  
+  
+**Lettuce Share What This Role Will Be Responsible For**
+
+* Work beyond your specialization when the problem demands it. Your specialization is your anchor, not your boundary.
+* Operate what you build. You instrument, monitor, and improve your systems in production. Shipping is the beginning of the learning cycle, not the end.
+* Design and delivery of scalable backend platforms and distributed systems, leveraging AI-assisted and agentic engineering workflows to accelerate delivery and improve system quality.
+* Design, develop, and maintain backend services, ensuring scalable, reliable API interactions with our internal application
+* Collaborate closely with engineers, analysts, and planners to translate domain knowledge into robust, maintainable system logic
+* Contribute to the evolution of the platform toward event-driven patterns using technologies like Kafka
+* Support frontend needs for our internal React application, ensuring seamless integration between FE and BE layers
+* Improve reliability through automated testing, performance tuning, and thoughtful system design
+* Guide as well as learn through pairing, design discussions, and knowledge sharing to help strengthen collective ownership across a strong, team-first environment
+* Participate in shaping the future direction of an advanced system
+* All other duties, as assigned
+
+**Sound a-peeling? Here's what we're looking for**
+
+* Proficiency and production experience with one or more backend languages such as Golang, Python, or Java.
+* Hands-on experience with Docker, Kubernetes, and modern CI/CD practices in production environments.
+* Bachelor’s or Master’s degree in Computer Science, Engineering or related field
+* Hands-on experience building production-grade APIs
+* Solid knowledge and experience with relational databases and comfortable working with data across various data systems (PostgreSQL, Snowflake, S3)
+* Experience with event-driven architecture and messaging technologies (Kafka)
+* Working knowledge of cloud environments, containerization, and orchestration (AWS, Docker, Airflow)
+* Experience contributing to or designing scalable architecture for internal tools or operational platforms
+* Full-stack capability with React or another modern FE framework a plus — enough to support and enhance application
+* Strong communication skills and a proactive, collaborative approach to working with engineers, analysts, planners, and product partners
+* Comfort working through ambiguity and contributing clarity through simple, pragmatic design choices
+* A mindset of continuous learning, knowledge sharing, and improving the systems
+* Hands-on experience working with AI tooling (e.g., Claude Code, Cursor, Copilot) beyond casual experimentation. You use AI agents every day. You have a practical sense of how the context you provide to AI tools shapes output quality, and how to set boundaries on AI-generated work.
+* You take full ownership. You have a bias to ship. You finish the last twenty percent.
+* You have product sense and are opinionated about what should be built and why, and you can back that opinion with data and user evidence.
+
+**Let’s cut to the cheese, this is why you'll love it here**
+
+* Box Discount - Amazing discounts on 1 box per week! 75% discount on weekly HelloFresh and Chefs Plate meal kits AND 50% off weekly Factor meal box.
+* Health & Wellness - Health & Dental benefits from day 1, a Health Spending Account, unlimited access to the Headspace app to meet your self-care needs, and 25% discount on GoodLife fitness memberships!
+* RRSP Matching - Competitive RRSP matching program offered
+* Vacation & PTO - Time off is also an important part of self-care! We offer generous vacation and PTO to help you create a good work-life balance.
+* Family Benefits - A parental leave top-up program for expectant parents.
+* Growth & Development - We support your career progression and invest in your continued learning through experiences and initiatives owned by our dedicated L&D team
+* Work Hard & Have Fun - From team socials to engaging company days, you’ll have plenty of opportunity to experience the fun!
+* Diversity & Inclusion Initiatives - With impactful ERG’s like FreshPride, Women Empowered and LIMES, we are committed to our diversity, equity & inclusion efforts.
+* Food Puns - this one is kind of a big dill if you haven’t already noticed. We even have some punny meeting room names!
+
+**Flexible Hybrid Approach**
+At HelloFresh, we know that flexible work arrangements are essential in enabling you to do your best work, while balancing your personal and life needs. Offering remote work flexibility, along with the opportunity to interact and collaborate in the office are all a part of creating a great employee experience.
+  
+  
+To meet these needs, we are pleased to provide Flexible Hybrid work. Flexible Hybrid is a people-first approach that is based on choice, trust, personalization, and empowers teams to choose when and how often they work from the office and work from home, in addition to team days and company days. This means a minimum of 2 days in office per week, with most teams in office between 2-3 days a week.
+  
+  
+*HelloFresh Canada uses AI-integrated technology to help us process and evaluate applications more efficiently. This includes tools that screen and assess candidate qualifications based on the requirements for this role. While these tools assist our workflow, all final selection decisions are made by our hiring team.*
+*This is a posting for an existing vacancy. We are actively seeking to fill this position.*
+Toronto, ON Pay Range
+  
+  
+$120,000—$150,000 CAD"
+05786e2e4ea2365b,Intermediate/Senior Full-Stack Software Developer (Python/React),Intact,"Toronto, Ontario, Canada",0,,2026-10-28,"[""linkedin""]",https://www.linkedin.com/jobs/view/4422063567,,,,[],new,2026-10-28T18:43:21+00:00,,[],,senior,li-4422063567,linkedin,"*Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times.*
+*Our employee promise represents Intact’s commitment to you in exchange for living our Values, striving to do your best work, being open to change and investing in your career. In return, we promise to provide support, opportunities and performance-led financial rewards at a workplace where you can shape the future, win as a team and grow with us.*
+**Pay at Intact is about much more than just salary.**
+
+* Flexible work arrangements and a hybrid work model
+* Possibility to purchase up to 5 extra days off per year
+* Multiple benefits offered to support physical and mental wellbeing, including telemedicine, Wellness account and much more
+* Share plan & other savings: up to 12% of salary or even more (ask how you could earn guaranteed income for life)
+
+**Salary Range (but Not Limited To)**
+118,700 - 145,100
+  
+  
+Annual Bonus Target, Based On The Base Salary, With a Potential Payout Of Up To Double The Target (subject To Personal And Company Performance)
+  
+  
+12%
+  
+  
+As part of our commitment to
+**Win As A Team**
+, we share our success with employees through our annual bonus plan and Employee Share Purchase Plan (ESPP) – with Intact matching 50% of your net shares.
+  
+  
+Our pension offerings provide flexibility and long-term security for our employees beyond their careers. We are one of the few companies offering the opportunity to receive guaranteed income for life via our defined benefit pension plan.
+  
+  
+Salary for the candidate will be determined taking into consideration a number of factors including: experience, skills, qualifications, anticipated contribution to role, internal equity, etc. The salary range presented above is based on a 35-hour workweek and would represent a majority of different candidate profiles. However, we encourage candidates who may fall outside of this range to apply as well.
+  
+  
+**About The Role**
+We’re looking for a Senior Full-Stack Software Developer (Python/React) to join our growing AI Engineering team and build reliable, scalable AI-powered products across distributed systems, frontend and backend development, cloud infrastructure, information extraction, and LLM services.
+  
+  
+**What You’ll Do Here**
+
+* Design and evolve event-driven, distributed systems using queue-based pipelines, fan-out/fan-in, backpressure, idempotency, and reliable failure and retry handling.
+* Develop and maintain frontend and backend components that support our algorithms and AI-powered features.
+* Build production LLM solutions, including cloud model integration and optimization of quality, latency, and cost.
+* Develop information extraction pipelines covering classification, OCR, document layout analysis, model-based extraction, prompt design, refinement, and validation.
+* Own frontend foundations, including monorepo package management, build orchestration, shared React components, TypeScript architecture, and build performance.
+* Design and maintain Terraform infrastructure, including reusable modules, remote state, provider pinning, and multi-environment layouts.
+* Contribute to AWS architecture, including networking, load balancing, API gateways, IAM, encryption and key management, and log and metric delivery.
+* Design CI/CD workflows with reusable pipelines, environment matrices, and production approval gates.
+* Support component, integration, and automated UI testing, including local test environments using emulated cloud services.
+* Establish observability through structured logging, custom metrics, and queries that trace failures across distributed pipelines.
+* Optimize containerized services for performance and cost through appropriate sizing, concurrency tuning, and bottleneck analysis.
+* Define development standards and technical strategies that promote quality, efficiency, resilience, maintainability, and sustainability.
+* Collaborate on prioritization, resolve technical issues, improve team productivity, and mentor Squad members as a Technical Leader.
+
+**What You Bring To The Table**
+
+* Bachelor’s degree in computer engineering, computer science, or a related field—or equivalent education and experience.
+* At least five years of significant software development experience.
+* Strong proficiency in Python, TypeScript, React, AWS, and REST APIs using Swagger/OpenAPI.
+* Experience with distributed systems and event-driven architectures, including asynchronous processing, retries, idempotency, backpressure, and failure recovery.
+* Experience with frontend architecture, monorepos, shared React component libraries, TypeScript type design, and build and bundle optimization.
+* Experience with Terraform, including module design, remote state, provider pinning, and multi-environment infrastructure.
+* Broad AWS knowledge covering networking, load balancing, API gateways, IAM, encryption, key management, logging, and metrics.
+* Experience designing CI/CD systems with reusable workflows, environment matrices, and production approval processes.
+* Production experience taking LLM- or model-backed features from prototype to reliable service, including cloud model integration and quality, latency, and cost management.
+* Knowledge of AI, generative AI, RAG, MLOps, prompt design, OCR, document layout analysis, and information extraction.
+* Experience with component, integration, and automated UI testing.
+* Strong observability and troubleshooting skills, including structured logging, custom metrics, and tracing failures through distributed systems.
+* Strong documentation and communication skills, with the ability to explain complex technical concepts clearly.
+* No Canadian work experience required however must be eligible to work in Canada.
+* For candidates located in Quebec, bilingualism is required considering the necessity to interact on a regular basis with English-speaking colleagues across the country
+
+**Nice-to-have**
+
+* Experience leading migrations involving a dependency manager, CI platform, or infrastructure layout.
+* Experience designing local development and integration-test environments using emulated cloud services.
+* Experience optimizing containerized services for cost and performance, including workload sizing, concurrency tuning, and bottleneck analysis.
+* Experience mentoring developers or serving as a Technical Lead.
+
+Il s'agit d'un nouveau rôle au sein de notre équipe en pleine croissance | This role is a new member of our growing team.
+  
+  
+***We are an equal opportunity employer***
+*At Intact, our Value of respect is founded on seeing diversity as a strength. We strive to create an accessible workplace where employees feel valued, included and encouraged to share their unique perspectives.*
+*We encourage applications from individuals who are members of equity-deserving groups, including but not limited to women, Indigenous peoples, persons with disabilities, Black people, and members of the 2SLGBTQI+ community.*
+*As part of Intact’s commitment to reconciliation, we acknowledge that we work, meet and travel across the land currently called Canada, originally inhabited by First Nations, Metis and Inuit people. This history extends through many centuries and continues to evolve today.*
+***We have policies to ensure equal access and participation for people with disabilities, including providing workplace adjustments (accommodations). A copy of applicable policies is available on request.***
+*If we can provide a specific adjustment to make the recruitment process more accessible for you, please let us know when we reach out about a job opportunity. We’ll work with you to meet your needs.*
+*Learn more about our recruitment process and your candidate journey here.*
+*Please note that Intact does not provide sponsorship or other support for immigration-related matters including but not limited to employer-specific closed work permits. Candidates must be eligible to work in Canada from the anticipated start date and throughout their employment and are solely responsible for maintaining their work eligibility.*
+*If you are an employee of Intact or belairdirect, please apply for this role on Internal Career Site.*"
+40a75f2791f1cfb4,"Python Developer -Forward Deployed, Pyspark",Apptoza Inc.,"Toronto, Ontario, Canada",0,,2026-10-27,"[""linkedin""]",https://www.linkedin.com/jobs/view/4482240121,,,,[],new,2026-10-28T18:43:21+00:00,,[],,mid,li-4482240121,linkedin,"Role: Python Developer -Forward Deployed, Pyspark
+
+Location: Toronto
+
+Hybrid
+
+Full time
+
+The opportunity
+
+We are looking for a senior Forward Deployed Engineer who combines production-grade software engineering, data engineering, AI application development, and client-facing consulting. You will embed with business users, client SMEs, product owners, and engineering teams to understand complex workflows, rapidly validate solutions using real data, remove technical blockers, and own delivery through production launch, stabilization, adoption, and handover.
+
+What you will do
+
+• Embed with client SMEs, product owners, business users, and engineers to map workflows, users, data, constraints, and decision points.
+
+• Agree on the first useful release, measurable success criteria, and a practical roadmap from prototype to production.
+
+• Profile unfamiliar client data using Python, pandas, PySpark, and SQL to assess coverage, quality, volumes, distributions, edge cases, and feasibility.
+
+• Build thin working solutions using real client data and APIs, validate them with users, and iteratively harden them for production.
+
+• Design, develop, and deploy enterprise AI and data applications using Python, PySpark, SQL, REST APIs, FastAPI, and cloud data platforms.
+
+• Build Claude-powered applications, copilots, and AI workflows using prompt engineering, RAG, vector databases, semantic search, and agentic AI patterns.
+
+• Design batch, real-time, and streaming data pipelines and integrations across enterprise systems.
+
+• Implement MLOps/LLMOps capabilities, including lifecycle management, CI/CD, MLflow, monitoring, deployment automation, rollback, and production support.
+
+• Create evaluation datasets with client SMEs, measure model and LLM quality, perform structured error analysis, and prioritize improvements.
+
+• Resolve data-access, API, identity, network, security, infrastructure, and deployment blockers with client teams.
+
+• Own post-go-live monitoring, incident diagnosis, rollback, stabilization, latency, performance, reliability, and cost optimization.
+
+• Measure adoption and business impact using agreed KPIs, then complete structured handover with runbooks, support ownership, and knowledge transfer.
+
+What you bring
+
+• 10+ years of experience in data engineering, AI application development, cloud data platforms, and production software engineering.
+
+• Strong hands-on expertise in Python, PySpark, SQL, REST APIs, FastAPI, Git, Docker, Kubernetes, Airflow, MLflow, CI/CD, and distributed processing.
+
+• Experience with Claude, prompt engineering, RAG, vector databases, semantic search, and agentic AI patterns.
+
+• Strong knowledge of ETL/ELT, batch and streaming pipelines, data quality, metadata, lineage, observability, and DataOps.
+
+• Experience operationalizing MLOps/LLMOps, including model lifecycle management, automated deployment, monitoring, rollback, and production support.
+
+• Knowledge of enterprise cloud services across compute, storage, integration, orchestration, networking, monitoring, security, and cost optimization.
+
+• Understanding of IAM/RBAC, encryption, secrets management, privacy controls, auditability, compliance, and secure data access.
+
+• Ability to translate business requirements into scalable designs, define non-functional requirements, estimate effort, and drive implementation.
+
+• BFSI experience and strong client-facing skills across discovery, rapid prototyping, solution shaping, workshops, and technical presentations.
+
+• Bachelor's degree in a relevant discipline. Cloud, Kubernetes, AI engineering, MLOps, data engineering, architecture, or security certifications are preferred."
 7c36202b782eacb7,"Senior Software Engineer, Backend (AI Platform)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-10-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=727ec0f5ead8ab1d,https://grnh.se/jfw1zjaf3us,,,[],new,2026-10-27T18:39:16+00:00,,[],,senior,in-727ec0f5ead8ab1d,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
 
 Affirm's engineering team is building a large-scale, fault-tolerant, and global infrastructure that is shared across multiple financial products, merchants, and vendors. Ensuring that our infrastructure is transparently available to all engineers is critical to the success of the business. We pride ourselves on our culture across engineering of writing blameless postmortems as well as writing detailed tech specs and gathering feedback before large changes to systems.  
@@ -4283,7 +4704,82 @@ aca5fea348d325fd,Python Developer,Iris Software Inc.,"Toronto, Ontario, Canada",
 4a6f87531db387d5,Python Developer,Synechron,"Greater Toronto Area, Canada",0,"CAD 120,000 - 125,000 /yearly",2026-10-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4459237889,,,,[],new,2026-10-12T21:39:00+00:00,,[],,,,linkedin,
 ef50d15e8cd51707,"Senior Data Engineer I - QuantumBlack, AI by McKinsey","QuantumBlack, AI by McKinsey","Toronto, Ontario, Canada",0,,2026-10-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4423525558,,,,[],new,2026-10-11T17:59:03+00:00,,[],,,,linkedin,
 1ca8a1e5608016ed,Data Engineer,Lyft,"Toronto, Ontario, Canada",0,,2026-10-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4450202250,,,,[],new,2026-10-11T17:59:03+00:00,,[],,,,linkedin,
-815b264f6fdac973,Data Engineer II (Restaurant AI CoPilot),OpenTable,"Toronto, Ontario, Canada",0,,2026-10-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4467897996,,,,[],new,2026-10-11T17:59:03+00:00,,[],,,,linkedin,
+815b264f6fdac973,Data Engineer II (Restaurant AI CoPilot),OpenTable,"Toronto, Ontario, Canada",0,"CAD 120,000 - 130,000 /yearly",2026-10-10,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4467897996,https://grnh.se/r7e0auix2us,,,[],new,2026-10-11T17:59:03+00:00,,[],,,,linkedin,"This hybrid role requires working in the office two days per week.
+
+With millions of diners, 70,000+ restaurant partners and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a passion for helping restaurants thrive. Our world-class technology empowers restaurants to focus on what matters most – their team, their guests, and their bottom line – while enabling diners to discover and book the perfect restaurant for every occasion.
+
+Every employee at OpenTable has a tangible impact on what we do and how we do it. You'll also be part of a global team and its portfolio of metasearch brands. Hospitality is all about taking care of others, and it defines our culture.
+
+**About this Role**
+
+As a Data Engineer on the Data Science team at OpenTable, you will design, build, and maintain robust data solutions that power diner features, partner integrations, and advanced AI initiatives. You will work closely with cross-functional teams including Product Managers, Business Intelligence Analysts, Infrastructure SREs, and Product Engineers to deliver scalable data products. Joining a agile, high-impact team, you will leverage OpenTable's vast data ecosystem to drive key business decisions and enhance user experiences globally
+
+**Responsibilities**
+
+* Design, test, deploy, and maintain scalable batch and streaming data pipelines to deliver reliable data to internal and external customers
+* Collaborate with Product Managers, Business Intelligence Analysts, SREs, and Product Engineers to architect and govern production data services
+* Build data pipelines providing actionable insights to restaurants regarding guest behaviour, revenue, and operational efficiency
+* Develop and maintain data integrations with external partners to support critical business partnerships and data exchange
+* Power diner analytics and machine learning work streams for Sales, Marketing, and AI initiatives, including generative AI content summarization
+* Monitor and optimize production systems to ensure high performance, data availability, and system integrity
+
+**Minimum Qualifications**
+
+* Demonstrated professional experience in data engineering principles, data architecture, and software design
+* Proven track record of building, testing, deploying, monitoring, and maintaining production data systems
+* Proficiency in Python, SQL, and at least one strongly typed language (such as Java)
+* Experience constructing scalable batch and streaming data pipelines
+* Experience working in cross-functional environments and collaborating with product and technical stakeholders
+
+**Preferred Qualifications**
+
+* Experience with data engineering stack components such as PySpark, Databricks, Snowflake, Airflow, Kubernetes, and AWS.
+* Knowledge or experience in Machine Learning development (e.g., NLP, LLMs, RAG, recommendations, or MLOps).
+* Familiarity with containerization, orchestration, and monitoring tools like Docker, Kubernetes, Helm, Prometheus, or Grafana.
+* Familiarity with data storage and infrastructure solutions such as Kafka, Snowflake, Delta Lake, or vector/NoSQL databases.
+* Understanding of A/B testing best practices and data-driven product evaluation.
+
+**Benefits and Perks**
+
+* Generous paid vacation + time off for your birthday
+* Work from (almost) anywhere for up to 20 days per year
+* Focus on mental health and well-being:
+  + Company-paid therapy sessions through SpringHealth
+  + Company-paid subscription to Headspace
+  + Annual company-wide week off a year - the whole team fully recharges (and returns without a pile-up of work!)
+* Paid parental leave
+* Paid volunteer time
+* Focus on your career growth:
+  + Development Dollars
+  + Leadership development
+  + Access to thousands of on-demand e-learnings
+* Travel Discounts
+* Employee Resource Groups
+* 20 days of paid time off
+* Private health and dental insurance
+* Life and Disability insurance
+
+The best connections happen face-to-face, whether you're sitting down to dinner or having coffee with a coworker. That's why OpenTable has adopted a hybrid workplace model. This role aligns with that approach, with an expectation of coming into the office two days a week—giving employees the best of both worlds: in-person collaboration and flexibility.
+
+The expected range of compensation for this position based in Toronto, Canada, including commission and/or bonuses is $120,000 - $130,000 CAD. There are a variety of factors that go into determining a compensation range, including but not limited to external market benchmark data, geographic location, and years of experience sought/required.
+
+We offer a competitive base salary and benefits including: health benefits, retirement benefits; life insurance; paid time off (including PTO, paid sick leave, medical leave, bereavement leave, floating holidays and paid holidays); and parental leave benefits. This role is eligible to be considered for an annual bonus and equity grant.
+
+**Work Environment & Flexibility**
+
+At OpenTable, we pride ourselves on fostering a global and dynamic work environment. As a team member with us, you will benefit from a schedule tailored to accommodate a global workforce operating across multiple time zones. While the majority of your responsibilities may align with conventional business hours, there will be instances where you are expected to manage communications - via calls, Slack messages, or emails - outside of regular working hours to effectively collaborate with international colleagues, respond to restaurant partners, and/or address urgent matters. OpenTable will always abide by and consider local laws and regulations.
+
+**Inclusion**
+
+We're committed to creating a workplace where everyone feels they belong and can thrive. We know the best ideas come when we bring different voices to the table, so we're building a team as dynamic as the diners and restaurants we serve—and fostering a culture where everyone feels welcome to be themselves.
+
+If you need accommodations during the application or interview process, or on the job, we're here to support you. Please reach out to your recruiter to request any accommodations.
+
+**This posting is for an existing vacancy.**
+
+#LI-LR1
+
+#LI-Hybrid"
 d3fac579c93409d5,"Software Engineer II, Backend (Partner Merchant Interface)",Affirm,"Toronto, Ontario, Canada",0,,2026-10-09,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476845159,,,,[],new,2026-10-11T17:57:12+00:00,,[],,,,linkedin,
 5156663796697b50,Senior Data Engineer,BitGo,"Toronto, Ontario, Canada",0,,2026-10-09,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476828297,,,,[],new,2026-10-10T17:44:02+00:00,,[],,,,linkedin,
 7cf94248a07c59dc,Senior Data Engineer,Luxoft,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476782998,,,,[],new,2026-10-10T17:44:02+00:00,,[],,,,linkedin,
@@ -4397,46 +4893,184 @@ d6f28001ef572523,Python Developer_6+ yrs,Inadev,"Toronto, Ontario, Canada",0,,20
 60f4bb6cbef4ff6a,Senior Data Engineer,Scotiabank,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4457181224,https://jobs.scotiabank.com/job/Toronto-Senior-Data-Engineer-ON-M5H-1H1/606909417/,,,[],new,2026-10-07T19:18:01+00:00,,[],,,,linkedin,
 0efda2862069b039,Senior Data Engineer,Scene+,"Toronto, Ontario, Canada",0,"CAD 100,000 - 115,000 /yearly",2026-10-07,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4476758181,https://scene.applytojob.com/apply/RAHuf0bMIT/Senior-Data-Engineer?source=INDE&~,,,[],new,2026-10-07T19:18:01+00:00,,[],,,,linkedin,
 c1e5ea4785f8cea7,"Software Engineer, Web3 Backend",Robinhood,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474436761,,,,[],new,2026-10-07T19:17:05+00:00,,[],,,,linkedin,
-110c1c87e99ceba5,"Backend Engineer, Growth & Agents",EvenUp,"Toronto, Ontario, Canada",0,"CAD 160,000 - 230,000 /yearly",2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4439463349,,,,[],new,2026-10-07T19:17:05+00:00,,[],,,,linkedin,
+110c1c87e99ceba5,"Backend Engineer, Growth & Agents",EvenUp,"Toronto, Ontario, Canada",0,"CAD 160,000 - 230,000 /yearly",2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4439463349,,,,[],new,2026-10-07T19:17:05+00:00,,[],,,,linkedin,"EvenUp is on a mission to close the justice gap using technology and AI. We empower personal injury lawyers and victims to get the justice they deserve. Our products enable law firms to secure faster settlements, higher payouts, and better outcomes for victims injured through no fault of their own in vehicle collisions, accidents, natural disasters, and more.
+  
+  
+We are one of the fastest-growing vertical SaaS companies in history, and we are just getting started. EvenUp is backed by top VCs, including Bessemer Venture Partners, Bain Capital Ventures, SignalFire, and Lightspeed. We are looking to expand our team with talented, driven, and collaborative individuals who seek to have a lasting impact. Learn more at www.evenuplaw.com.
+  
+  
+**🎥 Life as an Engineer at EvenUp**
+We are seeking Senior and Mid-Level Backend Engineers to join our Growth engineering pod, which is part of the combined Growth & Agents organization developing the next generation of AI-powered customer communication.
+  
+  
+This team is responsible for the systems that power how personal injury law firms engage with clients at scale, from AI outreach agents and configurable communication workflows to a centralized communication hub spanning email, SMS, and voice.
+  
+  
+As one of the senior backend engineers on the team, you’ll own technical decisions end-to-end, from shaping ambiguous product ideas through production. You’ll partner closely with Product and Design, influence the direction of the platform, and help solve open-ended engineering problems where there isn’t always a clear right answer. With a small team supporting a broad product surface, you’ll have significant ownership and the opportunity to shape both the architecture and the product itself.
+  
+  
+**What You’ll Do**
+
+* Ship backend features and services across EvenUp's Growth pod - from multi-channel outreach agents to configurable communication workflows.
+* Own technical decisions within your scope end-to-end, from design through production.
+* Partner closely with Product and Design on ambiguous, evolving specs, especially around bespoke customer customization requests.
+* Build for low-latency, high-performance needs as usage scales.
+* Contribute across the team's email, SMS, and voice channel work.
+
+**What We Look For**
+
+* A strong track record of shipping production systems end-to-end, and the ability to clearly explain the technical decisions you made and what you learned.
+* Comfortable working through ambiguity and solving problems that don’t come with a predefined solution.
+* Strong technical depth and the ability to dive into the details of your own work rather than speaking in generalities.
+* Experience with TypeScript and/or Python is a plus. Experience building AI-powered products, conversational AI, communication platforms, or SMS/compliance systems is an even bigger plus.
+* 5+ years of software engineering experience as an individual contributor. We’re looking for builders who enjoy owning technical problems rather than pursuing people management.
+
+This is a hybrid role, with an expectation of being in our Toronto or San Francisco office three days per week.
+  
+  
+**Benefits & Perks:**
+As part of our total rewards package, we offer attractive benefits and perks to our employees, including:
+  
+  
+
+* Choice of medical, dental, and vision insurance plans for you and your family.
+* Additional insurance coverage options for life, accident, or critical illness.
+* Flexible paid time off, sick leave, short-term and long-term disability.
+* 10 US observed holidays, and Canadian statutory holidays by province.
+* A home office stipend.
+* 401(k) for US-based employees and RRSP for Canada-based employees.
+* Paid parental leave.
+* A local in-person meet-up program.
+* Hubs in San Francisco and Toronto.
+
+*(Please note the above benefits & perks are for full-time employees)*
+***Notice to Candidates:***
+*To ensure fairness and proper consideration, we do not accept resumes or expressions of interest via email or social media messages. If you’re interested in a role, please submit your application directly through our*
+*careers page*
+*.*
+*Please note that EvenUp may use AI notetakers and other recording devices in the recruiting process. If you interview with us, with your consent, we may record your conversations and summarize them into notes for internal use. Recording is optional, and declining will not affect your candidacy.*
+*EvenUp is an equal opportunity employer. We are committed to diversity and inclusion in our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.*
+Compensation Range: CA$160K - CA$230K"
 99132566202f652e,Python and AWS Developer,Apptoza Inc.,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474450908,,,,[],new,2026-10-07T19:16:09+00:00,,[],,,,linkedin,
-51092b4c854303ce,Data Developer (Python/Spark),Take-Two Interactive,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475148567,,,,[],new,2026-10-07T19:16:09+00:00,,[],,,,linkedin,
+51092b4c854303ce,Data Developer (Python/Spark),Take-Two Interactive,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475148567,,,,[],new,2026-10-07T19:16:09+00:00,,[],,,,linkedin,"**Who We Are**
+Headquartered in New York City, Take-Two Interactive Software, Inc. is a leading developer, publisher, and marketer of interactive entertainment for consumers around the globe. We develop and publish products principally through Rockstar Games, 2K, and Zynga. Our strategy is to create hit entertainment experiences, delivered on every platform relevant to our audience through a variety of sound business models. Our pillars - creativity, innovation, and efficiency - guide us as we strive to create the highest quality, most captivating experiences for our consumers. The Company’s common stock is publicly traded on NASDAQ under the symbol TTWO. For more corporate and product information please visit our website at http://www.take2games.com.
+  
+  
+While our offices (physical and virtual) are casual and inviting, we are deeply committed to our core tenets of creativity, innovation and efficiency, and individual and team development opportunities. Our industry and business are continually evolving and fast-paced, providing numerous opportunities to learn and hone your skills. We work hard, but we also like to have fun, and believe that we provide a great place to come to work each day to pursue your passions.
+  
+  
+**The Challenge**
+We are looking for a dynamic Data Developer to join a team involved in designing, building, and maintaining reliable and scalable data solutions.
+  
+  
+The ideal candidate is a strong Python developer who has some experience in front-end technologies like JavaScript, CSS3 and/or HTML5. They are a self-starter, comfortable with ambiguity, able to think big (while paying careful attention to detail) and enjoy working in a fast-paced environment.
+  
+  
+**What You’ll Take On**
+
+* Develop and maintain scalable data pipelines and build out new API integrations to support continuing increases in data volume and complexity.
+* Work with business teams and analysts to understand complex business rules and implement these for deriving insights.
+* Implement processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.
+* Perform data analysis required to troubleshoot data related issues and assist in the resolution of data issues.
+* Provide thought leadership and collaborate with other team members to continue to scale our architecture to evolve for the needs of tomorrow.
+* Develop and support continuous integrations build and deployment processes using Jenkins, Docker, Git, etc.
+* Define and implement monitoring and alerting policies for data solutions.
+
+**What You Bring**
+
+* 3+ years of hands-on experience in Python.
+* 3+ years of hands-on experience in using advanced SQL queries and writing/optimizing highly efficient SQL queries.
+* 2+ years of working in AWS environment.
+* Experience with Git.
+* Experience with Docker.
+* Comfortable working with business customers to collect requirements and gain a deep understanding of varied business domains.
+* Knowledge of software coding practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations.
+* Bachelor’s degree or equivalent in Computer Science, Information Systems, Statistics, Engineering, or similar.
+
+**Great to Have**
+
+* Experience integrating with 3rd party APIs is highly desirable.
+
+**What We Offer You**
+
+* Great Company Culture. Ranked as one of the most creative and innovative places to work, creativity, innovation, efficiency, diversity and philanthropy are among the core tenets of our organization and are integral drivers of our continued success.
+* Growth. As a global entertainment company, we pride ourselves on creating environments where employees are encouraged to be themselves, inquisitive, collaborative and to grow within and around the company.
+* Work Hard, Play Hard. Our employees bond, blow-off steam, and flex some creative muscles – through corporate boot camp classes, company parties, game release events, monthly socials, and team challenges.
+* Benefits. Medical, dental, vision, pension plan, employee stock purchase plan, commuter benefits, in-house wellness program, broad learning & development opportunities, a charitable giving platform with company match and more!
+* Perks. Fitness allowance, employee discount programs, free games & events, stocked pantries and the ability to earn up to $500+ per year for taking care of yourself and more.
+
+*The pay range for this position in Ontario at the start of employment is expected to be between $73,900 and $109,360 per year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations.*
+*Subject to those same considerations, the total compensation package for this position may also include other elements, including a bonus and/or equity awards and eligibility to participate in our 401(K) plan and Employee Stock Purchase Program.*
+*Regular, full-time employees are also eligible for a range of benefits at the Company, including: medical, dental, vision, and basic life insurance coverage; 14 paid holidays per calendar year; paid vacation time per calendar year (ranging from 15 to 25 days) or eligibility to participate in the Company’s discretionary time off program; up to 10 paid sick days per calendar year; paid parental and compassionate leave; wellbeing programs for mental health and other wellness support; family planning support through Maven; commuter benefits; and reimbursements for fitness-related expenses. The use of Artificial Intelligence is not being used to screen candidates. The position is for an existing vacancy.*
+*As an equal opportunity employer, Take-Two Interactive Software, Inc. (“Take-Two”) is committed to fostering and celebrating the diverse thoughts, cultures, and backgrounds of its talent, partners, and communities throughout its organization. Consistent with this commitment, Take-Two does not discriminate or retaliate against any employee or job applicant because of their race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, and genetic information (including family medical history), or on the basis of any other trait protected by applicable law. If you need to report a concern or have questions regarding Take-Two’s equal opportunity commitment, please contact Careers@take2games.com*
+*Please be aware that Take-Two does not conduct job interviews or make job offers over third-party messaging apps such as Telegram, WhatsApp, or others. Take-Two also does not engage in any financial exchanges during the recruitment or onboarding process, and the Company will never ask a candidate for their personal or financial information over an app or other unofficial chat channel. Any attempt to do so may be the result of a scam or phishing exercise. Take-Two’s in-house recruitment team will only contact individuals through their official Company email addresses (i.e., via a take2games.com email domain). If you need to report an issue or otherwise have questions, please contact Careers@take2games.com*
+*We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.*"
 146c18abe66829d0,Python Developer,"Global Technical Talent, an Inc. 5000 Company","Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4456509742,,,,[],new,2026-10-07T19:16:09+00:00,,[],,,,linkedin,
 9ccb8326a7af4ff1,Python Developer,VBeyond Corporation,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476748544,,,,[],new,2026-10-07T19:16:09+00:00,,[],,,,linkedin,
-d9caffd9f0be539b,Python Developer,Apptoza Inc.,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474080291,,,,[],new,2026-10-07T19:16:09+00:00,,[],,,,linkedin,"**Position: Python /Pyspark Developer**
+d9caffd9f0be539b,Python Developer,Apptoza Inc.,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474080291,,,,[],new,2026-10-07T19:16:09+00:00,,[],,,,linkedin,"**Job Title: Forward Deployed Engineer (Python/Pyspark Developer)**
 
-**Location: Toronto, ON (2-4 days hybrid)**
+**Location:**
+Toronto, ON
 
-**Work Type: Full time**
+**Duration:**
+Fulltime (Hybrid)
 
 **Requirement:**
+Immediate
 
-10+ years of experience in Data Engineering, AI Application Development, Cloud Data Platforms, and Production-grade Software Engineering.
+**The opportunity**
 
-Strong hands-on expertise in Python, PySpark, SQL, REST APIs, FastAPI, and enterprise application integration.
+We are looking for a senior Forward Deployed Engineer who combines production-grade software engineering, data engineering, AI application development, and client-facing consulting. You will embed with business users, client SMEs, product owners, and engineering teams to understand complex workflows, rapidly validate solutions using real data, remove technical blockers, and own delivery through production launch, stabilization, adoption, and handover.
 
-Experience designing and building AI-powered applications using Claude, Prompt Engineering, Retrieval-Augmented Generation (RAG), Vector Databases, Semantic Search, and Agentic AI patterns.
+**What you will do**
 
-Deep understanding of Data Engineering frameworks, including ETL/ELT, batch and streaming pipelines, data quality, metadata management, lineage, observability, and DataOps practices.
+• Embed with client SMEs, product owners, business users, and engineers to map workflows, users, data, constraints, and decision points.
 
-Experience implementing and operationalizing MLOps / LLMOps capabilities including model lifecycle management, CI/CD pipelines, MLflow, monitoring, deployment automation, rollback, and production support.
+• Agree on the first useful release, measurable success criteria, and a practical roadmap from prototype to production.
 
-Strong knowledge of cloud and modern data platforms, including compute, storage, integration, orchestration, security, networking, monitoring, and cost optimization services.
+• Profile unfamiliar client data using Python, pandas, PySpark, and SQL to assess coverage, quality, volumes, distributions, edge cases, and feasibility.
 
-Hands-on experience with Git, Docker, Kubernetes, Airflow, MLflow, CI/CD, and distributed data processing frameworks.
+• Build thin working solutions using real client data and APIs, validate them with users, and iteratively harden them for production.
 
-Strong understanding of enterprise security and governance principles, including IAM/RBAC, encryption, secrets management, privacy controls, auditability, compliance, and secure data access.
+• Design, develop, and deploy enterprise AI and data applications using Python, PySpark, SQL, REST APIs, FastAPI, and cloud data platforms.
 
-Bachelor's degree in computer science, Engineering, Information Systems, Data Management, or a related discipline.
+• Build Claude-powered applications, copilots, and AI workflows using prompt engineering, RAG, vector databases, semantic search, and agentic AI patterns.
 
-Preferred certifications in Cloud Platforms, Kubernetes, AI Engineering, MLOps, Data Engineering, Enterprise Architecture, Security, or Program Delivery
+• Design batch, real-time, and streaming data pipelines and integrations across enterprise systems.
 
-Strong hands-on data discovery skills, including profiling unfamiliar client data with Python, pandas, PySpark, and SQL; assessing coverage and quality; and quantifying volumes, distributions, edge cases, and business-process gaps before development.
+• Implement MLOps/LLMOps capabilities, including lifecycle management, CI/CD, MLflow, monitoring, deployment automation, rollback, and production support.
 
-Ability to rapidly build thin working solutions using real client data and APIs, validate them with users, and iteratively harden them with automated tests, security controls, error handling, observability, and production support procedures.
+• Create evaluation datasets with client SMEs, measure model and LLM quality, perform structured error analysis, and prioritize improvements.
 
-Experience creating business-relevant evaluation datasets with client SMEs, measuring ML or LLM quality, performing structured error analysis, grouping failures by root cause, and prioritizing improvements across releases.
+• Resolve data-access, API, identity, network, security, infrastructure, and deployment blockers with client teams.
 
-Ability to measure user adoption and business impact after launch using usage data and agreed KPIs such as time saved, error reduction, straight-through processing, quality improvement, or productivity gains"
+• Own post-go-live monitoring, incident diagnosis, rollback, stabilization, latency, performance, reliability, and cost optimization.
+
+• Measure adoption and business impact using agreed KPIs, then complete structured handover with runbooks, support ownership, and knowledge transfer.
+
+**What you bring**
+
+• 10+ years of experience in data engineering, AI application development, cloud data platforms, and production software engineering.
+
+• Strong hands-on expertise in Python, PySpark, SQL, REST APIs, FastAPI, Git, Docker, Kubernetes, Airflow, MLflow, CI/CD, and distributed processing.
+
+• Experience with Claude, prompt engineering, RAG, vector databases, semantic search, and agentic AI patterns.
+
+• Strong knowledge of ETL/ELT, batch and streaming pipelines, data quality, metadata, lineage, observability, and DataOps.
+
+• Experience operationalizing MLOps/LLMOps, including model lifecycle management, automated deployment, monitoring, rollback, and production support.
+
+• Knowledge of enterprise cloud services across compute, storage, integration, orchestration, networking, monitoring, security, and cost optimization.
+
+• Understanding of IAM/RBAC, encryption, secrets management, privacy controls, auditability, compliance, and secure data access.
+
+• Ability to translate business requirements into scalable designs, define non-functional requirements, estimate effort, and drive implementation.
+
+• BFSI experience and strong client-facing skills across discovery, rapid prototyping, solution shaping, workshops, and technical presentations.
+
+• Bachelor's degree in a relevant discipline. Cloud, Kubernetes, AI engineering, MLOps, data engineering, architecture, or security certifications are preferred.
+
+**In addition to your confirmation, please provide us with your most recent updated resume. We also require the following details from you:**"
 5f2849dfbc75ac62,Senior Data Engineer,Relay,"Toronto, Ontario, Canada",0,,2026-10-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4371718099,,,,[],new,2026-10-06T22:28:23+00:00,,[],,,,linkedin,"Relay is a digital banking platform that gives self-made business owners the tools and know-how to be great with money—bringing clarity, confidence, and control to every dollar earned, so they can turn hard work into lasting success. We do this by replacing financial guesswork with real visibility, transforming cash flow from a constant source of stress into a clear signal owners can use to run stronger, more resilient businesses.
   
   
