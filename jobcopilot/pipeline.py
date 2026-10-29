@@ -13,6 +13,7 @@ from typing import Any
 from .config import Settings
 from .db import Database
 from .dedup import deduplicate
+from .free_scoring import score_pending_free
 from .llm import ClaudeLLM, LLMError, StructuredLLM
 from .models import Job
 from .preferences import Preferences, infer_seniority, load_preferences, passes_filters
@@ -114,12 +115,23 @@ def _score(
     settings: Settings, db: Database, llm: StructuredLLM | None, prefs: Preferences
 ) -> dict[str, Any]:
     try:
-        llm = llm or ClaudeLLM(settings)
-    except LLMError as exc:
-        return {"scoring_skipped": str(exc)}
-    try:
         profile = load_profile(settings.profile_dir)
-        return score_pending(db, llm, profile, prefs.max_jobs_to_score)
+        if llm is None and settings.free_scoring:
+            return {**score_pending_free(db, profile, prefs), "scorer": "free"}
+        try:
+            llm = llm or ClaudeLLM(settings)
+        except LLMError as exc:
+            return {"scoring_skipped": str(exc)}
+        summary = score_pending(db, llm, profile, prefs.max_jobs_to_score)
+        if summary.get("score_stopped") and settings.scorer == "auto":
+            # Claude is unusable right now (no credits, bad key, rate limit): fall back
+            # to the free scorer so jobs still get a score.
+            free = score_pending_free(db, profile, prefs)
+            summary["scored"] += free["scored"]
+            summary["scorer"] = "free (Claude unavailable)"
+        else:
+            summary["scorer"] = "claude"
+        return summary
     except Exception as exc:  # scoring problems must not lose the fetch results
         log.exception("Scoring failed")
         return {"score_error": f"{type(exc).__name__}: {exc}"[:300]}

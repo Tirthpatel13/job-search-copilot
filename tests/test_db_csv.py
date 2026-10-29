@@ -1,6 +1,7 @@
 """CSV tracking file: lossless round trip, legacy-format import, merging into an existing DB."""
 
 import csv
+import json
 import shutil
 
 from conftest import FIXTURES, ROOT, make_job
@@ -98,7 +99,9 @@ def test_committed_tracking_file_imports_and_round_trips(tmp_path):
     for row in rows[:20]:
         job = db.get_job(row["id"])
         assert job.title == row["title"]
-        assert job.sources == [s for s in row["sources"].split(";") if s]
+        raw = row["sources"]
+        expected = json.loads(raw) if raw.startswith("[") else [s for s in raw.split(";") if s]
+        assert job.sources == expected
 
     first, second = tmp_path / "first.csv", tmp_path / "second.csv"
     db.export_csv(first)

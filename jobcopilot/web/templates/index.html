@@ -27,8 +27,8 @@
 {% endif %}
 {% if last_run and last_run.summary.get('error') %}<div class="flash flash-error">The last fetch stopped with an error: {{ last_run.summary.error }}</div>{% endif %}
 {% if using_example_profile %}<div class="flash flash-error">No resume uploaded yet, so jobs are scored against the example profile. <a href="/profile">Upload your resume</a>.</div>{% endif %}
-{% if claude_enabled and last_run and last_run.summary.get('score_error') %}<div class="flash flash-error">Scoring failed: {{ last_run.summary.score_error }}</div>{% endif %}
-{% if not claude_enabled %}<div class="flash flash-error">ANTHROPIC_API_KEY is not set, so jobs are fetched but not scored.</div>{% endif %}
+{% if claude_enabled and last_run and last_run.summary.get('score_error') and not (last_run.summary.get('scorer') or '').startswith('free') %}<div class="flash flash-error">Scoring failed: {{ last_run.summary.score_error }}</div>{% endif %}
+{% if free_scoring %}<div class="flash">Scoring with the free built-in scorer (skill and title match). Adding an Anthropic API key with credits gives deeper scores and unlocks resume tailoring.</div>{% elif last_run and (last_run.summary.get('scorer') or '').startswith('free (') %}<div class="flash">Claude was unavailable on the last fetch ({{ last_run.summary.get('score_error', 'unknown error') }}), so jobs were scored with the free built-in scorer.</div>{% endif %}
 
 <form class="filters" method="get" action="/">
   <input type="search" name="q" value="{{ f.q }}" placeholder="Search title, company, location" aria-label="Search">

@@ -16,7 +16,7 @@
 
   <div class="actions">
     {% if job.best_apply_url | is_web_url %}<a class="btn btn-primary" href="{{ job.best_apply_url }}" target="_blank" rel="noopener noreferrer">Open apply page &nearr;</a>{% endif %}
-    <form method="post" action="/jobs/{{ job.id }}/score" data-busy><button class="btn" {% if not claude_enabled %}disabled{% endif %}>{{ 'Re-score' if job.score is not none else 'Score' }}</button></form>
+    <form method="post" action="/jobs/{{ job.id }}/score" data-busy><button class="btn">{{ 'Re-score' if job.score is not none else 'Score' }}</button></form>
   </div>
   <p class="muted small">You always review and submit applications yourself. This app never applies for you.</p>
 

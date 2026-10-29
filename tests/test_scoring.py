@@ -111,7 +111,12 @@ def test_score_pending_stops_on_account_error(db, profile):
     error = LLMError("Claude API error 400: Your credit balance is too low", fatal=True)
     llm = FakeLLM({JobScore: error})
     summary = score_pending(db, llm, profile, limit=10)
-    assert summary == {"scored": 0, "score_failures": 1, "score_error": str(error)}
+    assert summary == {
+        "scored": 0,
+        "score_failures": 1,
+        "score_error": str(error),
+        "score_stopped": True,
+    }
     assert len(llm.calls) == 1
 
 
@@ -169,6 +174,7 @@ def test_score_pending_stops_on_rate_limit(db, profile):
         "scored": 0,
         "score_failures": 1,
         "score_error": "Claude rate limit reached",
+        "score_stopped": True,
     }
     assert len(llm.calls) == 1
 

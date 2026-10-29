@@ -82,6 +82,7 @@ def score_pending(db: Database, llm: StructuredLLM, profile: Profile, limit: int
             failed += 1
             summary["score_error"] = str(exc)
             if getattr(exc, "fatal", False) or getattr(exc, "stop_batch", False):
+                summary["score_stopped"] = True
                 break
             continue
         except Exception as exc:  # unexpected per-job failure: record it, keep going

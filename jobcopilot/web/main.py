@@ -25,9 +25,11 @@ from fastapi.templating import Jinja2Templates
 
 from ..config import Settings
 from ..db import Database
+from ..free_scoring import score_job_free
 from ..llm import ClaudeLLM, LLMError, StructuredLLM
 from ..models import Status
 from ..pipeline import RUN_LOCK, run_pipeline
+from ..preferences import load_preferences
 from ..profile import ProfileError, find_resume, load_profile, save_resume_upload
 from ..scheduler import PeriodicFetcher
 from ..scoring import score_job
@@ -158,6 +160,7 @@ def create_app(
                     "sort": sort,
                 },
                 "claude_enabled": settings.claude_enabled,
+                "free_scoring": settings.free_scoring,
                 "using_example_profile": find_resume(settings.profile_dir) is None,
             },
         )
@@ -175,6 +178,7 @@ def create_app(
                 "cover": db.latest_artifact(job_id, "cover_letter"),
                 "answers": db.latest_artifact(job_id, "answers"),
                 "claude_enabled": settings.claude_enabled,
+                "free_scoring": settings.free_scoring,
             },
         )
 
@@ -198,7 +202,12 @@ def create_app(
         job = job_or_404(job_id)
 
         def action() -> None:
-            result = score_job(llm_or_error(), load_profile(settings.profile_dir), job)
+            profile = load_profile(settings.profile_dir)
+            if settings.free_scoring:
+                prefs = load_preferences(settings.preferences_file)
+                result = score_job_free(profile, job, prefs)
+            else:
+                result = score_job(llm_or_error(), profile, job)
             db.save_score(job_id, result.score, result.reason, result.gaps, result.matched)
 
         return run_llm_action(job_id, action, "Scored")

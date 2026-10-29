@@ -143,7 +143,25 @@ job-search-copilot/
 
 ## Quick start
 
-Requires Python 3.10+ and an [Anthropic API key](https://console.anthropic.com/).
+### One click (free, no API key needed)
+
+1. Install [Python 3.11+](https://www.python.org/downloads/) (on Windows, tick
+   **Add python.exe to PATH**) and download this repo (**Code → Download ZIP**, or `git clone`).
+2. **Windows:** double-click `start.bat`. **Mac/Linux:** run `./start.sh` in a terminal.
+3. Your browser opens <http://localhost:8000>. The first start takes a few minutes to install.
+
+On first launch the app loads the jobs the daily GitHub workflow has already found and
+scores them with the **free built-in scorer**. That scorer compares the skills each posting
+lists with the skills in your resume, plus title, location and seniority fit. It needs no
+key and costs nothing. Upload your resume on the **Profile** page so scores reflect you.
+
+An [Anthropic API key](https://console.anthropic.com/) with credits is optional: it gives
+deeper rubric scores and unlocks resume tailoring, cover letters and answer drafts. Set
+`SCORER` in `.env` to `auto` (default: Claude when it works, otherwise free), `claude` or `free`.
+
+### Manual setup
+
+Requires Python 3.10+.
 
 ```bash
 git clone https://github.com/Tirthpatel13/job-search-copilot.git

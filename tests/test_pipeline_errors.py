@@ -75,5 +75,6 @@ def test_non_llm_scoring_failure_does_not_abort_run(settings, prefs, db, monkeyp
 def test_missing_key_still_reports_scoring_skipped(settings, prefs, db):
     from dataclasses import replace
 
-    summary = run_pipeline(replace(settings, anthropic_api_key=""), db, prefs=prefs)
+    no_key = replace(settings, anthropic_api_key="", scorer="claude")
+    summary = run_pipeline(no_key, db, prefs=prefs)
     assert "ANTHROPIC_API_KEY" in summary["scoring_skipped"]

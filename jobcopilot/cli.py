@@ -47,6 +47,28 @@ def build_parser() -> argparse.ArgumentParser:
     return p
 
 
+TRACKING_CSV = Path("data/evaluated-jobs.csv")
+
+
+def _prepare_local_db(settings: Settings, db: Database) -> None:
+    """First launch on a new machine: start from the jobs the daily workflow already found,
+    and give unscored jobs a free score so the list is sorted from the start."""
+    if db.stats()["total"] == 0 and TRACKING_CSV.exists():
+        print(f"Loaded {db.import_csv(TRACKING_CSV)} jobs from {TRACKING_CSV}")
+    if settings.free_scoring:
+        from .free_scoring import score_pending_free
+
+        try:
+            profile = load_profile(settings.profile_dir)
+            prefs = load_preferences(settings.preferences_file)
+            scored = score_pending_free(db, profile, prefs)["scored"]
+        except Exception as exc:  # never block the app from starting
+            print(f"warning: free scoring skipped: {exc}", file=sys.stderr)
+        else:
+            if scored:
+                print(f"Scored {scored} jobs with the free scorer")
+
+
 def main(argv: list[str] | None = None) -> int:
     """Run the CLI and return a process exit code."""
     args = build_parser().parse_args(argv)
@@ -80,6 +102,8 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.command == "serve":
         import uvicorn
+
+        _prepare_local_db(settings, db)
 
         uvicorn.run("jobcopilot.web.main:create_app", factory=True, host=args.host, port=args.port)
         return 0

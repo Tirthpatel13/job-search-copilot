@@ -28,6 +28,14 @@ def _env_float(name: str, default: float) -> float:
         return default
 
 
+def _scorer(raw: str) -> str:
+    value = raw.strip().lower() or "auto"
+    if value not in {"auto", "claude", "free"}:
+        log.warning("Ignoring SCORER=%r: use auto, claude or free", raw)
+        return "auto"
+    return value
+
+
 def _env_path(name: str, default: str) -> Path:
     """An unset or blank variable means the default, never the current directory."""
     return Path(os.getenv(name, "").strip() or default)
@@ -47,12 +55,18 @@ class Settings:
     output_dir: Path = Path("output")
     app_password: str = ""
     schedule_fetch_hours: float = 0
+    scorer: str = "auto"  # auto | claude | free
     jobspy_proxies: list[str] = field(default_factory=list)
 
     @property
     def claude_enabled(self) -> bool:
         """True when an Anthropic API key is configured."""
         return bool(self.anthropic_api_key)
+
+    @property
+    def free_scoring(self) -> bool:
+        """True when jobs are scored locally instead of by Claude."""
+        return self.scorer == "free" or (self.scorer == "auto" and not self.claude_enabled)
 
     @classmethod
     def from_env(cls, env_file: str | None = ".env") -> Settings:
@@ -71,5 +85,6 @@ class Settings:
             output_dir=_env_path("OUTPUT_DIR", "output"),
             app_password=os.getenv("APP_PASSWORD", ""),
             schedule_fetch_hours=_env_float("SCHEDULE_FETCH_HOURS", 0),
+            scorer=_scorer(os.getenv("SCORER", "")),
             jobspy_proxies=proxies,
         )
