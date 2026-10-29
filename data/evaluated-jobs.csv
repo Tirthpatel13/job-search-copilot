@@ -1,4 +1,241 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+53ef6544f0c30cc3,"Software Developer, Data Engineering",Robinhood,"Toronto, ON, Canada",0,"CAD 166,000 - 195,000 /yearly",2026-10-29,"[""indeed""]",https://ca.indeed.com/viewjob?jk=1598e2fa57a4a6a2,https://grnh.se/ca69a6e31us,48,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""SQL"", ""Spark"", ""Hadoop"", ""Airflow"", ""Tableau"", ""Looker"", ""Machine Learning""]",new,2026-10-29T18:52:59+00:00,2026-10-29T18:53:27+00:00,"[""Python""]",,mid,in-1598e2fa57a4a6a2,indeed,"**Join us in building the future of finance.**
+----------------------------------------------
+
+Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you're ready to be at the epicenter of this historic cultural and financial shift, keep reading.
+
+**About the team + role**
+-------------------------
+
+We're thrilled to be expanding this year as Robinhood is hiring world-class engineering talent in Toronto. Our Hoodies in Canada will enable Robinhood to continue creating great financial products on our journey towards democratizing finance for all.
+
+Robinhood is a metrics driven company and data is foundational to all key decisions from growth strategy to product optimization to our day-to-day operations. We are looking for a Senior Data Engineer to build and maintain foundational datasets that will allow us to reliably and efficiently power decision making at Robinhood. These datasets include application events, database snapshots, and the derived datasets that describe and track Robinhood's key metrics across all products. You'll partner closely with engineers, data scientists and business teams to power analytics, experimentation, and machine learning use cases. We are a fast-paced team in a fast growing company and this is a unique opportunity to help lay the foundation for reliable, impactful, data-driven decisions across the company for years to come.
+
+**The role is located in the office location(s) listed on this job description which will align with our in-office working environment. Please connect with your recruiter for more information regarding our in-office philosophy and expectations.**
+
+**What you'll do**
+------------------
+
+* Help define and build key datasets across all Robinhood product areas. Lead the evolution of these datasets as use cases grow.
+* Build scalable data pipelines using Python, Spark and Airflow to move data from different applications into our data lake.
+* Partner with upstream engineering teams to enhance data generation patterns.
+* Partner with data consumers across Robinhood to understand consumption patterns and design intuitive data models.
+* Ideate and contribute to shared data engineering tooling and standards.
+* Define and promote data engineering best practices across the company.
+
+**What you bring**
+------------------
+
+* CS background or any other relevant fields of study.
+* Strong product mindset
+* 4+ years of experience and a Bachelors degree or 2+ years and a Masters degree
+* Experience building high-quality data solutions
+* Strong analytical and problem solving skills.
+* Expertise building data pipelines using open source frameworks (Hadoop, Spark, etc)
+* Expertise in one or more programming languages (ideally Python).
+* Strong SQL (Presto, Spark SQL, etc) skills.
+* Familiarity with data visualization tools (Looker, Tableau, etc).
+* Great communication skills and ability to democratize data through actionable insights and solutions.
+
+**Bonus points:**
+-----------------
+
+* Passion for working and learning in a fast-growing company.
+
+Our team is committed to providing an inclusive and welcoming interview experience for all candidates. If you require a specific accommodation during the application or interview process due to a physical or mental condition, please complete this Applicant Accommodation Form to notify our team. The form should only be completed if you need a specific accommodation.
+
+Click here to learn more about our Total Rewards, which vary by region and entity.
+
+If our mission energizes you and you're ready to build the future of finance, we look forward to seeing your application.
+
+**AI Usage Disclosure:** Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams.
+
+Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application."
+b80c0ae5472f6320,Data Platform Engineer,Xanadu,"Toronto, Ontario, Canada",0,,2026-10-29,"[""linkedin""]",https://www.linkedin.com/jobs/view/4484958967,,49,Free scorer: your resume shows 1 of 7 listed skills (Python).,"[""SQL"", ""Airflow"", ""dbt"", ""Dagster"", ""Prefect"", ""CI/CD""]",new,2026-10-29T18:52:56+00:00,2026-10-29T18:53:27+00:00,"[""Python""]",,mid,li-4484958967,linkedin,"**About Xanadu**
+Xanadu’s mission is to build quantum computers that are useful and available to people everywhere.
+  
+  
+At Xanadu, we are learners, innovators, researchers, collaborators and problem solvers. We are creating something that has never been built before. What we are doing is extremely hard, the classic moon shot. Few people in their life will be able to be a part of something like this, where if we are successful, the technologies we develop will solve some of the world’s most challenging problems and literally change the world. And that is something to be excited about!
+  
+  
+**Your Role And Responsibilities**
+As a Data Platform Engineer, you will take Xanadu’s existing data pipelines and transform them into a cohesive data platform. Working alongside hardware researchers, data scientists, and finance analysts, you'll define how data flows across the organization and build the infrastructure that enables data-driven decisions at every level. This is a hands-on technical role first — you will be the first dedicated data engineer, with the opportunity to build a data team around you.This is a high-complexity, moderate-volume problem. Terabytes, not petabytes. Different heterogeneous measurement types, not billions of uniform events.
+  
+  
+**Your Responsibilities Will Be**
+
+* Design, build and maintain a robust cloud data infrastructure (ingestion, transformation, serving) that will serve multiple engineering team across the organization
+* Own the data architecture: layering, schema and contract design, materialization strategy, query performance.
+* Understand and consolidate existing data workflows and pipelines spanning R&D, manufacturing, and business analytics
+* Define data models in collaboration with researchers and analysts to ensure scientific and business data is stored correctly and queryable
+* Establish data governance foundations: lineage, cataloging, access control, and quality monitoring
+* Drive best practices across code quality, testing, data reliability, and observability
+* Balance new development, platform improvements, and technical debt reduction
+* Mentor and provide technical guidance to engineers across the organization as the practice grows
+
+**Basic Qualifications And Experience**
+
+* 7+ years in data engineering, with 2+ years in a lead or architect capacity
+* Deep experience building and scaling data platforms in the cloud from the ground up
+* Strong software engineering: Python packaging, testing, CI
+* Production experience designing and operating data lake or lakehouse architectures (Delta Lake, Iceberg, or Hudi)
+* Hands-on experience with modern data stack tooling (dbt or similar) and orchestration (Airflow, Dagster, Prefect)
+* Strong SQL skills
+* Knowledge of infrastructure-as-code and CI/CD for data pipelines
+* Proven ability to drive technical standards and engineering improvements across teams
+* Experience working with cross-functional teams — especially R&D or science teams producing unstructured or semi-structured data
+
+**Preferred Qualifications And Experience**
+
+* Experience in a deep-tech, hardware, or semiconductor environment where data originates from physical measurement systems
+* Familiarity with time-series or scientific data formats (HDF5, Parquet for measurement traces, etc.)
+* Prior experience as the ""first data engineer"" — building a practice from scratch, not inheriting one
+* Familiarity with LIMS systems or laboratory data workflows
+
+This is for a new position. Your base salary will be determined based on your location, experience, and internal benchmarks. You will also be eligible for equity and benefits.
+  
+  
+Our values are important. They are fundamental and lay the foundation for culture at Xanadu. Learn more about our values here.
+  
+  
+We are an equal opportunity employer and encourage candidates of all backgrounds to apply. We are committed to building an inclusive, safe, and equitable culture and fostering an environment where our employees feel included, valued, and heard. We are committed to meeting the needs of all individuals and support a barrier-free workplace. Should you require accommodations at any point during the recruitment process please contact Recruiting at recruiting@xanadu.ai.
+  
+  
+Please be advised that we may use artificial intelligence (AI) tools to assist in the screening and assessment of applicants for this position. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
+dc2457dc959c6a2d,Lead Data and AI Engineer,Sanofi,"Toronto, Ontario, Canada",0,"CAD 125,300 - 180,966 /yearly",2026-10-29,"[""linkedin""]",https://www.linkedin.com/jobs/view/4458731432,,47,"Free scorer: your resume shows 2 of 19 listed skills (Python, AWS).","[""Java"", ""Scala"", ""SQL"", ""Snowflake"", ""Kafka"", ""Spark"", ""Hadoop"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling"", ""Data Warehouse"", ""Machine Learning"", ""CI/CD"", ""Agile"", ""Security""]",new,2026-10-29T18:52:56+00:00,2026-10-29T18:53:27+00:00,"[""Python"", ""AWS""]",,mid,li-4458731432,linkedin,"**Reference no.**
+R2867104
+  
+  
+**Position title:**
+Lead Data and AI Engineer
+  
+  
+**Department:**
+US Commercial Data Engineering
+  
+  
+**Location:**
+Toronto, ON
+  
+  
+**About The Job**
+Ready to push the limits of what’s possible? Join Sanofi in one of our corporate functions and you can play a vital part in the performance of our entire business while helping to make an impact on millions around the world.
+  
+  
+**Who You Are**
+You are a hands-on data and AI engineering leader with a strong background in building and operating data pipelines and platforms in complex enterprise environments. You bring a blend of technical depth, architectural thinking, and people leadership. You are comfortable guiding a team, partnering with stakeholders, and translating business needs into scalable and reliable data solutions.
+  
+  
+You care about engineering quality, operational excellence, and continuous improvement. You have experience working across cross-functional teams and know how to balance delivery, governance, and long-term platform sustainability.
+  
+  
+In this role, you will report directly to the Head of Data Engineering, Commercial US. You will provide architectural leadership and technical know-how across data pipeline construction, execution, and operations. You will work closely with teams across Data, Digital, Infrastructure, Cloud, Security, Agile, and key business stakeholders. You will also have direct people management responsibilities and the opportunity to shape and grow your team.
+  
+  
+Sanofi has recently embarked into a vast and ambitious digital transformation program. A cornerstone of this roadmap is the acceleration of its data transformation and of the adoption of artificial intelligence (AI) and machine learning (ML) solutions, to accelerate R&D, manufacturing and commercial performance and bring better drugs and vaccines to patients faster, to improve health and save lives.
+  
+  
+**About Sanofi**
+We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives.
+  
+  
+**Main Responsibilities**
+
+* Lead, mentor, and develop a team of data engineers while fostering strong engineering practices, accountability, collaboration, and continuous improvement
+* Design, build, deploy, and support scalable data pipelines and data products that enable analytics, AI/ML, and commercial business use cases
+* Lead discovery, solution design, and technical planning discussions with business, analytics, AI, and technology teams
+* Manage team delivery, priorities, capacity planning, and execution across multiple concurrent data engineering initiatives
+* Design, develop, test, and optimize scalable data engineering solutions and reusable data assets that support analytics, AI/ML, and business-critical workflows across global platforms
+* Partner with technical and non-technical stakeholders to clarify ambiguous business needs, shape solution approaches, and translate requirements into scalable data engineering solutions
+* Provide architectural and technical leadership across data pipeline orchestration, distributed processing, cloud-native platforms, and data integration patterns
+* Drive operational excellence across production data assets, including monitoring, troubleshooting, incident response, release management, and continuous improvement
+* Identify opportunities to automate, simplify, standardize, and optimize data engineering processes, reusable assets, and platform capabilities
+* Collaborate within cross-functional agile teams and partner with internal and external stakeholders to deliver high-quality data engineering solutions
+* Contribute to and evolve data engineering standards, best practices, and community knowledge sharing across the organization
+* Stay current with emerging technologies, industry trends, and modern data engineering practices to continuously improve platform capabilities and engineering effectiveness
+
+**Qualifications**
+**About you**
+
+* Minimum 8 years of experience in data engineering, analytics/AI engineering, or data platform development
+* Minimum 2 years leading or managing engineering teams/projects
+* Demonstrated experience designing, building, and operating scalable data pipelines, data platforms, and distributed processing solutions using technologies such as Spark, Kafka, Snowflake, Hadoop, or similar
+* Strong experience with cloud-native data engineering and modern ETL/ELT solutions, preferably within Snowflake / AWS-based environments; Informatica/IICS experience preferred
+* Advanced SQL and data modeling skills, with working knowledge of Python and scripting languages; Scala or Java is a plus
+* Experience with batch, near real-time, and streaming data architectures, as well as modern data warehouse, lake, and lakehouse concepts including data mesh principles
+* Strong understanding of data architecture, scalability, reliability, performance optimization, and operational support for enterprise-grade data platforms
+* Demonstrated ability to work with technical and non-technical stakeholders to navigate ambiguity, identify underlying business needs, and translate them into scalable technical solutions and execution plans
+* Strong communication, facilitation, and stakeholder management skills, with the ability to influence decisions and communicate complex technical concepts to diverse audiences
+* Experience partnering with cross-functional teams including analytics, AI/ML, product, infrastructure, security, governance, and business stakeholders
+* Experience operating in agile delivery environments with strong understanding of software engineering practices, CI/CD, release management, testing, and operational support
+* Experience leading engineering teams through delivery execution, prioritization, mentoring, performance management, and continuous improvement initiatives
+* Bachelor’s or Master’s degree in Computer Science, Engineering, STEM, Business, or a related field, or equivalent practical experience
+
+**Nice To Haves**
+
+* Experience in life sciences, healthcare, or pharmaceutical industries
+* Experience with Airflow, dbt or similar orchestration and transformation tooling
+* Familiarity with data governance, data quality, and commercial data domains such as omni-channel, pricing, customer engagement, or sales analytics
+* Experience working with external vendors and offshore/onshore delivery models
+
+**Why Choose Us?**
+
+* Bring the miracles of science to life alongside a supportive, future-focused team.
+* Discover endless opportunities to grow your talent and drive your career, whether it’s through a promotion or lateral move, at home or internationally.
+* Enjoy a thoughtful, well-crafted rewards package that recognizes your contribution and amplifies your impact.
+* Take good care of yourself and your family, with a wide range of health and wellbeing benefits including high-quality healthcare, prevention and wellness programs.
+
+This position is for a new vacant role that is now open for applications.
+  
+  
+**AI Usage**
+""Artificial Intelligence” refers to any systems that use automated processes, including algorithms and machine learning, to analyze data and make predictions, inferences, decisions, or recommendations without direct human involvement. These systems may process personal information to identify patterns, improve services, or support decision-making. The Company may use Artificial Intelligence for purposes including, but not limited to, resume screening and hiring, scheduling interviews or meetings, conducting surveys, matching skills with potential job openings, interview scoring, ensuring compliance with regulations applicable to our industry, and activities related to performance evaluation. Information collected and processed by the Company’s Artificial Intelligence systems may include the personal information detailed above and calendar availability. It excludes the information collected and processed for monitoring purposes. You should contact Human Resources if you have a question or concern regarding your personal information. You can also contact Canada’s Privacy Officer via Sanofi’s data subject request portal,  Data Subject Rights Webform. The Data Subject Rights Webform can also be used to request access or correction of your personal information and file a complaint.
+  
+  
+Sanofi is an equal opportunity employer committed to diversity and inclusion. Our goal is to attract, develop and retain highly talented employees from diverse backgrounds, allowing us to benefit from a wide variety of experiences and perspectives. We welcome and encourage applications from all qualified applicants.  Accommodations for persons with disabilities required during the recruitment process are available upon request.
+  
+  
+#GD-SP
+  
+  
+#DBBCA
+  
+  
+All compensation will be determined commensurate with demonstrated experience. Employees may be eligible to participate in Company employee benefit programs, and additional benefits information can be found here.
+  
+  
+Toute compensation sera déterminée en fonction de l'expérience démontrée. Les employés peuvent être admissibles à participer aux programmes d'avantages sociaux de l'entreprise. Des informations supplémentaires sur les avantages sociaux peuvent être trouvées ici.</a"
+08912008809893c4,Sr. Python Developer,nmodes,"Toronto, ON, Canada",1,CAD 29 - 46 /hourly,2026-10-29,"[""indeed""]",https://ca.indeed.com/viewjob?jk=5d17446edaf0b828,,75,"Free scorer: your resume shows 3 of 5 listed skills (Python, AWS, Linux).","[""SQL"", ""Machine Learning""]",new,2026-10-29T18:52:56+00:00,2026-10-29T18:53:27+00:00,"[""Python"", ""AWS"", ""Linux""]",,senior,in-5d17446edaf0b828,indeed,"A rapidly growing AI startup is seeking a skilled and motivated Python programmer.
+
+The ideal candidate will have a strong foundation in software development and a passion for technology. You will be responsible for designing, developing, and maintaining software applications that meet the needs of our clients. This role requires proficiency in various programming languages and technologies, as well as the ability to work collaboratively within a team environment.
+
+It starts as a part-time role and has the potential to become a full-time position.
+
+This role has an equity component for those who are interested.
+
+**Responsibilities**
+
+* Develop and maintain software applications using Python.
+* Design and implement database structures to ensure efficient data storage and retrieval.
+* Utilize ML and AI techniques to enhance application functionality.
+* Implement AI solutions to improve user experience and application performance.
+* Collaborate with cross-functional teams to define project requirements and deliver high-quality software solutions.
+* Conduct code reviews, testing, and debugging to ensure software reliability.
+* Document code changes and maintain comprehensive technical documentation.
+
+**Experience**
+
+* Proven experience in programming with Python.
+* Familiarity with database design principles and experience with SQL databases.
+* Knowledge of machine learning concepts and natural language processing techniques is a plus.
+* Experience with AWS services for cloud-based application development is desirable.
+* Proficiency in Linux.
+* Strong problem-solving skills and the ability to work independently or as part of a team.
+* Excellent communication skills to convey technical concepts clearly.
+
+Pay: $29.38-$46.99 per hour
+
+Work Location: Remote"
 cd4e47519d6e9c06,Data Engineer,eBay,"Toronto, Ontario, Canada",0,"CAD 102,400 - 136,700 /yearly",2026-10-28,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4482561616,https://jobs.ebayinc.com/us/en/job/R0076003,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Distributed Systems).","[""Java"", ""Scala"", ""Express"", ""Databricks"", ""Kafka"", ""Spark"", ""Airflow"", ""dbt"", ""Data Modeling"", ""Agile"", ""Scrum""]",new,2026-10-29T00:46:17+00:00,2026-10-29T00:46:48+00:00,"[""Python"", ""AWS"", ""Distributed Systems""]",,mid,li-4482561616,linkedin,"JOB DESCRIPTION
 
 At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
@@ -5030,10 +5267,186 @@ d776e284bbcad905,Python and AWS Developer - 10+yrs (REMOTE),Atlantis IT Group,"T
 a2d6a62051d478a5,Senior Data Engineer (Remote),Stryker,"Portage, MI, USA",1,,2026-10-08,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475707413,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-08T19:13:54+00:00,2026-10-29T00:46:57+00:00,[],,,,linkedin,
 d6f28001ef572523,Python Developer_6+ yrs,Inadev,"Toronto, Ontario, Canada",0,,2026-10-08,"[""linkedin""]",https://www.linkedin.com/jobs/view/4472547048,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-08T19:12:32+00:00,2026-10-29T00:46:57+00:00,"[""Python""]",,,,linkedin,
 77265a97dbd97571,Python Backend Engineer,VBeyond Corporation,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476910603,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-08T19:12:32+00:00,2026-10-29T00:46:57+00:00,"[""Python""]",,,,linkedin,
-83669240a9455d84,Senior Data Engineer,Clio,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475481413,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-07T19:18:01+00:00,2026-10-29T00:46:57+00:00,[],,,,linkedin,
+83669240a9455d84,Senior Data Engineer,Clio,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475481413,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-07T19:18:01+00:00,2026-10-29T00:46:57+00:00,[],,,,linkedin,"Clio is the global leader in legal AI technology, empowering legal professionals and law firms of every size to work smarter, faster, and more securely.
+  
+  
+We are transforming the legal experience for all by bettering the lives of legal professionals while increasing access to justice.
+  
+  
+**Summary:**
+We are currently seeking a
+**Senior Data Engineer**
+to join our rapidly growing engineering team. This role is for someone who is passionate about building innovative data solutions and being exposed to new challenges and technologies while making an impact.
+  
+  
+This role is available to candidates across Eastern Canada in the Eastern or Atlantic time zones, excluding Quebec. If you are local to Toronto, then you will be expected to be in office twice per week on days of your choice. If you are not local to Toronto, then you may work remotely across Canada, but our offices are open to you if you would like to visit.
+  
+  
+What your team does:
+  
+  
+Our data engineering team is driven to deliver an incredible experience to our customers. As a Senior Data Engineer at Clio, you will build data pipelines and data warehouses from scratch, as well as make data sets accessible to our partner teams by writing great production code. We move quickly, work with new state of the art technologies, and are motivated by solving complex problems.
+  
+  
+A day in the life might look like:
+  
+  
+
+* Implement data ingestion techniques (streaming and batch) using best practices in data modeling, ETL/ELT processes by leveraging AWS technologies and data tools
+* Design, build, and maintain data transformation pipelines consolidating various data sources (streaming or batch) into specific data lakes/data warehouses
+* Collaborate with engineers to help adopt best practices in data system creation, data integrity, test design, analysis, validation, and documentation
+* Develop prototype or ""proof of concept"" implementations of projects where the technical solution is unknown or unproven
+
+What you may have:
+  
+  
+
+* Deep experience in software development as well as data engineering
+* Proficiency in at least one major language (e.g. Python, Scala, Ruby) and SQL, striving to write elegant and maintainable code, and comfortability with picking up new technologies
+* Hands-on experience with cloud infrastructure (AWS and Terraform are preferred)
+* Experience with streaming and batch data tools: Spark, Kafka, Airflow
+* Advanced data warehousing experience working with Databricks or similar
+* Experience building data pipelines and the infrastructure required to deploy data models and dashboards that allow data visualization
+* Exceptional collaboration and communication skills and ability to derive clarity in ambiguous environments
+* You are an advocate for the data trustworthiness and product excellence of the data platform you build
+* You have an interest in improving your craft by using AI
+* You are a self-starter and can lead projects with minimum supervision
+* You enjoy mentoring junior engineers and are invested in their growth
+
+This posting is for an existing vacancy.
+  
+  
+**What you will find here:**
+Compensation is one of the main components of Clio’s Total Rewards Program. We have developed a series of programs and processes to ensure we are creating fair and competitive pay practices that form the foundation of our human and high-performing culture.
+  
+  
+**Some highlights of our Total Rewards program include:**
+
+* Competitive, equitable salary with top-tier health benefits, dental, and vision insurance
+* Hybrid work environment, with expectation for local Clions (Vancouver, Calgary, Toronto, Dublin, London, New York City and Sydney) to be in office min. twice per week.
+* Flexible time off policy, with an encouraged 20 days off per year.
+* $2000 annual counseling benefit
+* RRSP matching and RESP contribution
+* Clioversary recognition program with special acknowledgement at 3, 5, 7, and 10 years
+
+The expected salary range for this role is $157,300 to $212,800 CAD. Initial placement within the range is informed by geographic region, experience, and skillset, with room to progress as impact and tenure grow. Final offer amounts will vary based on candidate profile.
+  
+  
+**Diversity, Inclusion, Belonging and Equity (DIBE) & Accessibility**
+Our team shows up as their authentic selves, and are united by our mission. We are dedicated to diversity, equity and inclusion. We pride ourselves in building and fostering an environment where our teams feel included, valued, and enabled to do the best work of their careers, wherever they choose to log in from. We believe that different perspectives, skills, backgrounds, and experiences result in higher-performing teams and better innovation. We are committed to equal employment and we encourage candidates from all backgrounds to apply.
+  
+  
+Clio provides accessibility accommodations during the recruitment process. Should you require any accommodation, please let us know and we will work with you to meet your needs.
+  
+  
+Learn more about our culture at clio.com/careers
+  
+  
+We're a Human and High Performing AI company, meaning we use artificial intelligence to improve all of our operations. In recruitment, AI helps us streamline the process for greater efficiency. However, we've built our systems to ensure that a human always reviews AI-generated output, and we never make automated hiring decisions.
+  
+  
+***Disclaimer:**
+We only communicate with candidates through official @clio.com email addresses.*"
 60f4bb6cbef4ff6a,Senior Data Engineer,Scotiabank,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4457181224,https://jobs.scotiabank.com/job/Toronto-Senior-Data-Engineer-ON-M5H-1H1/606909417/,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-07T19:18:01+00:00,2026-10-29T00:46:57+00:00,[],,,,linkedin,
 0efda2862069b039,Senior Data Engineer,Scene+,"Toronto, Ontario, Canada",0,"CAD 100,000 - 115,000 /yearly",2026-10-07,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4476758181,https://scene.applytojob.com/apply/RAHuf0bMIT/Senior-Data-Engineer?source=INDE&~,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-07T19:18:01+00:00,2026-10-29T00:46:57+00:00,[],,,,linkedin,
-c1e5ea4785f8cea7,"Software Engineer, Web3 Backend",Robinhood,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474436761,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-07T19:17:05+00:00,2026-10-29T00:46:57+00:00,[],,,,linkedin,
+c1e5ea4785f8cea7,"Software Engineer, Web3 Backend",Robinhood,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474436761,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-07T19:17:05+00:00,2026-10-29T00:46:57+00:00,[],,,,linkedin,"Join us in building the future of finance.
+  
+  
+Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.
+  
+  
+**About the team + role**
+We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.
+  
+  
+As a
+**Software Engineer**
+, you’ll build and own backend services, infrastructure, and data systems that support Robinhood’s next-generation crypto, web3, and wallet offerings. You’ll develop innovative solutions to deliver a best-in-class trading experience for cryptocurrencies and tokenized assets—including perpetual futures—to customers worldwide, while solving complex scalability and correctness challenges in an environment where the systems you build move real customer assets continuously around the clock.
+  
+  
+The
+**Robinhood Wallet**
+team’s mission is to democratize access to financial services worldwide by leveraging DeFi protocols and Robinhood Chain. The team builds non-custodial consumer products, self-custody experiences, and seamless cross-chain trading capabilities.
+  
+  
+The
+**Tokenization**
+team’s mission is to bring both public and private equity to be tradable 24/7 on decentralized exchanges (DEXs) across the Robinhood Chain. Equity markets have been closed nights and weekends for a century; the team builds the connective tissue between traditional market infrastructure and on-chain systems—issuance, custody, and settlement—to change that.
+  
+  
+The
+**Robinhood Chain**
+team designs and scales the underlying decentralized infrastructure across Robinhood. The team continuously improves Robinhood Chain to provide a best-in-class decentralized platform for trading real-world assets, builds specialized smart contracts, and provides infrastructure services for other Robinhood teams that rely on DeFi.
+  
+  
+These roles are based in either our
+**Toronto, Canada**
+office, with in-person attendance expected at least 3 days per week.
+  
+  
+At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams.
+  
+  
+**What You’ll Do**
+
+* Design, build, test, and deploy scalable backend services and infrastructure across Robinhood Wallet, Tokenization, and Web3 platform systems, with correctness and auditability as hard requirements.
+* Build the connective tissue between traditional market infrastructure (brokerage, ledgers, corporate actions) and on-chain systems, including smart contract integrations, chain indexers, and DEX trade flows.
+* Develop product-facing features and platform enhancements that meet strict correctness and scalability standards.
+* Identify and implement improvements to system performance, engineering productivity, and risk reduction.
+* Collaborate closely with product, compliance, client, platform teams, and external partners to deliver impactful technical solutions.
+
+**What You Bring**
+
+* 2+ years of experience in software development.
+* Expertise in backend development using languages such as Go, Python, or Java, with a solid grasp of cloud-native architectures.
+* Strong grasp of system design, data modeling, and software engineering fundamentals.
+* Care for correctness-critical systems—idempotency, reconciliation, and reasoning carefully about failure modes when money is at stake.
+* Strong ownership mindset, with a track record of delivering high-quality projects end to end in cross-functional environments and raising team-wide technical standards.
+* Proven ability to simplify complex problems, make sound tradeoffs, and drive alignment across diverse stakeholders.
+* Interest in blockchain fundamentals—EVM, smart contracts, wallets, on-chain settlement—or a strong appetite to go deep quickly.
+
+**What We Offer**
+
+* Challenging, high-impact work to grow your career
+* Performance driven compensation with multipliers for outsized impact, bonus programs, and equity ownership
+* Top tier benefits to fuel your work, including supplemental health insurance, ancillary insurance, and mental health support programs
+* Access to the best AI tools on the market and continuous AI skill-building for every employee, technical or not
+* Lifestyle wallet - a highly flexible employer-paid benefits spending account expenses beyond traditional benefits such as wellness, childcare, learning, and more.
+* Time off to recharge including company holidays, paid time off, sick time, paid volunteer time off, parental leave, and more!
+* Exceptional office experience with catered meals, events, and comfortable workspaces.
+* Monthly commuter stipend to help offset in-office commuting costs
+
+Our team is committed to providing an inclusive and welcoming interview experience for all candidates. If you require a specific accommodation during the application or interview process due to a physical or mental condition, please complete this Applicant Accommodation Form to notify our team. The form should only be completed if you need a specific accommodation.
+  
+  
+Applicant Accommodation Form
+  
+  
+Vacancy Notice: This job posting represents an existing vacancy that we are actively seeking to fill.
+  
+  
+**In addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits.**
+Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected base pay range for this role is based on the location where the work will be performed.
+  
+  
+**Base Pay Range**
+Toronto, ON
+  
+  
+$136,000—$160,000 CAD
+  
+  
+Click here to learn more about our Total Rewards, which vary by region and entity.
+  
+  
+If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.
+  
+  
+**AI Usage Disclosure:**
+Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams.
+  
+  
+Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application."
 110c1c87e99ceba5,"Backend Engineer, Growth & Agents",EvenUp,"Toronto, Ontario, Canada",0,"CAD 160,000 - 230,000 /yearly",2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4439463349,,69,Free scorer: your resume shows 1 of 2 listed skills (Python).,"[""TypeScript""]",new,2026-10-07T19:17:05+00:00,2026-10-29T00:46:57+00:00,"[""Python""]",,,,linkedin,"EvenUp is on a mission to close the justice gap using technology and AI. We empower personal injury lawyers and victims to get the justice they deserve. Our products enable law firms to secure faster settlements, higher payouts, and better outcomes for victims injured through no fault of their own in vehicle collisions, accidents, natural disasters, and more.
   
   
