@@ -1,23 +1,307 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
-0e509909b31d53e1,Data & AI Engineer - Real World Data and Healthcare Intelligence,Sanofi,"Toronto, ON, Canada",0,"CAD 94,700 - 136,766 /yearly",2026-10-31,"[""indeed""]",https://ca.indeed.com/viewjob?jk=6b919db8ba7b410d,https://jobs.sanofi.com/job/-/-/2649/46461342080,59,"Free scorer: your resume shows 5 of 16 listed skills (Python, FastAPI, PostgreSQL, AWS).","[""SQL"", ""Microservices"", ""Snowflake"", ""PySpark"", ""ETL"", ""Data Warehouse"", ""Machine Learning"", ""Kubernetes"", ""Terraform"", ""CI/CD"", ""Grafana""]",new,2026-10-31T17:36:16+00:00,2026-10-31T17:36:32+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""AWS"", ""GitHub Actions""]",,mid,in-6b919db8ba7b410d,indeed,"**Reference Number:** R2874546
+0a90dece2b7f7363,MLOps / Data Engineer,TRITON DIGITAL CANADA INC.,"Remote, Canada",1,,2026-11-02,"[""indeed""]",https://ca.indeed.com/viewjob?jk=b9ecdcd853ec220e,https://app.jobvite.com/CompanyJobs/Job.aspx?j=obD2Afwa&loc=CK1cXfwE&s=Indeed,52,"Free scorer: your resume shows 3 of 15 listed skills (Python, AWS, GitHub Actions).","[""Scala"", ""Databricks"", ""Spark"", ""PySpark"", ""Machine Learning"", ""MLOps"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD"", ""Jenkins"", ""GitLab""]",new,2026-11-02T22:16:27+00:00,2026-11-02T22:16:46+00:00,"[""Python"", ""AWS"", ""GitHub Actions""]",,mid,in-b9ecdcd853ec220e,indeed,"**We can only accept candidates based in Ontario or Quebec.**
+-------------------------------------------------------------
 
-**Position Title:** Data & AI Engineer
+**The Audio Market Opportunity**
+--------------------------------
 
-**Location:** Toronto, CA - **Hybrid - 3 days per week onsite - required.**
+Modern advertising marketers allocate spending through automated systems that interpret signals. For a channel to capture its fair share of budget, its inventory must be legible to those systems — standardized signals, structured metadata, and machine-readable supply pathways.
 
-**About the Job**
+For the next evolution of media buying, Audience Signal is even more consequential. Agentic buying — autonomous systems that independently interpret objectives, evaluate options, negotiate terms, and execute campaigns — is moving from concept to production. These systems don’t browse inventory the way a human planner does. They query structured environments, evaluate supply through machine-readable signals, and pass over inventory they cannot read.
 
+**Our Mission**
+---------------
+
+Triton Digital builds the infrastructure layer that makes audio inventory legible to modern — and next-generation — advertising markets. Our platform enables broadcasters, independent podcasters, and streaming music services to participate in automated buying on equal terms with the major platforms, aggregating over 100 billion audio impressions per month across podcast, streaming, and broadcast radio inventory.
+
+The listener data team is at the heart of that mission. We enrich the listener profile to enable better advertising targeting through services including integration with Data Management Platforms (DMPs), the Profiler, the GeoIP service, and any other systems that serve the goal of making listener audiences continuously discoverable and actionable for buyers.
+
+**The Role**
+------------
+
+As our MLOps Data Engineer, you’ll be the bridge between data science and production systems — ensuring that models don’t just work in notebooks but thrive in real-world environments. You’ll design and automate CI/CD pipelines, optimize large-scale data processing with Apache Spark, and leverage Databricks to deliver machine learning solutions that are reliable, scalable, and fast. Your work will directly determine how quickly we can turn listener intelligence into structured, queryable signals that advertising systems — today’s DSPs and tomorrow’s agentic buyers — can act on.
+
+**What You’ll Do**
+------------------
+
+* Design, implement, and maintain CI/CD pipelines for machine learning workflows using tools like GitHub Actions, Azure DevOps, or Jenkins.
+* Build and optimize data processing pipelines in Apache Spark (PySpark and Scala) for large-scale, distributed listener datasets.
+* Deploy and manage Databricks environments, ensuring efficient cluster usage, job scheduling, and cost optimization.
+* Collaborate with data scientists to productionize ML models, integrating them into scalable APIs or batch processing systems that feed real-time, machine-readable audience signals.
+* Implement automated testing, monitoring, and alerting for ML pipelines to ensure the reliability and reproducibility that certified buyers require.
+* Champion best practices in version control, model registry management, and environment reproducibility.
+* Help evolve our listener data infrastructure toward agent-compatible supply — live, structured, queryable data feeds that autonomous buying systems can discover and act on without human mediation.
+
+**What You’ll Bring**
+---------------------
+
+* Proven experience in Data Engineering, MLOps, and DevOps roles with a focus on automation and scalability.
+* Strong programming skills in Python, with hands-on experience in Apache Spark. Scala is a huge plus.
+* Advanced expertise in Databricks, including Delta Lake, structured streaming, feature engineering
+* Solid understanding of CI/CD principles and tools (e.g., GitHub Actions, Jenkins, Azure DevOps, GitLab CI, ArgoCD).
+* Familiarity with cloud platforms (AWS, Azure, or GCP) for data and ML workloads.
+* A problem-solving mindset and the ability to work closely with cross-functional teams.
+* Strong architectural mindset, capable of evaluating trade-offs across cost, performance, scalability, and maintainability when selecting tools and designing systems.
+* Experience working with containerized and orchestrated environments (Kubernetes / OpenShift), including deployment, scaling, and fault tolerance of data and ML workloads.
+* Advanced English required. French is an asset.
+* Familiarity with IAB data standards, programmatic advertising infrastructure, or AdTech data pipelines is a strong asset.
+
+**Our benefits package includes**
+---------------------------------
+
+* Fully remote position (must be based in ONTARIO or QUEBEC)
+* 4 weeks of vacation + 5 paid personal days annually
+* Group insurance programs as of your first day, including access to telemedicine and an EAP
+* Collective RRSP with matching contribution
+* Internet reimbursement and more
+* Budget $100-125k CAD
+* *L’utilisation de l’anglais est nécessaire pour collaborer avec des équipes internes et internationaux, et pour accéder à des informations et des ressources.*
+
+*Triton Digital is an equal opportunity employer committed to fostering a diverse, equitable, and inclusive workplace where all employees are respected, supported, and enabled to perform at their highest potential.*"
+a8da165aab22a2f7,Big Data Engineer (PySpark / Spark / Kafka),"Astra-North Infoteck Inc.  ~ Conquering today’s challenges, achieving tomorrow’s vision!","Toronto, Ontario, Canada",0,,2026-11-02,"[""linkedin""]",https://www.linkedin.com/jobs/view/4485769725,,52,"Free scorer: your resume shows 3 of 16 listed skills (Python, AWS, Git).","[""Scala"", ""SQL"", ""Kafka"", ""Spark"", ""PySpark"", ""Hadoop"", ""Airflow"", ""ETL"", ""ELT"", ""Azure"", ""GCP"", ""Jenkins"", ""Security""]",new,2026-11-02T22:16:15+00:00,2026-11-02T22:16:46+00:00,"[""Python"", ""AWS"", ""Git""]",,mid,li-4485769725,linkedin,"Job Description: Big Data Engineer (PySpark / Spark / Kafka)
+  
+**Work Mode:**
+Hybrid – 3 Days a Week in Office
+  
+Job Overview
+  
+
+We are seeking an experienced Data Engineer with strong expertise in Big Data technologies to design, develop, and support enterprise-scale data platforms. The ideal candidate should have hands-on experience in PySpark, Apache Spark, Kafka, Hadoop ecosystem components, and Apache NiFi, along with a strong understanding of data ingestion, transformation, and real-time processing frameworks.
+
+Key Responsibilities
+  
+
+* Design, develop, and optimize scalable data pipelines using PySpark, Spark, Hadoop, and Apache NiFi.
+* Build and maintain batch and real-time data processing solutions.
+* Develop and support Kafka-based streaming applications and event-driven architectures.
+* Create and optimize ETL/ELT workflows for large-scale structured and unstructured datasets.
+* Develop complex SQL queries for data extraction, transformation, validation, and troubleshooting.
+* Implement data ingestion solutions from databases, APIs, files, and streaming sources.
+* Monitor, troubleshoot, and enhance the performance of Spark jobs and data pipelines.
+* Collaborate with architects, business analysts, and development teams to deliver high-quality data solutions.
+* Support platform upgrades, deployments, testing, certification, and production releases.
+* Ensure data quality, governance, security, and operational excellence across data platforms.
+
+Mandatory Skills
+  
+
+* PySpark
+* Apache Spark (Spark SQL, DataFrames)
+* Apache Kafka
+* Hadoop Ecosystem (HDFS, Hive, YARN)
+* Apache NiFi
+* SQL
+* Python
+
+Preferred Skills
+  
+
+* Spark Streaming
+* Airflow / Oozie
+* Hive
+* Scala
+* Jenkins, Bitbucket, Git
+* JIRA, Confluence
+* Cloud Platforms (GCP/AWS/Azure)
+* Data Warehousing Concepts and Dimensional Modeling"
+229a8eb4511a2a87,Azure Data Engineer,TechDoQuest,"Toronto, Ontario, Canada",0,,2026-11-02,"[""linkedin""]",https://www.linkedin.com/jobs/view/4484378767,,58,"Free scorer: your resume shows 3 of 10 listed skills (Python, REST, Git).","[""SQL"", ""Databricks"", ""Spark"", ""PySpark"", ""Airflow"", ""Azure"", ""CI/CD""]",new,2026-11-02T22:16:15+00:00,2026-11-02T22:16:46+00:00,"[""Python"", ""REST"", ""Git""]",,mid,li-4484378767,linkedin,"• Strong hands-on experience with Azure Data Factory (ADF), Azure Databricks, Python, PySpark, SQL, and Azure cloud services.
+
+• Expertise in developing scalable data ingestion, transformation, and orchestration pipelines using Databricks and Apache Airflow.
+
+• Experience implementing Medallion Architecture (Bronze, Silver, Gold), Delta Lake, and reusable data engineering frameworks.
+
+• Develop reusable Databricks notebooks, data transformation components, orchestration workflows, and automated data quality checks.
+
+• Strong experience with Azure DevOps, Git, CI/CD pipelines, and automated deployment processes.
+
+• Experience with Spark performance tuning, pipeline troubleshooting, data reconciliation, and workload optimization.
+
+• Knowledge of data governance, metadata management, Unity Catalog, and enterprise data engineering best practices.
+
+• For Lead Engineers: Experience in solution design, technical architecture, code reviews, mentoring, and collaboration with client architects.
+
+• Good to have: Databricks Asset Bundles, REST APIs, and integration with enterprise data platforms."
+ef15ed033ebe879d,Lead Azure Data Engineer - Banking Domain,Enterprise Solutions Inc.,"Toronto, Ontario, Canada",0,,2026-11-02,"[""linkedin""]",https://www.linkedin.com/jobs/view/4484852295,,45,Free scorer: your resume shows 1 of 14 listed skills (Python).,"[""SQL"", ""SQL Server"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Data Warehouse"", ""Azure"", ""CI/CD"", ""Jenkins"", ""Agile"", ""Scrum""]",new,2026-11-02T22:16:15+00:00,2026-11-02T22:16:46+00:00,"[""Python""]",,mid,li-4484852295,linkedin,"**Job Title:**
+Lead Azure Data Engineer - Banking Domain
+
+**Location:**
+Toronto, ON, Canada
+
+**Experience:**
+10–14 Years
+
+**Employment Type:**
+Contract / Full-Time
+
+**Domain:**
+Banking / Financial Services
+
+Job Summary
+
+We are seeking an experienced Senior / Lead Azure Data Engineer with strong expertise in Microsoft Azure, Azure Data Factory, Azure Databricks, PySpark, and Azure Synapse Analytics. The ideal candidate will have hands-on experience designing and developing scalable ETL/ELT pipelines, implementing cloud-based data engineering solutions, and managing large-scale data processing workloads.
+
+Experience working with financial or banking data, data reconciliation, data quality, and enterprise data governance will be highly valued.
+
+Key Responsibilities
+
+* Design, develop, and implement scalable ETL/ELT pipelines using Azure Data Factory (ADF).
+* Build and optimize data processing solutions using Azure Databricks, PySpark, and Spark SQL.
+* Develop data ingestion frameworks integrating multiple sources into Azure Data Lake Storage Gen2.
+* Design and implement cloud-based data warehouse solutions using Azure Synapse Analytics and Azure SQL.
+* Develop complex SQL queries, stored procedures, and data transformation logic.
+* Implement Delta Lake architecture, Delta Live Tables (DLT), and data quality validation frameworks.
+* Work with Unity Catalog to implement data governance, access controls, and data lineage.
+* Develop metadata-driven and parameterized pipelines for automated data processing.
+* Implement batch and near-real-time data processing solutions using Azure Event Hubs and other Azure services.
+* Optimize pipeline performance, Spark jobs, SQL queries, and cloud resource utilization.
+* Implement secure data access using Azure Key Vault, Azure Active Directory, and managed identities.
+* Develop CI/CD processes for automated deployment across development, QA, and production environments.
+* Collaborate with enterprise architects, business analysts, QA teams, and stakeholders to deliver reliable data solutions.
+* Ensure data accuracy, reconciliation, exception handling, and compliance with enterprise data standards.
+
+Mandatory Technical Skills
+
+* Strong hands-on experience with Microsoft Azure Data Engineering.
+* Azure Data Factory (ADF).
+* Azure Databricks, PySpark, and Spark SQL.
+* Azure Data Lake Storage Gen2 (ADLS).
+* Azure Synapse Analytics.
+* Strong SQL Server and Azure SQL Database experience.
+* ETL/ELT pipeline development and data warehousing.
+* Python programming and data transformation.
+* Data integration, migration, and performance optimization.
+
+Good to Have
+
+* Delta Lake and Delta Live Tables (DLT).
+* Unity Catalog and Databricks Asset Bundles.
+* Azure Functions, Logic Apps, Event Grid, and Event Hubs.
+* Azure Key Vault and Azure Active Directory.
+* CI/CD using Jenkins, GitHub, or Azure DevOps.
+* Banking or financial services domain experience.
+* Data governance, data quality, and reconciliation.
+
+Experience & Qualifications
+
+* 10+ years of experience in Data Engineering / Data Warehousing.
+* 5+ years of hands-on experience with Azure Data Engineering technologies.
+* Experience designing and implementing enterprise-scale cloud data solutions.
+* Strong understanding of Agile/Scrum and SDLC methodologies.
+* Bachelor's degree in Computer Science, Engineering, or a related field.
+
+Preferred Candidate Profile
+
+A hands-on Senior / Lead Azure Data Engineer who can independently design, develop, optimize, and support enterprise data pipelines, with strong experience in Azure Databricks, ADF, PySpark, SQL, and cloud data architecture. Banking or financial services experience is preferred."
+9e3134a2d1ef0693,Python Developer with SAS,Iris Software Inc.,"Toronto, Ontario, Canada",0,,2026-11-02,"[""linkedin""]",https://www.linkedin.com/jobs/view/4485735254,,78,"Free scorer: your resume shows 4 of 6 listed skills (Python, Pandas, Git, Linux).","[""SQL"", ""Statistics""]",new,2026-11-02T22:14:25+00:00,2026-11-02T22:16:46+00:00,"[""Python"", ""Pandas"", ""Git"", ""Linux""]",,mid,li-4485735254,linkedin,"Greetings!
+
+Iris’s leading financial client is looking for Python Developer with SAS to join their team at Toronto, ON(Hybrid) location.
+
+**Job Title: Python Developer with SAS**
+
+**Location: Toronto, ON(Hybrid)**
+
+**Duration: Long Term**
+
+**Job description:**
+
+* Education: Bachelor’s or master’s degree in computer science, Data Engineering, Statistics, or a related quantitative field.
+* SAS Experience: 3+ years of hands-on development with Base SAS, SAS Macros, and PROC SQL.
+* Python Experience: 2+ years of production Python development, with strong proficiency in pandas, data wrangling, and relational SQL.
+* Environment & Tools: Experience working in Anaconda environments, Git/GitHub, and Linux/Unix shell scripting.
+* Analytical Skills: Strong debugging, root-cause analysis, and side-by-side data validation capabilities.
+
+**About Iris Software Inc.**
+
+With 4,000+ associates and offices in India, U.S.A. and Canada, Iris Software delivers technology services and solutions that help clients complete fast, far-reaching digital transformations and achieve their business goals. A strategic partner to Fortune 500 and other top companies in financial services and many other industries, Iris provides a value-driven approach - a unique blend of highly-skilled specialists, software engineering expertise, cutting-edge technology, and flexible engagement models. High customer satisfaction has translated into long-standing relationships and preferred-partner status with many of our clients, who rely on our 30+ years of technical and domain expertise to future-proof their enterprises. Associates of Iris work on mission-critical applications supported by a workplace culture that has won numerous awards in the last few years, including Certified Great Place to Work in India; Top 25 GPW in IT & IT-BPM; Ambition Box Best Place to Work, #3 in IT/ITES; and Top Workplace NJ-USA."
+d2dd36e7decbb526,"Software Engineer II, Backend (Batch Developer Experience)",Affirm,"Toronto, Ontario, Canada",0,,2026-10-31,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476824969,,73,"Free scorer: your resume shows 4 of 7 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kubernetes""]",new,2026-11-02T22:14:25+00:00,2026-11-02T22:16:47+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,mid,li-4476824969,linkedin,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+  
+  
+**About The Engineering Team**
+The Engineering team builds systems that power Affirm’s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we’re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering.
+  
+  
+**About The Team**
+The Batch Developer Experience team makes batch development and testing faster and more reliable at Affirm. As a developer on this team you will partner with product and infrastructure engineers to build the tools and systems that streamline workflows, strengthen testing and ultimately improve the reliability of Affirm’s critical batch workloads.
+  
+  
+**What You’ll Do**
+
+* With the support of your team’s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work.
+* You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.
+* You will support the operations and availability of your team’s artifacts by creating and monitoring metrics, escalating when needed, and supporting “keep the lights on” & on-call efforts.
+* You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process.
+
+**What We Look For**
+
+* You have a total of 1.5+ years of experience as a software engineer.
+* You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin.
+* You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes.
+* You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
+* You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+
+This posting is for an existing vacancy.
+  
+  
+**Base Pay Grade - L**
+**Equity Grade - 5**
+Employees new to Affirm
+*typically come in at the start of the pay range*
+. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+  
+  
+Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
+  
+  
+CAN base pay range per year: 133,000 - 183,000
+  
+  
+**Location - Remote Canada**
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.
+  
+  
+**Remote-first with flexibility built in**
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+  
+  
+**Benefits Designed For You**
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+  
+  
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help.
+  
+  
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+  
+  
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
+0e509909b31d53e1,Data & AI Engineer - Real World Data and Healthcare Intelligence,Sanofi,"Toronto, ON, Canada",0,"CAD 94,700 - 136,766 /yearly",2026-10-31,"[""indeed"", ""linkedin""]",https://ca.indeed.com/viewjob?jk=6b919db8ba7b410d,https://jobs.sanofi.com/job/-/-/2649/46461342080,59,"Free scorer: your resume shows 5 of 16 listed skills (Python, FastAPI, PostgreSQL, AWS).","[""SQL"", ""Microservices"", ""Snowflake"", ""PySpark"", ""ETL"", ""Data Warehouse"", ""Machine Learning"", ""Kubernetes"", ""Terraform"", ""CI/CD"", ""Grafana""]",new,2026-10-31T17:36:16+00:00,2026-10-31T17:36:32+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""AWS"", ""GitHub Actions""]",,mid,in-6b919db8ba7b410d,indeed,"**Reference Number:**
+R2874546
+  
+  
+**Position Title:**
+Data & AI Engineer
+  
+  
+**Location:**
+Toronto, CA -
+**Hybrid - 3 days per week onsite - required.**
+**About The Job**
 Ready to push the limits of what’s possible? Join Sanofi in one of our corporate functions and you can play a vital part in the performance of our entire business while helping to make an impact on millions around the world.
-
   
-
+  
 **About Sanofi**
-
 We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives.
-
   
-
-**Main Responsibilities****:**
+  
+**Main Responsibilities**
 
 * Ownership of the entire back end of the application including the design, implementation, test, and troubleshooting of the core application logic, databases, data ingestion and transformation, data processing and orchestration of pipelines, APIs, CI/CD integration and other processes
 * Fine-tune and optimize queries using Snowflake platform and databases techniques
@@ -33,7 +317,6 @@ We’re an R&D-driven, AI-powered biopharma company committed to improving peopl
 * Create detail documentation on Confluence to be able to support and maintain codebase and its functionality
 
 **About You**
-
 **Required Qualifications:**
 
 * 3+ years of relevant experience developing backend, integration, data pipelining, and infrastructure
@@ -49,32 +332,28 @@ We’re an R&D-driven, AI-powered biopharma company committed to improving peopl
 * Knowledge of DevOps best practices and associated tools, a plus, especially in the setup, configuration, maintenance, and troubleshooting of associated tools: Containers and containerization technologies (Kubernetes, Argo, Red Hat OpenShift), Infrastructure as code (Terraform), Monitoring and Logging (CloudWatch, Grafana), CI/CD Pipelines (JFrog Artifactory), Scripting and automation (Python, GitHub, Github actions)
 
 This position is for a current vacant role that we are actively hiring for.
-
+  
+  
 Applications received after the official close date will be reviewed on an individual basis.
-
   
-
+  
 **AI Usage**
-
-""Artificial Intelligence” refers to any systems that use automated processes, including algorithms and machine learning, to analyze data and make predictions, inferences, decisions, or recommendations without direct human involvement. These systems may process personal information to identify patterns, improve services, or support decision-making. The Company may use Artificial Intelligence for purposes including, but not limited to, resume screening and hiring, scheduling interviews or meetings, conducting surveys, matching skills with potential job openings, interview scoring, ensuring compliance with regulations applicable to our industry, and activities related to performance evaluation. Information collected and processed by the Company’s Artificial Intelligence systems may include the personal information detailed above and calendar availability. It excludes the information collected and processed for monitoring purposes. You should contact Human Resources if you have a question or concern regarding your personal information. You can also contact Canada’s Privacy Officer via Sanofi’s data subject request portal, Data Subject Rights Webform. The Data Subject Rights Webform can also be used to request access or correction of your personal information and file a complaint.
-
+""Artificial Intelligence” refers to any systems that use automated processes, including algorithms and machine learning, to analyze data and make predictions, inferences, decisions, or recommendations without direct human involvement. These systems may process personal information to identify patterns, improve services, or support decision-making. The Company may use Artificial Intelligence for purposes including, but not limited to, resume screening and hiring, scheduling interviews or meetings, conducting surveys, matching skills with potential job openings, interview scoring, ensuring compliance with regulations applicable to our industry, and activities related to performance evaluation. Information collected and processed by the Company’s Artificial Intelligence systems may include the personal information detailed above and calendar availability. It excludes the information collected and processed for monitoring purposes. You should contact Human Resources if you have a question or concern regarding your personal information. You can also contact Canada’s Privacy Officer via Sanofi’s data subject request portal,  Data Subject Rights Webform. The Data Subject Rights Webform can also be used to request access or correction of your personal information and file a complaint.
+  
+  
 Sanofi is an equal opportunity employer committed to culture, inclusion, and experience. Our goal is to attract, develop and retain highly talented employees, allowing us to benefit from a wide variety of experiences and perspectives. We welcome and encourage applications from all qualified applicants. Accommodations for persons with disabilities required during the recruitment process are available upon request.
-
   
-
+  
 #GD-SP
-
-#LI-SP
-
-#DBBCA
-
-#LI-Onsite
-
   
-
+  
+#DBBCA
+  
+  
 All compensation will be determined commensurate with demonstrated experience. Employees may be eligible to participate in Company employee benefit programs, and additional benefits information can be found here.
-
-Toute compensation sera déterminée en fonction de l'expérience démontrée. Les employés peuvent être admissibles à participer aux programmes d'avantages sociaux de l'entreprise. Des informations supplémentaires sur les avantages sociaux peuvent être trouvées ici."
+  
+  
+Toute compensation sera déterminée en fonction de l'expérience démontrée. Les employés peuvent être admissibles à participer aux programmes d'avantages sociaux de l'entreprise. Des informations supplémentaires sur les avantages sociaux peuvent être trouvées ici.</a"
 f8f5d83dd305d96e,Product Engineering (Fabric Data Engineering),Allstate Canada,"Toronto, Ontario, Canada",0,,2026-10-31,"[""linkedin""]",https://www.linkedin.com/jobs/view/4458304396,,55,"Free scorer: your resume shows 3 of 12 listed skills (Python, REST, Git).","[""SQL"", ""GraphQL"", ""Spark"", ""PySpark"", ""ELT"", ""Power BI"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-10-31T17:36:01+00:00,2026-10-31T17:36:32+00:00,"[""Python"", ""REST"", ""Git""]",,mid,li-4458304396,linkedin,"At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sophistication, telematics, and, more recently, device and identity protection.
   
   
@@ -5862,8 +6141,190 @@ fc92c6b7a07fdfae,IT Cloud Data Engineer || Toronto,TestingXperts,"Toronto, Ontar
 3117f6a1604bf5a2,Senior Data Engineer,FGF Brands,"Greater Toronto Area, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4469979426,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:33+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 0603dd76fe9f3436,Cloud Data Engineer - Banking Domain,E-Solutions,"Toronto, Ontario, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4479050100,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:33+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 bf9c656c571e08a0,Senior Data Engineer (Analyst/Scientist) - Remote,Kake,"Toronto, Ontario, Canada",1,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476022517,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:33+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
-bfcf3e66890f4f7c,Data Implementation Engineer,ODAIA,"Toronto, Ontario, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477285682,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:33+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
-8c3907b8d0075ebe,Senior Data Implementation Engineer,ODAIA,"Toronto, Ontario, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477284739,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:33+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+bfcf3e66890f4f7c,Data Implementation Engineer,ODAIA,"Toronto, Ontario, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477285682,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:33+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**About Odaia**
+ODAIA noun o·da·ia | 'oh-day-yeah An Ancient Greek word referring to ""ōdē"", the word for song, and the root of melody, harmony, and orchestra. We chose it deliberately: the best commercial intelligence doesn't just inform — it orchestrates.
+  
+  
+To learn more visit odaia.ai.
+  
+  
+ODAIA delivers AI-powered commercial intelligence for life sciences - unifying data, accelerating results, and helping commercial teams deepen engagement to enhance care for providers and patients. ODAIA's AI platform transforms complex data into predictive, personalized insights, enabling commercial leaders to understand their customers, anticipate prescribing behaviors, and make the informed, strategic decisions that bring therapies to patients faster.
+  
+  
+**OUR MISSION**
+Reducing patients’ time to therapy by facilitating meaningful interactions with healthcare providers, through human-centric software powered by AI.
+  
+  
+**What’s On Offer**
+As a Data Implementation Engineer reporting to the Manager, Technical Implementations, you will play a critical role in configuring and implementing our AI-driven platform to enable our customer’s success. You will partner closely with the Business Acceleration and Engineering teams throughout the entirety of the customer lifecycle and be responsible for managing all data-related activities. The ideal candidate will have strong technical fluency - especially in data analysis, querying, and ETL.
+  
+  
+Please include a cover letter with your application outlining your relevant experience and interest in this role, you can describe a project you’ve worked on that relates to one of the “What you bring” or “What you will do” points, and share how you’d expand on it here at ODAIA.
+  
+  
+**What You Will Do**
+
+* Work directly with customers to discover, assess, and integrate their data assets into our platform
+* Collaborate with customers, our support team, and other internal teams to define technical requirements and triage reported issues for each implementation
+* Configure and deploy platform solutions tailored to each customer, connecting seamlessly with their existing systems
+* Build and maintain automated ETL workflows, using tools like Snowflake and AWS Glue, to enable repeatable, high-quality data ingestion
+* Troubleshoot issues across the data pipeline - from ingestion and transformation through orchestration and system configuration - leading resolution efforts
+* Own the weekly data delivery cycle for assigned customers, proactively resolving issues to keep deliveries on time and error-free
+* Identify recurring manual work in the implementation and delivery process - including manual trigger steps - and automate it to improve scalability
+* Uphold data security and privacy protocols in line with industry standards
+
+**What You Bring**
+
+* 3+ years of experience with data migration, ETL, and pipeline tools
+* 3+ years of hands-on experience with Snowflake and AWS (e.g., Glue, S3), or equivalent cloud data infrastructure
+* Strong proficiency in Python and SQL
+* Experience with APIs and integration frameworks
+* Familiarity with orchestration tools (e.g., Dagster, Airflow) and config-driven/declarative pipeline systems (e.g., dbt) is a strong asset
+* Strong problem-solving skills and a customer-centric mindset, comfortable owning ambiguous technical problems directly with customers
+* Excellent communication skills, able to translate between technical and non-technical stakeholders
+* Experience in the life sciences/pharma industry, including familiarity with tools like Veeva Vault or Salesforce, is a strong asset
+
+**What We Offer**
+**Values-Based Culture**
+
+* We Ignite Innovation, Own It, and Stand Together
+
+**AI-Native Environment**
+
+* At ODAIA, we don't just deliver AI — we live it. We use AI and agentic automation to 10x our efficiency and impact, encouraging constant curiosity in leveraging and integrating AI
+
+**Comprehensive Rewards**
+
+* Meaningful stock option grants, immediate medical/dental enrollment, and flexible time off
+
+**Remote-First Flexibility**
+
+* WFH flexibility with intentional, high-value in-person collaboration and socials
+
+**LOCATION & BUSINESS TRAVEL**
+ODAIA is a remote first organization, with employees located across Canada and the U.S. Our primary office hub is located in central downtown Toronto, walking distance from Union Station.
+  
+  
+**EMPLOYMENT VERIFICATION**
+Any conditional offer of employment made to a successful candidate will be subject to the full satisfaction with the results of any background and reference checks.
+  
+  
+**JOB PROCESS & INTERVIEW DISCLOSURE**
+ODAIA does use artificial intelligence (AI) to review applications, filter and analyze resumes.
+  
+  
+Our recruitment team may use an AI-powered meeting assistant to record and transcribe interviews for note-taking purposes only. This tool helps our recruiters to be fully present during conversations with candidates who provide consent to this tool being used during an interview. This tool is used in compliance with privacy and employment laws across Canada and the U.S.
+  
+  
+We respect the time candidates invest into participating in our recruitment process. ODAIA is committed to providing timely status updates on hiring decisions to all candidates following their final interview, in accordance with applicable employment laws.
+  
+  
+Compensation is discussed with candidates early in the interview process to ensure alignment. Final compensation is determined through a comprehensive review of the successful candidate’s unique skill set, specialized experience, certifications and other relevant considerations and is based on current market data and internal pay and equity frameworks and structures. This role is also eligible for health benefits, stock options, and flexible time off policies as mentioned above.
+  
+  
+Position Status: Please note that this is an existing position and that this vacancy is not related to a recent departure.
+  
+  
+**DIVERSITY, EQUITY & INCLUSION**
+ODAIA is an equal opportunity employer. We are committed to building an environment where everyone feels included, valued, respected and heard. We are committed to creating a diverse workplace, free from discrimination on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, disability status or any other characteristics protected by local laws, regulations or ordinances.
+  
+  
+**ACCOMMODATIONS AND ACCESSIBILITY**
+Accommodations are available upon request. If you need assistance or accommodation due to a disability or special need at any stage of the recruitment process, please contact us at hr@odaia.ai"
+8c3907b8d0075ebe,Senior Data Implementation Engineer,ODAIA,"Toronto, Ontario, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477284739,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:33+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**About Odaia**
+ODAIA noun o·da·ia | 'oh-day-yeah An Ancient Greek word referring to ""ōdē"", the word for song, and the root of melody, harmony, and orchestra. We chose it deliberately: the best commercial intelligence doesn't just inform — it orchestrates.
+  
+  
+To learn more visit odaia.ai.
+  
+  
+ODAIA delivers AI-powered commercial intelligence for life sciences - unifying data, accelerating results, and helping commercial teams deepen engagement to enhance care for providers and patients. ODAIA's AI platform transforms complex data into predictive, personalized insights, enabling commercial leaders to understand their customers, anticipate prescribing behaviors, and make the informed, strategic decisions that bring therapies to patients faster.
+  
+  
+**OUR MISSION**
+Reducing patients’ time to therapy by facilitating meaningful interactions with healthcare providers, through human-centric software powered by AI.
+  
+  
+**What’s On Offer**
+As a Senior Data Implementation Engineer, reporting to the Manager, Technical Implementations, you will own complex customer implementations end-to-end and act as a technical escalation point within the team. You will partner closely with Business Acceleration, Engineering, and Product to design scalable data solutions and ensure successful delivery for strategic customers.This role is ideal for someone who is deeply hands-on, technically strong, and comfortable leading complex integrations while mentoring more junior engineers.
+  
+  
+Please include a cover letter with your application outlining your relevant experience and interest in this role, you can describe a project you’ve worked on that relates to one of the “What you bring” or “What you will do” points, and share how you’d expand on it here at ODAIA.
+  
+  
+**What You Will Do**
+
+* Own complex customer implementations from technical discovery through production go-live
+* Build automated ETL workflows to enable repeatable and high quality data ingestion
+* Translate business requirements into scalable technical solutions
+* Utilize modern data tools like PySpark and Snowflake to explore and troubleshoot issues with ETL, data ingestion or system configuration
+* Define data validation frameworks and ensure high data quality standards
+* Serve as an escalation point for implementation challenges and production issues
+* Mentor and support junior Data Implementation Engineers
+* Drive continuous improvements to implementation standards, tooling, and processes
+* Ensure compliance with data security, privacy, and industry regulations
+
+**What You Bring**
+
+* 6+ years of experience with data migration, ETL, and pipeline tools
+* 6+ years of hands-on experience with Snowflake and AWS (e.g., Glue, S3), or equivalent cloud data infrastructure
+* Strong proficiency in Python and SQL
+* Experience with APIs and integration frameworks
+* Familiarity with orchestration tools (e.g., Dagster, Airflow) and config-driven/declarative pipeline systems (e.g., dbt) is a strong asset
+* Strong problem-solving skills and a customer-centric mindset, comfortable owning ambiguous technical problems directly with customers
+* Excellent communication skills, able to translate between technical and non-technical stakeholders
+* Experience in the life sciences/pharma industry, including familiarity with tools like Veeva Vault or Salesforce, is a strong asset
+
+**What We Offer**
+**Values-Based Culture**
+
+* We Ignite Innovation, Own It, and Stand Together
+
+**AI-Native Environment**
+
+* At ODAIA, we don't just deliver AI - we live it. We use AI and agentic automation to 10x our efficiency and impact, encouraging constant curiosity in leveraging and integrating AI
+
+**Comprehensive Rewards**
+
+* Meaningful stock option grants, immediate medical/dental enrollment, and flexible time off
+
+**Remote-First Flexibility**
+
+* WFH flexibility with intentional, high-value in-person collaboration and socials
+
+**LOCATION**
+ODAIA is a remote first organization, with employees located across Canada and the U.S. Our primary office hub is located in central downtown Toronto and walking distance from Union Station.
+  
+  
+**EMPLOYMENT VERIFICATION**
+Any conditional offer of employment made to a successful candidate will be subject to the full satisfaction with the results of any background and reference checks.
+  
+  
+**JOB PROCESS & INTERVIEW DISCLOSURE**
+ODAIA does use artificial intelligence (AI) to review applications, filter and analyze resumes.
+  
+  
+Our recruitment team may use an AI-powered meeting assistant to record and transcribe interviews for note-taking purposes only. This tool helps our recruiters to be fully present during conversations with candidates who provide consent to this tool being used during an interview. This tool is used in compliance with privacy and employment laws across Canada and the U.S.
+  
+  
+We respect the time candidates invest into participating in our recruitment process. ODAIA is committed to providing timely status updates on hiring decisions to all candidates following their final interview, in accordance with applicable employment laws.
+  
+  
+The anticipated base salary for this position ranges from $115,000 - $130,000 CAD
+  
+  
+This range represents ODAIA's good-faith estimate based on current market data and internal equity. Final compensation is determined through a comprehensive review of the successful candidate’s unique skill set, specialized experience, certifications and other relevant considerations. As such, the final offer may vary based on these specific factors. Salary expectations will be discussed collaboratively early in the process to ensure alignment. This role is also eligible for health benefits, stock options, and flexible time off policies as mentioned above.
+  
+  
+Position Status: This posting is for a new vacancy.
+  
+  
+**DIVERSITY, EQUITY & INCLUSION**
+ODAIA is an equal opportunity employer. We are committed to building an environment where everyone feels included, valued, respected and heard. We are committed to creating a diverse workplace, free from discrimination on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, parental status, veteran status, disability status or any other characteristics protected by local laws, regulations or ordinances.
+  
+  
+**ACCOMMODATIONS AND ACCESSIBILITY**
+Accommodations are available upon request. If you need assistance or accommodation due to a disability or special need at any stage of the recruitment process, please contact us at hr@odaia.ai."
 eab5e5090f2071f0,Data Engineer I IS - Remote,RemoteHunter,USA,1,"USD 105,000 - 135,000 /yearly",2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478137504,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 cb9e4549aacc64fd,Python Developer,Kumaran Systems,"Greater Toronto Area, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478139030,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-13T19:48:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
 783d8b4a6785a24c,Python Full stack developer,"Zodiac Solutions, Inc","Toronto, Ontario, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476479338,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-13T19:48:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
@@ -5872,21 +6333,190 @@ cb9e4549aacc64fd,Python Developer,Kumaran Systems,"Greater Toronto Area, Canada"
 e517a40faf3b6ce2,"Senior Software Engineer, Backend (Marketing & Privacy Engineering)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-10-09,"[""indeed""]",https://ca.indeed.com/viewjob?jk=36999aae983877d0,https://grnh.se/j8t4wshg3us,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-12T21:39:16+00:00,2026-10-29T00:46:56+00:00,[],,,,indeed,
 20933fce03acac67,"Senior Software Engineer, Backend, AI Labs",Epiq,"Greater Toronto Area, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4468700656,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-12T21:39:00+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 aca5fea348d325fd,Python Developer,Iris Software Inc.,"Toronto, Ontario, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477577600,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-12T21:39:00+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
-7990a6cb887d5da2,"Senior Engineer, Data Enablement, Data Platforms",CPP Investments | Investissements RPC,"Toronto, Ontario, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4411545422,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-12T21:39:00+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+7990a6cb887d5da2,"Senior Engineer, Data Enablement, Data Platforms",CPP Investments | Investissements RPC,"Toronto, Ontario, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4411545422,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-12T21:39:00+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**Purpose. Performance. People.**
+Joining CPP Investments means joining one of the world’s most admired and respected institutional investors to drive a single mandate: to deliver strong, sustainable returns for generations of Canadians.
+  
+  
+With a long-term horizon and global reach, we deploy capital at scale across public and private markets. Our size, stability, and disciplined investment philosophy allow us to pursue complex opportunities and build enduring partnerships worldwide.
+  
+  
+For our people, this means meaningful work with tangible impact, real opportunity, and collaboration with exceptional colleagues who value partnership and performance. Here, you’ll contribute to outcomes that matter alongside team members committed to excellence and shared success.
+  
+  
+**Role Summary:**
+The Data Enablement Team enables the organization to derive value from enterprise data by building reusable platforms, tools, and services that help users and applications discover, understand, and safely consume trusted data products for production, analytics, and research use cases. The team owns the enterprise Data Portal and the FinSights BI Portal (one-stop shop for enterprise BI assets), builds low‑latency consumption services on top of the Enterprise Data Fabric and data catalog, and delivers product governance services, operational dashboards, and computational governance embedded into the platform. The team uses automation and agentic techniques as implementation tools to improve discovery, comprehension, and self‑serve user journeys across departments—while maintaining security, entitlements, and policy controls by design.
+  
+  
+**Accountabilities & Qualifications:**
+**Accountabilities**
+
+* Build and support Data Enablement services and platform components to improve data discovery, access, and self-service experiences
+* Collaborate with users and stakeholders to gather feedback and refine features to ensure solutions are practical and adopted
+* Develop solutions with performance, scalability, resiliency, and security in mind, following DevSecOps and operational standards
+* Contribute to solution design and documentation (e.g., LLD, interface specifications) and support governance processes (ARB, Information Security)
+* Partner with Cloud Foundation and Data Foundation teams to integrate with shared services, entitlements, and platform standards
+* Build and maintain backend services (serverless and containerized where appropriate) that support enterprise data platforms and portals
+* Implement and maintain APIs, including contracts, versioning, and data validation
+* Contribute to workflow automation capabilities within Data Enablement solutions under enterprise controls
+
+**Qualifications**
+
+* 5+ years of software engineering experience delivering production-grade services using Python
+* Strong experience with AWS cloud platform, including networking and secure access patterns
+* Solid understanding of identity and access management (IAM, authentication/authorization patterns)
+* Experience building backend services and APIs (REST/GraphQL, event-driven architectures, resiliency patterns)
+* Hands-on experience with Infrastructure-as-Code and DevSecOps practices (e.g., Terraform, CI/CD, security controls)
+* Experience with observability and reliability practices (monitoring, alerting, incident response)
+* Strong API design experience (OpenAPI/Swagger, versioning, backward compatibility)
+* Experience working with structured data formats and schema processing (e.g., JSON)
+* Working knowledge of authentication and authorization patterns (e.g., Cognito, IAM)
+
+**Nice to have**
+
+* Experience with agentic or orchestration frameworks (e.g., AWS Bedrock, LangChain, LlamaIndex)
+* Understanding of retrieval approaches such as RAG and GraphRAG
+* Experience with vector search technologies (e.g., OpenSearch, Pinecone, Weaviate)
+* Familiarity with containerization and platform operations (e.g., Docker, Kubernetes/EKS)
+* Experience integrating with enterprise data platforms, catalogs, or governed access patterns
+* AWS Data & Analytics certification; ML-related certification is a plus
+
+**#INDGD-T**
+You are motivated to contribute to something larger than yourself, approach complex challenges with rigor, and hold yourself to high standards in a collaborative, performance-driven environment.
+  
+  
+We provide colleagues with cutting-edge AI tools, dedicated learning time, and practical support to help them deliver with greater impact.
+  
+  
+**Inclusion & Accessibility**
+CPP Investments is committed to equitable access to employment and building a workforce that reflects diverse talent and perspectives. If you require accommodation at any stage of the recruitment process, please let us know and we will work with you to meet your needs.
+  
+  
+**Attention: Protect Yourself from Fraud**
+CPP Investments is committed to a secure and transparent recruitment process. We will never ask candidates for payment or financial information at any stage of hiring. All legitimate opportunities are posted on our careers page, and communications will come from our applicant tracking system, Workday.
+  
+  
+CPP Investments may use AI tools to help screen and assess applicants by analyzing resumes and applications for relevant skills and experience. These tools support, but do not replace, human decision-making."
 42c270ef44f981ef,Python Backend Engineer,Enterprise Solutions Inc.,"Toronto, Ontario, Canada",0,,2026-10-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4475996474,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-12T21:39:00+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
 4a6f87531db387d5,Python Developer,Synechron,"Greater Toronto Area, Canada",0,"CAD 120,000 - 125,000 /yearly",2026-10-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4459237889,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-12T21:39:00+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
-ef50d15e8cd51707,"Senior Data Engineer I - QuantumBlack, AI by McKinsey","QuantumBlack, AI by McKinsey","Toronto, Ontario, Canada",0,,2026-10-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4423525558,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
-1ca8a1e5608016ed,Data Engineer,Lyft,"Toronto, Ontario, Canada",0,,2026-10-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4450202250,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+ef50d15e8cd51707,"Senior Data Engineer I - QuantumBlack, AI by McKinsey","QuantumBlack, AI by McKinsey","Toronto, Ontario, Canada",0,,2026-10-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4423525558,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**Who You'll Work With**
+Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward.
+  
+  
+In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible. Your colleagues—at all levels—will invest deeply in your development, just as much as they invest in delivering exceptional results for clients. Every day, you'll receive apprenticeship, coaching, and exposure that will accelerate your growth in ways you won’t find anywhere else.
+  
+  
+When you join us, you will have:
+  
+  
+
+* Continuous learning: Our learning and apprenticeship culture, backed by structured programs, is all about helping you grow while creating an environment where feedback is clear, actionable, and focused on your development. The real magic happens when you take the input from others to heart and embrace the fast-paced learning experience, owning your journey.
+* A voice that matters: From day one, we value your ideas and contributions. You’ll make a tangible impact by offering innovative ideas and practical solutions, all while upholding our unwavering commitment to ethics and integrity. We not only encourage diverse perspectives, but they are critical in driving us toward the best possible outcomes.
+* Global community: With colleagues across 65+ countries and over 100 different nationalities, our firm’s diversity fuels creativity and helps us come up with the best solutions for our clients. Plus, you’ll have the opportunity to learn from exceptional colleagues with diverse backgrounds and experiences.
+* World-class benefits: On top of a competitive salary (based on your location, experience, and skills), we provide a comprehensive benefits package to enable holistic well-being for you and your family.
+
+**Your Impact**
+You will be a technical owner, designing and leading the implementation of scalable data architectures for cutting-edge AI and agentic systems.
+  
+  
+You will lead the development of robust data pipelines, manage secure and governed data environments, and mentor junior colleagues while collaborating with clients and cross-functional teams. You'll tackle impactful challenges and grow as a leader by architecting innovative AI solutions across diverse industries.
+  
+  
+You will own and deliver technical workstreams, designing machine learning, agentic, and autonomous AI systems. You'll lead the integration of machine learning, Generative AI capabilities and agentic frameworks into client solutions, designing MLOps/LLMOps-focused architectures for model management, observability, and automated retraining. You will also spearhead the design of complex feature engineering workstreams, ensuring our data assets are not only robust but also optimized for the next generation of AI models.
+  
+  
+Your work will help solve some of the most complex and high-impact challenges facing clients across industries. By partnering with QuantumBlack, AI by McKinsey and QuantumBlack Labs teams, you'll lead the creation of innovative enterprise-grade machine learning systems that accelerate AI adoption and solve critical business problems at speed and scale. You will be instrumental in shaping how we build and deploy high-impact AI systems, enabling clients to achieve meaningful, lasting impact through technical innovation.
+  
+  
+You'll be based in one of our North American offices as part of our global Data Engineering community. You'll work in cross-functional Agile teams alongside Data Scientists, Machine Learning Engineers, and industry experts, leading the data engineering workstream to deliver AI solutions. Collaborating with clients from data owners to C-level executives, you'll help design impactful solutions that address complex business challenges and build client capabilities.
+  
+  
+You will grow as a technologist and a leader. You’ll develop deep expertise at the intersection of technology strategy and business value by addressing diverse architectural challenges. Working with inspiring, multidisciplinary teams, you’ll gain a holistic understanding of enterprise AI while collaborating with leading AI and data experts in the industry.
+  
+  
+**Your Qualifications and Skills**
+
+* Degree in Computer Science/Engineering, or equivalent experience
+* 5+ years of relevant professional experience in a data engineering role, with experience leading technical workstreams, mentoring junior engineers, and driving the adoption of software engineering best practices within a team
+* Expert-level proficiency in Python and SQL and the ability to work in polyglot environments (Scala, Java) when required by client enterprise systems
+* Strong experience building Agentic AI, Generative AI, Machine Learning, and Business Intelligence systems, including prompt design, retrieval-augmented generation (RAG), embeddings, vector databases, context construction, and output handling in production workflows using modern frameworks (Spark, LangChain, Databricks, Dask, Airflow, Dagster, Kedro, etc.)
+* Ability to lead the implementation of AI features end to end, with sound judgment around model behavior, evaluation, reliability, guardrails, and the trade-offs between quality, latency, and cost
+* Experience implementing robust data security and governance controls, including managing PII/PHI, authentication, and role-based access control (RBAC)
+* Deep knowledge of MLOps/LLMOps including CI/CD for data workflows, automated agent evaluation (LangSmith, Opik, Langfuse), and infrastructure as code (Terraform) across cloud providers (AWS, Azure, GCP)
+* Exceptional time management and ability to own technical workstreams autonomously
+* Experience using coding agents (Cursor, Claude Code, Codex, etc.) is a plus
+* Strong communication skills, both verbal and written, in English and local office language(s)
+* Willingness to travel as required"
+1ca8a1e5608016ed,Data Engineer,Lyft,"Toronto, Ontario, Canada",0,,2026-10-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4450202250,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+  
+  
+The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.
+  
+  
+As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.
+  
+  
+Responsibilities:
+  
+  
+
+* Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft
+* Evolve data model and data schema based on business and engineering needs
+* Implement systems tracking data quality and consistency
+* Develop tools supporting self-service data pipeline management (ETL)
+* SQL and MapReduce job tuning to improve data processing performance
+* Write well-crafted, well-tested, readable, maintainable code
+* Participate in code reviews to ensure code quality and distribute knowledge
+* Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions
+
+Experience:
+  
+  
+
+* Bachelor's degree in Computer Science, Engineering, Mathematics, Statistics, or a related field
+* 4+ years of professional experience in data engineering, ideally with large-scale distributed systems.
+* Strong skills in Spark, Python (or similar scripting language), and SQL performance tuning
+* Experience with AWS, Hadoop/S3, Hive, Presto, Airflow, and related tools
+* Solid understanding of ETL processes, workflow orchestration, and data warehousing
+* A collaborative mindset—you’re comfortable working across teams to solve real-world problems
+
+**Benefits:**
+
+* Extended health and dental coverage options, along with life insurance and disability benefits
+* Mental health benefits
+* Family building benefits
+* Child care and pet benefits
+* Access to a Lyft funded Health Care Savings Account
+* RRSP plan with company match to help save for your future
+* In addition to provincial observed holidays, salaried team members are covered under Lyft's flexible paid time off policy. The policy allows team members to take off as much time as they need (with manager approval). Hourly team members get 15 days paid time off, with an additional day for each year of service
+* Lyft is proud to support new parents with 18 weeks of paid time off, designed as a top-up plan to complement provincial programs. Biological, adoptive, and foster parents are all eligible.
+* Subsidized commuter benefits and Lyft ride credits
+
+Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
+  
+  
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+  
+  
+The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD $135,000, not inclusive of potential equity offering, bonus or benefits. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
+  
+  
+Lyft may use artificial intelligence to screen applicants, however, Lyft employees make the ultimate selection and hiring decisions.
+  
+  
+This job fills an existing vacancy."
 815b264f6fdac973,Data Engineer II (Restaurant AI CoPilot),OpenTable,"Toronto, Ontario, Canada",0,"CAD 120,000 - 130,000 /yearly",2026-10-10,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4467897996,https://grnh.se/r7e0auix2us,50,"Free scorer: your resume shows 3 of 19 listed skills (Python, AWS, Docker).","[""Java"", ""SQL"", ""Snowflake"", ""Databricks"", ""Kafka"", ""PySpark"", ""Airflow"", ""Machine Learning"", ""NLP"", ""MLOps"", ""A/B Testing"", ""Kubernetes"", ""Helm"", ""Prometheus"", ""Grafana"", ""Agile""]",new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,"[""Python"", ""AWS"", ""Docker""]",,,,linkedin,"This hybrid role requires working in the office two days per week.
-
+  
+  
 With millions of diners, 70,000+ restaurant partners and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a passion for helping restaurants thrive. Our world-class technology empowers restaurants to focus on what matters most – their team, their guests, and their bottom line – while enabling diners to discover and book the perfect restaurant for every occasion.
-
-Every employee at OpenTable has a tangible impact on what we do and how we do it. You'll also be part of a global team and its portfolio of metasearch brands. Hospitality is all about taking care of others, and it defines our culture.
-
-**About this Role**
-
+  
+  
+Every employee at OpenTable has a tangible impact on what we do and how we do it. You’ll also be part of a global team and its portfolio of metasearch brands. Hospitality is all about taking care of others, and it defines our culture.
+  
+  
+**About This Role**
 As a Data Engineer on the Data Science team at OpenTable, you will design, build, and maintain robust data solutions that power diner features, partner integrations, and advanced AI initiatives. You will work closely with cross-functional teams including Product Managers, Business Intelligence Analysts, Infrastructure SREs, and Product Engineers to deliver scalable data products. Joining a agile, high-impact team, you will leverage OpenTable's vast data ecosystem to drive key business decisions and enhance user experiences globally
-
+  
+  
 **Responsibilities**
 
 * Design, test, deploy, and maintain scalable batch and streaming data pipelines to deliver reliable data to internal and external customers
@@ -5912,47 +6542,53 @@ As a Data Engineer on the Data Science team at OpenTable, you will design, build
 * Familiarity with data storage and infrastructure solutions such as Kafka, Snowflake, Delta Lake, or vector/NoSQL databases.
 * Understanding of A/B testing best practices and data-driven product evaluation.
 
-**Benefits and Perks**
+**Benefits And Perks**
+  
+  
 
 * Generous paid vacation + time off for your birthday
 * Work from (almost) anywhere for up to 20 days per year
 * Focus on mental health and well-being:
-  + Company-paid therapy sessions through SpringHealth
-  + Company-paid subscription to Headspace
-  + Annual company-wide week off a year - the whole team fully recharges (and returns without a pile-up of work!)
+
++ Company-paid therapy sessions through SpringHealth
++ Company-paid subscription to Headspace
++ Annual company-wide week off a year - the whole team fully recharges (and returns without a pile-up of work!)
+
 * Paid parental leave
 * Paid volunteer time
 * Focus on your career growth:
-  + Development Dollars
-  + Leadership development
-  + Access to thousands of on-demand e-learnings
+
++ Development Dollars
++ Leadership development
++ Access to thousands of on-demand e-learnings
+
 * Travel Discounts
 * Employee Resource Groups
 * 20 days of paid time off
 * Private health and dental insurance
 * Life and Disability insurance
 
-The best connections happen face-to-face, whether you're sitting down to dinner or having coffee with a coworker. That's why OpenTable has adopted a hybrid workplace model. This role aligns with that approach, with an expectation of coming into the office two days a week—giving employees the best of both worlds: in-person collaboration and flexibility.
-
+The best connections happen face-to-face, whether you’re sitting down to dinner or having coffee with a coworker. That’s why OpenTable has adopted a hybrid workplace model. This role aligns with that approach, with an expectation of coming into the office two days a week—giving employees the best of both worlds: in-person collaboration and flexibility.
+  
+  
 The expected range of compensation for this position based in Toronto, Canada, including commission and/or bonuses is $120,000 - $130,000 CAD. There are a variety of factors that go into determining a compensation range, including but not limited to external market benchmark data, geographic location, and years of experience sought/required.
-
+  
+  
 We offer a competitive base salary and benefits including: health benefits, retirement benefits; life insurance; paid time off (including PTO, paid sick leave, medical leave, bereavement leave, floating holidays and paid holidays); and parental leave benefits. This role is eligible to be considered for an annual bonus and equity grant.
-
+  
+  
 **Work Environment & Flexibility**
-
 At OpenTable, we pride ourselves on fostering a global and dynamic work environment. As a team member with us, you will benefit from a schedule tailored to accommodate a global workforce operating across multiple time zones. While the majority of your responsibilities may align with conventional business hours, there will be instances where you are expected to manage communications - via calls, Slack messages, or emails - outside of regular working hours to effectively collaborate with international colleagues, respond to restaurant partners, and/or address urgent matters. OpenTable will always abide by and consider local laws and regulations.
-
+  
+  
 **Inclusion**
-
-We're committed to creating a workplace where everyone feels they belong and can thrive. We know the best ideas come when we bring different voices to the table, so we're building a team as dynamic as the diners and restaurants we serve—and fostering a culture where everyone feels welcome to be themselves.
-
-If you need accommodations during the application or interview process, or on the job, we're here to support you. Please reach out to your recruiter to request any accommodations.
-
-**This posting is for an existing vacancy.**
-
-#LI-LR1
-
-#LI-Hybrid"
+We’re committed to creating a workplace where everyone feels they belong and can thrive. We know the best ideas come when we bring different voices to the table, so we're building a team as dynamic as the diners and restaurants we serve—and fostering a culture where everyone feels welcome to be themselves.
+  
+  
+If you need accommodations during the application or interview process, or on the job, we’re here to support you. Please reach out to your recruiter to request any accommodations.
+  
+  
+**This posting is for an existing vacancy.**"
 d3fac579c93409d5,"Software Engineer II, Backend (Partner Merchant Interface)",Affirm,"Toronto, Ontario, Canada",0,,2026-10-09,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476845159,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-11T17:57:12+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 5156663796697b50,Senior Data Engineer,BitGo,"Toronto, Ontario, Canada",0,,2026-10-09,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476828297,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-10T17:44:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors worldwide. For more information, visit www.bitgo.com.
   
@@ -6781,7 +7417,113 @@ The ideal candidate is a strong Python developer who has some experience in fron
 *As an equal opportunity employer, Take-Two Interactive Software, Inc. (“Take-Two”) is committed to fostering and celebrating the diverse thoughts, cultures, and backgrounds of its talent, partners, and communities throughout its organization. Consistent with this commitment, Take-Two does not discriminate or retaliate against any employee or job applicant because of their race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, and genetic information (including family medical history), or on the basis of any other trait protected by applicable law. If you need to report a concern or have questions regarding Take-Two’s equal opportunity commitment, please contact Careers@take2games.com*
 *Please be aware that Take-Two does not conduct job interviews or make job offers over third-party messaging apps such as Telegram, WhatsApp, or others. Take-Two also does not engage in any financial exchanges during the recruitment or onboarding process, and the Company will never ask a candidate for their personal or financial information over an app or other unofficial chat channel. Any attempt to do so may be the result of a scam or phishing exercise. Take-Two’s in-house recruitment team will only contact individuals through their official Company email addresses (i.e., via a take2games.com email domain). If you need to report an issue or otherwise have questions, please contact Careers@take2games.com*
 *We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.*"
-146c18abe66829d0,Python Developer,"Global Technical Talent, an Inc. 5000 Company","Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4456509742,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-07T19:16:09+00:00,2026-10-29T00:46:57+00:00,"[""Python""]",,,,linkedin,
+146c18abe66829d0,Python Developer,"Global Technical Talent, an Inc. 5000 Company","Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4456509742,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-07T19:16:09+00:00,2026-10-29T00:46:57+00:00,"[""Python""]",,,,linkedin,"**Python Developer**
+  
+
+**Location:**
+Toronto, ON
+
+  
+
+**Onsite Flexibility:**
+Hybrid — 4 days per week onsite, 1 day work from home
+
+  
+**Contract Details**
+  
+
+* **Position Type:**
+  Contract
+* **Contract Duration:**
+  1 year
+* **Shift / Schedule:**
+  Monday to Friday, core business hours
+* **Travel Requirements:**
+  Not required
+
+  
+**Job Summary**
+  
+
+Our technology team builds and supports modern engineering capabilities that help deliver secure, scalable, and resilient solutions for critical business platforms. We focus on cloud-native microservices, API enablement, data platform modernization, automation, and operational excellence. You will work with experienced engineers, platform partners, security teams, and business stakeholders to create reusable services and governed platform capabilities that improve how the organization integrates systems, processes data, and delivers technology outcomes.
+
+  
+**Key Responsibilities**
+  
+
+* **Build scalable services:**
+  Design, develop, and maintain secure Python microservices and APIs using
+  **FastAPI**
+  , REST/gRPC, Docker, Kubernetes, Redis, and Kafka.
+* **Connect platforms and data:**
+  Deliver RESTful APIs, microservice APIs, internal platform APIs, data ingestion APIs, event-driven APIs, batch processing APIs, and authentication/authorization APIs.
+* **Modernize data engineering:**
+  Build and optimize data solutions using Python, PySpark,
+  **Azure Databricks**
+  , Delta Lake, ADLS, Azure Data Factory, Airflow, Azure SQL, Unity Catalog, and SQL.
+* **Improve engineering quality:**
+  Create reusable frameworks, automation, orchestration patterns, documentation, and testing practices that improve delivery quality and reliability.
+* **Partner across teams:**
+  Work with technology, business, security, and platform partners to translate complex requirements into practical, production-ready solutions.
+* **Support operational excellence:**
+  Troubleshoot issues, tune performance, support releases, and contribute to monitoring, knowledge transfer, and production readiness activities.
+
+  
+**Required Experience**
+  
+
+* 10 years of software engineering experience, including strong hands-on Python development in enterprise environments.
+
+  
+**Required Skills**
+  
+
+* University degree in Computer Science, Engineering, Mathematics, or a related technical discipline.
+* Experience designing and delivering Python-based microservices, APIs, and platform capabilities using FastAPI, REST/gRPC, Docker, Kubernetes, Redis, and Kafka.
+* Experience building data engineering solutions using Python, PySpark, Azure Databricks, Delta Lake, ADLS, Azure Data Factory, Airflow, Azure SQL, Unity Catalog, and SQL.
+* Experience delivering secure, production-ready solutions that meet enterprise standards for authentication, authorization, testing, monitoring, compliance, and operational reliability.
+
+  
+**Preferred Skills**
+  
+
+* Experience designing scalable services or data pipelines that process high-volume enterprise workloads.
+* Experience building reusable internal frameworks, shared services, or internal developer platform capabilities.
+* Experience using AI-assisted engineering practices to improve development, testing, documentation, or productivity.
+* Strong communication skills with the ability to work effectively across engineering, platform, security, and business teams.
+
+  
+**Education Requirements**
+  
+
+* University degree in Computer Science, Engineering, Mathematics, or a related technical discipline.
+
+  
+
+* Medical, Vision, and Dental Insurance Plans
+* 401k Retirement Fund
+
+  
+**About the Client**
+  
+
+This client is a leading financial services and banking institution operating across Canada and internationally, with a large and collaborative technology organization. The firm employs thousands of professionals — including solutions developers, software engineers, data platform specialists, and IT technology professionals — who work in hybrid environments to deliver secure, scalable, and resilient banking platforms. With a strong emphasis on cloud-native engineering, regulatory compliance, and agile collaboration, the organization offers long-term engagement potential for contractors contributing to critical business platform modernization initiatives.
+
+  
+**About GTT**
+  
+
+GTT is a minority-owned staffing firm and a subsidiary of Chenega Corporation, a Native American-owned company in Alaska. We highly value diverse and inclusive workplaces and support Fortune 500 organizations across banking, financial services, technology, life sciences, biotech, utilities, and retail sectors throughout the U.S. and Canada.
+
+  
+
+Job Number: 26-12211
+**Industry:**
+Software Engineering
+
+  
+
+#gttca"
 9ccb8326a7af4ff1,Python Developer,VBeyond Corporation,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476748544,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-07T19:16:09+00:00,2026-10-29T00:46:57+00:00,"[""Python""]",,,,linkedin,
 d9caffd9f0be539b,Python Developer,Apptoza Inc.,"Toronto, Ontario, Canada",0,,2026-10-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4474080291,,64,"Free scorer: your resume shows 7 of 17 listed skills (Python, FastAPI, REST, Pandas).","[""SQL"", ""PySpark"", ""Airflow"", ""ETL"", ""ELT"", ""MLOps"", ""Kubernetes"", ""CI/CD"", ""Security"", ""Networking""]",new,2026-10-07T19:16:09+00:00,2026-10-29T00:46:57+00:00,"[""Python"", ""FastAPI"", ""REST"", ""Pandas"", ""LLM"", ""Docker""]",,,,linkedin,"**Job Title: Forward Deployed Engineer (Python/Pyspark Developer)**
 
