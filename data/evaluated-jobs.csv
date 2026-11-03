@@ -1,4 +1,835 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+2a3bfea8b017f9d2,Senior Data Engineer (Databricks Focused),BDO Canada,"Toronto, Ontario, Canada",0,,2026-11-03,"[""linkedin""]",https://www.linkedin.com/jobs/view/4487008340,,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, GitHub Actions, Distributed Systems).","[""Scala"", ""Databricks"", ""Spark"", ""ETL"", ""Data Modeling"", ""Machine Learning"", ""Azure"", ""Terraform"", ""CI/CD"", ""Jenkins"", ""Security""]",new,2026-11-03T20:01:53+00:00,2026-11-03T20:02:24+00:00,"[""Python"", ""GitHub Actions"", ""Distributed Systems""]",,senior,li-4487008340,linkedin,"**Putting people first, every day**
+BDO is a firm built on a foundation of positive relationships with our people and our clients. Each day, our professionals provide exceptional service, helping clients with advice and insight they can trust. In turn, we offer an award-winning environment that fosters a people-first culture with a high priority on your personal and professional growth.
+  
+  
+**Your Opportunity**
+BDO Digital is seeking an experienced and technically proficient Senior Data Engineer (Databricks Focused) to join our Technology Advisory Services practice. This role blends technical leadership with hands-on data engineering, focusing on delivering scalable, secure, and production-grade data pipelines using Azure and Databricks. The successful candidate will also lead client engagements, aligning data initiatives with business objectives to create real-world impact.
+  
+  
+**Key Responsibilities**
+**Data Engineering and Platform Development**
+
+* Design, build, and optimize robust data pipelines using Databricks, Delta Lake, and Apache Spark.
+* Develop scalable ETL processes for structured and unstructured data, ensuring data quality and reliability.
+* Implement data integration solutions across cloud and on-premises sources, leveraging Databricks and Azure Data Lake.
+* Automate data ingestion, transformation, and validation workflows.
+* Monitor, troubleshoot, and enhance data pipeline performance and reliability.
+* Ensure compliance, security, and operational excellence across all data workflows.
+
+**Client and Team Leadership**
+
+* Serve as a primary technical lead for client engagements focused on data engineering and analytics solution delivery.
+* Translate business requirements into scalable data architectures and operational plans.
+* Collaborate with cross-functional teams to integrate data solutions into production environments.
+* Mentor junior team members and promote adoption of best practices in data engineering and cloud analytics.
+
+**Data Application**
+
+* Convert business requirements and analytics prototypes into robust, scalable data solutions.
+* Apply appropriate data modeling and transformation techniques to support analytics and machine learning initiatives.
+* Document data pipelines and contribute to internal knowledge sharing.
+
+**Qualifications**
+**Required**
+
+* Educational Background: A Bachelor’s or master’s degree in Computer Science, Data Engineering, Information Systems, or a closely related discipline. Strong foundation in data structures, algorithms, and distributed systems.
+* Professional Experience: A minimum of 5 years of hands-on experience in data engineering, including at least 3 years of direct experience with Databricks, Apache Spark, and cloud data platforms. Proven success in deploying and maintaining large-scale data solutions in production environments.
+* In-depth knowledge of the Microsoft Azure ecosystem, with demonstrated experience using services such as Azure Data Lake, Azure Databricks, Azure Synapse, and Azure DevOps.
+* Very strong proficiency with Databricks, including hands-on work with Delta Lake, Apache Spark, and data pipeline orchestration. Experience optimizing performance and reliability in production.
+* Advanced programming skills in Python and/or Scala, with practical experience using data engineering libraries and frameworks.
+* Solid understanding of CI/CD practices, with experience designing and maintaining pipelines using tools like GitHub Actions, Azure DevOps, or Jenkins. Familiarity with infrastructure-as-code tools such as Terraform or ARM templates for automating environment provisioning and deployment.
+* Excellent written and verbal communication skills, with the ability to effectively engage with a range of stakeholders, including data scientists, engineers, business partners, and executive leadership. Proven ability to explain technical concepts to non-technical audiences and influence decision-making.
+
+**Preferred**
+
+* Certifications: Professional certifications such as Databricks Certified Data Engineer or Microsoft Certified, e.g. Azure Data Engineer Associate.
+* Experience with data governance, data security, and compliance frameworks.
+* Consulting experience and excellent communication and client management skills.
+
+*The expected range of compensation for this role is $84,000 to $128,000.*
+**Why BDO?**
+Our people-first approach to talent has earned us a spot among Canada’s Top 100 Employers for 2026. This recognition is a milestone we’re thrilled to add to our collection of awards for both experienced and student talent experiences.
+  
+  
+At BDO, our people experience is guided by three core pillars—
+**Do work with genuine care, Do what matters with purpose, and Do what’s next**
+- shaping how we support our people, serve our clients, and grow together.
+  
+  
+Our firm is committed to providing an environment where you can be successful in the following ways:
+  
+  
+
+* We enable you to engage with how we change and evolve, being a key contributor to the success and growth of BDO in Canada.
+* We help you become a better professional within our services, industries, and markets with extensive opportunities for learning and development.
+* We support your achievement of personal goals outside of the office and making an impact on your community.
+* We foster a collaborative, inclusive environment where your ideas are valued, and you can do your best work with genuine care and purpose
+* We encourage innovation and forward thinking, empowering you to embrace what’s next and help shape the future of our firm
+
+**Giving back adds up:**
+Where company meets community. BDO is actively involved in our communities by supporting local charity initiatives. We support staff with local and national events where you will be given the opportunity to contribute to your community.
+  
+  
+**Total rewards that matter:**
+We pay for performance with competitive total cash compensation that recognizes and rewards your contribution. We provide comprehensive benefits from day one, and a flexible personal time off policy. We’re committed to supporting your overall wellbeing and provide reimbursement for wellness initiatives that fit your lifestyle.
+  
+  
+**Everyone counts:**
+We are committed to creating a workplace where employees can participate fully, contribute meaningfully and succeed without barriers. We are dedicated to fostering a workplace defined by respect, fairness, and a true sense of belonging for everyone. We recognize and celebrate the unique experiences, identities, and perspectives that each of us bring – and that these experiences strengthen how we work together. Our commitment extends to ensuring that our application process is both inclusive and accessible. If you require accommodation to complete the application process, please contact us.
+  
+  
+**Flexibility:**
+All BDO personnel are expected to spend some of their time working in the office, at the client site, and virtually unless accommodations or alternative work arrangements are in place.
+  
+  
+Our model is a blended approach designed to support the flexible needs of our people, the firm and our clients. It’s about creating work experiences that meet everyone’s needs and providing flexibility to adjust when, where and how we work to meet the expectations of our role.
+  
+  
+**Code of Conduct:**
+Our Code of Conduct sets clear standards for how we conduct business. It reflects our shared values and commitments and includes guiding principles to help us make ethical decisions and maintain trust with each other, our clients, and the public.
+  
+  
+BDO may use artificial intelligence enabled tools to support certain aspects of the recruitment process. While these tools assist our teams, our use of AI does not replace human decision making, and all employment-related outcomes are made by BDO personnel.
+  
+  
+More information on BDO Canada’s Privacy Policy can be found here:
+  
+  
+Privacy Policy | BDO Canada
+  
+  
+**Ready to make your mark at BDO?**
+Click “Apply now” to send your up-to-date resume to one of our Talent Acquisition Specialists.
+  
+  
+**To explore other opportunities at BDO, check out our**
+**careers page**
+**.**"
+3cb00f8bdd196ad8,Azure Data Engineer,Viva Tech Solutions,"Toronto, Ontario, Canada",0,,2026-11-03,"[""linkedin""]",https://www.linkedin.com/jobs/view/4486817969,,54,"Free scorer: your resume shows 2 of 9 listed skills (Python, Git).","[""SQL"", ""Databricks"", ""Spark"", ""PySpark"", ""Airflow"", ""Azure"", ""CI/CD""]",new,2026-11-03T20:01:53+00:00,2026-11-03T20:02:24+00:00,"[""Python"", ""Git""]",,mid,li-4486817969,linkedin,"* Strong hands-on experience with Azure Data Factory (ADF), Azure Databricks, Python, PySpark, SQL, and Azure cloud services.
+* Expertise in developing scalable data ingestion, transformation, and orchestration pipelines using Databricks and Apache Airflow.
+* Experience implementing Medallion Architecture (Bronze, Silver, Gold), Delta Lake, and reusable data engineering frameworks.
+* Develop reusable Databricks notebooks, data transformation components, orchestration workflows, and automated data quality checks.
+* Strong experience with Azure DevOps, Git, CI/CD pipelines, and automated deployment processes.
+* Experience with Spark performance tuning, pipeline troubleshooting, data reconciliation, and workload optimization.
+* Knowledge of data governance, metadata management, Unity Catalog, and enterprise data engineering best practices."
+e0e8ed4edeb965ff,Senior Data Engineer,Exchange Solutions,"Greater Toronto Area, Canada",0,,2026-11-03,"[""linkedin""]",https://www.linkedin.com/jobs/view/4486091287,,53,"Free scorer: your resume shows 4 of 18 listed skills (Python, LLM, AWS, Git).","[""SQL"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""Databricks"", ""Airflow"", ""dbt"", ""Dagster"", ""Prefect"", ""Azure"", ""GCP"", ""Terraform"", ""CI/CD"", ""Security""]",new,2026-11-03T20:01:53+00:00,2026-11-03T20:02:25+00:00,"[""Python"", ""LLM"", ""AWS"", ""Git""]",,senior,li-4486091287,linkedin,"**Role Summary**
+
+The Senior Data Engineer reports to the Director, Information Technology Operations and designs, builds, and scales the data systems that support analytics, AI-enabled experiences, and organizational decision-making. The role owns significant parts of the data platform, including production pipelines, transformation layers, data models, semantic layers, data quality, observability, and engineering standards. It provides technical direction, mentors engineers and analysts, and partners with technical and business teams to deliver trusted, well-modelled data products. The role also evaluates and implements AI-assisted data engineering capabilities to improve pipeline development, transformation, documentation, metadata, data quality, and governed access to enterprise data while maintaining appropriate engineering controls and review.
+
+**Primary Responsibilities:**
+
+**Data Platform Architecture & Technical Direction**
+
+* Responsible for key contribution of significant parts of the data platform and drive long-term architectural decisions related to tooling, data modelling, semantic architecture, automation, and scalability.
+* Design data platform capabilities that reliably support analytics, reporting, operational use cases, and AI-enabled experiences.
+* Evaluate technical options and establish reusable patterns that improve platform maintainability, extensibility, and engineering effectiveness.
+
+**Pipeline Development & Transformation**
+
+* Design, build, and maintain scalable, reliable production data pipelines and transformation layers using dbt and a medallion Bronze, Silver, and Gold architecture.
+* Write advanced SQL and Python to develop transformations, frameworks, automation, and reusable engineering tooling.
+* Responsible for production data pipelines end-to-end, including design, development, testing, deployment, monitoring, troubleshooting, optimization, and ongoing support.
+
+**Data Modelling & Semantic Architecture**
+
+* Lead data modelling across dimensional models, slowly changing dimensions, fact and dimension design, and well-structured Silver and Gold layers.
+* Design and evolve semantic layers that define business entities, metrics, relationships, calculations, and governed business logic for consistent use across BI, analytics, and AI applications.
+* Develop metadata-driven and governed data structures that make enterprise data discoverable, understandable, and consistently consumable.
+
+**AI-Assisted Data Engineering & Enablement**
+
+* Evaluate and apply AI-assisted engineering approaches to accelerate pipeline design, transformation logic, SQL generation, testing, documentation, troubleshooting, and optimization while maintaining strong review and engineering controls.
+* Explore AI-assisted schema understanding, metadata generation, relationship discovery, business-concept mapping, and generation of semantic definitions.
+* Partner with Analytics and Innovation AI Labs to enable natural-language-to-data, intelligent analytics, semantic retrieval, and other AI or LLM-based uses of governed enterprise data.
+
+**Data Quality & Observability**
+
+* Responsible for evolving key elements of the data quality strategy, including testing frameworks, monitoring, alerting, service levels, observability, anomaly detection, and platform-wide validation.
+* Implement controls that identify pipeline, transformation, model, metadata, and semantic-layer issues early and support timely root-cause analysis and remediation.
+* Promote trusted data products through clear quality standards, transparent monitoring, and continuous improvement of reliability and usability.
+
+**Engineering Practices & Delivery Standards**
+
+* Establish and champion engineering practices covering version control, CI/CD, code review, documentation, automated testing, clean maintainable code, and dbt project standards.
+* Develop reusable frameworks and automation that improve delivery consistency, reduce manual effort, and support safe changes across data environments.
+* Contribute to governance, cataloguing, lineage, metadata management, and data-contract practices that strengthen understanding and control of enterprise data.
+
+**Partnership, Mentorship & Team Growth**
+
+* Collaborate with analysts, data scientists, product teams, and business stakeholders to translate business requirements into trusted, well-modelled data products.
+* Mentor and support engineers and analysts, provide technical guidance, and contribute to team capability and engineering maturity.
+* Communicate architecture decisions, data definitions, quality expectations, risks, and technical trade-offs clearly to technical and business stakeholders.
+* Contribute to the culture of the company, fostering Exchange Solutions' core values and policies.
+
+**Capability Requirements - Education, Skills & Experience:**
+
+**Education & Experience**
+
+* Post secondary education, with a degree in Data Engineering.
+* A minimum of 5 years’ progressive data engineering experience, with a demonstrated record of owning production data pipelines end-to-end.
+* Experience designing, developing, and operating data platforms that support analytics, reporting, operational use cases, or AI-enabled applications.
+* Experience translating business and analytical requirements into trusted data products in collaboration with technical and business stakeholders.
+* Experience leading data engineering projects or mentoring engineers and analysts is an asset.
+* Experience in a loyalty, retail, financial services, or other data-intensive environment is an asset.
+
+**Technical Skills**
+
+* Expert SQL skills and strong Python proficiency for data engineering; working knowledge of Jinja.
+* Deep hands-on dbt experience, including advanced modelling, macros, packages, testing, documentation, and project architecture using dbt Core or dbt Cloud.
+* Strong command of medallion architecture and data modelling, including dimensional modelling, slowly changing dimensions, fact and dimension design, and semantic layers.
+* Experience designing or working with semantic models, governed business metrics, metadata-driven architectures, or governed business definitions.
+* Experience with cloud data warehouses such as Snowflake, BigQuery, Databricks, or Redshift and with cloud platforms such as AWS, Azure, or GCP.
+* Experience building and operating data quality, testing, monitoring, alerting, lineage, cataloguing, or observability capabilities.
+* Solid software engineering practices covering Git, CI/CD, automated testing, code review, documentation, and clean maintainable code.
+* Experience with orchestration tools such as Airflow, Dagster, Prefect, dbt Cloud, or Snowflake Tasks is an asset.
+* Familiarity with streaming or real-time data and infrastructure-as-code tools such as Terraform is an asset.
+* Ability to evaluate and safely incorporate AI-assisted tools into data and software engineering workflows, including development assistance, metadata enrichment, automated documentation, and intelligent data-quality tooling.
+* Experience with AI or LLM-enabled data platforms, natural-language-to-SQL, semantic retrieval, knowledge graphs, ontologies, semantic views, or agentic data engineering workflows is an asset.
+
+**Competencies & Behaviours**
+
+* Ownership & Accountability - Takes end-to-end responsibility for production data pipelines, platform components, engineering quality, and resolution of risks or failures.
+* Architecture & Technical Judgement - Makes practical, forward-looking decisions that balance scalability, reliability, maintainability, data quality, delivery needs, and long-term platform direction.
+* Communication - Translates business requirements and complex data concepts into clear models, technical decisions, documentation, and guidance for technical and non-technical stakeholders.
+* Collaboration & Mentorship - Builds effective relationships across engineering, analytics, data science, Product, and business teams and raises team capability through practical coaching and knowledge sharing.
+* Innovation & Responsible AI - Explores new tools and AI-assisted approaches thoughtfully, validates their value, and applies appropriate review, governance, quality, and security controls.
+
+Attention to Detail - Applies a disciplined approach to modelling, transformation logic, testing, metadata, semantic definitions, documentation, and production changes."
+9a3dae0330392c2b,Data Engineer with Azure Fabric Experience,Iris Software Inc.,"Greater Toronto Area, Canada",0,,2026-11-03,"[""linkedin""]",https://www.linkedin.com/jobs/view/4486061127,,50,Free scorer: your resume shows 1 of 6 listed skills (Python).,"[""SQL"", ""Data Modeling"", ""Power BI"", ""Excel"", ""Azure""]",new,2026-11-03T20:01:53+00:00,2026-11-03T20:02:25+00:00,"[""Python""]",,mid,li-4486061127,linkedin,"**We have Immediate requirement with our Direct Client as Data Engineer with Azure Fabric @ Toronto ON ( REMOTE). if you are interested, Please share your updated resume to nakka.prasad@irissoftware.com**
+
+**Title: Data Engineer with Azure Fabric**
+
+**Location: Toronto ON ( REMOTE).**
+
+**Primary Skills: Azure Fabric, Blob, Power BI, Azure Data Factory.**
+
+**Description:**
+
+15+ years of Experience in Data Engineer.
+
+The Data Engineer is responsible for meeting the business and IT organization’s needs. She/He delivers projects that help to support our operational teams and that are aligned with the larger infrastructure goals of CooperSurgical and CooperCompanies. Through the development and maintenance of consistent enterprise models and tables, they ensure the sustainable growth of Cooper’s data environments
+
+* Excellent communication (written, verbal and presentation) and interpersonal skills.
+* Experience translating complex business needs into actionable technical solutions.
+* Ability to build and maintain relationships by engaging business process owners and analysts to establish credibility, solve problems, build consensus and achieve objectives.
+* Excellent time management, facilitation, and organizational skills
+* Proficient in SQL (Python a plus).
+* Able to estimate technical work and build out a task plan and timeline with a project manager
+* Background in Accounting/Finance business processes
+* Familiarity with Microsoft Fabric infrastructure and PowerBI data modeling and reporting.
+* Demonstrated ability to gather and consolidate different streams of data into consolidated locations
+* Flexible with proven ability to conform to shifting priorities, demands and timelines through analytical and problem-solving capabilities.
+* Technically competent with various software programs, including but not limited to Microsoft Office (Word, Excel, PowerPoint), Project, SharePoint, Outlook, Planview and ServiceNow.
+* Technical familiarity with ERP systems (D365, Microsoft Navision, etc.) a plu
+
+**Satya Prasad Nakka**
+
+**Iris Software**
+
+200 Metroplex Drive, Suite #300
+
+Edison, NJ 08817
+
+Mobile: 732-426-9380
+
+www.irissoftware.com"
+17a740d629daa8d0,Senior Lead Data & AI Engineer,Vanguard,"Toronto, Ontario, Canada",0,"CAD 93,000 - 165,000 /yearly",2026-11-03,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4486815251,http://www.vanguardjobs.com/job/24100780/senior-lead-data-ai-engineer-toronto-ca/,52,"Free scorer: your resume shows 2 of 10 listed skills (Python, AWS).","[""SQL"", ""Databricks"", ""Spark"", ""PySpark"", ""Data Modeling"", ""Machine Learning"", ""CI/CD"", ""Security""]",new,2026-11-03T20:01:53+00:00,2026-11-03T20:02:25+00:00,"[""Python"", ""AWS""]",,senior,li-4486815251,linkedin,"**Position Overview**
+=====================
+
+Join us in a high-impact, high-visibility role where you will lead the design and delivery of enterprise-scale Data & AI solutions that power analytics, operational decision-making, and AI innovation across the organization.
+
+We are seeking an experienced Senior Lead Data & AI Engineer with 9-12+ years of experience in Data Engineering and modern cloud-based data platforms, with deep expertise in Databricks, Lakehouse architecture, and AWS. This role will be responsible for building scalable data foundations, reusable engineering frameworks, and AI-ready data products that accelerate business value and enable advanced analytics and Generative AI use cases.
+
+The ideal candidate combines strong hands-on data engineering expertise with solution architecture, technical leadership, and a passion for modernizing data ecosystems through automation, metadata-driven engineering, and cloud-native technologies.
+
+**Key Responsibilities**
+========================
+
+**Data Engineering Leadership**
+-------------------------------
+
+* Lead the architecture, design, and delivery of enterprise-scale data engineering solutions leveraging Databricks and AWS.
+* Design and implement scalable, resilient, and reusable data pipelines supporting batch, streaming, and event-driven workloads.
+* Drive engineering best practices across data ingestion, transformation, orchestration, testing, monitoring, and deployment.
+* Establish reusable frameworks, patterns, and standards to accelerate delivery and improve engineering quality across teams.
+
+**Databricks & Lakehouse Engineering**
+--------------------------------------
+
+* Architect and implement modern Lakehouse solutions utilizing Databricks, Delta Lake, Unity Catalog, and cloud-native services.
+* Develop metadata-driven and configuration-based frameworks that standardize ingestion, transformation, quality validation, and deployment processes.
+* Design and implement Delta Live Tables (DLT), Lakeflow Pipelines, and Databricks Workflows to automate enterprise data processing.
+* Build trusted, governed, and reusable data products that support analytics, reporting, data science, and AI initiatives.
+* Optimize platform performance, scalability, reliability, and cost efficiency across large-scale workloads.
+
+**Data Platform Modernization**
+-------------------------------
+
+* Lead migration and modernization initiatives from legacy platforms to cloud-native data architectures.
+* Implement data observability, monitoring, lineage, metadata management, and quality controls throughout the data lifecycle.
+* Partner with architecture and platform teams to advance enterprise data platform capabilities and engineering standards.
+* Support implementation of CI/CD, Infrastructure-as-Code, automated testing, and DevSecOps practices.
+
+**AI & Advanced Analytics Enablement**
+--------------------------------------
+
+* Build AI-ready data foundations that support machine learning, Generative AI, and intelligent business applications.
+* Partner with Data Scientists, AI Engineers, and business teams to operationalize data products and AI solutions.
+* Support implementation of vector search, semantic models, retrieval-augmented generation (RAG), and knowledge-driven AI capabilities.
+* Contribute to AI orchestration and agent-based solutions where business value can be accelerated through intelligent automation.
+* Enable reliable integration between AI applications and enterprise data platforms.
+
+**Governance, Security & Data Quality**
+---------------------------------------
+
+* Implement enterprise-grade governance using Unity Catalog, metadata repositories, and data quality frameworks.
+* Ensure compliance with enterprise security, privacy, and regulatory requirements.
+* Design automated controls for data validation, observability, lineage, and operational monitoring.
+* Partner with governance organizations to improve trust and accessibility of critical data assets.
+
+**Stakeholder & Team Leadership**
+---------------------------------
+
+* Act as a trusted technical advisor to business, analytics, and technology stakeholders.
+* Mentor and provide technical leadership to Data Engineers and platform teams.
+* Lead architecture reviews, design workshops, and engineering governance activities.
+* Translate complex technical concepts into actionable business outcomes for leadership audiences.
+
+**Qualifications**
+==================
+
+* Bachelor's or Master's degree in Computer Science, Engineering, Information Systems, or related discipline.
+* 9-12+ years of experience in Data Engineering, Data Platform Engineering, or Analytics Engineering.
+* 5+ years of hands-on experience building enterprise solutions on **Databricks**.
+* Strong expertise in Lakehouse architecture, Delta Lake, Unity Catalog, and modern data engineering patterns.
+* Proven experience building large-scale data pipelines using Spark, PySpark, SQL, and Python.
+* Deep experience with AWS services supporting Data & AI platforms.
+* Experience implementing Delta Live Tables, Lakeflow, Databricks Workflows, and metadata-driven engineering approaches.
+* Strong understanding of data modeling, data products, data governance, metadata management, and data quality frameworks.
+* Experience with CI/CD, Infrastructure-as-Code, automated testing, and cloud-native engineering practices.
+* Demonstrated leadership experience mentoring engineers and leading complex technical initiatives.
+* Strong communication and stakeholder management skills.
+
+**Pay Transparency**
+
+Expected Salary Range: 93,000 to 165,000
+
+Role status: existing vacancy
+
+  
+
+Our compensation ranges are based on role, level, and local market. Individual pay within the range is determined by factors such as job-related skills, experience, and relevant education or training. For part-time roles, pay will be pro-rated based on regularly scheduled hours.
+
+  
+
+In addition to the range above, Vanguard’s total compensation package may include performance-based incentives, discretionary bonuses, and other perks. We also offer comprehensive benefits such as health insurance, accident and life insurance, and retirement savings plans. Your recruiter will be able to provide additional details on the total compensation offering during the hiring process.
+
+  
+
+**AI Disclosure Statement**
+  
+Vanguard does not use artificial intelligence (AI) or automated decision-making tools in its recruitment process. All application reviews and hiring decisions are made by our recruitment team.
+
+  
+
+**Accommodations**
+
+Vanguard is committed to fostering an accessible and inclusive workplace. We are committed to providing barrier-free and accessible employment practices in compliance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code. If you require accommodation at any stage of the recruitment process, please inform us. We will work with you to meet your needs and you can reach us at **americas\_crewcentral@vanguardhr.com**, quoting the **job ID** and **job title**.
+
+**How We Work**
+
+Vanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience."
+67c07636de3f3fc7,Azure Data Engineer,J&M Group,"Toronto, Ontario, Canada",0,,2026-11-02,"[""linkedin""]",https://www.linkedin.com/jobs/view/4486469852,,55,"Free scorer: your resume shows 3 of 12 listed skills (Python, REST, Git).","[""SQL"", ""Databricks"", ""Kafka"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Azure"", ""CI/CD""]",new,2026-11-03T20:01:53+00:00,2026-11-03T20:02:25+00:00,"[""Python"", ""REST"", ""Git""]",,mid,li-4486469852,linkedin,"Experience: 5+ Years
+  
+  
+Primary Skills: Azure Databricks, PySpark, SQL, ETL/Data Engineering, Azure Data Factory, Streaming
+  
+  
+Cloud Platform: Microsoft Azure
+  
+  
+Role Summary
+  
+  
+We are looking for an experienced Azure Data Engineer to design, develop, and support scalable data ingestion and processing solutions on the Microsoft Azure platform. The candidate will be responsible for building reusable data engineering frameworks, integrating end-to-end data pipelines, supporting batch and streaming workloads, and ensuring data quality, reliability, and consistency across the data platform.
+  
+  
+The role also requires strong troubleshooting capabilities and experience supporting production applications across L1, L2, and L3 support activities.
+  
+  
+Key Responsibilities
+  
+  
+Design, develop, and implement data ingestion pipelines from multiple structured and unstructured data sources using Azure Databricks.
+  
+  
+Develop scalable, configurable, and reusable data ingestion frameworks that can support multiple datasets and source systems.
+  
+  
+Build and maintain end-to-end data pipelines, moving data from source systems through transformation layers into target data repositories.
+  
+  
+Develop data transformation and processing solutions using PySpark, Spark SQL, and SQL.
+  
+  
+Implement data validation, reconciliation, error handling, audit logging, and data-quality controls to maintain accuracy and consistency throughout the pipeline.
+  
+  
+Design and develop both batch and streaming data pipelines.
+  
+  
+Work with event-based and streaming technologies such as Apache Kafka, Azure Event Hubs, or Spark Structured Streaming, depending on project architecture.
+  
+  
+Develop and orchestrate data pipelines using Azure Data Factory (ADF) and integrate them with Azure Databricks.
+  
+  
+Work with Azure data services such as Azure Data Lake Storage Gen2 (ADLS Gen2) and related target repositories.
+  
+  
+Optimize Databricks/Spark workloads for performance, scalability, and reliability.
+  
+  
+Collaborate with cross-functional teams responsible for components such as APIs, search capabilities, source applications, and downstream consuming systems.
+  
+  
+Evaluate appropriate data engineering tools and technologies against functional, technical, performance, and customer requirements.
+  
+  
+Troubleshoot data pipeline failures and production issues, perform root-cause analysis, and implement permanent fixes.
+  
+  
+Participate in L1, L2, and L3 production support, including operational monitoring, incident resolution, defect fixing, and problem management.
+  
+  
+Maintain technical documentation, operational procedures, and data pipeline specifications.
+  
+  
+Communicate effectively with technical teams, business stakeholders, and customer teams.
+  
+  
+Mandatory Technical Skills
+  
+  
+Strong hands-on experience with Azure Databricks
+  
+  
+Strong knowledge of Apache Spark / PySpark
+  
+  
+Advanced SQL skills
+  
+  
+Experience with Azure Data Factory (ADF)
+  
+  
+Experience building ETL/ELT and data ingestion pipelines
+  
+  
+Experience with ADLS Gen2 / Azure Storage
+  
+  
+Strong understanding of Delta Lake / Delta tables
+  
+  
+Experience developing reusable/configuration-driven data engineering frameworks
+  
+  
+Knowledge of batch and real-time/streaming data processing
+  
+  
+Experience with streaming technologies such as Kafka, Azure Event Hubs, or Spark Structured Streaming
+  
+  
+Good understanding of data warehousing and data lake concepts
+  
+  
+Experience implementing data-quality, reconciliation, logging, auditing, and exception-handling mechanisms
+  
+  
+Experience troubleshooting production data pipelines
+  
+  
+Experience with L1/L2/L3 application or data-platform support
+  
+  
+Good to Have
+  
+  
+Databricks Workflows / Jobs
+  
+  
+Delta Live Tables / Lakeflow Declarative Pipelines
+  
+  
+Databricks Unity Catalog
+  
+  
+CI/CD experience with Azure DevOps or Git
+  
+  
+Python
+  
+  
+Azure Key Vault and secrets management
+  
+  
+REST API integration
+  
+  
+**Experience With JSON, CSV, Parquet, And Other Data Formats**
+Data migration or modernization experience
+  
+  
+Understanding of Medallion Architecture: Bronze, Silver, Gold
+  
+  
+Monitoring, alerting, and operational support experience
+  
+  
+Soft Skills
+  
+  
+Strong verbal and written communication skills
+  
+  
+Strong analytical and problem-solving abilities
+  
+  
+Ability to independently troubleshoot complex data issues
+  
+  
+Comfortable working with distributed and cross-functional project teams
+  
+  
+Ability to communicate technical issues clearly to both technical and non-technical stakeholders
+  
+  
+Strong ownership mindset for production systems"
+37e0456ec7c4a7cc,"Technical Specialist, Techna (Data Engineer)",University Health Network,"Toronto, Ontario, Canada",0,"CAD 91,767 - 137,612 /yearly",2026-11-02,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4486472470,https://forms.uhn.ca/UHNCareers/Home/Posting/744000159192216,46,Free scorer: your resume shows 1 of 10 listed skills (Python).,"[""Java"", ""JavaScript"", ""SQL"", ""Angular"", ""Oracle"", ""ETL"", ""Machine Learning"", ""Agile"", ""Security""]",new,2026-11-03T20:01:53+00:00,2026-11-03T20:02:25+00:00,"[""Python""]",,mid,li-4486472470,linkedin,"* Full-time
+* Department: Research
+* Compensation: CAD 91,767 - CAD 137,612 - yearly
+
+**Company Description**
+-----------------------
+
+UHN is Canada’s #1 hospital and the world’s #1 publicly funded hospital. With 10 sites and more than 44,000 TeamUHN members, UHN consists of Toronto General Hospital, Toronto Western Hospital, Princess Margaret Cancer Centre, Toronto Rehabilitation Institute, The Michener Institute of Education and West Park Healthcare Centre. As Canada's top research hospital, the scope of biomedical research and complexity of cases at UHN have made it a national and international source for discovery, education and patient care. UHN has the largest hospital-based research program in Canada, with major research in neurosciences, cardiology, transplantation, oncology, surgical innovation, infectious diseases, genomic medicine and rehabilitation medicine. UHN is a research hospital affiliated with the University of Toronto.
+
+UHN’s vision is to build A Healthier World and it’s only because of the talented and dedicated people who work here that we are continually bringing that vision closer to reality.
+
+www.uhn.ca
+
+**Job Description**
+-------------------
+
+**Union:** Non-Union
+  
+**Number of Vacancies:** 1
+  
+**New or Replacement Position:** New
+  
+**Site:** Toronto General Hospital
+  
+**Department:** TECHNA
+  
+**Reports to:** Project Director
+  
+**Salary Range:** $ 91,767 - $137,612 per annum
+  
+**Hours:** 37.5 Hours Per Week
+  
+**Shifts:** Monday to Friday
+  
+**Status:** Permanent Full-Time
+  
+**Closing Date:** November 6, 2026
+
+**Position Summary**
+
+This is a challenging, impactful, and highly collaborative position. You will be working as part of the Data Science and Health Informatics Research teams that sit at the intersection of FAIR data management and machine learning and are responsible for developing innovative health data applications and tools. You will actively solve novel problems, make improvements, and troubleshoot independently and with your team.
+
+You will be responsible for the technical design, development, and delivery of research data solutions, including REDCap projects and integrations, data management workflows, and extract, transform, and load (ETL) pipelines that bring data from multiple clinical and research sources into analysis-ready form. You will share your expertise with, and mentor, other members of the team, and will be viewed as a go-to resource for complex or ambiguous technical problems.
+
+You will be working with Software Developers, Architects, Business Analysts, Designers, Managers, and research stakeholders to ensure the success of your project portfolio, with a premier focus on correctness, data quality, and innovation. This role requires experience using a range of technologies and frameworks to create innovative healthcare solutions. You will work on novel health technologies that help accelerate research, including health data interoperability platforms and integrated predictive models.
+
+You will be working within a dynamic team and will learn and adapt rapidly while working in Agile mode.
+
+**Duties**
+
+* Design, build, test, and maintain REDCap projects, instruments, data dictionaries, and integrations to support clinical research and multi-site studies
+* Develop and maintain ETL processes for research and clinical data from multiple source systems, with validation and quality checks at each stage
+* Oversee research data management activities, including data modelling, curation, harmonization, documentation, quality assurance, and secure access
+* Translate research and business needs into technical requirements, specifications, and related documentation
+* Conduct complex projects requiring specialized knowledge, with a mid- to long-term focus, and make well-reasoned decisions on complex or ambiguous issues
+* Engage and manage stakeholders, including principal investigators, research coordinators, clinicians, and data custodians, to gather requirements, set expectations, and resolve issues early
+* Communicate and present project progress, risks, and outcomes to stakeholders, tailoring the message to technical and non-technical audiences
+* Develop and evaluate prototypes, and recommend improvements to system performance and processes
+* Provide and maintain appropriate security and access controls, and support compliance with privacy, REB, and institutional data requirements
+* Collaborate with research programs, principal investigators, and other stakeholders in enabling research and optimizing clinical care at UHN and partner organizations
+
+**Qualifications**
+------------------
+
+* Undergraduate degree, or recognized equivalent, in Computer Science, Health Informatics, Health Science, or a related field
+* At minimum, five (5) years of relevant experience, with a demonstrated track record of working with minimal supervision on complex projects
+* Demonstrated experience working with research data in a health, clinical, or academic research environment, including data collection, curation, quality assurance, and secure handling of sensitive data
+* Demonstrated experience with the REDCap system, including project build, data dictionary design, survey and instrument configuration, user and access management, and API or external system integration
+* Demonstrated experience in data management, including data modelling, data dictionaries, metadata, data harmonization, and documentation
+* Demonstrated experience designing, building, and maintaining ETL processes and data pipelines across multiple source systems
+* Demonstrated experience in stakeholder engagement and management, including working directly with researchers, clinicians, and technical teams to gather requirements, manage expectations, and drive agreement
+* Experience working directly with highly technical stakeholders, and a proven track record in bringing clarity to a complex domain
+* Demonstrated experience supporting complex research and clinical environments
+* Familiarity with data-driven or AI-enabled initiatives in healthcare, and the ability to translate clinical or research needs into data and technology requirements
+* Working knowledge of regulatory and institutional requirements, including REB, Health Canada, or equivalent, is considered an asset
+* Experience in project management with familiarity with both Agile and Waterfall methodologies, and the ability to apply them where best suited
+* Strong communication skills and the ability to influence others, including cross-functional teams, to achieve outcomes over outputs
+* Experience with SQL, Python, Java, Oracle, Mongo, RDF, HL7, FHIR, Javascript, Angular an asset
+
+**Additional Information**
+--------------------------
+
+**Why join UHN?**
+
+In addition to working alongside some of the most talented and inspiring healthcare professionals in the world, UHN offers a wide range of benefits, programs and perks. It is the comprehensiveness of these offerings that makes it a differentiating factor, allowing you to find value where it matters most to you, now and throughout your career at UHN.
+
+* Competitive offer packages
+* Government organization and a member of the Healthcare of Ontario Pension Plan
+* Close access to Transit and UHN shuttle service
+* A flexible work environment
+* Opportunities for development and promotions within a large organization
+* Additional perks (multiple corporate discounts including: travel, restaurants, parking, phone plans, auto insurance discounts, on-site gyms, etc.)
+
+Current UHN employees must have successfully completed their probationary period, have a good employee record along with satisfactory attendance in accordance with UHN's attendance management program, to be eligible for consideration.
+
+All applications must be submitted before the posting close date.
+  
+  
+UHN uses email to communicate with selected candidates. Please ensure you check your email regularly. At University Health Network (UHN), artificial intelligence technologies may be used to assist in the screening, assessment, and selection of candidates for this position.
+  
+  
+Please be advised that a Criminal Record Check may be required of the successful candidate. Should it be determined that any information provided by a candidate be misleading, inaccurate or incorrect, UHN reserves the right to discontinue with the consideration of their application.
+  
+  
+UHN is an equal opportunity employer committed to an inclusive recruitment process and workplace. Requests for accommodation can be made at any stage of the recruitment process. Applicants need to make their requirements known.
+  
+  
+We thank all applicants for their interest, however, only those selected for further consideration will be contacted."
+31febfd30f334a6c,"Data Engineer II - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ)",First Citizens Bank,"Raleigh, NC, USA",1,,2026-11-03,"[""linkedin""]",https://www.linkedin.com/jobs/view/4486818190,,49,"Free scorer: your resume shows 2 of 14 listed skills (Python, AWS).","[""SQL"", ""Snowflake"", ""Spark"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Warehouse"", ""Tableau"", ""Power BI"", ""CI/CD"", ""Security""]",new,2026-11-03T20:01:23+00:00,2026-11-03T20:02:26+00:00,"[""Python"", ""AWS""]",,mid,li-4486818190,linkedin,"**Overview**
+This is a remote role that may be hired in several markets across the United States. Priority given to those candidates located in the area of Raleigh, North Carolina, Phoenix, Arizona and Dallas,Texas.
+  
+  
+We are seeking a motivated
+**Data Engineer II**
+to join our
+**Data Platform Engineering Organization**
+and help build scalable cloud-based data solutions that enable analytics and data-driven decision-making across the organization.
+  
+  
+The ideal candidate is a hands-on data engineer with experience in cloud-based data platforms, data warehousing, ETL/ELT development, and modern data engineering practices. This individual will contribute to the development and support of scalable data pipelines, integrations, and data products utilizing AWS Services, Snowflake, dbt, Python, SQL, and related technologies.
+  
+  
+As part of our growing Cloud Data & AI Platform organization, you will collaborate with a talented team of engineers, product partners, and business stakeholders to modernize enterprise data platforms and deliver cloud-based data solutions that support critical business initiatives. This is an opportunity to work with modern technologies, solve complex data challenges, and contribute to the bank's data and AI transformation journey.
+  
+  
+**Responsibilities & Qualifications**
+**Duties and Responsibilities:**
+The successful candidate will thrive in a collaborative environment, possess strong problem-solving skills, and be passionate about building reliable, scalable, and high-quality data solutions.
+  
+  
+
+* Design, build, and support scalable data pipelines and cloud-based data solutions utilizing AWS Services, Snowflake, dbt, Python, SQL, and related technologies.
+* Implement data warehouse solutions, dimensional data models, and ETL/ELT processes that support reporting, analytics, and business intelligence capabilities.
+* Implement data quality validations, test cases, and controls to ensure accurate, consistent, and reliable data assets.
+* Develop and maintain data tests, including dbt tests, to support data quality and reliability requirements.
+* Support workflow orchestration, monitoring, troubleshooting, log analysis, and production operations using Airflow and cloud-native technologies.
+* Collaborate with business users, product partners, analysts, and technology teams to deliver data solutions that support business objectives.
+* Follow established engineering standards, development practices, documentation requirements, and testing procedures to support high-quality solution delivery.
+* Participate in pipeline deployments, environment promotion activities, operational support, and performance optimization efforts using established CI/CD processes.
+* Leverage AI-powered development and productivity tools to improve engineering efficiency, code quality, and delivery outcomes.
+
+**Qualifications**
+Bachelor's Degree and 2 years of experience in Data Engineering, Data Warehousing, Cloud Data Platforms, or related technology disciplines.
+  
+  
+OR
+  
+  
+High School Diploma or GED and 6 years of experience in Data Engineering, Data Warehousing, Cloud Data Platforms, or related technology disciplines.
+  
+  
+**Preferred Qualifications**
+
+* Experience working with cloud-based data platforms and modern data processing technologies such as AWS, Snowflake, Spark, or equivalent solutions.
+* Proficiency in Python and SQL with experience developing ETL/ELT processes, data pipelines, and data integration solutions.
+* Experience utilizing modern data engineering tools and frameworks such as dbt, Apache Airflow, or similar technologies.
+* Experience contributing to the delivery and support of scalable, reliable data solutions in enterprise environments.
+* Experience collaborating with business and technology stakeholders to deliver data-driven solutions.
+* Strong analytical, problem-solving, and communication skills.
+
+**Additional Qualifications Are a Plus**
+
+* Experience with enterprise ETL/ELT tools such as DataStage, SAP BODS, SSIS, Informatica, or equivalent technologies.
+* Experience with Operational Data Stores (ODS), analytics platforms, and data products.
+* Experience working with cloud-based and on-premises data environments.
+* Exposure to Data Vault modeling and modern data warehousing methodologies.
+* Understanding of data governance, security, compliance, and data quality management practices.
+* Experience within Financial Services, Banking, or other highly regulated industries.
+* Familiarity with Tableau, Power BI, or other analytics and visualization platforms.
+* Experience using AI-powered development and productivity tools to improve engineering efficiency and delivery outcomes.
+* AWS Certified Cloud Practitioner, AWS Certified Developer – Associate, AWS Certified Data Engineer – Associate, SnowPro Core Certification, or equivalent cloud and data platform certifications.
+
+**Additional Information**
+This job posting is expected to remain active for 45 days from the initial posting date listed above. If it is necessary to extend this deadline, the posting will remain active as appropriate. Job postings may come down early due to business need or a high volume of applicants.
+  
+  
+This job posting has been extended until 11/5/2026.
+  
+  
+If hired in North Carolina, the base pay for this position is generally between $110,550 and $135,000. Actual starting base pay will be determined based on skills, experience, location, and other non-discriminatory factors permitted by law. For some roles, total compensation may also include variable incentives, bonuses, benefits, and/or other awards as outlined in the offer of employment.
+  
+  
+Benefits are an integral part of total rewards and First Citizens Bank is committed to providing a competitive, thoughtfully designed and quality benefits program to meet the needs of our associates. More information can be found at https://jobs.firstcitizens.com/benefits."
+d1f8aa43bb4447a7,"Data Engineer II - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ)",First Citizens Bank,"Arizona, USA",1,,2026-11-03,"[""linkedin""]",https://www.linkedin.com/jobs/view/4486801881,,49,"Free scorer: your resume shows 2 of 14 listed skills (Python, AWS).","[""SQL"", ""Snowflake"", ""Spark"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Warehouse"", ""Tableau"", ""Power BI"", ""CI/CD"", ""Security""]",new,2026-11-03T20:01:23+00:00,2026-11-03T20:02:26+00:00,"[""Python"", ""AWS""]",,mid,li-4486801881,linkedin,"**Overview**
+This is a remote role that may be hired in several markets across the United States. Priority given to those candidates located in the area of Raleigh, North Carolina, Phoenix, Arizona and Dallas,Texas.
+  
+  
+We are seeking a motivated
+**Data Engineer II**
+to join our
+**Data Platform Engineering Organization**
+and help build scalable cloud-based data solutions that enable analytics and data-driven decision-making across the organization.
+  
+  
+The ideal candidate is a hands-on data engineer with experience in cloud-based data platforms, data warehousing, ETL/ELT development, and modern data engineering practices. This individual will contribute to the development and support of scalable data pipelines, integrations, and data products utilizing AWS Services, Snowflake, dbt, Python, SQL, and related technologies.
+  
+  
+As part of our growing Cloud Data & AI Platform organization, you will collaborate with a talented team of engineers, product partners, and business stakeholders to modernize enterprise data platforms and deliver cloud-based data solutions that support critical business initiatives. This is an opportunity to work with modern technologies, solve complex data challenges, and contribute to the bank's data and AI transformation journey.
+  
+  
+**Responsibilities & Qualifications**
+**Duties and Responsibilities:**
+The successful candidate will thrive in a collaborative environment, possess strong problem-solving skills, and be passionate about building reliable, scalable, and high-quality data solutions.
+  
+  
+
+* Design, build, and support scalable data pipelines and cloud-based data solutions utilizing AWS Services, Snowflake, dbt, Python, SQL, and related technologies.
+* Implement data warehouse solutions, dimensional data models, and ETL/ELT processes that support reporting, analytics, and business intelligence capabilities.
+* Implement data quality validations, test cases, and controls to ensure accurate, consistent, and reliable data assets.
+* Develop and maintain data tests, including dbt tests, to support data quality and reliability requirements.
+* Support workflow orchestration, monitoring, troubleshooting, log analysis, and production operations using Airflow and cloud-native technologies.
+* Collaborate with business users, product partners, analysts, and technology teams to deliver data solutions that support business objectives.
+* Follow established engineering standards, development practices, documentation requirements, and testing procedures to support high-quality solution delivery.
+* Participate in pipeline deployments, environment promotion activities, operational support, and performance optimization efforts using established CI/CD processes.
+* Leverage AI-powered development and productivity tools to improve engineering efficiency, code quality, and delivery outcomes.
+
+**Qualifications**
+Bachelor's Degree and 2 years of experience in Data Engineering, Data Warehousing, Cloud Data Platforms, or related technology disciplines.
+  
+  
+OR
+  
+  
+High School Diploma or GED and 6 years of experience in Data Engineering, Data Warehousing, Cloud Data Platforms, or related technology disciplines.
+  
+  
+**Preferred Qualifications**
+
+* Experience working with cloud-based data platforms and modern data processing technologies such as AWS, Snowflake, Spark, or equivalent solutions.
+* Proficiency in Python and SQL with experience developing ETL/ELT processes, data pipelines, and data integration solutions.
+* Experience utilizing modern data engineering tools and frameworks such as dbt, Apache Airflow, or similar technologies.
+* Experience contributing to the delivery and support of scalable, reliable data solutions in enterprise environments.
+* Experience collaborating with business and technology stakeholders to deliver data-driven solutions.
+* Strong analytical, problem-solving, and communication skills.
+
+**Additional Qualifications Are a Plus**
+
+* Experience with enterprise ETL/ELT tools such as DataStage, SAP BODS, SSIS, Informatica, or equivalent technologies.
+* Experience with Operational Data Stores (ODS), analytics platforms, and data products.
+* Experience working with cloud-based and on-premises data environments.
+* Exposure to Data Vault modeling and modern data warehousing methodologies.
+* Understanding of data governance, security, compliance, and data quality management practices.
+* Experience within Financial Services, Banking, or other highly regulated industries.
+* Familiarity with Tableau, Power BI, or other analytics and visualization platforms.
+* Experience using AI-powered development and productivity tools to improve engineering efficiency and delivery outcomes.
+* AWS Certified Cloud Practitioner, AWS Certified Developer – Associate, AWS Certified Data Engineer – Associate, SnowPro Core Certification, or equivalent cloud and data platform certifications.
+
+**Additional Information**
+This job posting is expected to remain active for 45 days from the initial posting date listed above. If it is necessary to extend this deadline, the posting will remain active as appropriate. Job postings may come down early due to business need or a high volume of applicants.
+  
+  
+This job posting has been extended until 11/5/2026.
+  
+  
+If hired in North Carolina, the base pay for this position is generally between $110,550 and $135,000. Actual starting base pay will be determined based on skills, experience, location, and other non-discriminatory factors permitted by law. For some roles, total compensation may also include variable incentives, bonuses, benefits, and/or other awards as outlined in the offer of employment.
+  
+  
+Benefits are an integral part of total rewards and First Citizens Bank is committed to providing a competitive, thoughtfully designed and quality benefits program to meet the needs of our associates. More information can be found at https://jobs.firstcitizens.com/benefits."
+1a05b4c19cd3f5ff,Senior Backend Engineer (TypeScript/Python/C#) - Remote,Kake,"Toronto, Ontario, Canada",1,,2026-11-03,"[""linkedin""]",https://www.linkedin.com/jobs/view/4484685468,,61,"Free scorer: your resume shows 5 of 14 listed skills (Python, REST, AWS, Git).","[""TypeScript"", ""C#"", ""SQL"", ""GraphQL"", ""MongoDB"", ""Azure"", ""GCP"", ""CI/CD"", ""System Design""]",new,2026-11-03T20:00:37+00:00,2026-11-03T20:02:26+00:00,"[""Python"", ""REST"", ""AWS"", ""Git"", ""Distributed Systems""]",,senior,li-4484685468,linkedin,"**Senior Backend Engineer (TypeScript/Python/C#) - Remote**
+
+**Kake**
+is a remote-first company and a people-first global community of senior engineers. Kake engineers are behind some of the world’s most innovative products (Brands you’ve heard!), from Fortune 500 to fast-growing companies. We believe it’s not where your table is, but what you bring to the table that matters. Our community spans 45,000+ engineers across 55+ countries; join a culture where great people stay, grow, and thrive (and love eating kake!).
+
+We’re looking for
+**Senior Backend Engineers**
+specializing in
+**TypeScript, Python, or C#**
+, skilled in building high-performance, scalable systems that support millions of users, and committed to solid architectural judgment and engineering best practices. It's a great fit for people who enjoy owning problems end-to-end and collaborating closely with product and frontend teams to ship reliable, well-crafted software.
+
+**What you’ll build and own**
+
+* Build and ship production backend services end-to-end in TypeScript, Python, or C#, owning your work from implementation through deployment.
+* Design, build, and version REST or GraphQL APIs that serve as the contract between frontend and backend systems.
+* Make architecture decisions around data modelling, service boundaries, and component design, applying event-driven thinking where it fits.
+* Model and query data across relational and NoSQL stores, choosing the right database and structure for each use case.
+* Write clean, well-tested code and set up the observability needed to catch and debug issues in live systems.
+
+**Core Requirements**
+
+* 5+ years of experience in software engineering, with hands-on work in
+  **TypeScript, Python, or C#**
+  .
+* Hands-on experience designing and versioning
+  **REST**
+  or
+  **GraphQL APIs**
+  .
+* Experience with modern git workflows, CI/CD, and cloud infrastructure such as
+  **GCP**
+  ,
+  **AWS**
+  , or
+  **Azure**
+  .
+* Strong system-design instincts: data modelling, component architecture, and event-driven thinking.
+* Comfortable with relational databases and
+  **SQL**
+  , plus familiarity with
+  **NoSQL**
+  such as MongoDB or similar.
+* A genuine bar for clean, testable, robust code, backed by sound testing and observability habits.
+* Strong problem-solving and debugging skills across distributed systems.
+* Excellent written and verbal communication skills in English.
+* Ability to work independently in a remote, fast-paced environment.
+
+**Nice-to-Have**
+
+* AI-forward mindset with active use of AI-assisted development tools (e.g., Claude Code, Cursor, Copilot) to accelerate delivery, while staying the engineer who judges correctness.
+* Experience with e-commerce, payments, video platforms, or other correctness-critical domains is a strong plus.
+* Availability to work aligned with the partner's time zone.
+
+**Why Join Kake?**
+
+The icing on the Kake:
+
+* 💰 Competitive Pay in USD: Work globally, get paid globally.
+* 🌎 Fully Remote: Simply put, we trust you.
+* 💜 Better Me Fund: We invest in your personal growth and passions.
+* 🎂 Compassion is Badass: Join a community that invests in social good.
+
+Ready for your piece of the Kake? Apply now!
+
+***Quick note: Due to the high volume of applications, only shortlisted candidates will be contacted.***"
 0a90dece2b7f7363,MLOps / Data Engineer,TRITON DIGITAL CANADA INC.,"Remote, Canada",1,,2026-11-02,"[""indeed""]",https://ca.indeed.com/viewjob?jk=b9ecdcd853ec220e,https://app.jobvite.com/CompanyJobs/Job.aspx?j=obD2Afwa&loc=CK1cXfwE&s=Indeed,52,"Free scorer: your resume shows 3 of 15 listed skills (Python, AWS, GitHub Actions).","[""Scala"", ""Databricks"", ""Spark"", ""PySpark"", ""Machine Learning"", ""MLOps"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD"", ""Jenkins"", ""GitLab""]",new,2026-11-02T22:16:27+00:00,2026-11-02T22:16:46+00:00,"[""Python"", ""AWS"", ""GitHub Actions""]",,mid,in-b9ecdcd853ec220e,indeed,"**We can only accept candidates based in Ontario or Quebec.**
 -------------------------------------------------------------
 
@@ -6089,7 +6920,110 @@ b106f39b96798ac2,Senior II Software Engineer - Data Services,Akamai,Canada,1,"CA
 402df8cedd7fd5ee,Sr. Data Engineer,Livingston International,"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4479313727,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 baf8a738589cb90e,"Data Engineer, Early Career - 2026 (CAN)",Amazon,"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4471631559,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 2fa42dd4e406ce80,Data Engineer II,TD,"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4480510516,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
-8c80bb5141265ec4,"Senior Data Engineer, Risk Technology",Investment Management Corporation of Ontario (IMCO),"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470001579,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+8c80bb5141265ec4,"Senior Data Engineer, Risk Technology",Investment Management Corporation of Ontario (IMCO),"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470001579,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"At IMCO, our talent is among the best! IMCO offers a uniquely stimulating and rewarding environment where you can help build and drive organizational transformation, all while seeking to challenge yourself, learn, and grow your career.
+  
+  
+Our culture is built on collaboration and passion, with a shared commitment to delivering lasting value to the clients we serve. Located in downtown Toronto, our vision is to be the partner of choice for Ontario’s public sector funds and to build a high-performing, value-driven asset management firm.
+  
+  
+This job posting is for an existing vacancy. If you are ready to deliver best-in-class service and join a collaborative, motivated and fun team of professionals, IMCO offers the opportunity to do impactful work and broaden your expertise.
+  
+  
+If you’re looking to use your expertise to drive strategic outcomes, we’d love to hear from you.
+  
+  
+‎
+  
+  
+Risk Technology is part of the Data Technology group and partners primarily with Investment Risk to deliver technology, data, analytics, reporting, and production-support capabilities through small and medium-sized initiatives, multi-year programs, and ongoing operational services.
+  
+  
+As a key member of the Risk Technology team, the Senior Data Engineer will be the team’s senior hands-on Power BI developer, responsible for designing complex reports and visuals, scalable semantic models, and governed business intelligence solutions. The successful candidate will be expected to apply a practical understanding of Fabric capacity, compute consumption, memory constraints, performance, and workload management.
+  
+  
+The role also requires strong data engineering capability. The successful candidate will build and support reliable data pipelines that hydrate Power BI semantic models from enterprise data warehouses and will develop complex ETL and transformation solutions using Azure Databricks, Snowflake, Azure Data Factory, SQL, Python, and PySpark.
+  
+  
+This position combines deep technical delivery with stakeholder partnership. The incumbent will collaborate with business users, business systems analysts, data engineers, platform teams, and external providers, and will contribute to a constructive, inclusive, and accountable team environment. The role follows the organization’s hybrid working model and requires regular in-office collaboration.
+  
+  
+The incumbent will report to the Senior Manager, Data Technology.
+  
+  
+**As a Member of Our Team You Will be Responsible For:**
+Power BI development and reporting framework (Primary Area of Accountability)
+  
+  
+
+* Design, develop, test, deploy, and support sophisticated Power BI reports, dashboards, and interactive visual experiences for Investment Risk and related stakeholders.
+* Build and optimize enterprise-grade Power BI semantic models, including dimensional design, relationships, measures, calculation groups where appropriate, row-level security, object-level security, incremental refresh, and model performance tuning.
+* Write and optimize complex DAX and Power Query (M) logic, applying clear development standards and reusable design patterns.
+* Partner closely with business users to translate analytical requirements into intuitive visual designs, rapidly prototype solutions, validate usability, and incorporate feedback throughout delivery.
+* Understand and actively manage Fabric capacity considerations, including compute consumption, memory guardrails, concurrency, refresh demand, background versus interactive workloads, throttling risk, and workload optimization.
+* Use capacity and performance telemetry to identify bottlenecks, recommend remediation, and balance report responsiveness, refresh schedules, model size, and platform stability.
+* Design and support data pipelines that reliably hydrate Power BI semantic models from Snowflake, Databricks, enterprise data warehouses, lakehouses, and other approved data sources.
+* Implement governed Power BI access management, including workspaces, apps, audiences, Microsoft Entra security groups, role-based access, sharing, row-level security, deployment permissions, and periodic access reviews.
+* Design, build, test, and support Power Automate cloud flows that extend Power BI solutions through data-driven alerts, notifications, approvals, scheduled actions, and user-triggered workflows.
+* Apply appropriate Power Automate governance and support practices, including connection management, environment awareness, secure sharing, run monitoring, exception handling, and operational documentation.
+* Promote effective Power BI lifecycle management through source control, deployment pipelines, environment segregation, release controls, documentation, and CI/CD practices.
+
+Data Engineering (Secondary Area of Accountability)
+  
+  
+
+* Develop complex, performant, and maintainable solutions in Azure Databricks and Snowflake using SQL, Python, and PySpark.
+* Develop and orchestrate data integration workflows using Azure Data Factory and other approved Azure data services.
+* Create and optimize database objects, data transformations, data quality controls, and reconciliation processes with a strong understanding of dimensional and analytical data modeling.
+* Build custom services and workflows when needed to complement platform capabilities, including file-format conversion, third-party API integration, and external web-service calls.
+* Automate manual processes and improve data delivery, observability, scalability, recoverability, and operational efficiency.
+* Contribute to solution architecture and technical design for the Databricks, Snowflake, Microsoft Fabric, and Azure data ecosystem.
+
+Delivery, Operations and Collaboration
+  
+  
+
+* Work closely with business systems analysts, subject-matter experts, platform teams, and vendors to deliver solutions, investigate root causes, recommend changes, and maintain accurate technical and operational documentation.
+* Monitor production solutions, investigate incidents, perform performance tuning, and enhance service reliability through effective incident, problem, change, configuration, and release-management practices.
+* Prepare functional and technical specifications, data-flow documentation, support procedures, test evidence, deployment plans, and knowledge-transfer materials.
+* Facilitate testing and production implementation while acting as a trusted liaison between Technology, Investment Risk stakeholders, and external solution providers.
+* Share design, coding, troubleshooting, and analytical practices with colleagues through reviews, pairing, documentation, and knowledge sessions.
+* Demonstrate a constructive and collaborative working style, openness to feedback, accountability for outcomes, and willingness to support colleagues across disciplines.
+* Participate effectively in the organization’s hybrid working model, including regular in-office collaboration with the team and stakeholders.
+
+**What do you need to succeed?**
+
+* Minimum 7 years of progressive experience in advanced Power BI development expertise, including complex report design, visual storytelling, semantic modeling, DAX, Power Query, model optimization, refresh design, and troubleshooting.
+* Experience of delivering data, analytics, data warehousing, or business intelligence solutions, with substantial recent hands-on Power BI development experience.
+* Demonstrated experience building governed, enterprise-scale Power BI solutions rather than solely creating ad hoc or departmental reports.
+* Hands-on Microsoft Fabric experience, or directly transferable experience with Power BI Premium capacity, including capacity monitoring, compute and memory constraints, workload management, performance tuning, and migration planning.
+* Experience designing and operating pipelines that load or transform data for Power BI semantic models from cloud data warehouses or Lakehouse platforms.
+* Practical experience administering Power BI access through workspaces, apps, audiences, security groups, permissions, and row-level security, with an understanding of least-privilege access and controlled content distribution.
+* Hands-on experience developing and supporting Power Automate cloud flows, ideally integrated with Power BI, Microsoft 365, approvals, alerts, or other enterprise services.
+* Minimum 3 years of Databricks experience with strong data engineering experience, including complex transformations and performance-aware development.
+* Advanced SQL skills, including complex queries, tables, views, stored procedures, query optimization, and performance tuning.
+* Proficiency in Python and PySpark for scalable data processing and automation.
+* Developed data warehouses with change data capture (CDC) and implemented dimensional data warehouses.
+* Understanding data quality, GitHub source control, CI/CD, and production support practices for enterprise BI and data solutions.
+* Strong communication, problem-solving, prioritization, and collaboration skills, with the ability to work effectively with technical and business stakeholders in a hybrid environment.
+* Experience in financial services, pension management, investment management, and capital markets is desirable.
+* Relevant Microsoft Power BI, Fabric, Azure data engineering, Databricks, Snowflake, or Power Platform certification is an asset.
+
+‎
+  
+  
+The base salary range for this position is CAD $105,000.00 - $138,000.00. The placement within the range is determined by the range of market pay for the specific position, as well as the candidate's knowledge, skillset and experience relative to the requirements of the position and to internal peers. In addition to base salary, this position is eligible to participate in IMCO's annual incentive plan. As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you with the specific details for this position, as well as the total rewards offering at IMCO including our comprehensive benefits package and defined benefit pension plan.
+  
+  
+‎
+  
+  
+We thank all applicants for their interest. Only those selected for an interview will be contacted.
+  
+  
+Our hybrid work model prioritizes an office-first approach, encouraging employees to make the most of our collaborative workspace at 16 York Street, Suite 2400, Toronto, ON M5J 0E6. This welcoming environment fosters teamwork, connection, and professional growth. While flexibility remains a key component of our model, we believe that regular in-office engagement enhances productivity and strengthens our culture. Our approach supports a fulfilling lifestyle that balances professional ambition with personal wellbeing.
+  
+  
+*IMCO is committed to providing accommodation for people with disabilities throughout the recruitment process. If you require support, please let us know and we will work with you to meet your needs. Artificial intelligence (AI) tools may be used to support parts of our recruitment process, such as screening and assessments. However, all hiring decisions are made by our recruitment team. Candidates being considered for this position will be required to undergo background screening.*"
 23505e11b671a1be,Senior Data Engineer,Autodesk,"Toronto, Ontario, Canada",0,"CAD 107,000 - 157,300 /yearly",2026-10-15,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4479165878,https://jobs.autodesk.com/careers/job/1443154005442,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 4ef1625fa848ea5e,Senior Data Engineer (DBX),Munich Re,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470940282,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 28c33c8c8e57dee2,"Senior Software Engineer, Backend (Lakehouse Infra)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-10-13,"[""indeed""]",https://ca.indeed.com/viewjob?jk=a4eae000d454d628,https://grnh.se/buxnh4ie3us,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-14T17:53:47+00:00,2026-10-29T00:46:56+00:00,[],,,,indeed,
