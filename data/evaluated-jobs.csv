@@ -1,4 +1,317 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+2d663531d6335198,Senior ETL Developer (Python),TRI-GLOBAL SOLUTIONS GROUP INC.,"Toronto, ON, Canada",0,CAD 100 /hourly,2026-11-05,"[""indeed""]",https://ca.indeed.com/viewjob?jk=c7ff540b08049bdf,https://apply.tri-global.com/job/tri-global-solutions-group-inc-hybrid-toronto-ontario-5-senior-etl-developer-python/,49,Free scorer: your resume shows 1 of 7 listed skills (Python).,"[""SQL"", ""ETL"", ""ELT"", ""Machine Learning"", ""Azure"", ""Security""]",new,2026-11-05T20:33:10+00:00,2026-11-05T20:33:38+00:00,"[""Python""]",,senior,in-c7ff540b08049bdf,indeed,"* Contract
+* Hybrid (Toronto, Ontario)
+* Posted on November 4, 2026
+
+**Tri-global Solutions Group Inc.**
+
+**SENIOR SOFTWARE DEVELOPER/ETL (Azure & Python; Enterprise AI & Data Centre of Excellence)**
+
+**Requisition #:** R26-3629 (RQ00241)
+
+**Location:** Hybrid (3 days onsite / 2 days WFH; Toronto, ON – \*See Work Model)
+
+**Engagement Type:** Contract
+
+**Number of Resources required:** 1
+
+**Term:** 2026-11-23 to 2027-05-23 (130 days) with possible extension
+
+**Rate (CAD):** Up to $100.00 per hour / Commensurate with related experience and market competitiveness
+
+**Hours per day:** 7.25
+
+**Security Screening:** Standard (Criminal Record Check)
+
+————————————————————————
+
+Tri-global Solutions Group Inc. is seeking one (1) Senior Software Developer/ETL to join our talented Service Delivery team within Metrolinx.
+
+***WORK MODEL:*** *The successful contractor will be working hybrid with 3 days in office at 277 Front Street West, Toronto, Ontario and 2 days remote/work from home per week.*
+
+Please review the project overview, description of services, and requirements below. If you meet the requirements and are interested in submitting for this role, please reply to this job posting.
+
+If you know other consultants who may be interested in this opportunity kindly share this job posting.
+
+Thank you.
+
+Tri-global Solutions Group Inc.
+
+Website: https://tri-global.com
+
+————————————————————————
+
+**PROJECT OVERVIEW**
+
+The Senior Software Developer – ETL will design, build, and maintain scalable data pipelines, integrations, and reusable data services that enable enterprise AI, analytics, and data initiatives.
+
+The role will help improve access to trusted data across enterprise systems, operationalize data architecture and integration patterns, and reduce the time and effort required to onboard data for new AI and analytics use cases.
+
+**DESCRIPTION OF SERVICES**
+
+Key Responsibilities:
+  
+
+* Design, develop, test, and maintain ETL/ELT pipelines and data integration solutions across enterprise data sources.
+* Build reusable data pipelines, services, and integration components that can support multiple AI and analytics use cases.
+* Ingest, transform, and prepare structured and unstructured data for analytics, AI, and machine learning workloads.
+* Implement data architecture, modelling, and integration patterns established by enterprise architecture.
+* Integrate data across cloud platforms, databases, applications, APIs, and enterprise systems.
+* Design solutions that support scalability, reliability, performance, monitoring, and maintainability.
+* Implement data quality and validation controls to improve the reliability of data provided to downstream consumers.
+* Work with Data Architects, AI/ML Engineers, Data Scientists, product teams, and business stakeholders to translate data requirements into production-ready solutions.
+* Optimize existing pipelines and integration processes to reduce duplication and accelerate onboarding of new data sources.
+* Support deployment, troubleshooting, documentation, and ongoing improvement of enterprise data solutions.
+
+**QUALIFICATIONS & EXPERIENCE**
+
+* Degree in Computer Science, Information Systems, Engineering, Data/Analytics, or a related discipline, or equivalent experience.
+* Significant experience in data engineering, ETL/ELT development, software development, or enterprise data integration.
+* Demonstrated experience designing and developing scalable data pipelines and integration solutions.
+* Strong programming and SQL skills, with experience working with modern data engineering frameworks and cloud-based data platforms.
+* Experience integrating data through databases, APIs, file-based sources, and enterprise applications.
+* Knowledge of data modelling, data quality, metadata, lineage, security, and data governance concepts.
+* Experience supporting data platforms used for AI, machine learning, advanced analytics, and business intelligence.
+* Strong analytical, troubleshooting, communication, and collaboration skills.
+
+**MANDATORY REQUIREMENTS (Candidates must meet all requirements below)**
+
+* Significant hands-on experience designing and developing scalable, production-grade data pipelines for AI/ML and Generative AI workloads, including data ingestion, transformation, feature engineering, training and inference datasets, RAG/grounding data, and AI/ML pipeline integration.
+* Advanced hands-on expertise in Python, SQL, ETL/ELT, APIs, data integration and transformation, and cloud-based data platforms, applying strong software engineering practices to build reliable, scalable, maintainable, and production-ready data solutions.
+* Strong working knowledge of the Azure data and AI ecosystem, Azure Machine Learning, and Microsoft Foundry/Azure AI Foundry, with an understanding of ML pipelines, feature engineering, model training/testing, inference, monitoring, and the data requirements needed to support reliable enterprise AI/ML solutions.
+
+**NOT FOR YOU?**
+
+Check out our other opportunities at https://tri-global.com or follow us on LinkedIn. We thank all candidates in advance. Only candidates selected for an interview will be contacted.
+
+**WHY WORK WITH TRI-GLOBAL?**
+
+– Empower positive change by enabling our clients to revolutionize innovation and technology, elevating them to a higher level of excellence and efficiency.
+  
+– Join an exceptional and committed team that redefines the landscape, forging a distinctive path towards success.
+  
+– Engage in stimulating and captivating projects that push boundaries and keep you constantly motivated.
+
+To apply for this job **email your details to** application-intake+3629@tri-global.com"
+ee69c33e9b94498f,CLDRSRC10407 - Data Engineer - AI/ML - Toronto - Hybrid,Cloud Resourcing,"Toronto, ON, Canada",0,,2026-11-05,"[""indeed""]",https://ca.indeed.com/viewjob?jk=67f319ba68fb9115,https://candidateportal.ceipal.com/job-details/etSvle3nG8_88Pef3xSki2qQz0pS8brETp7antZtJ3A#.job_boards.Indeed,49,Free scorer: your resume shows 1 of 7 listed skills (Python).,"[""SQL"", ""ETL"", ""ELT"", ""Machine Learning"", ""Azure"", ""Security""]",new,2026-11-05T20:33:10+00:00,2026-11-05T20:33:38+00:00,"[""Python""]",,mid,in-67f319ba68fb9115,indeed,"**Must Haves:**
+
+* Significant hands-on experience designing and developing scalable, production-grade data pipelines for AI/ML and Generative AI workloads, including data ingestion, transformation, feature engineering, training and inference datasets, RAG/grounding data, and AI/ML pipeline integration.
+* Advanced hands-on expertise in Python, SQL, ETL/ELT, APIs, data integration and transformation, and cloud-based data platforms, applying strong software engineering practices to build reliable, scalable, maintainable, and production-ready data solutions.
+* Strong working knowledge of the Azure data and AI ecosystem, Azure Machine Learning, and Microsoft Foundry/Azure AI Foundry, with an understanding of ML pipelines, feature engineering, model training/testing, inference, monitoring, and the data requirements needed to support reliable enterprise AI/ML solutions.
+
+**Description**
+
+The Senior Software Developer - ETL will design, build, and maintain scalable data pipelines, integrations, and reusable data services that enable enterprise AI, analytics, and data initiatives.
+
+The role will help improve access to trusted data across enterprise systems, operationalize data architecture and integration patterns, and reduce the time and effort required to onboard data for new AI and analytics use cases.
+
+**Key Responsibilities**
+
+* Design, develop, test, and maintain ETL/ELT pipelines and data integration solutions across enterprise data sources.
+* Build reusable data pipelines, services, and integration components that can support multiple AI and analytics use cases.
+* Ingest, transform, and prepare structured and unstructured data for analytics, AI, and machine learning workloads.
+* Implement data architecture, modelling, and integration patterns established by enterprise architecture.
+* Integrate data across cloud platforms, databases, applications, APIs, and enterprise systems.
+* Design solutions that support scalability, reliability, performance, monitoring, and maintainability.
+* Implement data quality and validation controls to improve the reliability of data provided to downstream consumers.
+* Work with Data Architects, AI/ML Engineers, Data Scientists, product teams, and business stakeholders to translate data requirements into production-ready solutions.
+* Optimize existing pipelines and integration processes to reduce duplication and accelerate onboarding of new data sources.
+* Support deployment, troubleshooting, documentation, and ongoing improvement of enterprise data solutions.
+
+**Qualifications & Experience**
+
+* Degree in Computer Science, Information Systems, Engineering, Data/Analytics, or a related discipline, or equivalent experience.
+* Significant experience in data engineering, ETL/ELT development, software development, or enterprise data integration.
+* Demonstrated experience designing and developing scalable data pipelines and integration solutions.
+* Strong programming and SQL skills, with experience working with modern data engineering frameworks and cloud-based data platforms.
+* Experience integrating data through databases, APIs, file-based sources, and enterprise applications.
+* Knowledge of data modelling, data quality, metadata, lineage, security, and data governance concepts.
+* Experience supporting data platforms used for AI, machine learning, advanced analytics, and business intelligence.
+* Strong analytical, troubleshooting, communication, and collaboration skills."
+72d4a808cdaceb52,Data Engineer,Konrad,"Toronto, Ontario, Canada",0,,2026-11-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4485853244,,45,Free scorer: your resume shows 1 of 14 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Databricks"", ""Kafka"", ""Spark"", ""Hadoop"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-05T20:33:07+00:00,2026-11-05T20:33:38+00:00,"[""Python""]",,mid,li-4485853244,linkedin,"Who We Are
+  
+  
+Konrad is an AI-driven digital consultancy and product-innovation firm providing AI, strategy, design, and technology services to the world’s most ambitious businesses and brands.
+  
+  
+We empower industry-leading brands to navigate change, strategize, and build extraordinary custom experiences. In a landscape defined by human and machine collaboration, we bridge the gap between complex AI and beautiful product design. From strategy to implementation, our 750+ global experts deliver intelligent solutions trusted by 500 million people.
+  
+  
+**About The Role**
+As a Data Engineer you’ll be tasked with designing, building, and maintaining scalable data platforms and pipelines. Your deep knowledge of data platforms such as Azure Fabric, Databricks, and Snowflake will be essential as you collaborate closely with data analysts, scientists, and other engineers to ensure reliable, secure, and efficient data solutions.
+  
+  
+What You’ll Do
+  
+  
+
+* Design, build, and manage robust data pipelines and data architectures.
+* Implement solutions leveraging platforms such as Azure Fabric, Databricks, and Snowflake.
+* Optimize data workflows, ensuring reliability, scalability, and performance.
+* Collaborate with internal stakeholders to understand data needs and deliver tailored solutions.
+* Ensure data security and compliance with industry standards and best practices.
+* Perform data modelling, data extraction, transformation, and loading (ETL/ELT).
+* Identify and recommend innovative solutions to enhance data quality and analytics capabilities.
+
+**Qualifications**
+
+* Bachelor’s degree or higher in Computer Science, Data Engineering, Information Technology, or a related field.
+* At least 3 years of professional experience as a Data Engineer or similar role.
+* Proficiency in data platforms such as Azure Fabric, Databricks, and Snowflake.
+* Hands-on experience with data pipeline tools, cloud services, and storage solutions.
+* Strong programming skills in SQL, Python, or related languages.
+* Experience with big data technologies and concepts (Spark, Hadoop, Kafka).
+* Excellent analytical, troubleshooting, and problem-solving skills.
+* Strong understanding of data modeling concepts including medallion architecture, data vault, grain, fact tables, dimensions, and schema design.
+* Hands-on experience building and maintaining transformation layers using dbt or similar ELT tools.
+* Experience building production-grade data models with optimized performance supporting operational decision-making.
+* Experience designing batch and real-time ingestion frameworks with real-time monitoring
+* Ability to effectively communicate technical concepts clearly to non-technical stakeholders.
+
+Nice to have
+  
+  
+
+* Certifications related to Azure Data Engineering, Databricks, or Snowflake.
+* Familiarity with DevOps practices and CI/CD pipelines.
+
+Perks and Benefits
+  
+  
+
+* Comprehensive Health & Wellness Benefits Package
+* Retirement Planning
+* Parental Leave Program
+* Flexible Working Hours
+* Work from Home Flexibility
+* Service Recognition Programs
+* Socials, Outings & Retreats
+* Culture of Learning & Development
+
+*Konrad is committed to maintaining a diverse work environment and is proud to be an equal opportunity employer. All qualified applicants, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status will receive consideration for employment. If you have any accessibility requirements or concerns regarding the hiring process or employment with us, please notify us so we can provide suitable accommodation.*
+*The estimated compensation for this position is $90,000 to $125,000. This is an estimate and a compensation offer will vary based on applicant’s education, experience, skills, abilities and alignment with market data.*
+While we sincerely appreciate all applications, only those candidates selected for an interview will be contacted."
+9364eae5606ebb8a,Senior Data Engineer,Konrad,"Toronto, Ontario, Canada",0,,2026-11-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4485845437,,46,Free scorer: your resume shows 1 of 12 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Databricks"", ""Kafka"", ""Spark"", ""Hadoop"", ""ETL"", ""ELT"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-05T20:33:07+00:00,2026-11-05T20:33:38+00:00,"[""Python""]",,senior,li-4485845437,linkedin,"Who We Are
+  
+  
+Konrad is an AI-driven digital consultancy and product-innovation firm providing AI, strategy, design, and technology services to the world’s most ambitious businesses and brands.
+  
+  
+We empower industry-leading brands to navigate change, strategize, and build extraordinary custom experiences. In a landscape defined by human and machine collaboration, we bridge the gap between complex AI and beautiful product design. From strategy to implementation, our 750+ global experts deliver intelligent solutions trusted by 500 million people.
+  
+  
+**About The Role**
+As a Senior Data Engineer you’ll be tasked with designing, building, and maintaining scalable data platforms and pipelines. Your deep knowledge of data platforms such as Azure Fabric, Databricks, and Snowflake will be essential as you collaborate closely with data analysts, scientists, and other engineers to ensure reliable, secure, and efficient data solutions.
+  
+  
+What You’ll Do
+  
+  
+
+* Design, build, and manage robust data pipelines and data architectures.
+* Implement solutions leveraging platforms such as Azure Fabric, Databricks, and Snowflake.
+* Optimize data workflows, ensuring reliability, scalability, and performance.
+* Collaborate with internal stakeholders to understand data needs and deliver tailored solutions.
+* Ensure data security and compliance with industry standards and best practices.
+* Perform data modelling, data extraction, transformation, and loading (ETL/ELT).
+* Identify and recommend innovative solutions to enhance data quality and analytics capabilities.
+
+**Qualifications**
+
+* Bachelor’s degree or higher in Computer Science, Data Engineering, Information Technology, or a related field.
+* 4+ years of professional experience as a Data Engineer or similar role.
+* Proficiency in data platforms such as Azure Fabric, Databricks, and Snowflake.
+* Hands-on experience with data pipeline tools, cloud services, and storage solutions.
+* Strong programming skills in SQL, Python, or related languages.
+* Experience with big data technologies and concepts (Spark, Hadoop, Kafka).
+* Excellent analytical, troubleshooting, and problem-solving skills.
+* Ability to effectively communicate technical concepts clearly to non-technical stakeholders.
+
+Nice to have
+  
+  
+
+* Certifications related to Azure Data Engineering, Databricks, or Snowflake.
+* Familiarity with DevOps practices and CI/CD pipelines.
+
+Perks and Benefits
+  
+  
+
+* Comprehensive Health & Wellness Benefits Package
+* Retirement Planning
+* Parental Leave Program
+* Annual tech & travel allowance
+* Flexible Working Hours
+* Work from Home Flexibility
+* Service Recognition Programs
+* Socials, Outings & Retreats
+* Culture of Learning & Development
+
+*Konrad is committed to maintaining a diverse work environment and is proud to be an equal opportunity employer. All qualified applicants, regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status will receive consideration for employment. If you have any accessibility requirements or concerns regarding the hiring process or employment with us, please notify us so we can provide suitable accommodation.*
+*The estimated compensation for this position is $120,000 to $145,000. This is an estimate and a compensation offer will vary based on applicant’s education, experience, skills, abilities and alignment with market data.*
+While we sincerely appreciate all applications, only those candidates selected for an interview will be contacted."
+2d237ccc118f4bd0,Junior Data Engineer – Azure Databricks / ADF / PySpark,ThoughtStorm,"Toronto, Ontario, Canada",0,,2026-11-05,"[""linkedin""]",https://www.linkedin.com/jobs/view/4486792210,,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, REST, Git).","[""SQL"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Azure"", ""CI/CD"", ""Agile"", ""Scrum"", ""Security""]",new,2026-11-05T20:33:07+00:00,2026-11-05T20:33:38+00:00,"[""Python"", ""REST"", ""Git""]",,junior,li-4486792210,linkedin,"Required Skills & Qualifications
+
+* Degree or diploma in Computer Science, Software Engineering, Information Technology, or a related field.
+* Hands-on experience developing data engineering solutions using
+  **Azure Data Factory (ADF), Azure Data Lake Storage (ADLS), and Azure Databricks**
+  .
+* Strong programming skills in
+  **Python, SQL, PySpark, and Apache Spark**
+  for data processing and transformation.
+* Experience developing and maintaining
+  **ETL/ELT pipelines**
+  , data ingestion frameworks, and scalable batch or near real-time data processing solutions.
+* Hands-on knowledge of
+  **Delta Lake, Lakehouse Architecture, and Medallion Architecture (Bronze, Silver, Gold)**
+  .
+* Experience developing Databricks notebooks, workflows, data processing jobs, and optimizing Delta Lake tables.
+* Strong understanding of
+  **data validation, data quality, reconciliation, monitoring, and troubleshooting**
+  of data pipelines.
+* Experience with
+  **Azure DevOps, Git, CI/CD pipelines, automated deployments, and version control**
+  .
+* Knowledge of
+  **REST APIs, data integration patterns, automation frameworks, and reusable development utilities**
+  .
+* Understanding of
+  **data governance, metadata management, data cataloguing, security, privacy, and access control**
+  .
+* Experience with software development best practices, including code reviews, automated testing, documentation, and secure coding.
+* Strong communication and collaboration skills, with experience working in
+  **Agile/Scrum teams**
+  alongside architects, data engineers, analysts, and business stakeholders."
+f2d6d153a1974478,Backend / Platform Engineer - Canada,Inviso,"Remote, Canada",1,,2026-11-04,"[""indeed""]",https://ca.indeed.com/viewjob?jk=28f32e404aabee1b,https://inviso.hrmdirect.com/employment/view.php?req=3857495&jbsrc=1014&location=e053fc39-d149-4667-bd1e-f349152b521a,75,"Free scorer: your resume shows 3 of 5 listed skills (Python, LLM, Distributed Systems).","[""Go"", ""C#""]",new,2026-11-05T20:33:07+00:00,2026-11-05T20:33:38+00:00,"[""Python"", ""LLM"", ""Distributed Systems""]",,mid,in-28f32e404aabee1b,indeed,"**Backend / Platform Engineer**
+
+Inviso is partnering with one of our clients to find an experienced Backend / Platform Engineer to join their team working remotely. Inviso is managing the recruitment and placement process for this opportunity. This is a remote, direct-hire permanent employee position for our client that is a global multi-billion dollar software conglomerate.
+
+The Backend / Platform Engineer is responsible for designing, building, and operating the core services that power an enterprise AI platform. This role contributes to the AI gateway, orchestration layer, entitlements, tenancy model, data access patterns, integration frameworks, APIs, and platform services that product teams and customers depend on.
+
+The Engineer owns services end to end, from design and implementation through testing, deployment, reliability, and support. The ideal candidate is a strong backend engineer who understands distributed systems, failure modes, clean boundaries, platform APIs, and pragmatic trade-offs.
+
+**Experience & Skills Required**
+
+* Experience building and operating production backend, API, or distributed platform services.
+* Strong software engineering skills with experience designing reliable, testable, and maintainable services.
+* Experience with AI gateway, orchestration, entitlements, tenancy, metering, quotas, or similar platform capabilities.
+* Ability to design APIs and developer experiences for internal and external consumers.
+* Experience with multi-tenant systems, tenant isolation, service boundaries, and platform-level enforcement patterns.
+* Experience building integration frameworks, connector patterns, governed data access, or reliable data on-ramps.
+* Strong understanding of retries, partial failure, consistency, idempotency, back-pressure, and operational failure modes.
+* Experience owning services through design, development, testing, deployment, monitoring, and support.
+* Strong communication and collaboration skills for client-facing consulting environments.
+* Pragmatic mindset with the ability to ship meaningful value quickly while maintaining engineering quality.
+
+**Desired Qualifications**
+
+* Experience with C#, Python, Go, or similar backend languages.
+* Experience with API gateways, orchestration systems, connector frameworks, event-driven systems, or platform engineering.
+* Experience with AI, LLM, RAG, agentic workflows, tool/function calling, MCP, A2A, or AI development lifecycle practices.
+* Experience with event-sourced metering, quotas, entitlements, or billing-related platform services.
+* Experience building enterprise-scale software used by multiple products, customers, or internal teams.
+* Experience using AI-assisted development tools while maintaining strong review, testing, and architecture discipline."
 1b5d7719f661b8e3,Senior Data Engineer (Databricks Focused),BDO,"Toronto, ON, Canada",0,"CAD 84,000 - 128,000 /yearly",2026-11-04,"[""indeed""]",https://ca.indeed.com/viewjob?jk=dd95d7d11e0c6a42,https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Toronto---Bay-St/Senior-Data-Engineer--Databricks-Focused-_JR7321,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, GitHub Actions, Distributed Systems).","[""Scala"", ""Databricks"", ""Spark"", ""ETL"", ""Data Modeling"", ""Machine Learning"", ""Azure"", ""Terraform"", ""CI/CD"", ""Jenkins"", ""Security""]",new,2026-11-04T20:23:26+00:00,2026-11-04T20:23:42+00:00,"[""Python"", ""GitHub Actions"", ""Distributed Systems""]",,senior,in-dd95d7d11e0c6a42,indeed,"**Putting people first, every day**
 
 BDO is a firm built on a foundation of positive relationships with our people and our clients. Each day, our professionals provide exceptional service, helping clients with advice and insight they can trust. In turn, we offer an award-winning environment that fosters a people-first culture with a high priority on your personal and professional growth.
@@ -7647,8 +7960,123 @@ Please note that only candidates who are selected for interview will be contacte
   
 Munich Re is committed to providing a work environment that is inclusive and free of employment barriers and discrimination. Accommodations will be made for qualified applicants with a disability throughout the recruitment process. If you receive a request for an interview and you have a disability which will require an accommodation to support your participation, please contact AODARequestHR@munichre.ca as soon as practical so that suitable accommodations can be arranged."
 28c33c8c8e57dee2,"Senior Software Engineer, Backend (Lakehouse Infra)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-10-13,"[""indeed""]",https://ca.indeed.com/viewjob?jk=a4eae000d454d628,https://grnh.se/buxnh4ie3us,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-14T17:53:47+00:00,2026-10-29T00:46:56+00:00,[],,,,indeed,
-dcfaf4e6e8d301b3,"Senior Data Engineer - Data Infra (Ontario, Canada)",Dandy,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470952558,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-14T17:53:40+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
-16756a2b68ef8a47,Data Engineer III,ZoomInfo,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4469332425,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-14T17:53:40+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+dcfaf4e6e8d301b3,"Senior Data Engineer - Data Infra (Ontario, Canada)",Dandy,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470952558,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-14T17:53:40+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building the operating system for dental offices around the world—empowering clinicians and their teams with technology, innovation, and world-class support to achieve more for their practices, their people, and their patients.
+  
+  
+**About The Role**
+Dandy is hiring a hands-on Senior Data Engineer to join our rapidly growing venture-backed company. The Data Infrastructure team owns the data platform — ingestion, pipelines, and the warehouse feeding downstream tools like Looker and Hex — that Sales, Marketing, Manufacturing, People, Finance, and ML teams rely on every day. In this role, you'll build and scale the infrastructure that turns raw data into trusted, self-serve data products, and help lay the foundation for an AI/agent-ready data platform. It's a rare chance to have outsized, ground-floor impact on how the entire company works with data. This role will be remote based in Ontario, Canada.
+  
+  
+**What You'll Do**
+
+* Design, build, and operate ingestion pipelines and connectors (e.g., Fivetran, dbt, BigQuery) that reliably land data from disparate source systems into our warehouse
+* Own and evolve core platform components — dbt models and the semantic layer, data quality/observability, and orchestration — that power our BI tools and internal analytics apps
+* Partner directly with stakeholders across Finance, GTM, Manufacturing, and ML to translate business needs into governed, self-serve data products
+* Help extend the platform to support AI and agent-based workflows — governed data access, semantic layers usable by LLMs/agents, and the guardrails to keep that safe at scale
+
+**What We're Looking For**
+
+* 5+ years of experience in a data engineering, data platform, or SQL-heavy analytics engineering role (high-growth startup environments highly preferred)
+* Track record of building data ingestion pipelines, connectors, and transformation workflows (dbt or equivalent) in production
+* Expert-level SQL, plus working fluency in Python or a similar language for platform tooling and automation
+* Hands-on exposure to Looker, Hex, dbt, and/or equivalent BI/analytics tooling, with a point of view on evaluating and integrating them into a broader platform
+* Demonstrated ability to work across teams to gather requirements and drive consensus on data platform decisions
+* Track record of standing up new data engineering processes through ambiguity
+* Willingness to roll up your sleeves and fix problems hands-on, paired with intellectual curiosity and strong troubleshooting instincts
+
+**Bonus Points For**
+
+* Exposure to healthcare or other regulated, compliance-heavy environments
+* Experience building infrastructure that supports ML/AI workflows or agentic, LLM-powered products
+* Experience building pipelines with compliance handling for PHI/PII data, particularly in healthcare
+
+**Req ID:**
+J-1276
+  
+  
+For full-time positions, Dandy offers a wide range of best-in-class, comprehensive, and inclusive benefits tailored to each country where we operate. Our local benefits packages typically include healthcare, dental, mental health support, parental planning resources, retirement savings options, and generous paid time off—ensuring our team members are supported no matter where they live and work.
+  
+  
+Dandy is proud to be an equal-opportunity employer. We are committed to building a diverse and inclusive culture that celebrates authenticity to win as one. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, citizenship or immigration status, or any other legally protected characteristics.
+  
+  
+Dandy also fully complies with the Americans with Disabilities Act (ADA). We are dedicated to embracing challenges and creating an accessible, inclusive workplace for all individuals. If you require any accommodations for your interview or have any questions beforehand, rest assured that we will do everything we can to meet your needs. Visit Dandy Careers for more!
+  
+  
+Data Privacy Notice: By submitting your application, you consent to Dandy collecting, storing, and processing your personal information for recruitment purposes in accordance with our Privacy Policy and GDPR regulations. You have the right to access, rectify, or request the deletion of your data at any time by contacting Privacy Requests."
+16756a2b68ef8a47,Data Engineer III,ZoomInfo,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4469332425,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-14T17:53:40+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.
+  
+  
+The
+**Data Engineer III**
+is a core builder on the Strategic Partnerships team's data platform. They design and ship ETL pipelines, semantic models, and the supporting infrastructure that powers cross-functional initiatives with Marketing, Finance, Sales, Legal, HR, and Product. Because the team operates on a project/intake basis across many business units, this role requires someone who can context-switch between domains, get up to speed on unfamiliar data quickly, and deliver pipelines that stakeholders can rely on without hand-holding.
+  
+  
+The Data Engineer III operates with a high degree of autonomy. They own projects end-to-end — from scoping with BU stakeholders, to building and deploying pipelines, to monitoring them in production. They follow the standards set by the team and contribute back to them as they grow in the role.
+  
+  
+**What You'll Do**
+The Data Engineer III will work within an established data stack that includes:
+  
+  
+
+* Warehousing: Snowflake as the primary warehouse; BigQuery for GCP-native workloads
+* Ingestion: Fivetran for SaaS-to-Snowflake pulls; Airflow (on AWS) for custom DAGs, Lambda-based extraction, and S3 staging
+* Modeling: dbt for transformation and semantic layer definition
+* Custom compute: Databricks for bespoke modeling work that doesn't fit cleanly into dbt/Snowflake
+* Infrastructure: Terraform for managing Fivetran connections, GCP infrastructure, and AWS resources
+* Version control & CI/CD: GitHub
+* Consumption: Tableau dashboards; internal tools built on top of semantic data layers
+
+**Responsibilities**
+
+* Build and own end-to-end data pipelines across Fivetran, Airflow, dbt, and Databricks — selecting the right tool for each problem with guidance from the Senior Data Engineer on novel cases
+* Design and maintain dbt models that feed the team's semantic layer, ensuring they are tested, documented, and reusable
+* Partner directly with stakeholders across Marketing, Finance, Sales, Legal, HR, and Product to scope data requirements and translate them into pipeline specs
+* Contribute to Terraform-managed infrastructure for Fivetran connectors, GCP resources, and AWS components
+* Follow and contribute to team engineering standards — testing, CI/CD, code review, observability, and documentation
+* Independently resolve complex ETL and data quality issues, escalating only when architectural tradeoffs are in play
+* Monitor pipelines for SLA compliance and participate in incident response
+* Apply data governance practices to ensure PII is handled correctly and BU-specific compliance requirements (Finance, Legal, HR) are met
+* Communicate technical concepts clearly to non-technical stakeholders and advise them on what is and isn't feasible
+
+**What You Bring**
+
+* 4+ years of professional experience as a Data Engineer, with demonstrated ownership of production pipelines
+* Strong SQL and Python; comfortable writing production-grade code, debugging complex pipelines, and optimizing queries
+* Hands-on experience with a cloud data warehouse (Snowflake strongly preferred; BigQuery or equivalent acceptable)
+* Solid dbt experience — has built and maintained models in a production dbt project
+* Experience with orchestration tools — Airflow and Fivetran required; Dagster or equivalent a plus
+* Experience with Databricks and Spark for custom modeling and transformation workloads
+* Experience with AWS (Airflow, S3, Lambda) and GCP (BigQuery and adjacent services)
+* Ability to work autonomously — can take an ambiguous ask, scope it with a stakeholder, and ship a solution with minimal oversight
+* Strong communication skills — can explain technical tradeoffs to non-technical partners and adapt style to different audiences
+* Security-first mindset; familiar with PII handling and access controls
+* Has built something end-to-end before specializing — values broad competence paired with depth
+
+**Skills**
+**Core**
+: Python, SQL, Snowflake, dbt, Airflow, Fivetran, Databricks, AWS (S3, Lambda, Airflow), GCP (BigQuery), GitHub
+  
+  
+**Required**
+: Experience with CI/CD for data pipelines; experience contributing to a team dbt project; familiarity with Terraform or another IaC tool
+  
+  
+**About Us**
+ZoomInfo (NASDAQ: GTM), the all-in-one AI GTM platform, enables sales, marketing, and customer success teams to execute their go-to-market strategy with confidence. Powered by the industry's most comprehensive B2B data, including more than 100 million companies, 500 million contacts, and billions of signals, ZoomInfo delivers the intelligence, automation, and integrations that modern revenue teams need to identify, engage, and convert their best buyers.
+  
+  
+ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant Privacy Notice for more details on how we handle your personal information.
+  
+  
+ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available here.
+  
+  
+ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.
+  
+  
+For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location."
 f1818c7707fd6462,Senior Data Engineer,Arkhya Tech Inc.,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4479560582,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-14T17:53:40+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 b063fd0cf5541200,Process Data Engineer (Python / Snowflake),ALTEN Canada,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476680226,,68,"Free scorer: your resume shows 1 of 2 listed skills (Python); there's no job description, so this is a rough guess.","[""Snowflake""]",new,2026-10-14T17:53:40+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
 70bc4babca047b47,Senior Data Engineer,TripleLift,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470642255,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-14T17:53:40+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
@@ -9723,6 +10151,8 @@ What you'll do
 
 - Keep an eye on the competitive landscape to help keep GitLab's agent platform best-in-class as more work becomes agentic.
 
+- Take part in on-call or operational support where your team’s ownership model requires it.
+
 What you'll bring
 
 - Experience building and maintaining production Python backend applications, including APIs, asynchronous or background processing, and data models.
@@ -9863,6 +10293,8 @@ What you’ll do
 - Document standards, patterns, and learnings with other engineers, raising the bar for safe AI integration and evidence-driven engineering.
 
 - Participate in Tier 2 on-call rotations to troubleshoot production issues, contribute to root cause analysis, and strengthen resiliency.
+
+- Take part in on-call or operational support where your team’s ownership model requires it.
 
 What you’ll bring
 
