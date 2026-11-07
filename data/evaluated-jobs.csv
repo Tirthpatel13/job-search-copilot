@@ -1,4 +1,515 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+3c894f910dc0446d,Data Engineer,Canadian Cancer Society,"Toronto, ON, Canada",0,"CAD 83,000 - 93,000 /yearly",2026-11-07,"[""indeed""]",https://ca.indeed.com/viewjob?jk=ce0fe45bc0f54179,https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7da0a9eb-c7f2-490d-a0f7-779c58f6fd8b&ccId=19000101_000001&jobId=575837&source=IN&lang=en_CA,46,Free scorer: your resume shows 1 of 11 listed skills (Python).,"[""SQL"", ""Spark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""CI/CD"", ""Serverless"", ""Agile"", ""Security""]",new,2026-11-07T17:58:52+00:00,2026-11-07T17:59:08+00:00,"[""Python""]",,mid,in-ce0fe45bc0f54179,indeed,"**Job Title: Data Engineer**
+
+**Vacancies:** *This posting is for (1) current vacancies*
+
+**Location:** Toronto, ON | Vancouver, BC | Ottawa, ON | Calgary, AB | Halifax, NS | St John's, NL | Kelowna, BC| Prince George, BC | Montreal, QC | Québec, QC (Detailed office location information can be found by visiting this link: https://cancer.ca/en/contact-us)
+
+**Work Model:** Hybrid Work Model
+
+**Salary Band:** 5 ($83,000 - $93,000 CAD)
+
+**HELP SHAPE THE FUTURE OF CANCER CARE IN CANADA**
+
+The Canadian Cancer Society works tirelessly to save lives, improve lives and drive collective action against cancer. Together with patients, volunteers, donors and communities across the country, we raise funds to invest in transformative cancer research, we provide a caring support system for everyone affected by cancer and we advocate to governments to create a healthier future for all. It takes a society to take on cancer – and the Canadian Cancer Society is leading the way
+
+Join an exceptional team of Digital Strategy & Technology professionals helping to power the Canadian Cancer Society’s (CCS) operations and fuel our mission through innovative digital solutions. The Digital Strategy & Technology team is at the forefront of CCS’s digital transformation. Together, they are harnessing digital tools, data, and technology to boost fundraising capabilities and enhance the experience of everyone who interacts with us online. With a passion for continuous improvement and a commitment to making an impact, the team ensures CCS’s digital presence is strategic and engaging, helping us inspire and empower more Canadians who care about cancer every day.
+
+**MAKING AN IMPACT**  
+  
+Reporting to the Senior Manager, Data Engineering & Services, the Data Engineer is involved in designing, developing, maintaining and optimizing data platform services, meta-data driven data pipelines and data solutions using the organization’s data platforms and technologies.
+
+* Deliver scalable, automated, and maintainable data pipelines, integrations, and services using modern cloud technologies and platforms.
+* Partner with business and technical teams to design and implement data solutions that adhere to security best practices and align with data governance standards.
+* Support a data-driven, innovation-focused engineering environment by applying modern design patterns and leveraging emerging technologies to improve how data is integrated, governed, and utilized across the organization.
+
+**WHAT YOU’LL BE DOING****:**
+
+**1.** **Data Engineering & Platform Development**
+
+**Data Pipelines:**
+
+* Design, implement, and optimize data ingestion and transformation processes using Microsoft Fabric (Data Pipelines, Dataflows, and Notebooks)
+* Develop end-to-end ETL/ELT workflows for structured and unstructured data
+* Automate and orchestrate data workflows for efficiency and reliability
+
+**Data Lakehouse:**
+
+* Implement Data Lakehouse architecture leveraging modern data standards
+* Design and optimize data models using medallion architecture
+* Optimize storage and processing solutions for performance and cost-effectiveness
+
+**Data Transformation:**
+
+* Develop data transformations using Apache Spark in Fabric Notebooks for cleansing, aggregation, and enrichment
+* Optimize Spark workloads, queries, and configurations for performance tuning
+* Support legacy data platforms and integration processes as required
+
+**Data Analytics:**
+
+* Build reusable, high-quality datasets and data assets for reporting and insights
+
+2**.** **Integrations & Data Pipelines**
+
+**Data Workflows:**
+
+* Develop and maintain data integrations with Azure data services, external systems, and reporting platforms
+* Implement data ingestion processes across batch and real-time workflows
+* Develop transformation framework to support data movement and processing across systems
+* Automate data workflows and integration processes to improve efficiency and reliability
+
+**Collaboration and Documentation:**
+
+* Coordinate with business and technical teams to translate integration requirements into scalable data solutions
+* Support data consistency and relationships across systems through integration and data processing workflows
+* Develop and maintain integration documentation, including data mappings and data models
+
+3. **DevOps & Support**
+
+**Build and Release Management:**
+
+* Develop and maintain CI/CD pipelines using Azure DevOps for data platform solutions
+* Support source control, branching strategies, and automated deployment processes
+* Contribute to infrastructure as code, orchestration, and deployment of data pipelines and services
+
+**Operations and Reliability:**
+
+* Implement monitoring, logging, and alerting for data pipelines and integrations
+* Support performance optimization and operational reliability of data solutions
+* Support data lifecycle processes including archiving, backup, and replication across key platforms
+* Participate in Agile development processes, including sprint planning and iterative delivery
+
+4. **Data Governance & Quality**
+
+**Governance and Security:**
+
+* Apply data governance, compliance, and data quality standards when developing and delivering data pipelines and integrations
+* Support lineage and metadata management using tools such as Microsoft Purview
+* Implement and support data security controls aligned with organizational compliance standards
+
+**Data Quality:**
+
+* Perform data quality validation and monitoring across data pipelines and datasets
+* Support adherence to established data policies, standards, and best practices
+
+5. **Other**
+
+* Contribute to our culture of diversity, inclusion, belonging and equity (DIBE) by ensuring that all staff feel represented, valued, and heard across all aspects of their identity, including gender, age, religion, ethnicity, nationality, race, and sexuality.
+* Other duties as assigned
+
+**QUALIFICATIONS:**
+
+**Education / Experience:**
+
+* Bachelor’s or Master’s degree in computer science, information Systems, Data Engineering or related disciplines
+* Relevant certifications preferred (e.g., Microsoft Certified Frabric Analytics Engineer Associate, DP-203 Azure Data Engineer Associate)
+* 3-5 years – similar or related general experience in progressively more senior positions
+
+**Technical Skills:**
+
+* Strong proficiency in Microsoft Fabric platform components (Data Pipelines, Notebooks, Lakehouse, OneLake)
+* Expertise in Apache Spark, data pipelines and data transformation frameworks
+* Knowledge of data architecture and data modeling (Delta Lake architecture, Lakehouse design patterns, and medallion design pattern)
+* Expertise in SQL for data querying, transformation, and pipeline development
+* Proficiency in Python for data engineering, automation, and pipeline development
+* Experience with software engineering for cloud platforms (Python, serverless)
+* Experience with system integrations, APIs, and data pipelines across cloud and enterprise systems
+* Experience working with CRM platform data and services (Salesforce preferred)
+* Others may apply
+
+**Operational Excellence:**
+
+* Familiarity with DevOps practices including CI/CD pipelines, version control, and automation frameworks
+* Experience implementing monitoring, logging, and alerting practices to ensure reliability and performance of data pipelines and services
+* Commitment to engineering best practices including code quality, testing, documentation, and continuous improvement of data workflows
+* Experience with scripting languages for automation and operational tasks
+* Experience developing and maintaining automated testing frameworks for data pipelines and solutions
+
+**Analytical Skills / Communication Skills:**
+
+* Demonstrated ability to align technical deliverables with organizational strategy and business goals
+* Strong troubleshooting, performance optimization, and problem-solving skills
+* Strong verbal and written communication skills
+* Ability to coordinate with technical and non-technical stakeholders effectively
+* Thrives in a fast-paced, dynamic environments with shifting priorities
+* Bilingualism (French/English) is highly preferred, with French being an asset due to the organization’s nationwide operations and the need for effective communication across various regions.
+
+**WHAT YOU CAN EXPECT FROM US:**
+
+CCS provides impactful opportunities to transform the lives of Canadians affected by cancer. We are devoted to creating an inclusive workplace that celebrates diverse experiences and skills, encouraging all qualified candidates to join us. Our inspiring culture is rooted in our core values and commitment to meaningful change: **COURAGEOUS UNITED CARING RIGOROUS**
+
+We offer a competitive salary, excellent benefits, including paid parental leave, family sick time, and health insurance—and a fulfilling work environment where your efforts make a meaningful impact daily.
+
+**COME AS YOU ARE**
+
+At CCS, we celebrate individuality and the strength of diversity. We are committed to fostering an inclusive and equitable workplace that empowers everyone. We encourage applications from all qualified candidates, including those from equity-deserving groups such as BIPOC, 2SLGBTQI+ communities, individuals with disabilities, veterans, and others who contribute to the richness of our organization. Together, we unite Canadians to shape the future of cancer care.
+
+**HOW TO APPLY:**
+
+Qualified candidates are invited to submit their **resume, cover letter** and **salary expectations by November 20, 2026**.
+
+*We thank all candidates for their interest and advise that only those selected for an interview will be contacted.*
+
+**OTHER INFORMATION:**
+
+*CCS is dedicated to employment equity and encourages applications from all qualified candidates**. In accordance with the local provincial* ***Accessibility Act****, accommodation will be provided as requested throughout the recruitment process**.* *We want to make the interview process a great experience for you!*
+
+*Please note that in keeping with the mandate of CCS to model and promote* ***healthy lifestyles****, employees are not permitted to smoke in or about CCS premises or while carrying out CCS business.*
+
+***Privacy Disclosure***
+
+*We collect your* ***personal information*** *through forms, by phone or in person to evaluate your candidacy for the role(s) you have applied for, to contact you regarding your candidacy, and to generate anonymized recruitment-related reports. If selected for a position at CCS the information provided will be used for the purposes of pre-employment checks and added to your employee file. We may share your personal information with third parties, including recruitment consultants, within or outside your province or territory or outside Canada to carry out the purposes identified above, or as required by law.**We may contact you by mail, email, phone or text. You can exercise your right to access your information or have it corrected, unsubscribe from communications or withdraw your consent by selecting these options within the ADP system, or by contacting* *privacy@cancer.ca**. For more information about our* ***privacy practices****, visit cancer.ca/privacy.*
+
+***AI Disclosure***
+
+*We are committed to transparency and, the responsible use of technology in our hiring process. Artificial intelligence (AI) tools may be used to assist with certain administrative or screening tasks; however, all hiring decisions are made by people. We review and approve AI-assisted outputs to ensure fairness, accuracy, and alignment with our values. For more information about our privacy practices, visit* cancer.ca/privacy*.*
+
+**CONNECT WITH US:**
+
+**LinkedIn** **|** **Facebook** **|** **YouTube** **|** **Bluesky**
+
+**#IND**
+
+**#LI-B1**
+
+**#LI-HYBRID**"
+6cfe8d7bddb5fa66,AI and Data Engineer,George Weston Limited,"Toronto, ON, Canada",0,"CAD 125,000 - 140,000 /yearly",2026-11-06,"[""indeed""]",https://ca.indeed.com/viewjob?jk=04006178cd921d9d,https://myview.wd3.myworkdayjobs.com/George_Weston/job/22-St-Clair-Avenue-East-Toronto-ON/AI-and-Data-Engineer_R2000730777?source=indeed&utm_source=indeed.com&utm_medium=referral,62,"Free scorer: your resume shows 3 of 8 listed skills (Python, LLM, AWS).","[""JavaScript"", ""C++"", ""R"", ""Snowflake"", ""Azure""]",new,2026-11-07T17:58:52+00:00,2026-11-07T17:59:08+00:00,"[""Python"", ""LLM"", ""AWS""]",,mid,in-04006178cd921d9d,indeed,"Location:
+
+22 St. Clair Avenue East, Toronto, Ontario, M4T 2S7
+
+The decision to join a company is a big one. We have opportunities for hard working, energetic and reliable people just like you.
+
+**AI and Data Engineer**
+
+**Company:** George Weston Ltd.
+
+**Department:** Information Technology
+
+**Work Model:** Minimum 4 days in the office per week
+
+**Overview:**
+
+  
+
+George Weston Limited (“GWL”) is a major Canadian public company, founded in 1882. GWL’s portfolio of companies includes Loblaw Companies Limited and Shoppers Drug Mart, representing Canada’s largest food and drug retail businesses, and Choice Properties REIT which is Canada’s preeminent diversified Real Estate Investment Trust. Choice Properties REIT owns over 700 high quality commercial and residential properties across Canada, and with over 2,400 stores, Loblaw and Shoppers Drug Mart retail operations reach most Canadians, serving their everyday food, health, and wellness needs. Through this group of companies, GWL owns and operates several iconic Canadian brands including Loblaw, Shoppers Drug Mart, President’s Choice, No Name, Life, Joe Fresh.
+
+**Responsibilities:**
+
+The AI and Data engineer is responsible for implementing AI solutions to solve business problems and enhance business operations. This role is also responsible for building and managing data pipeline that enables AI applications leveraging LLMs, retrieval systems, workflows, and agentic solutions.
+
+  
+
+* Design, implement, deploy, and support scalable AI/ML solutions that solve business problems, automate processes, and improve operational efficiency.
+* Identify and design scalable, reliable, and secure AI/ML solutions in collaboration with business stakeholders and technology team members.
+* Integrate AI/ML models and capabilities into existing applications, systems, and business workflows.
+* Collaborate with cross-functional stakeholders to translate business needs into AI/ML solutions and communicate results and performance.
+* Evaluate AI/ML technologies and identify opportunities to enhance existing solutions or business applications.
+* Manage and maintain data pipelines to extract, transform, and load data from databases, APIs, and external systems.
+* Maintain Enterprise Data Management solution and configuration .
+* Collaborate with business stakeholders and technology team members to deliver trusted data that supports analytical models, automated decisions, and business objectives.
+
+**Qualifications:**
+
+*If you meet most of the qualifications listed, we encourage you to apply, even if you don’t check every box.*
+
+  
+
+* A bachelor’s degree in computer science, data science, software engineering, or related field
+* At least three years of experience designing, building, and deploying AI / ML solutions in production environments
+* At least two years of hands-on experience developing GenAI, LLM, RAG, or Agentic AI applications including vector databases
+* Strong understanding of agentic AI architectures, multi-agent systems, prompt engineering, workflow orchestration, and AI application evaluation frameworks
+* Proficiency working with structured and unstructured data using commonly used data platforms (Snowflake experience is preferred), including data quality management.
+* Data modelling skills with working knowledge in programming languages such as Python, R, JavaScript, and C++
+* Experience working with cloud-native data platforms, such as Azure or AWS, and their relevant AI services
+* Familiarity with data engineering concepts, including data pipelines, data integration, and data warehousing
+* Ability to effectively communicate and work with technical and non-technical stakeholders to identify business requirements, and translate them into scalable solutions
+* Strong analytical and creative problem-solving skills to define an approachable solution
+* Excellent written and verbal communication skills, including technical documentation and non-technical leadership presentations
+
+**What’s in it for you?**
+
+  
+
+* Unique opportunity to join a dynamic team with a proven industry leader.
+* Ongoing opportunities for learning and career development within the Weston companies.
+* Dynamic and fast-paced work environment.
+* A competitive compensation and benefits package.
+* Employee share ownership program, RRSP and pension plan.
+* Continuous learning through development reimbursement.
+* Summer hours
+* Business-casual attire / Dress for your day.
+* Strong culture of diversity and inclusivity
+
+Hiring Range: Base salary of $125,000 – 140,000 per year, plus applicable bonus.
+
+George Weston Limited recognizes Canada's diversity as a source of national pride and strength. We have made it a priority to reflect our nation’s evolving diversity in the products we sell, the people we hire, and the culture we create in our organization. Accommodation is available upon request for applicants and colleagues with disabilities.
+
+In addition, we believe that compliance with laws is about doing the right thing. Upholding the law is part of our Code of Conduct – it reinforces what our customers and stakeholders expect of us.
+
+Number of Openings
+
+1
+
+**Please Note: If you have Employee Self Service (ESS) on Workday, apply to this job via the Workday application**"
+517b662db6689c64,Senior Data Engineer,Beatport,"Victoria, BC, Canada",1,"CAD 10,000 - 140,000 /monthly",2026-11-06,"[""indeed""]",https://ca.indeed.com/viewjob?jk=8236f601a017d059,https://beatport.bamboohr.com/careers/264?source=indeed&src=indeed&postedDate=2026-11-06,49,"Free scorer: your resume shows 2 of 14 listed skills (Python, PostgreSQL).","[""SQL"", ""Express"", ""MySQL"", ""SQL Server"", ""Oracle"", ""BigQuery"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""GCP"", ""Jenkins""]",new,2026-11-07T17:58:49+00:00,2026-11-07T17:59:08+00:00,"[""Python"", ""PostgreSQL""]",,senior,in-8236f601a017d059,indeed,"**About Beatport**
+
+For over 20 years, Beatport has been the global leader in DJ and club culture, pushing the boundaries of dance music to all corners of the world. Created by DJs for DJs, Beatport has always been dedicated to innovating new products and services to support evolving generations of music performers and producers.
+
+The Beatport Group includes some of the best-known brands in DJ culture, including Beatport, Ampsuite, LabelRadar, Plugin Boutique, Beatport Live & The International Music Summit (IMS). We are consistently looking for bright, creative professionals with diverse perspectives and backgrounds.
+
+**Where you come in:**
+
+We are seeking an experienced and adaptable **Senior Data Engineer** to join our data team in the finance and data warehousing domains. This role involves taking the lead in the ownership, design and delivery of the data pipelines and warehousing infrastructure that feeds analytics and reporting across The Beatport Group.
+
+  
+
+The ideal candidate will have 5+ years of directly relevant data engineering experience, including experience in building and owning all aspects of cloud data warehouses (marts, lakes, lakehouses, etc.), production data pipelines end to end, handling and prioritising data requests from both technical and non-technical stakeholders, and translating these into robust, maintainable solutions. This is an ownership heavy role, and the successful candidate will be trusted to own critical pipelines, resolve production incidents, and maintain engineering best practices for others in the group to follow.
+
+  
+
+The role works across the majority of The Beatport Group's constituent business units to support data flow and integrations required for day-to-day operations. This ranges from our modern data platform with BigQuery and dbt, through to legacy ETL orchestrations with tooling such as Pentaho and Jenkins. Some of the work will be in migrating and deprecating legacy solutions.
+
+  
+
+**This role can be remote but applicants must be based in the Pacific Northwest (Canada or the USA) with a valid right to work.**
+
+The Technology Group is spread across Canada, USA and Europe. The role offers an exciting opportunity to play a key role in maintaining and optimising our core data infrastructure, enabling genuine proactive data driven decision making across an organisation of passionate music fans.
+
+  
+
+**As a Senior Data Engineer, you will be responsible for:**
+
+* Ownership of production data pipelines across our comprehensive GCP based warehousing, from orchestration to reporting, focusing on reliability, performance, cost efficiency, and integrity.
+* Writing scalable dbt and BigQuery SQL across multiple business functions to build and maintain robust data models for all elements of The Beatport Group’s stack.
+* Planning and designing RDBMS and data warehouses, data models, repositories and pipelines with best practices for performance and scalability
+
+* Maintaining and developing integrations with partners of the group with relevant APIs and file based exchange services (SFTP, GCS etc.), including but not limited to streaming fraud detection partners and music suppliers.
+* Create and maintain documentation for APIs, data pipelines, data models and data dictionaries
+* Being the reliable point of contact for the resolution of load failures or connectivity issues that affect downstream resources.
+
+  
+
+**As a Senior Data Engineer, you will require:**
+
+* 5+ years of direct data engineering experience, ideally within an engineering / analytics / BI or similarly data intensive team.
+* Expert proficiency in SQL, ideally Google Cloud SQL supported dialects (MySQL / Postgres)
+* Proficiency with data transformation tooling such as Data Build Tool (dbt).
+* 3+ years of SQL-based programming and access control against RDBMS database systems such as MS SQL Server, MySQL, Postgres or Oracle
+* Demonstrable experience building and owning production data pipelines (ETL/ELT), including orchestration, monitoring and incident resolution. Experience with cloud data orchestration products such as Airflow, Composer, Cloud Run, etc.
+* Proficiency with a scripting language beyond SQL, Python in particular
+* Self-motivated and proactive, with the ability to work independently and prioritise tasks effectively, with a meticulous approach to data integrity, especially where it feeds financial or regulatory reporting.
+* Strong communication and interpersonal skills, both technical and non-technical.
+
+  
+
+Experience with music streaming, music royalties, audio technologies, DBA responsibilities, AI/ML on GCP, interest in DJ culture, or previous roles in the music or financial industries are all great bonuses to bring to the role.
+
+**The Beatport Group Culture**
+
+At Beatport Group, creativity and community are at the forefront of everything we do. Our company is a hub of innovation, driven by a commitment to authenticity and a deep understanding of the music landscape. Our culture is built on the values of D.A.N.C.E (Demand Diversity, Accountability to our communities, Nurturing our ecosystem, Community first, always, and Evolution of our mission). We promote inclusiveness, innovative thinking, and thoughtful contributions, ensuring that we not only serve but also evolve with the diverse global DJ & music producer market.
+
+**How to apply**
+
+Please apply with your resume by clicking the ""apply"" link
+
+**Benefits**
+
+The position is within a highly motivated team with a positive working climate, allowing you to express your talent fully. In addition, we offer appropriate remuneration and very good development opportunities within a dynamically growing enterprise. Beyond this, the position provides an intensive integration into the international music scene.
+
+  
+
+**Equal Employment Opportunity**
+
+The Beatport Group strongly supports equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law.
+
+**Hiring Practices**
+
+This job description has been designed to indicate the general nature and level of work performed by employees within this classification. It is not intended to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job. The Beatport Group’s recruitment policies are designed to place the most highly qualified persons available in a timely and efficient manner. The Beatport Group may pursue all avenues available, including promotion from within, employee referrals, outside advertising, Internet recruiting, job fairs and college recruiting. **The Beatport Group does not accept speculative CV's from employment agencies unless specifically requested by the Talent Team. We politely request that you do not contact our hiring managers.**"
+2262350d98a13a54,Data Engineer,Clever Digital Marketing,Canada,1,"CAD 90,000 - 120,000 /yearly",2026-11-06,"[""indeed""]",https://ca.indeed.com/viewjob?jk=7a5b24d3f8cf399b,https://careers.cleverdigitalmarketing.ca/postings/7c50abea-e7dc-4be2-a353-a91c64b2c98a?utm_medium=job_board&utm_source=indeed,55,"Free scorer: your resume shows 3 of 12 listed skills (Python, REST, Git).","[""SQL"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""Pub/Sub"", ""dbt"", ""ELT"", ""Data Warehouse"", ""GCP""]",new,2026-11-07T17:58:49+00:00,2026-11-07T17:59:09+00:00,"[""Python"", ""REST"", ""Git""]",,mid,in-7a5b24d3f8cf399b,indeed,"### **Description**
+
+**Role**
+
+Data Engineer
+
+**Who We Are**
+
+**Mission**: At Clever Digital Marketing, we are on a mission to empower large-scale home improvement companies by fueling their top-line revenue through innovative digital marketing strategies. By bridging the gap in the industry for a highly profitable digital lead vendor, we've created a unique space where growth isn't just supported — it's catalyzed.
+
+**Product**: Clever Digital Marketing delivers outcome-driven paid advertising and strategic advising solutions. We don't focus on clicks and impressions — we focus on net sales. Our customized, data-driven strategies are tailored to each client's unique needs, ensuring measurable impact and scalable profitability across Google, Meta, and Microsoft ad platforms.
+
+**Scale**: Recognized by the Globe and Mail as the #1 Fastest-Growing Company in the Marketing & Advertising category and #42 across all of Canada, we are the growth engine behind some of North America's most ambitious home improvement brands — companies on track to generate over $500 million in combined revenue in 2026. With a team of 80+ across North America, $74M in digital ad spend managed, and 400,000+ leads generated, we've built something rare: a system where scale isn't luck. It's engineering.
+
+**Impact**: As trusted subject matter experts in the home improvement space, we are redefining what it means to deliver value. Our commitment to authenticity, collaboration, and continuous improvement ensures we remain a powerhouse of growth and measurable results for every client we serve. We don't do lead generation — we do revenue generation.
+
+**Who We Are Looking For**  
+  
+We are looking for an Intermediate Data Engineer to build and strengthen the pipelines that power our entire advertising operation. As we scale Data Platform 2.0 — our GCP-native data platform — we need an engineer who delivers reliable, well-tested work independently, takes real ownership of defined portions of the stack, and is hungry to grow into broader platform ownership alongside a senior team. You won't be designing the architecture on day one — but you will be trusted to build within it, improve it, and prove you're ready for more.
+
+### **Key Responsibilities**
+
+**What You’ll Do**
+
+**Build and Manage Data Pipelines**
+
+* Build and maintain production ELT pipelines ingesting data from Google Ads, Meta Ads, and Microsoft/Bing Ads APIs — as well as CRM, call tracking, and lead event sources — into our BigQuery data ecosystem
+* Own reliable Bronze layer ingestion for your assigned sources, with audit trails and no silent failures
+* Extend and maintain API connectors (REST/OAuth2) within our established Cloud Run patterns, and troubleshoot integration issues to root cause rather than working around them
+
+**Deliver Within the Platform Architecture**
+
+* Implement Silver layer transformation logic and contribute Gold layer Dataform models serving Command Centre, client reporting, and future AI/ML consumers — working from designs set by the Data Team leadership
+* Raise gaps, risks, and improvement opportunities in the architecture proactively — bring a proposed approach, not just the problem
+* Contribute to the CDMID join logic that unifies CRM, ad platform, and call tracking data into coherent lead records across client accounts
+
+**Manage Data Warehousing and Modeling**
+
+* Develop and maintain BigQuery data models for your assigned domains, applying dimensional modeling fundamentals with consistent naming, structure, and documentation
+* Deliver clean, trusted, cost-metric-driven datasets that let our team move beyond vanity metrics to cost-per-issued-lead and cost-per-demo insights
+
+**Automate and Optimize**
+
+* Write SQL & Python-based automation using GCP services — Cloud Run, Cloud Functions, and Pub/Sub — to orchestrate workflows and eliminate manual processes
+* Monitor and tune pipelines and BigQuery queries for performance and cost-efficiency, flagging systemic issues before they compound
+* Help graduate workflows off low-code automation tools and onto reliable, auditable pipelines
+
+**Own Data Quality, Documentation and Responsible Data Handling**
+
+* Implement quality checks and validation on everything you ship — and treat testing & documentation as part of delivery, not an afterthought
+* Proactively monitor pipeline health and resolve the root causes of data discrepancies, not just flag them
+* Handle lead and client data responsibly: respect consent boundaries, follow least-privilege access practices, and avoid introducing PII where it is not needed
+
+  
+
+### **Skills, Knowledge and Expertise**
+
+**What We Are Looking For**
+
+**Non-Negotiables**
+
+* 2–4 years of hands-on data engineering or analytics engineering experience with real production contributions — you've built and maintained pipelines that other people depended on
+* Strong SQL and working Python proficiency for data transformation, scripting, and pipeline development
+* Hands-on experience with BigQuery or an equivalent cloud data warehouse (Snowflake, Redshift)
+* Practical experience integrating third-party APIs (REST, OAuth2) into data workflows
+* Working experience with at least part of the GCP stack — or strong equivalent cloud experience and a demonstrated ability to ramp quickly
+* Solid grasp of data warehousing fundamentals: staging vs. modeled layers, incremental loads, deduplication, and idempotent design
+* Version control (Git) and code review as daily working habits
+
+**Who You Are**
+
+* Accountable for outcomes — you take responsibility for the reliability of what you ship, not just task completion
+* Proactive — you ask scoping questions before starting work, surface problems you observe, and renegotiate timelines early when scope grows
+* Quality-minded — you balance delivery pace with maintainability and avoid shortcuts that create downstream debt
+* A clear communicator — you document decisions, flag risks before stakeholders do, and participate constructively in peer review
+* Kaizen-driven — you leave systems better than you found them and raise improvement opportunities without being asked
+
+**Nice to Haves**
+
+* Direct experience with a major ad platform API (Google Ads, Meta Marketing API, or Microsoft Ads)
+* Dataform, dbt, SQLMesh, or an equivalent transformation framework
+* Pub/Sub or other event-streaming experience
+* Background in performance marketing, ad-tech, or a multi-client agency environment
+* CRM data pipelines (Salesforce, HubSpot, LeadPerfection) or call tracking data integration
+* Prior experience replacing fragile low-code automation with production-grade pipelines
+* Awareness of privacy-compliant measurement (consent signals, server-side tracking, PIPEDA/GDPR basics)
+
+**What You Will Not Do**
+
+* Design the platform architecture solo — you will execute within it and inform it, with clear direction and code review from senior engineers
+* Own media buying, campaign strategy, or client-facing reporting delivery — your role is the infrastructure that makes those possible
+* Work in a legacy or on-premise environment — this is a fully cloud-native GCP stack
+
+  
+
+### **Benefits**
+
+**What We Offer**
+
+* An incredible team and culture — high-performance, feedback-oriented, and data-driven, where everyone is empowered to succeed. Our culture thrives on collaboration, extreme ownership, and Kaizen. This is more than a workplace — it's a place where you'll grow, learn, and thrive alongside passionate teammates who are as invested in your success as you are
+* Real ownership of production systems within a platform being built from the ground up — with a clear runway to grow your scope as you prove it
+* Be part of the #1 fastest-growing marketing company in Canada, redefining performance marketing for the home improvement industry
+* A modern, GCP-native stack with AI embedded in daily workflows — Claude and Gemini are tools you'll use every day, not novelties
+* Exposure to AI/NLQ, MMM modeling, and ML optimization layers as the proprietary platform matures
+* Fully remote work environment with the flexibility to work from anywhere in Canada
+* 3+ weeks of paid time off annually, with the freedom to use them as you see fit
+* Comprehensive group benefits including health, dental, and vision
+* Company-provided MacBook Pro and home office budget to help you create your ideal workspace
+* A work abroad policy to support you when you need a fresh perspective
+* Merch deliveries and opportunities to connect with teammates at meetups and company-wide events
+* A defined growth path toward Senior Data Engineer for those who demonstrate consistent ownership, quality, and impact
+
+**Other**
+
+* Job-Type: Full-Time Permanent
+* Standard business hours: 9am – 5pm EST
+* Working Arrangements: Remote within Canada — Occasional in-office collaboration opportunities. Candidates must be legally eligible to work in Canada.
+* This posting is for an existing vacancy
+* Base Salary: $90,000 - $120,000 CAD
+
+Clever Digital Marketing values the unique skills and experiences each individual brings to the team. We are happy to provide reasonable accommodations to candidates in need of support during the recruitment and selection process. Please note that artificial intelligence (AI) may be utilized during the interview or candidate evaluation process to support the fair and efficient screening, assessment, and selection of applicants.
+
+### **About Clever Digital Marketing**
+
+Clever Digital Marketing is a performance agency powered by people of performance marketers and data analytics, driving exquisite results for large-scale home improvement companies.  
+  
+Our mission is to continue partnering with Home Improvement companies to achieve scalable profitability through a partnership founded on strategic paid advertising and effective growth planning through sales and marketing."
+6b024e555326fd09,"Software Engineer II, Backend",Affirm,"Toronto, ON, Canada",1,"CAD 133,000 - 183,000 /yearly",2026-11-07,"[""indeed""]",https://ca.indeed.com/viewjob?jk=10949974e47a115e,https://grnh.se/pkgpe0cg3us,73,"Free scorer: your resume shows 4 of 7 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kubernetes""]",new,2026-11-07T17:58:43+00:00,2026-11-07T17:59:09+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,mid,in-10949974e47a115e,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+The Engineering team builds systems that power Affirm's mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we're enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering.
+
+You will be matched with a team after completing the interview evaluation process. Your recruiter will work closely with you throughout the process to understand your interests and experience to find the strongest team fit.
+
+### **What you'll do**
+
+* With the support of your team's tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work.
+* You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.
+* You will support the operations and availability of your team's artifacts by creating and monitoring metrics, escalating when needed, and supporting ""keep the lights on"" & on-call efforts.
+* You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process.
+
+### **What we look for**
+
+* You have a total of 1.5+ years of experience as a software engineer.
+* You have experience designing, developing and launching backend systems and are proficient in one of Python or Kotlin.
+* You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes.
+* You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
+* You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+
+  
+
+This posting is for an existing vacancy.
+
+**Base Pay Grade - L**
+
+**Equity Grade - 5**
+
+Employees new to Affirm *typically come in at the start of the pay range*. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+
+Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
+
+CAN base pay range per year: $133,000 - $183,000 CAD
+
+**Location - Remote Canada**  
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.
+
+**#LI-Remote**
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
 d9797de6643bec68,RQ11676 - Data Engineer /PowerBI Developer - Toronto,Cloud Resourcing,"Toronto, ON, Canada",0,,2026-11-05,"[""indeed""]",https://ca.indeed.com/viewjob?jk=a3d86ee1751d1ec6,https://candidateportal.ceipal.com/job-details/XRUlcvHwXvc4Hd_TcAajycmtymD0nOxkQbqkJE1Nj0s#.job_boards.Indeed,47,Free scorer: your resume shows 1 of 9 listed skills (Python).,"[""R"", ""SQL"", ""Databricks"", ""Data Modeling"", ""Power BI"", ""Azure"", ""Agile"", ""Security""]",new,2026-11-06T19:55:51+00:00,2026-11-06T19:56:06+00:00,"[""Python""]",,mid,in-a3d86ee1751d1ec6,indeed,"**Must Have**
 
 Degree or diploma in Computer Science, Information Systems, Data Analytics, Business Intelligence, or a related field.
