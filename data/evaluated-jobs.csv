@@ -1,4 +1,545 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+ad03b51096588ba0,"Senior Technical Analyst, Data Engineering and Business Intelligence",Fidelity Canada,"Toronto, Ontario, Canada",0,,2026-11-08,"[""linkedin""]",https://www.linkedin.com/jobs/view/4401665098,,62,"Free scorer: your resume shows 5 of 13 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""Snowflake"", ""Data Modeling"", ""Tableau"", ""Power BI"", ""Agile"", ""Unit Testing"", ""Security""]",new,2026-11-09T22:57:32+00:00,2026-11-09T22:58:02+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Git""]",,senior,li-4401665098,linkedin,"**Job Description**
+**You will be working on a flexible hybrid schedule as part of Fidelity’s dynamic working arrangement.**
+**The work location for this role is 483 Bay Street in Toronto until approximately late 2026, when the work location will change to the new Mississauga office at 3 Robert Speck Parkway.**
+At Fidelity, we’ve been helping Canadian investors build better financial futures for over 35 years. We offer individuals and institutions a range of trusted investment portfolios and services - and we’re constantly seeking to find new and better ways to help our clients. As a privately owned company, we boldly embrace innovation in all areas as we continue to grow our business into the future.
+  
+  
+Working with us means you’ll be part of a diverse and dedicated group of people who make a real difference for our clients and communities every day. You’ll have a wide range of opportunities to grow and develop your career in an inclusive environment where you’ll feel valued and supported to be your best - both personally and professionally.
+  
+  
+**How You’ll Make An Impact**
+As a Senior Technical Analyst, Data Engineering and Business Intelligence, at Fidelity Investments Canada, you will focus on building, automating and scaling internal data pipelines and analytics tools using Python and Snowflake, while also supporting the Business intelligence enablement through modern BI tools. The role supports analytics and automation for the Product organization, including product research, development and ETF capital markets functions.
+  
+  
+You will work closely with Product, BI and IT teams to modernize spreadsheet-based processes, improve data reliability and enable self-service analytics through well-designed Data Models and Dashboards.
+  
+  
+**Data Engineering & Automation**
+
+* Design, develop and maintain Python-based data pipelines, automation scripts and internal analytics tools.
+* Build and optimize data transformations, models and workflows in Snowflake and Informatica Cloud.
+* Convert existing spreadsheet-based models into scalable, centralized Python and Snowflake-based solutions.
+* Automate internal reporting, data validation, back-testing and analytical workflows to reduce manual effort and error risk.
+* Partner with the Product team to support analytics related to competitor analysis, performance reporting, risk ratings, fund comparisons and research initiatives.
+* Apply sound engineering practices including version control (Git), modular code design, logging and unit testing.
+* Support an agile development approach, responding to evolving internal business needs.
+
+**BI Enablement & Visualization**
+
+* Develop and maintain dashboards and reports primarily using Tableau.
+* Support BI solutions using Power BI or SAP Business Objects where applicable.
+* Translate analytical outputs and engineered datasets into intuitive, consumable visualizations.
+* Publish, manage and support BI assets and Data sources for internal users.
+* Ensure BI solutions align with underlying data models and engineering best practices.
+
+**Platform, Security & Collaboration**
+
+* Collaborate with BI and IT teams to support BI platform administration as needed (Tableau Cloud, Power BI Service, SAP Business Objects).
+* Maintain internal data security, access controls and governance standards.
+* Work cross-functionally with Product, BI and Engineering teams to deliver reliable internal analytics solutions.
+
+**What We’re Looking For**
+
+* University degree in Computer Science, Engineering, or equivalent practical experience.
+* 5 years of experience in Data Engineering, BI Analytics or a closely related role.
+* Strong proficiency in Python for data engineering, automation and analytics.
+* Strong hands-on experience with Snowflake, including data modeling, SQL development and performance optimization.
+* Advanced SQL skills and experience working with relational and cloud-based data platforms.
+* Experience building internal data pipelines, automation, or analytics tools.
+* Experience with Tableau (preferred).
+
+**The Expertise You Bring**
+
+* Understanding of how BI tools consume and interact with engineered data models.
+* Experience with Power BI and/or SAP Business Objects is acceptable.
+* Ability to translate business problems into scalable Data and automation solutions.
+* Experience modernizing spreadsheet-driven processes into robust Data workflows.
+* Strong understanding of Data modeling and performance optimization principles.
+* Experience using Git or similar version control systems.
+* Understanding of internal data governance, security and access management.
+* Strong communication skills and ability to work with technical and non-technical stakeholders.
+
+**Nice to Have**
+
+* Experience supporting analytics for financial products or capital markets.
+* Exposure to BI platform administration (Tableau Cloud, Power BI Service, SAP BO).
+* Experience with Informatica Cloud (e.g., data integration, data quality or pipeline orchestration).
+* Experience with orchestration, scheduling, or workflow automation tools.
+* Familiarity with cloud platforms such as AWS (e.g., S3, IAM, Lambda, or related services).
+
+**Current work authorization for Canada is required for all openings.**
+**Total Rewards That Reflect Your Impact**
+We believe exceptional work deserves exceptional recognition. That’s why we offer a
+**competitive compensation package**
+designed to support your success today—and your financial well-being tomorrow.
+  
+  
+For this role, your total rewards include
+  
+  
+
+* Base Salary and Discretionary Performance Bonus A competitive annual range of $120,000 to $150,000, based on your experience and qualifications.
+* RRSP Contribution After 6 months of employment, we invest in your future with an RRSP contribution—no employee matching required.
+
+We’re proud to offer a compensation package that aligns with
+**provincial pay transparency requirements**
+.
+  
+  
+This posting represents an
+**existing vacancy**
+within our organization—an opportunity to step into a role where your talents will make a meaningful difference.
+  
+  
+We use AI-enabled LinkedIn Hiring Assistant to support parts of our sourcing process. Every hiring decision is reviewed and finalized by our recruiters. If you choose to ask questions to the LinkedIn HR Hiring Assistant, please be mindful that the responses are not official and must be confirmed for accuracy and completeness by Fidelity. If you are selected for an interview, the recruiter who contacts you can best answer your questions.
+  
+  
+**Some of the ways we’ll help you feel valued and supported as part of our team**
+
+* Flexible working arrangements - 100% remote, hybrid, and in office options
+* Competitive total compensation, including company contributions to your group RRSP without a matching requirement from you
+* Comprehensive health benefits that start on your first day, with 100% employer-paid premiums, that include up to $5000 annually for mental health services and therapy
+* Parental leave top-up to 100% of your salary for a period of 25 weeks
+* Up to $650 for home office equipment
+* Generous time off policy, including 2 paid days annually to volunteer at a charity of your choice
+* Diversity and inclusion programs, including an active network of Employee Resource Groups
+* Extensive professional development opportunities, including access to over 11,000 training and development courses, tuition reimbursement, and monetary rewards for completing a required designation
+
+We care a lot about fostering a compassionate, people-centric culture, and are proud to have been named one of Canada’s Top 100 employers for the last five years.
+  
+  
+**Fidelity Canada is an equal opportunity employer**
+Fidelity Canada is committed to fostering a diverse and inclusive workplace. We will consider all qualified applicants for employment regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, family status, protected veterans’ status, Aboriginal/Native American status or any other legally-protected ground.
+  
+  
+**Accommodation during the application process**
+Fidelity Canada welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in the selection process. If you require an accommodation, please email us at FidelityCanadaStaffing@fidelity.ca.
+  
+  
+**No telephone inquiries or agencies please. We thank all applicants for their interest, please be advised that only those selected for an interview will be contacted.**
+**Why Work at Fidelity?**
+**We are proud to be recipients of the following**
+**Awards**
+
+* Canada's Top 100 Employers
+* Greater Toronto's Top Employers
+* Canada's Top Family-Friendly Employers
+* Canada's Top Employers for Young People
+* Great Place To Work® Certified
+* Best Workplaces for Inclusion
+* Best Workplaces for Mental Wellness
+* Best Workplaces for Today's Youth
+* Best Workplaces for Women
+* Best Workplaces in Financial Services & Insurance
+* Best Workplaces in Ontario
+* Best Workplaces with Most Trusted Executive Teams
+* LinkedIn Top Companies in Canada
+* Human Resource Director (HRD) - Best Place To Work
+* HRD - 5-Star Benefit Program
+* HRD - 5-Star Diversity & Inclusion Employer
+
+**Designations**
+
+* Canadian Compassionate Companies – Certified
+* Benefits Canada's Workplace Benefits Award - Future of Work Strategy
+* TalentEgg National Recruitment Excellence Award - Special Award for Diversity & Inclusion in Recruiting
+* Canadian HR Reporter's Most Innovative HR Team"
+cb7b5a85b49f90e6,Senior Data Solutions Engineer,HOOPP (Healthcare of Ontario Pension Plan),"Toronto, Ontario, Canada",0,,2026-11-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4472041983,,56,"Free scorer: your resume shows 3 of 11 listed skills (Python, REST, AWS).","[""Java"", ""C++"", ""C#"", ""SQL"", ""Snowflake"", ""Data Warehouse"", ""Jupyter"", ""Security""]",new,2026-11-09T22:57:32+00:00,2026-11-09T22:58:03+00:00,"[""Python"", ""REST"", ""AWS""]",,senior,li-4472041983,linkedin,"**Why You’ll Love Working Here**
+
+* high-performance, people-focused culture
+* our commitment that equity, diversity, and inclusion are fundamental to our work environment and business success, which helps employees feel valued and empowered to be their authentic selves
+* learning and development initiatives, including workshops, Speaker Series events and access to LinkedIn Learning, that support employees’ career growth
+* membership in HOOPP’s world class defined benefit pension plan, which can serve as an important part of your retirement security
+* competitive, 100% company-paid extended health and dental benefits for permanent employees, including coverage supporting our team's diversity and mental health (e.g., gender affirmation, fertility and drug treatment, psychological support benefits of $2,500 per year, parental leave top-up, and a health spending account).
+* optional post-retirement health and dental benefits subsidized at 50%
+* yoga classes, meditation workshops, nutritional consultations, and wellness seminars
+* the opportunity to make a difference and help take care of those who care for us, by providing a financially secure retirement for Ontario healthcare workers
+
+**Job Summary**
+HOOPP's Information Technology teams deliver innovative technology solutions to help build a stronger financial future for the healthcare community. As a Senior Data Solution Engineer, you will help keep HOOPP's investment data ecosystem reliable, governed, and ready to evolve toward a shared enterprise data model.
+  
+  
+Our DTS Operations team supports the investment data warehouse and the governed data models and transformation logic that represent HOOPP's investment book, positions, transactions, valuations, and market data. As a Senior Data Solution Engineer, reporting to the Senior Manager, Investment Data Operations, you will own outcomes from first detection through root-cause closure, helping ensure data is reliable for trading, investment operations, risk management, valuation, performance, and analytics.
+  
+  
+We cultivate a culture that emphasizes innovation, collaboration, practicality, and the courage to challenge the status quo. This role is well suited to someone who combines technical depth with curiosity, sound judgment, product thinking, systems thinking, and a willingness to test new ideas. You will look beyond immediate symptoms, identify underlying needs, and develop solutions that are secure, sustainable, and valuable in delivering the pension promise. Success in this role requires the ability to navigate ambiguity, ask thoughtful questions, and turn emerging technologies into practical solutions that deliver measurable business impact.
+  
+  
+**What You Will Do**
+
+* Evolve the investment data warehouse, pipelines and enterprise data model supporting HOOPP's investment book, market data, and downstream business processes.
+* Own the Detect -> Respond -> Prevent cycle across the platform stack, resolving incidents, completing root-cause analysis, and driving preventive actions to closure.
+* Investigate investment data issues across positions, transactions, securities, pricing, valuation, and market data, tracing end-to-end flows from source platforms to downstream consumers.
+* Create and validate changes to data models, business logic, and data feeds, while protecting data integrity, lineage, auditability, and ICFR controls.
+* Design and extend AI-assisted projects using Python, Jupyter notebooks, PowerShell, and alternative AI tools, with clear human validation and approval points.
+* Lead projects and provide long-term solutioning by solving the root cause of a problem and partnering with investment, risk, finance, operations, data management, and technology teams to deliver reliable data solutions, operational readiness, and sustainable production support.
+* Investigate platform, data pipeline and scheduling challenges using logs, scripts, execution reports, and system diagnostics.
+* Execute and enhance governance activities, including production release reconciliations, Quarterly Access Reviews, entitlement management, and privileged-access oversight.
+* Maintain and improve runbooks, monitoring, knowledge assets, enterprise job schedules, and operational workflows.
+
+  
+  
+**What You Will Bring**
+
+* 5+ years of professional software development experience using languages such as Java, Python, C#, or C++.
+* Technical fluency across data platforms and operational systems, including Snowflake, Python, SAP HANA, PowerShell, AWS GLUE, and REST APIs, with knowledge of data pipelines, databases, job scheduling, columnar technologies, and production support.
+* Strong SQL, data analysis, critical thinking, and creative problem-solving skills to investigate issues, test assumptions and hypotheses, identify root causes, validate results, and develop sustainable solutions. Knowledge of investment products, investment strategies, portfolio theory, valuation models, risk models, and finance theory is an asset.
+* Proven experience creating AI agents, skills, or intelligent automation solutions, combined with the ability to think strategically, challenge existing approaches, solve complex problems, and translate emerging AI capabilities into practical business outcomes. Sound judgment to determine next steps, engage the right stakeholders, and balance urgency and quality with governance, compliance, and long-term reliability.
+* Accountability for outcomes and a continuous-improvement mindset, with the discipline to carry work through implementation, validation, documentation, and closure. This includes simplifying and automating processes, measuring results, and preventing recurrence.
+* Comfortable working across teams, with strong communication skills and the ability to translate complex technical concepts into clear, non-technical language.
+
+The expected annual base salary range for this role is: $103,000 - $153,000 CAD
+  
+  
+The actual base salary offered to the successful candidate may vary based on multiple factors including, but not limited to, individual's expertise and level of experience applicable to the role they are being offered.
+  
+  
+This role is eligible to participate in discretionary incentive plan(s), subject to the terms and conditions of the applicable incentive plan text.
+  
+  
+This job is for an existing vacancy.
+  
+  
+HOOPP may use artificial intelligence tools to assist in screening, assessing and selecting applicants for this position. These tools support our recruitment process but do not replace human judgment and decision-making."
+b6a37057950534a9,"Senior Software Engineer II, Data Lakehouse",Braze,"Toronto, Ontario, Canada",0,,2026-11-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4472023401,,49,"Free scorer: your resume shows 2 of 13 listed skills (Python, Distributed Systems).","[""Ruby"", ""React"", ""Rails"", ""Snowflake"", ""Databricks"", ""Kafka"", ""RabbitMQ"", ""SQS"", ""Airflow"", ""ETL"", ""Agile""]",new,2026-11-09T22:57:32+00:00,2026-11-09T22:58:03+00:00,"[""Python"", ""Distributed Systems""]",,senior,li-4472023401,linkedin,"At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew.
+  
+  
+We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our organization.
+  
+  
+To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to contribute: Acting with autonomy, having accountability and being open to new perspectives are essential to our continued success.
+  
+  
+Our deep curiosity to learn and our eagerness to share diverse passions with others gives us balance and injects a one-of-a-kind vibrancy into our culture.
+  
+  
+If you are driven to solve exhilarating challenges and have a bias toward action in the face of change, you will be empowered to make a real impact here, with a sharp and passionate team at your back. If Braze sounds like a place where you can thrive, we can’t wait to meet you.
+  
+  
+**What You’ll Do**
+We're looking for a Senior Software Engineer to grow our Data Lakehouse team’s capacity for impact. The Data Lakehouse team provides the foundational infrastructure and tools that enable teams across the company to store, query, and analyze data at petabyte scale. This includes managing an incredible amount of event data across data platforms like Snowflake, ClickHouse, and Databricks: tens of billions of rows are inserted daily, shared with internal teams, and shared with external customers.
+  
+  
+**Who You Are**
+
+* 6+ years of full-stack development experience, with a strong focus on building scalable web applications. While our primary focus is on the back-end, we own our features end-to-end and regularly deliver front-end experiences
+* Experienced building automated data pipeline, asynchronous processing, or ETL applications using tools like Kafka, Airflow, Sidekiq, SQS, and RabbitMQ
+* Experienced technical leader with a track record of driving architectural decisions and contributing to technical strategy
+* Strong understanding of design, data structures, and algorithms
+* A self-starter with great communication and organizational skills who has worked in an agile team environment before
+* Willingness to learn the technologies required to deliver what customers need
+
+Bonus points:
+  
+  
+
+* Professional experience building software at scale, handling high volumes of data and traffic
+* Professional experience with Ruby on Rails, Python, React, Snowflake, microservice architecture, and distributed systems
+* Familiarity with modern data warehousing, BI, and analytics
+* Experience with agile processes
+* A passion for incrementally delivering high-quality software which delights customers
+
+For candidates based in Canada, the pay range for this position at the start of employment is expected to be between CA$186,838 and CA$334,740/year, with an expected On Target Earnings (OTE) between CA$205,600 and CA$366,000/year (including bonus or commission). Your exact offer may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. In addition to cash compensation, this role qualifies for a comprehensive Total Rewards package that includes equity grants of restricted stock (RSUs) so that you will own a piece of our company.
+  
+  
+**What We Offer**
+*Braze benefits vary by location, and we encourage you to review our specific benefits offerings for each country at here. More details on benefits plans will be provided if you receive an offer of employment.*
+From offering comprehensive benefits to fostering hybrid ways of working, we've got you covered so you can prioritize work-life harmony. Braze offers benefits such as:
+  
+  
+
+* Competitive compensation that may include equity
+* Retirement and Employee Stock Purchase Plans
+* Flexible paid time off
+* Comprehensive benefit plans covering medical, dental, vision, life, and disability
+* Family services that include fertility benefits and equal paid parental leave
+* Professional development supported by formal career pathing, learning platforms, and a yearly learning stipend
+* A curated in-office employee experience, designed to foster community, team connections, and innovation
+* Opportunities to give back to your community, including an annual company-wide Volunteer Week and donation matching
+* Employee Resource Groups that provide supportive communities within Braze
+* Collaborative, transparent, and fun culture recognized as a Great Place to Work®
+
+**About Braze**
+Braze is the leading customer engagement platform that empowers brands to Be Absolutely Engaging™ Braze helps brands deliver great customer experiences that drive value both for consumers and for their businesses. Built on a foundation of composable intelligence, BrazeAI™ allows marketers to combine and activate AI agents, models, and features at every touchpoint throughout the Braze Customer Engagement Platform for smarter, faster, and more meaningful customer engagement. From cross-channel messaging and journey orchestration to Al-powered decisioning and optimization, Braze enables companies to turn action into interaction through autonomous, 1:1 personalized experiences.
+  
+  
+The company has repeatedly been recognized as a Leader in marketing technology by industry analysts, and was voted a G2 “Best of Marketing and Digital Advertising Software Product” in 2025.
+  
+  
+Braze was also named a 2025 Best Companies To Work For by U.S. News and World Report, a 2025 America’s Greatest Companies by Newsweek, and a 2025 Fortune Best Workplace in Technology™ by Great Place To Work®, among other accolades. Braze is also proudly certified as a Great Place to Work® in the U.S., the UK, Australia, and Singapore.
+  
+  
+The company is headquartered in New York with offices in Austin, Berlin, Bucharest, Chicago, Dubai, Jakarta, London, Paris, San Francisco, São Paulo, Singapore, Seoul, Sydney and Tokyo.
+  
+  
+**BRAZE IS AN EQUAL OPPORTUNITY EMPLOYER**
+At Braze, we strive to create equitable growth and opportunities inside and outside the organization.
+  
+  
+Building meaningful connections is at the heart of everything we do, and that includes our recruiting practices. We're committed to offering all candidates a fair, accessible, and inclusive experience – regardless of age, color, disability, gender identity, marital status, maternity, national origin, pregnancy, race, religion, sex, sexual orientation, or status as a protected veteran. When applying and interviewing with Braze, we want you to feel comfortable showcasing what makes you you.
+  
+  
+We know that sometimes different circumstances can lead talented people to hesitate to apply for a role unless they meet 100% of the criteria. If this sounds familiar, we encourage you to apply, as we’d love to meet you
+  
+  
+**OUR AI-POWERED BRAZE RECRUITMENT PROCESS**
+At Braze, we’re committed to a fair and transparent candidate experience. To help our recruitment teams focus on what matters most — the person behind each application — we use AI-assisted tools at certain stages of our recruitment process.
+  
+  
+This includes using AI to analyze the experience, skills and qualifications in your application materials to help with screening and prioritizing candidates. Such screening may amount to a form of solely automated decision-making. We also use AI for administrative support, like scheduling and recording interviews and summarizing interview notes. Our recruiting teams remain responsible for all hiring decisions and are involved throughout the process.
+  
+  
+Depending on where you are located, you may have certain rights available to you in relation to Braze’s use of AI:
+  
+  
+
+* To opt out of AI-assisted review of your application, please click the “Learn More” at the end of the application form below and follow the instructions before submitting your application. Please note, if you apply to multiple roles at Braze, you will need to opt out in relation to each application.
+* To exercise other types of rights, such as rights to request further information about how AI is used in our recruitment process, to request a retroactive manual review of any decision made or to contest a decision, please contact us at talentdata.privacy@braze.com.
+
+Please contact us at talentdata.privacy@braze.com with any questions. To find out more about our hiring process, check out this page.
+  
+  
+**Notice Regarding Automated Employment Decision Tool (NYC Local Law 144)**
+Our use of AI during the application review process may include the use of automated employment decision tools. Pursuant to New York City Local Law 144, for roles based in New York City, or if you reside in New York City, you have the right to request an alternative selection process or a reasonable accommodation instead of AI-assisted review.
+  
+  
+To opt out of AI-assisted review of your application, please click the “Learn More” button below and follow the instructions before submitting your application. Please note, if you apply to multiple roles at Braze, you will need to opt out in relation to each application. Please submit any other request to our Talent Acquisition team at talentdata.privacy@braze.com promptly after applying. Summaries of the most recent bias audit results for such tools are available here.
+  
+  
+*Please see our*
+Candidate
+*Privacy Policy for more information on how Braze processes your personal information during the recruitment process and, if applicable based on your location, how you can exercise any privacy rights.*"
+b01c451196a5b714,Back-End Software Engineer,Manulife,"Toronto, Ontario, Canada",0,,2026-11-08,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476821479,,47,"Free scorer: your resume shows 2 of 18 listed skills (Python, GitHub Actions).","[""Java"", ""JavaScript"", ""SQL"", ""Spring"", ""Node.js"", ""React"", ""HTML"", ""Microservices"", ""SQL Server"", ""Databricks"", ""PySpark"", ""Power BI"", ""Azure"", ""CI/CD"", ""Jenkins"", ""Agile""]",new,2026-11-09T22:55:42+00:00,2026-11-09T22:58:03+00:00,"[""Python"", ""GitHub Actions""]",,mid,li-4476821479,linkedin,"As a Back-end Software Engineer within Group Functions Technology, you will be a key member building technology which supports our global operations. The ideal candidate has a curious mind, a thirst for knowledge, a desire to understand how technology works and a passion for high quality software engineering. You have solid software engineering fundamentals and understand the importance of implementing standard processes such as secure coding, microservices, CI/CD pipelines, and test automation. You enjoy keeping your existing technical skills honed and develop new ones so you can make meaningful contributions to Manulife's success.
+  
+  
+**Position Responsibilities**
+
+* Work in an Agile team to create, deliver and maintain high-quality, performant, and secure solutions.
+* Use a proactive approach to common challenges and continually research industry standard methodologies in software development.
+* Assess the target (future) state of the organization’s technology needs to achieve the business objectives.
+* Provide technical leadership across the software development lifecycle, ensuring architectural consistency and engineering excellence.
+* Lead the design and review of software systems, making high-level decisions on architecture and technology choices.
+* Build the solutions to close identified gaps and improve our systems.
+* Pair program with other software engineers or AI tools to learn, coach, and mentor.
+* Consume and contribute to open source and inner source projects.
+* Help us build up our performance and reliability story using tools like New Relic, Dynatrace, and Moogsoft for performance monitoring, end-to-end logging, and other telemetry data.
+* Learn and become proficient in various technologies as required.
+
+**Required Qualifications**
+
+* 5+ years back-end development, designing, implementing solutions in Databricks, Pyspark (Python API), Azure Data Factory and SQL Server
+* 5+ years of experience developing cloud-native solutions on Azure
+* 5+ years working with solutions deployment via CI/CD using Azure DevOps, Jenkins, GitHub Actions, or similar technologies
+* Proven experience in designing software systems and documenting the design using tools such as UML
+* An approach dedicated to finding solutions, with the ability to make sound professional decisions
+* Ability to make complex information accessible and communicate easily within distributed teams
+* Familiarity with Java and Java Spring Boot is an asset
+
+**Preferred Qualifications**
+
+* Experience in Power BI is an asset.
+* Experience in the financial industry (a plus).
+* Proven track record of practical, thoughtful problem solving.
+* Experience with JavaScript, React, and/or NodeJS would be an asset.
+
+**When You Join Our Team**
+
+* We’ll empower you to learn and grow the career you want.
+* We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words.
+* As part of our distributed team, we’ll support you in shaping the future you want to see.
+
+The role being advertised is an existing vacancy.
+  
+  
+**About Manulife And John Hancock**
+Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html.
+  
+  
+**Manulife is an Equal Opportunity Employer**
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+  
+  
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact hr@manulife.com.
+  
+  
+**Referenced Salary Location**
+Toronto, Ontario
+  
+  
+**Working Arrangement**
+Hybrid
+  
+  
+**Salary range is expected to be between**
+$86,100.00 CAD - $136,100.00 CAD
+  
+  
+Employees also have the opportunity to participate in incentive programs and earn incentive compensation tied to business and individual performance. The actual salary will vary depending on local market conditions, geography and relevant job-related factors such as knowledge, skills, qualifications, experience, and education/training. If you are applying for this role outside of the primary location, please contact hr@manulife.com for the salary range for your location.
+  
+  
+Manulife offers eligible employees a wide array of customizable benefits, including health, dental, mental health, vision, short- and long-term disability, life and AD&D insurance coverage, adoption/surrogacy and wellness benefits, and employee/family assistance plans. We also offer eligible employees various retirement savings plans (including pension and a global share ownership plan with employer matching contributions) and financial education and counseling resources. Our generous paid time off program in Canada includes holidays, vacation, personal, and sick days, and we offer the full range of statutory leaves of absence. If you are applying for this role in the U.S., please contact hr@manulife.com for more information about U.S.-specific paid time off provisions.
+  
+  
+We use data and analytics technologies, such as artificial intelligence (AI), and automated processing tools, to analyze and process the information you provide to us or third parties in the application process. For more information, please refer to our personal information collection statement."
+f3b2e1a451048614,Backend Engineer,"Bayview Asset Management, LLC","Toronto, Ontario, Canada",0,,2026-11-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477712606,,51,"Free scorer: your resume shows 4 of 23 listed skills (Python, LLM, AWS, Distributed Systems).","[""Java"", ""TypeScript"", ""Go"", ""Rust"", ""C++"", ""C#"", ""Kotlin"", ""Scala"", ""SQL"", ""Kafka"", ""RabbitMQ"", ""SQS"", ""Pub/Sub"", ""Data Modeling"", ""Azure"", ""GCP"", ""CI/CD"", ""System Design"", ""Security""]",new,2026-11-09T22:55:42+00:00,2026-11-09T22:58:03+00:00,"[""Python"", ""LLM"", ""AWS"", ""Distributed Systems""]",,mid,li-4477712606,linkedin,"**Overview**
+The Backend Engineer on the AI Platform team plays a critical role in building and evolving the backend systems that power internal products, customer-facing capabilities, AI-enabled workflows, and operational decision-making across the organization. This role is responsible for designing, building, testing, and operating reliable, scalable, and flexible services that support a wide range of internal and external use cases.
+  
+  
+This role contributes to the development and evolution of core backend and distributed systems capabilities, including service-oriented architectures, APIs, workflow orchestration, event-driven integrations, identity and permissions, operational tooling, and system interfaces that enable product, data, and AI teams to move quickly. Success requires strong technical depth, sound systems thinking, and the ability to build dependable solutions in a cloud-based, regulated, high-stakes environment.
+  
+  
+The Backend Engineer is expected to operate effectively in a modern engineering environment, using automation, observability, CI/CD, testing, and infrastructure-as-code practices to deploy, manage, and improve production services. In parallel, this individual will help enable downstream product capabilities, operational workflows, reporting, and AI systems by ensuring that backend services are trustworthy, maintainable, and performant.
+  
+  
+This is a fully remote position that offers a competitive salary range of $140,000 to $240,000 USD, plus an annual bonus. You'll also receive our excellent benefits package, which includes medical coverage starting on day one and a company-matched 401(k). Compensation may vary based on experience, location, and other job-related factors.
+  
+  
+**Responsibilities**
+***Scale High-Performance Distributed Systems***
+
+* Design, build, and maintain production backend services for a wide variety of internal and external use cases, including product workflows, operational tools, integrations, APIs, and AI-enabled applications
+* Develop well-structured APIs, domain models, service interfaces, and business logic that are easy to understand, test, operate, and extend
+* Build scalable backend workflows that support complex business processes across loans, documents, accounts, users, permissions, vendors, and operational decision making
+* Ensure backend services are reliable, testable, observable, and resilient as business needs, data volumes, and product surfaces evolve
+
+***Systems Architecture & Integration***
+
+* Contribute to service architectures that support transactional, operational, analytical, and AI-driven workloads across production environments
+* Integrate with internal systems, third-party platforms, vendor APIs, databases, files, message queues, event streams, and cloud services
+* Design patterns for service boundaries, idempotency, consistency, retries, failure handling, schema evolution, versioning, and backward compatibility
+* Help define practical architecture standards that balance speed, simplicity, reliability, security, and long-term maintainability
+
+***Cloud Deployment & Operations***
+
+* Deploy, operate, and improve backend services on major cloud platforms such as AWS, GCP, or Azure
+* Use infrastructure-as-code, CI/CD, automated testing, and deployment automation to improve release speed, consistency, and reliability
+* Monitor production services using logging, tracing, metrics, alerting, and observability tools to proactively identify and resolve issues
+* Support secure, resilient, and cost-conscious operation of cloud-based backend infrastructure and application services
+
+***Reliability, Security & Compliance***
+
+* Build systems with strong operational discipline, including attention to latency, availability, scalability, correctness, incident response, and production support
+* Implement authentication, authorization, permissions, audit logging, data protection, and secure service-to-service communication patterns
+* Establish and maintain standards for API documentation, service ownership, runbooks, operational metrics, change management, and production readiness
+* Contribute to practices that support security, privacy, auditability, compliance, and risk management in a regulated environment
+
+***Cross-Functional Collaboration***
+
+* Partner closely with Product, Engineering, Data, AI, Design, Operations, and business stakeholders to understand workflows, user needs, constraints, and delivery priorities
+* Translate business and operational requirements into clean, scalable, maintainable, and secure backend solutions
+* Support downstream consumers of backend capabilities, including product teams, analysts, researchers, AI systems, operational users, and external integrations
+* Communicate clearly with both technical and non-technical stakeholders about system behavior, tradeoffs, risks, dependencies, and delivery timelines
+
+***Iteration & Continuous Improvement***
+
+* Continuously improve service performance, reliability, scalability, security, and developer productivity
+* Identify opportunities to simplify architecture, reduce operational toil, improve shared platform leverage, and make systems easier to reason about
+* Operate with a strong bias toward action and iterative delivery, moving quickly from problem definition to implementation, validation, and improvement
+* Help raise the bar on engineering quality through thoughtful design, code review, testing, documentation, mentorship, and operational discipline
+
+**Qualifications**
+
+* 3-5+ years of experience building and operating production-grade backend systems, APIs, services, or distributed applications
+* Strong software engineering fundamentals, including data structures, algorithms, system design, debugging, testing, and code quality
+* Experience designing, building, maintaining, and debugging services that run in production and support real users or business-critical workflows
+* Experience with modern backend programming languages such as Python, Go, C++, Rust, Java, Kotlin, Scala, TypeScript, or C#
+* Experience with API design, service boundaries, event-driven or asynchronous architectures, relational data stores, and non-relational data stores
+* Experience building transactional systems where correctness, idempotency, consistency, reconciliation, and auditability matter
+* Experience deploying and operating backend services on major cloud platforms such as AWS, GCP, or Azure
+* Strong SQL skills and comfort with application data modeling, schema evolution, migrations, query performance, and data access patterns
+* Experience building AI-powered capabilities on top of LLMs, including orchestration, retrieval, evaluation, tool integrations, and workflow automation
+* Comfort working with CI/CD, infrastructure-as-code, observability, incident response, and production operations for backend systems
+* Strong judgment in ambiguous environments where requirements evolve and systems must balance speed, reliability, security, and flexibility
+* Clear communication skills with both technical and non-technical teammates
+
+**Preferred Experience**
+
+* Experience in fintech, mortgage, lending, payments, insurance, banking, capital markets, or other regulated domains
+* Experience with queues, streaming, and event-driven platforms such as Kafka, Kinesis, SQS/SNS, Pub/Sub, RabbitMQ, or similar systems
+* Experience building secure identity, access control, permissions, audit trail, policy, or compliance-oriented backend capabilities
+* Experience building high-volume, low-latency, multi-tenant, B2B, enterprise, or internal platform systems
+* Experience building AI products, developer platforms, workflow automation systems, or LLM-powered enterprise applications
+* Experience improving system reliability, cost efficiency, developer productivity, and operational scalability as a platform grows
+
+**A note to candidates**
+You do not need prior fintech or finance experience to succeed in this role. If you are a strong backend engineer with solid technical judgment, a product mindset, and excitement for solving complex systems problems, we would love to hear from you.
+  
+  
+If your background does not line up perfectly with every bullet, but this role feels like the kind of work you want to do, please apply.
+  
+  
+*Bayview is an Equal Employment Opportunity employer. All aspects of consideration for employment and employment with the Company are governed on the basis of merit, competence and qualifications without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, or any other category protected by federal, state, or local law.*"
+aafef03e57b3007b,"Senior Backend Product Engineer, Menu Planning",HelloFresh,"Toronto, Ontario, Canada",0,,2026-11-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4488455659,,63,"Free scorer: your resume shows 6 of 15 listed skills (Python, PostgreSQL, AWS, S3).","[""Java"", ""Go"", ""React"", ""Snowflake"", ""Kafka"", ""Airflow"", ""Kubernetes"", ""CI/CD"", ""System Design""]",new,2026-11-09T22:55:42+00:00,2026-11-09T22:58:03+00:00,"[""Python"", ""PostgreSQL"", ""AWS"", ""S3"", ""Docker"", ""Distributed Systems""]",,senior,li-4488455659,linkedin,"**S'more About The Team**
+The Menu Operations team ensures the accuracy, reliability, and consistency of data and workflows across our ecosystem. This role will focus on automated data validation, cross-system reconciliation, monitoring, troubleshooting, and developing scalable solutions that improve data quality and operational efficiency.
+  
+  
+The role will work closely with engineering, product, culinary, editorial, and business teams to identify data issues, improve validation processes, and standardize best practices across markets.
+  
+  
+As we continue evolving this system, extending its capabilities, and preparing for expansion, we are looking for a Senior Software Engineer with strong backend experience, a talent for turning complex logic into clean, reliable systems, and enough full-stack fluency to support and enhance our internal application.
+  
+  
+Above all, we are looking for people who will make HelloFresh better. We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.
+  
+  
+**Lettuce Share What This Role Will Be Responsible For**
+
+* Work beyond your specialization when the problem demands it. Your specialization is your anchor, not your boundary.
+* Operate what you build. You instrument, monitor, and improve your systems in production. Shipping is the beginning of the learning cycle, not the end.
+* Design and delivery of scalable backend platforms and distributed systems, leveraging AI-assisted and agentic engineering workflows to accelerate delivery and improve system quality.
+* Design, develop, and maintain backend services, ensuring scalable, reliable API interactions with our internal application
+* Collaborate closely with engineers, analysts, and planners to translate domain knowledge into robust, maintainable system logic
+* Contribute to the evolution of the platform toward event-driven patterns using technologies like Kafka
+* Support frontend needs for our internal React application, ensuring seamless integration between FE and BE layers
+* Improve reliability through automated testing, performance tuning, and thoughtful system design
+* Guide as well as learn through pairing, design discussions, and knowledge sharing to help strengthen collective ownership across a strong, team-first environment
+* Participate in shaping the future direction of an advanced system
+* All other duties, as assigned
+
+**Sound a-peeling? Here's what we're looking for**
+
+* Proficiency and production experience with one or more backend languages such as Golang, Python, or Java.
+* Hands-on experience with Docker, Kubernetes, and modern CI/CD practices in production environments.
+* Bachelor’s or Master’s degree in Computer Science, Engineering or related field
+* Hands-on experience building production-grade APIs
+* Solid knowledge and experience with relational databases and comfortable working with data across various data systems (PostgreSQL, Snowflake, S3)
+* Experience with event-driven architecture and messaging technologies (Kafka)
+* Working knowledge of cloud environments, containerization, and orchestration (AWS, Docker, Airflow)
+* Experience contributing to or designing scalable architecture for internal tools or operational platforms
+* Full-stack capability with React or another modern FE framework a plus — enough to support and enhance application
+* Strong communication skills and a proactive, collaborative approach to working with engineers, analysts, planners, and product partners
+* Comfort working through ambiguity and contributing clarity through simple, pragmatic design choices
+* A mindset of continuous learning, knowledge sharing, and improving the systems
+* Hands-on experience working with AI tooling (e.g., Claude Code, Cursor, Copilot) beyond casual experimentation. You use AI agents every day. You have a practical sense of how the context you provide to AI tools shapes output quality, and how to set boundaries on AI-generated work.
+* You take full ownership. You have a bias to ship. You finish the last twenty percent.
+* You have product sense and are opinionated about what should be built and why, and you can back that opinion with data and user evidence.
+
+**Let’s cut to the cheese, this is why you'll love it here**
+
+* Box Discount - Amazing discounts on 1 box per week! 75% discount on weekly HelloFresh and Chefs Plate meal kits AND 50% off weekly Factor meal box.
+* Health & Wellness - Health & Dental benefits from day 1, a Health Spending Account, unlimited access to the Headspace app to meet your self-care needs, and 25% discount on GoodLife fitness memberships!
+* RRSP Matching - Competitive RRSP matching program offered
+* Vacation & PTO - Time off is also an important part of self-care! We offer generous vacation and PTO to help you create a good work-life balance.
+* Family Benefits - A parental leave top-up program for expectant parents.
+* Growth & Development - We support your career progression and invest in your continued learning through experiences and initiatives owned by our dedicated L&D team
+* Work Hard & Have Fun - From team socials to engaging company days, you’ll have plenty of opportunity to experience the fun!
+* Diversity & Inclusion Initiatives - With impactful ERG’s like FreshPride, Women Empowered and LIMES, we are committed to our diversity, equity & inclusion efforts.
+* Food Puns - this one is kind of a big dill if you haven’t already noticed. We even have some punny meeting room names!
+
+**Flexible Hybrid Approach**
+At HelloFresh, we know that flexible work arrangements are essential in enabling you to do your best work, while balancing your personal and life needs. Offering remote work flexibility, along with the opportunity to interact and collaborate in the office are all a part of creating a great employee experience.
+  
+  
+To meet these needs, we are pleased to provide Flexible Hybrid work. Flexible Hybrid is a people-first approach that is based on choice, trust, personalization, and empowers teams to choose when and how often they work from the office and work from home, in addition to team days and company days. This means a minimum of 2 days in office per week, with most teams in office between 2-3 days a week.
+  
+  
+*HelloFresh Canada uses AI-integrated technology to help us process and evaluate applications more efficiently. This includes tools that screen and assess candidate qualifications based on the requirements for this role. While these tools assist our workflow, all final selection decisions are made by our hiring team.*
+*This is a posting for an existing vacancy. We are actively seeking to fill this position.*
+Toronto, ON Pay Range
+  
+  
+$120,000—$150,000 CAD"
 b154ab872aba742f,Senior Data Platform Engineering Specialist,CGI,"Toronto, Ontario, Canada",0,,2026-11-06,"[""linkedin""]",https://www.linkedin.com/jobs/view/4453041564,,48,"Free scorer: your resume shows 4 of 29 listed skills (Python, AWS, Docker, GitHub Actions).","[""Java"", ""Scala"", ""SQL"", ""Bash"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""Databricks"", ""Kafka"", ""Spark"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Machine Learning"", ""MLOps"", ""Azure"", ""GCP"", ""Kubernetes"", ""Terraform"", ""Ansible"", ""CI/CD"", ""GitLab"", ""Security"", ""Networking""]",new,2026-11-08T18:18:08+00:00,2026-11-08T18:18:39+00:00,"[""Python"", ""AWS"", ""Docker"", ""GitHub Actions""]",,senior,li-4453041564,linkedin,"Position Description
   
   
@@ -9572,7 +10113,92 @@ b77d650a6969d652,Senior Data Engineer,Tubi,"Toronto, Ontario, Canada",0,,2026-10
 2a99a04c095a265c,GCP Senior Data Engineer,Querentia,"Toronto, Ontario, Canada",0,,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4480456836,,62,"Free scorer: your resume shows 0 of 1 listed skills (none of them); there's no job description, so this is a rough guess.","[""GCP""]",new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 4c318262694da1c8,Data Engineer – Snowflake / DBT,"Aptino, Inc.","Toronto, Ontario, Canada",0,CAD 45 - 50 /hourly,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478910253,,56,"Free scorer: your resume shows 0 of 2 listed skills (none of them); there's no job description, so this is a rough guess.","[""Snowflake"", ""dbt""]",new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 a9283b6f1bfed5f1,"Senior IFRS 17 Data Engineer / Toronto, ON - (Onsite) FTE",AceStack,"Toronto, Ontario, Canada",0,,2026-10-19,"[""linkedin""]",https://www.linkedin.com/jobs/view/4480231995,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
-717fcb07a79c40e6,"Senior Consultant, Microsoft Fabric Data Engineer, Data & AI",KPMG Canada,"Toronto, Ontario, Canada",0,,2026-10-19,"[""linkedin""]",https://www.linkedin.com/jobs/view/4399263858,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+717fcb07a79c40e6,"Senior Consultant, Microsoft Fabric Data Engineer, Data & AI",KPMG Canada,"Toronto, Ontario, Canada",0,,2026-10-19,"[""linkedin""]",https://www.linkedin.com/jobs/view/4399263858,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**Overview**
+At KPMG in Canada, our people bring their unique perspectives to Canada’s most important challenges. Here, you can build momentum that reaches beyond our business, develop skills for the future, and take ownership of your career with support at every stage. Join a firm where your career can make a difference.
+  
+  
+Are you a talented leader with a proven track record for motivating teams and delivering exceptional client service?
+  
+  
+Our team is looking for a
+**Data Engineer**
+with deep hands-on expertise in
+**Microsoft Fabric**
+and strong consulting capabilities. This role will support and lead data platform modernization initiatives, helping clients migrate from legacy and on‑premise environments to scalable, secure, and unified analytics platforms leveraging Microsoft Fabric, OneLake, and Azure-native services.
+  
+  
+**What You Will Do**
+
+* Partner with clients to understand business goals, gather requirements, and translate them into actionable technical designs and delivery plans using Microsoft Fabric.
+* Work with engagement teams to translate business and analytics requirements into end‑to‑end data strategies, including ingestion, transformation, semantic modeling, and analytics enablement.
+* Contribute to solution architecture design for repeatable, scalable, and cost‑optimized analytics platforms using Microsoft Fabric components.
+* Lead delivery of modern data platforms leveraging Fabric Lakehouse, Data Warehouse, Data Engineering, and Real-Time Analytics workloads.
+* Design and implement data ingestion and transformation pipelines using Fabric Data Factory, notebooks, and Spark.
+* Implement medallion architecture patterns (Bronze, Silver, Gold) using Fabric Lakehouse and OneLake.
+* Develop scalable batch and streaming pipelines using Spark, Eventstreams, and real-time ingestion patterns.
+* Build and optimize semantic models for downstream analytics and reporting in Power BI.
+* Apply CI/CD and engineering best practices including version control, automated deployment, testing, and release management for Fabric workloads.
+* Establish and operationalize governance across Fabric using Microsoft Purview, role-based access control, and data lineage.
+* Support testing, performance tuning, and production releases across Fabric workloads.
+* Proactively contribute to creation of presentation materials and client-facing documentation related to data and analytics initiatives.
+* Provide technical leadership and mentorship to junior team members.
+
+**What You Bring To The Role**
+
+* University degree in computer engineering, computer science, mathematics, data science, or related disciplines.
+* 4+ years of professional experience in Data Engineering, Analytics Engineering, Business Intelligence, or a related field.
+* 2+ years of hands-on experience with Microsoft Fabric or Azure Synapse / Azure Data Engineering services.
+* Strong proficiency in SQL and solid understanding of modern data modeling principles and data warehousing concepts.
+* Proficiency in Python (or similar languages) for data processing, automation, and analytics workflows.
+* Hands-on experience with Spark-based data processing and notebook-driven development.
+* Experience with Fabric Lakehouse, Data Warehouse (SQL Endpoint), OneLake, and semantic modeling.
+* Experience supporting data platform modernization and Azure-based migration initiatives.
+* Experience applying CI/CD practices to data and analytics solutions.
+* Strong understanding of data governance, security, and access control within Microsoft ecosystems.
+* Experience collaborating with cross-functional teams to solve complex data challenges.
+* Familiarity with Power BI and downstream analytics enablement.
+
+**Certifications (Preferred)**
+
+* Microsoft Certified Fabric Analytics Engineer Associate
+* Microsoft Certified Azure Data Engineer Associate
+* Power BI Data Analyst certification
+* Other relevant Microsoft Azure or data engineering certifications
+
+**KPMG Ontario Region Pay Range Information**
+The expected base salary range for this position is $77,000 to $102,000 and may be eligible for bonus awards. The determination of an applicant’s base salary within this range is based on the individual’s location, skills & competencies, and unique qualifications. In addition, KPMG offers a comprehensive and competitive Total Rewards program.
+  
+  
+**KPMG BC Region Pay Range Information**
+The expected base salary range for this position is $73,000 to $100,000 and may be eligible for bonus awards. The determination of an applicant’s base salary within this range is based on the individual’s location, skills & competencies, and unique qualifications. In addition, KPMG offers a comprehensive and competitive Total Rewards program.
+  
+  
+**Providing you with the support you need to be at your best**
+**Our Values, The KPMG Way**
+**Integrity**
+, we do what is right |
+**Excellence**
+, we never stop learning and improving |
+**Courage**
+, we think and act boldly |
+**Together**
+, we respect each other and draw strength from our differences |
+**For Better**
+, we do what matters
+  
+  
+KPMG in Canada is a proud equal opportunities employer and we are committed to creating a respectful, inclusive and barrier-free workplace that allows all of our people to reach their full potential. A diverse workforce is key to our success and we believe in bringing your whole self to work. We welcome all qualified candidates to apply and hope you will choose KPMG in Canada as your employer of choice.
+  
+  
+**Adjustments and accommodations throughout the recruitment process**
+At KPMG, we are committed to fostering an inclusive recruitment process where all candidates can be themselves and excel. We aim to provide a positive experience and are prepared to offer adjustments or accommodations to help you perform at your best. Adjustments (informal requests), such as extra preparation time or the option for micro breaks during interviews, and accommodations (formal requests), such as accessible communication supports or technology aids, are tailored to individual needs and role requirements. You will have an opportunity to request an adjustment or accommodation at any point throughout the recruitment process. If you require support, please contact KPMG’s Employee Relations Service team by calling 1-888-466-4778.
+  
+  
+**AI Usage**
+We embrace the use of artificial intelligence (AI) to enhance the candidate experience and streamline our recruitment processes. AI tools may help with organizing applications or surfacing relevant qualifications. However, no hiring decisions are made using AI. Every hiring decision is made by our hiring managers and recruitment professionals, who are equipped with training that empowers them to use these tools responsibly. AI technologies used in our recruitment process undergo detailed risk assessments, including security and privacy requirements, that align with KPMG’s Trusted AI framework.
+  
+  
+We believe technology should empower human judgment, not replace it. It’s one of the many ways we’re delivering on our vision of being a technology-first, people-driven firm."
 687587c72977d98f,Senior Data Engineer - Remote,Optum,"Eden Prairie, MN, USA",1,,2026-10-19,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481283293,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-20T17:52:36+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 9b6c22c77b136dd0,Senior Software Developer– Python / Node.js,Galent,"Toronto, Ontario, Canada",0,,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478691928,,68,"Free scorer: your resume shows 1 of 2 listed skills (Python); there's no job description, so this is a rough guess.","[""Node.js""]",new,2026-10-20T17:51:08+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
 53ac9e2bcc371e46,Python Developer,Quantum World Technologies Inc.,"Toronto, Ontario, Canada",0,,2026-10-19,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481252487,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-20T17:51:08+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
@@ -11302,7 +11928,74 @@ Depending upon your leveling and location, the compensation for this role averag
   
   
 Cryptocurrencies are the most disruptive change the financial services industry has seen in years. Join us and you'll be able to look back and say you were part of the team that transformed investing."
-7cf94248a07c59dc,Senior Data Engineer,Luxoft,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476782998,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-10T17:44:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+7cf94248a07c59dc,Senior Data Engineer,Luxoft,"Toronto, Ontario, Canada",0,,2026-10-07,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4476782998,https://career.luxoft.com/jobs/senior-data-engineer-29087,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-10T17:44:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"##### **Project description**
+
+We are looking for an experienced Senior Data Engineer to support the onboarding, integration, and operationalization of datasets used by Middle Office functions.
+  
+  
+The role focuses on building scalable, production-grade data pipelines and data products on AWS, enabling reliable data delivery for analytics, reporting, and downstream applications. The successful candidate will own the full lifecycle from source analysis and solution design through implementation, deployment, and operational support.
+  
+The role is for subcontractors.
+
+##### **Responsibilities**
+
+Data Onboarding & Integration: Analyze source systems, onboard new datasets, and design scalable ingestion and transformation pipelines to support Middle Office business needs.
+
+Data Engineering: Develop and maintain production-grade pipelines using AWS services including EMR, Glue, Athena, and S3, leveraging Spark/PySpark and modern data lake technologies.
+
+Workflow Automation: Build and manage orchestration workflows using Airflow or equivalent platforms, including scheduling, monitoring, alerting, and recovery processes.
+
+Data Architecture & Modeling: Design scalable data models, schema structures, partitioning strategies, and data quality controls to ensure reliable and efficient data consumption.
+
+DevOps & Operational Excellence: Implement CI/CD pipelines and infrastructure-as-code practices using Terraform and GitHub Actions, ensuring maintainable and supportable solutions.
+
+Production Support: Troubleshoot data quality, performance, and operational issues while driving long-term reliability improvements.
+
+##### **Skills**
+
+Must have
+
+Strong hands-on experience building and operating AWS-based data platforms and data pipelines.
+
+Advanced expertise with Apache Spark, PySpark, distributed data processing, and performance optimization.
+
+Experience with modern data lake technologies, particularly Apache Hudi and Apache Iceberg.
+
+Strong Python programming and software engineering practices, including testing, code quality, and Git-based development workflows.
+
+Hands-on experience with Apache Airflow or comparable workflow orchestration platforms.
+
+Experience with Terraform, CI/CD pipelines, and infrastructure automation.
+
+Ability to independently translate business requirements into production-ready data solutions.
+
+Nice to have
+
+We are particularly interested in candidates who have experience building data platforms within financial services, asset management, capital markets, or investment management environments. Experience supporting Middle Office, investment operations, risk, or trading-related datasets is highly desirable. Knowledge of data governance, lineage, security, and large-scale production support is also a strong advantage.
+
+##### **Other**
+
+Languages
+
+English: C1 Advanced
+
+Seniority
+
+Senior
+
+  
+
+Toronto, Canada
+
+Req. VR-126001
+
+Data Modeling
+
+BCM Industry
+
+09/11/2026
+
+Req. VR-126001"
 07639ba33357a64f,Backend API Engineer - .NET / SQL Server / Web API / Azure,Cognizant,"Halifax, NS, Canada",1,"CAD 90,000 - 117,500 /yearly",2026-10-09,"[""indeed""]",https://ca.indeed.com/viewjob?jk=f7199ef3e54a8927,https://careers.cognizant.com/global-en/jobs/00070896671/backend-api-engineer-net-sql-server-web-api-azure/,46,"Free scorer: your resume shows 0 of 4 listed skills (none of them); there's no job description, so this is a rough guess.","[""SQL"", "".NET"", ""SQL Server"", ""Azure""]",new,2026-10-10T17:44:02+00:00,2026-10-29T00:46:56+00:00,[],,,,indeed,
 15a981cd4fa9bde5,Backend Developer – Java/Python & AI,Capco,"Toronto, Ontario, Canada",0,,2026-10-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478007087,,68,"Free scorer: your resume shows 1 of 2 listed skills (Python); there's no job description, so this is a rough guess.","[""Java""]",new,2026-10-10T17:42:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
 72bad175fa979ba1,Senior Python Developer,Altis Technology,"Greater Toronto Area, Canada",0,"CAD 135,000 - 155,000 /yearly",2026-10-09,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476860348,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-10T17:42:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
