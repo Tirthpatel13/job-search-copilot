@@ -1,4 +1,243 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+62552b550c083ad7,CRM Data Engineer,AGF Investments,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4437612626,,47,Free scorer: your resume shows 1 of 9 listed skills (Python).,"[""Java"", ""JavaScript"", ""SQL"", ""ETL"", ""Data Modeling"", ""Tableau"", ""Azure"", ""Security""]",new,2026-11-10T20:22:57+00:00,2026-11-10T20:23:28+00:00,"[""Python""]",,mid,li-4437612626,linkedin,"**About AGF Management Limited:**
+Founded in 1957, AGF Management Limited (AGF) is an independent and globally diverse asset management firm. Our companies deliver excellence in investing in the public and private markets through three business lines: AGF Investments, AGF Capital Partners and AGF Private Wealth.
+  
+  
+AGF brings a disciplined approach, focused on incorporating sound, responsible and sustainable corporate practices. The firm’s collective investment expertise, driven by its fundamental, quantitative and alternative investing capabilities, extends globally to a wide range of clients, from financial advisors and their clients to high-net worth and institutional investors including pension plans, corporate plans, sovereign wealth funds, endowments and foundations.
+  
+  
+Headquartered in Toronto, Canada, AGF has investment operations and client servicing teams on the ground in North America and Europe. AGF serves more than 820,000 investors. AGF trades on the Toronto Stock Exchange under the symbol AGF.B.
+  
+  
+**About the Role:**
+We are seeking a hands-on Data Engineer to own both the underlying CRM data foundation and the Data360 platform. The role will design, build, govern, and support scalable data models, integrations, pipelines, Data360 capabilities, and data operations for analytics, segmentation, activation, and AI use cases.
+  
+  
+**Role mandate:**
+Optimize the CRM data foundation, pipelines, and stand up, operate, govern, and evolve Salesforce Data360 as the enterprise customer data platform, increase AI and analytics capabilities across Salesforce user communities.
+  
+  
+**Key Responsibilities:**
+Data Architecture, Integration & Engineering
+  
+  
+
+* Design and modernize Salesforce data models, relationships, standards, lifecycle rules, and platform data flows.
+* Build and maintain integrations across Salesforce, relational databases, flat files, APIs, middleware, and Informatica pipelines.
+* Own transformation logic, large-volume data loads, reconciliation, performance tuning, deduplication, monitoring, and error handling.
+* Assess data quality and technical debt and lead practical improvements to legacy data structures and integrations.
+
+Data360, Customer Data Platform & AI
+  
+  
+
+* Design and implement Data360 solutions that unify CRM, transaction, portfolio, behavioural, and enterprise data into trusted customer profiles.
+* Own Data360’s architecture, configuration, administration, ingestion, identity resolution, harmonization, segmentation, activation, monitoring, optimization, and ongoing evolution.
+* Translate reporting, engagement, analytics, and AI requirements into reusable Customer Data and AI capabilities.
+* Enable Platform AI: Salesforce AI, Tableau Next, and implement other AI-powered use cases as the platform in collaboration with the extended CRM team.
+
+Data Governance & Documentation
+  
+  
+
+* Establish standards for data quality, ownership, stewardship, security, access, lineage, retention, and auditability.
+* Maintain clear, auditable documentation of data models, flows, integration logic, controls, architecture decisions, and operating procedures.
+
+**What you Bring:**
+Core Experience
+  
+  
+
+* 6+ years of hands-on Salesforce experience (Sales Cloud and Service Cloud focus)
+* Strong, hands-on data architecture and engineering experience across schema design, entity relationships, normalization, APIs, middleware, and large data volumes.
+* Hands-on experience defining master data management strategies, and establishing data governance rules within the Salesforce ecosystem
+* Experience with Informatica is preferred; comparable hands on ETL experience with the ability to ramp up quickly is acceptable.
+* Proven ability to ingest multi-source data, build real-time ETL pipelines, map relationships in the data graph, execute identity resolution rules, and generate unified customer profiles
+* Demonstrated experience with Platform administration, relational data modeling, security, and configuration.
+* Platform development experience with Flow Builder, Apex, Lightning Web Components, release management, and DevOps tooling such as Azure DevOps.
+* Programming proficiency in SQL, JavaScript, Python, Java, or a similar language.
+* AI experimentation and a keen ability to learn and apply new AI technologies quickly.
+
+Data360 & Emerging AI Technology
+  
+  
+
+* Strong understanding of identity resolution, profile unification, customer data platforms, segmentation, and activation.
+* Exposure to Salesforce Data360/Data Cloud or a comparable customer data platform is preferred. Deep hands-on Data360 experience is not required where the candidate has strong data architecture, modeling, integration, and data engineering capability.
+* Demonstrated ability to learn and apply emerging Salesforce capabilities; AI, MCP, Plugins, Skills, APIs, TableauNext or other agentic experiences.
+
+Working Style
+  
+  
+
+* Comfortable-owning end-to-end execution and delivery independently, while collaborating with technical, business, analytics, and enterprise data teams; Individual contributor role, no direct reports.
+* Strong documentation discipline and ability to explain architecture decisions and trade-offs clearly.
+
+**Strong Assets**
+
+* Current Salesforce certifications such as Platform Administrator, Data 360 Consultant, Data Architect, Integration Architect, Agentforce Specialist, Platform Developer I/II
+* Experience in financial services or another regulated industry with strict privacy, security, governance, and audit requirements.
+
+**Expected Outcomes**
+
+* A scalable, governed, and well-documented Salesforce data foundation.
+* Modernized data models and integrations that improve quality, trust, performance, and operational efficiency.
+* Data360 implemented, operated, and continuously optimized as the enterprise Customer data platform.
+* Trusted customer profiles and reusable data assets that enable analytics, segmentation, activation, automation, TableauNext and CRM AI capabilities.
+* Increased productivity and efficiency across business teams through expanded data, automation and AI capabilities within the Salesforce ecosystem.
+
+**Compensation:**
+The anticipated compensation range for this role is $100,000 – $122,500 annually, which represents base salary and, where applicable, variable compensation components (e.g., annual bonus, commissions, etc.). Actual compensation will be determined based on many factors such as role location, candidate experience / qualifications, market conditions, and internal equity.
+  
+  
+AGF aims to offer a comprehensive and competitive total rewards package designed to support the success and well-being of our employees, which may include a combination of base salary, variable compensation, benefits, and retirement savings plans.
+  
+  
+No unsolicited agency referrals please.
+  
+  
+AGF is an equal opportunity employer committed to fostering an inclusive and accessible workplace. We welcome and encourage applications from individuals of all backgrounds, including women, Indigenous peoples, racialized persons, persons with disabilities, and members of the 2SLGBTQIA+ community.
+  
+  
+We do not discriminate on the basis of race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or expression, marital status, family status, disability, or any other status protected by applicable legislation.
+  
+  
+We are committed to providing reasonable accommodations for applicants with disabilities throughout the recruitment process. If you require accommodation at any stage of the application or hiring process, please contact us at hr@agf.com so that appropriate arrangements can be made.
+  
+  
+# R11306"
+6ca79db533b0b9c1,SAS / Python Developer,Viva Tech Solutions,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489615689,,75,"Free scorer: your resume shows 3 of 5 listed skills (Python, Git, Linux).","[""SQL"", ""Redshift""]",new,2026-11-10T20:21:00+00:00,2026-11-10T20:23:28+00:00,"[""Python"", ""Git"", ""Linux""]",,mid,li-4489615689,linkedin,"* Analyze business and technical requirements and design scalable Python-based solutions.
+* Interpret and migrate existing SAS programs, datasets, and analytical processes to Python environments.
+* Develop, test, and maintain high-quality Python applications, scripts, and automation solutions.
+* Build and support Unix/Linux-based automation and data-processing pipelines using scripting and CRON scheduling.
+* Work with relational databases, including Netezza and Redshift, and develop efficient SQL-based data processing solutions.
+* Optimize applications for performance, scalability, reliability, and code quality while maintaining documentation and source code using Git/GitHub.
+* Collaborate with business stakeholders, developers, and infrastructure teams to support migration and modernization objectives, targeting migration or retirement of active SAS workloads by December 2027.
+
+Top 3 Required Skills:
+
+* Python / Anaconda and SAS, including SAS-to-Python migration experience
+* SQL and Databases, including Netezza and Redshift
+* Linux/Unix scripting and CRON scheduling"
+eb85f864f33d668c,SAS/Python Developer,Quantum World Technologies Inc.,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489603954,,62,"Free scorer: your resume shows 3 of 8 listed skills (Python, Git, Linux).","[""SQL"", ""Redshift"", ""Machine Learning"", ""Azure"", ""Terraform""]",new,2026-11-10T20:21:00+00:00,2026-11-10T20:23:28+00:00,"[""Python"", ""Git"", ""Linux""]",,mid,li-4489603954,linkedin,"**Required Skills**
+
+* Strong expertise in
+  **Python, Anaconda, and SAS**
+* Hands-on experience with
+  **SAS-to-Python migration**
+* Strong SQL skills with
+  **Netezza**
+  and
+  **Amazon Redshift**
+* Unix/Linux scripting and
+  **CRON**
+  scheduling
+* Git/GitHub version control
+* Experience with
+  **Azure Machine Learning**
+  and
+  **Terraform**
+  (preferred)
+
+**Responsibilities**
+
+* Migrate legacy
+  **SAS**
+  workloads to
+  **Python (Anaconda)**
+  as part of the SAS decommissioning program.
+* Analyze business and technical requirements and design scalable Python solutions.
+* Convert SAS programs, datasets, and analytical workflows into Python applications.
+* Develop, test, and maintain Python scripts, automation, and data-processing solutions.
+* Build and support Unix/Linux automation pipelines using shell scripting and CRON.
+* Develop optimized SQL solutions using
+  **Netezza**
+  and
+  **Redshift**
+  .
+* Optimize application performance, scalability, and code quality.
+* Maintain documentation and source code using
+  **Git/GitHub**
+  .
+* Collaborate with business, infrastructure, and development teams to support migration and modernization initiatives."
+9c95119bb38d7d7b,Python Backend Engineer,Staffingine LLC,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489646200,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-11-10T20:21:00+00:00,2026-11-10T20:23:28+00:00,"[""Python""]",,mid,li-4489646200,linkedin,
+b5c66c93fd7939d0,"Software Engineer II, Back-end, (AI Agents)",Affirm,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4488307303,,69,"Free scorer: your resume shows 3 of 6 listed skills (Python, REST, LLM).","[""Kotlin"", ""React"", ""Vue""]",new,2026-11-10T20:21:00+00:00,2026-11-10T20:23:29+00:00,"[""Python"", ""REST"", ""LLM""]",,mid,li-4488307303,linkedin,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+  
+  
+We're looking for a Software Engineer II to join the Contact Channels engineering team within the Servicing AI Agents Engineering organization. Our team works at the front of the contact funnel to build solutions to answer our customers’ needs where they want help. Our space is constantly evolving as our customers move to new solutions like personal agents and LLM summaries of our public content. The team is taking on big unknowns, so we're looking for someone who wants to take ownership and execute for whatever is necessary.
+  
+  
+What You'll Do
+  
+  
+
+* With the support of your team’s tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work.
+* You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.
+* You will support the operations and availability of your team’s artifacts by creating and monitoring metrics, escalating when needed, and supporting “keep the lights on” & on-call efforts.
+* You will contribute to a sense of community on your team by engaging in growth and development activities such as participation in the interview process.
+
+What We Look For
+  
+  
+
+* You have a total of 1.5+ years of experience as a software engineer.
+* You have experience shipping web apps using declarative UI frameworks like React or Vue.
+* You have experience designing, developing and launching APIs at scale using languages like Python or Kotlin.
+* You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
+* You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+
+Pay Grade - L
+  
+  
+Equity Grade - 5
+  
+  
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+  
+  
+Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).
+  
+  
+CAN base pay range per year: $133,000 - $183,000 CAD
+  
+  
+**Additional Benefits Include**
+
+* Flexible Spending Wallets for tech, food and lifestyle
+* Away Days - wellness days to take off work and recharge
+* Learning & Development programs
+* Parental benefits
+* Employee Resource & Community Groups
+
+Location - Remote Canada
+  
+  
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.
+  
+  
+**Remote-first with flexibility built in**
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+  
+  
+**Benefits Designed For You**
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+  
+  
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help.
+  
+  
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+  
+  
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
 ad03b51096588ba0,"Senior Technical Analyst, Data Engineering and Business Intelligence",Fidelity Canada,"Toronto, Ontario, Canada",0,,2026-11-08,"[""linkedin""]",https://www.linkedin.com/jobs/view/4401665098,,62,"Free scorer: your resume shows 5 of 13 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""Snowflake"", ""Data Modeling"", ""Tableau"", ""Power BI"", ""Agile"", ""Unit Testing"", ""Security""]",new,2026-11-09T22:57:32+00:00,2026-11-09T22:58:02+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Git""]",,senior,li-4401665098,linkedin,"**Job Description**
 **You will be working on a flexible hybrid schedule as part of Fidelity’s dynamic working arrangement.**
 **The work location for this role is 483 Bay Street in Toronto until approximately late 2026, when the work location will change to the new Mississauga office at 3 Robert Speck Parkway.**
@@ -8972,7 +9211,13 @@ Tata Consultancy Services Canada Inc. is committed to meeting the accessibility 
 
 Thank you for your interest in TCS. Candidates that meet the qualifications for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile."
 edfadadc7b9497bb,Senior Data Engineer,Clutch,"Toronto, Ontario, Canada",0,,2026-10-22,"[""linkedin""]",https://www.linkedin.com/jobs/view/4472348463,,57,"Free scorer: your resume shows 6 of 21 listed skills (Python, PostgreSQL, AWS, Docker).","[""TypeScript"", ""SQL"", ""Express"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""Kafka"", ""Airflow"", ""dbt"", ""ELT"", ""Data Modeling"", ""Data Warehouse"", ""Terraform"", ""CI/CD"", ""Datadog""]",new,2026-10-22T17:55:39+00:00,2026-10-29T00:46:54+00:00,"[""Python"", ""PostgreSQL"", ""AWS"", ""Docker"", ""GitHub Actions"", ""Git""]",,,,linkedin,"**About Clutch**
-Clutch is Canada's largest online used car retailer, delivering a seamless, hassle-free car-buying experience to drivers everywhere. Customers can browse hundreds of cars from the comfort of their home, get the right one delivered to their door, and enjoy peace of mind with our 10-Day Money-Back Guarantee. Named one of Canada's Top Growing Companies two years in a row and awarded a spot on LinkedIn's Top Canadian Startups list, we're looking to add curious, hard-working, and driven individuals to our growing team. Headquartered in Toronto, Clutch was founded in 2017. Clutch is backed by world-class investors including Canaan, BrandProject, Real Ventures, D1 Capital, and Upper90. To learn more, visit clutch.ca.
+Clutch is Canada’s largest online used car retailer, delivering a seamless, hassle-free car buying and selling experience to drivers everywhere. Customers can browse hundreds of cars from the comfort of their home, get the right one delivered to their door, and enjoy peace of mind with our 10-Day Money-Back Guarantee… and that’s just the beginning.
+  
+  
+Named one of Canada's top growing Companies two years in a row and also awarded a spot on LinkedIn's Top Canadian Startups list, we're looking to add curious, hard-working, and driven individuals to our growing team.
+  
+  
+Headquartered in Toronto, Clutch was founded in 2017. Clutch is backed by a number of world-class investors, including Canaan, BrandProject, Real Ventures, D1 Capital, and Upper90. To learn more, visit clutch.ca
   
   
 **About The Role**
@@ -10108,7 +10353,107 @@ IT - Technology Services
 26/10/2026"
 8260825256a38765,AI Developer with Python,Quantum World Technologies Inc.,"Toronto, Ontario, Canada",0,,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481757132,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-21T17:57:46+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
 e065eaf15b92bb38,"Senior Full Stack Developer (Python, Vue.js & GCP)",Aequilibrium Software Inc.,"Remote, Canada",1,CAD 52 - 55 /hourly,2026-10-18,"[""indeed""]",https://ca.indeed.com/viewjob?jk=fdb07ade83c94f58,https://aequilibrium.applytojob.com/apply/KwNXPZfIQB/Senior-Full-Stack-Developer-Python-Vuejs-GCP?source=INDE&~,62,"Free scorer: your resume shows 1 of 3 listed skills (Python); there's no job description, so this is a rough guess.","[""Vue"", ""GCP""]",new,2026-10-20T17:53:03+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,indeed,
-30f9df3b56813e8e,Data Engineer – Informatica IDMC & ETL Development,Capco,"Toronto, Ontario, Canada",0,,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481297722,,62,"Free scorer: your resume shows 0 of 1 listed skills (none of them); there's no job description, so this is a rough guess.","[""ETL""]",new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+30f9df3b56813e8e,Data Engineer – Informatica IDMC & ETL Development,Capco,"Toronto, Ontario, Canada",0,,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4481297722,,62,"Free scorer: your resume shows 0 of 1 listed skills (none of them); there's no job description, so this is a rough guess.","[""ETL""]",new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"Build the data pipelines and integration solutions powering the future of financial services.
+  
+  
+The Role
+  
+  
+At Capco, we’re looking for an experienced Data Engineer to join our Technology & Engineering practice in Toronto. You’ll work with leading financial services clients to design, develop and optimize data integration solutions that enable reliable, scalable and efficient data processing.
+  
+  
+With hands-on expertise in Informatica Intelligent Data Management Cloud (IDMC), ETL development and data pipeline engineering, you’ll help organizations modernize their data environments and improve how data is integrated, transformed and delivered across enterprise platforms.
+  
+  
+As part of a collaborative consulting team, you’ll work closely with data architects, engineers and business stakeholders to translate complex data requirements into practical engineering solutions that support business objectives.
+  
+  
+What You’ll Do
+  
+  
+
+* Design, develop and maintain scalable ETL/ELT processes and data pipelines using Informatica IDMC to support enterprise data integration requirements.
+* Build and optimize data transformation workflows, ensuring efficient data processing, reliable integration and consistent data quality across platforms.
+* Develop and enhance data pipelines that extract, transform and load data from multiple sources into cloud-based and enterprise data environments.
+* Collaborate with data architects, business analysts and technology teams to translate business requirements into effective technical designs and engineering solutions.
+* Troubleshoot data integration issues, optimize pipeline performance and implement testing, monitoring and data validation processes to support reliable delivery.
+
+What We’re Looking For
+  
+  
+
+* Relevant experience in Data Engineering, ETL development or data integration, typically gained over 5–6 years, with demonstrated experience delivering enterprise data solutions.
+* Hands-on expertise with Informatica IDMC, including developing, configuring and maintaining data integration workflows and pipelines.
+* Comprehensive understanding of ETL/ELT concepts, data transformation techniques, data mapping and end-to-end data pipeline development.
+* Proficiency in SQL, relational databases and data processing techniques, with experience optimizing queries and managing complex data transformations.
+* Experience working with cross-functional teams to design, implement, test and support reliable, scalable data engineering solutions.
+
+Bonus Points For
+  
+  
+
+* Experience with DevOps practices, including CI/CD pipelines, version control, automated testing and deployment processes.
+* Familiarity with cloud platforms such as AWS, Azure or Google Cloud and their associated data services.
+* Experience with Python, scripting or automation to support data engineering and pipeline orchestration.
+* Understanding of Data Governance, Data Quality and Data Lineage principles within enterprise data environments.
+* Experience delivering data integration solutions within banking, capital markets or other financial services environments.
+
+Why Join Capco
+  
+  
+
+* Deliver high-impact technology solutions for Tier 1 financial institutions.
+* Work in a collaborative, flat, and entrepreneurial consulting culture.
+* Access continuous learning, training, and industry certifications.
+* Be part of a team shaping the future of digital financial services.
+* Help shape the future of digital transformation across FS & Energy.
+
+**Benefits**
+We offer a competitive, people-first benefits package designed to support every aspect of your life:
+  
+  
+
+* Comprehensive Benefits Coverage: 100% company-paid health, life, and disability insurance effective from Day 1 of employment.
+* Retirement Savings Program: Registered Retirement Savings Plan (RRSP) with the option of receiving a matching employer contribution.
+* Virtual Health Care: Company-paid program available to all employees and their dependents/partners.
+* Employee & Family Assistance Program (EFAP): Company-paid support services for employees and their dependents/partners.
+* Parental Leave Top-Up: Enhanced parental leave benefits available from Day 1 of employment.
+* New Parent Gift: A company-sponsored gift to celebrate the arrival of a new child.
+* Wellness Support: Fitness reimbursement benefit to promote health and well-being.
+* Business Coach from Day 1: Personalized one-on-one coaching to support career growth, accelerate development, and help achieve your professional goals at Capco.
+
+Inclusion at Capco
+  
+  
+We’re committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we’ll be happy to help. We value each person’s unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.
+  
+  
+Use of Artificial Intelligence in Talent Acquisition
+  
+  
+At Capco, we use artificial intelligence (AI) tools to support and enhance several parts of talent acquisition. This includes using AI-enabled features within LinkedIn to help source potential candidates, speeding up routine recruitment communications such as emails and creating compelling and brand-aligned job postings that accurately reflect role requirements, and AI-scheduling applications to improve the efficiency of interview coordination.
+  
+  
+AI is used as a support tool only. All hiring decisions are made by talent acquisition and hiring teams.
+  
+  
+Why This Role Is Open
+  
+  
+We are currently hiring for this role due to an existing or newly created vacancy within our organization. This position is open as part of our ongoing business needs, and we are actively reviewing applications to fill this role with a qualified candidate who can make an immediate impact.
+  
+  
+**Pay Transparency**
+The salary range for this position is listed below. Additionally, this position may also be eligible to receive an annual discretionary/variable bonus payment.
+  
+  
+Capco is committed to providing fair and equitable compensation to our people. Our compensation policies and salary ranges are designed to allow our people to progress through the salary range as they demonstrate strong performance and develop in their role over time. The base pay offered to selected candidates will be within the salary range and the placement will vary based upon a variety of factors, including, but not limited to job-related knowledge, skills, experience and internal equity.
+  
+  
+Canada Pay Transparency
+  
+  
+$118,000—$152,000 CAD"
 b77d650a6969d652,Senior Data Engineer,Tubi,"Toronto, Ontario, Canada",0,,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4473036409,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 2a99a04c095a265c,GCP Senior Data Engineer,Querentia,"Toronto, Ontario, Canada",0,,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4480456836,,62,"Free scorer: your resume shows 0 of 1 listed skills (none of them); there's no job description, so this is a rough guess.","[""GCP""]",new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 4c318262694da1c8,Data Engineer – Snowflake / DBT,"Aptino, Inc.","Toronto, Ontario, Canada",0,CAD 45 - 50 /hourly,2026-10-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478910253,,56,"Free scorer: your resume shows 0 of 2 listed skills (none of them); there's no job description, so this is a rough guess.","[""Snowflake"", ""dbt""]",new,2026-10-20T17:53:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
@@ -11701,35 +12046,38 @@ You will grow as a technologist and a leader. You’ll develop deep expertise at
 1ca8a1e5608016ed,Data Engineer,Lyft,"Toronto, Ontario, Canada",0,,2026-10-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4450202250,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
   
   
-The Safety and Customer Care (SCC) team at Lyft manages over 1.7 million monthly human and AI interactions and serves as Lyft's primary direct touchpoint with riders and drivers. We handle critical infrastructure that powers both human associates and AI agents to make riders and drivers feel safe and comfortable while riding or driving with Lyft, transforming every support interaction into a moment of genuine connection.
+Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our riders and drivers.
   
   
-As a Data Engineer on the SCC team, you will have ownership over the data modeling and pipelines that power SCC’s Associate and AI Agent Platform . Your efforts will be critical to the reliability of our pipelines, execution of third party data integrations, accurate reporting of agents performance, and efficiency improvements that can save millions of dollars / year. You will work cross-functionally to bridge Lyft's business goals with data engineering. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel several teams such as Analytics, Data Science, Engineering, and many others.
+As a Software Engineer for Lyft Ads - you will work on one of Lyft’s newest lines of business focused on building the world’s largest transportation media network. We build products that allow brands to engage with our unique audience throughout their transportation journeys and beyond. For this role we are seeking software engineers who are passionate about
+**backend and data engineering**
+. You will join our Ad Infra Engineering team and contribute to building the systems and pipelines powering our ad-serving, measurement and audience platform. We work on technologies that let brands engage with our unique audience throughout their transportation journeys. This role is a great opportunity for an early-career engineer to gain experience working with distributed backend systems and large-scale data workflows, collaborating closely with product, analytics, and data science teams.
   
   
 Responsibilities:
   
   
 
-* Owner of the core data pipeline, responsible for scaling up data processing flow to meet the rapid data growth at Lyft
-* Evolve data model and data schema based on business and engineering needs
-* Implement systems tracking data quality and consistency
-* Develop tools supporting self-service data pipeline management (ETL)
-* SQL and MapReduce job tuning to improve data processing performance
-* Write well-crafted, well-tested, readable, maintainable code
-* Participate in code reviews to ensure code quality and distribute knowledge
-* Collaborate cross-functionally with product, engineering, data science, and marketing teams to understand business problems and align on prioritization and solutions
+* Develop and maintain backend systems that support real-time ad serving, campaign management, and reporting.
+* Design and implement scalable data models to support analytics, targeting, and measurement use cases.
+* Build and maintain data pipelines that handle ingestion, transformation, and distribution of large volumes of advertising data.
+* Work with orchestration frameworks (e.g., Airflow) to schedule and monitor reliable, production-grade data workflows.
+* Collaborate with cross-functional partners to integrate internal and third-party systems via APIs and batch data feeds.
+* Write clean, maintainable, and testable code following best practices (CI/CD, observability, code reviews).
+* Participate in architecture discussions and design reviews with an emphasis on performance and reliability.
+* Learn and grow through mentorship, documentation, and regular team collaboration.
 
 Experience:
   
   
 
-* Bachelor's degree in Computer Science, Engineering, Mathematics, Statistics, or a related field
-* 4+ years of professional experience in data engineering, ideally with large-scale distributed systems.
-* Strong skills in Spark, Python (or similar scripting language), and SQL performance tuning
-* Experience with AWS, Hadoop/S3, Hive, Presto, Airflow, and related tools
-* Solid understanding of ETL processes, workflow orchestration, and data warehousing
-* A collaborative mindset—you’re comfortable working across teams to solve real-world problems
+* BSc/MSc in Computer Engineering, Computer Science, related field or relevant work experience
+* 2+ years of industry experience in backend or data engineering roles
+* Proficiency in at least one backend programming language (e.g., Python, Go, Java)
+* Good understanding of distributed systems, microservices, and database design (SQL and NoSQL).
+* Exposure to orchestration tools (e.g., Airflow, Prefect) and data distribution technologies (e.g., Kafka, Pub/Sub).
+* Experience working with relational and non-relational databases (e.g., PostgreSQL, BigQuery, DynamoDB).
+* Experience with Linux.
 
 **Benefits:**
 
