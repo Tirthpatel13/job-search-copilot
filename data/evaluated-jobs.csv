@@ -1,4 +1,683 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+d551044fe7434cd1,Sr Data Engineer,ML arteka,"Toronto, ON, Canada",0,,2026-11-11,"[""indeed""]",https://ca.indeed.com/viewjob?jk=742bcb1506e8006a,https://mlarteka.catsone.com/careers/57293-General/jobs/16862056-Sr-Data-Engineer/?ref=Indeed,68,"Free scorer: your resume shows 3 of 6 listed skills (Python, AWS, S3).","[""SQL"", ""Airflow"", ""ETL""]",new,2026-11-11T20:07:07+00:00,2026-11-11T20:07:22+00:00,"[""Python"", ""AWS"", ""S3""]",,senior,in-742bcb1506e8006a,indeed,"**Who we are**  
+  
+ML arteka is one of the fastest-growing IT Services and Consulting companies in Canada and serves some of the most iconic brands, including Google, Loblaws, Staples, Telus, Bell, Rogers, CIBC, BMO, CMLS, Fossil, Fitbit and more.  
+  
+Over the last decade, we have achieved 100% client retention and earned more than 20 notable industry recognition. This reflects our reliability in delivering what we promise and the quality we bring to every engagement.  
+  
+Join our growth-driven culture and help us lead, innovate, and simplify. We are looking for a team members who embody our values:
+
+* Empathetic - we listen, we understand, and are considerate of everyone
+* Persevering - we dont give up on challenges or people and go all the way
+* Inclusive - we value everyone and their perspectives
+* Reliable - we deliver what we promise, and more
+* Innovative - we make things better than they were yesterday
+
+**The Role :**
+
+Build the source-to-Silver ingestion layer for a complex data and AI platform transformation at a regulated financial institution. Own the design and delivery of 30+ source connectors across low, medium, and high complexity tiers — file-based, SQL-based, and API-based — on a medallion architecture running on AWS. You are not a pipeline configuration resource. You are an engineer who understands what the data means, where it breaks, and why, and you build connectors that hold up in production under schema drift, late arrivals, and source quality gaps.
+
+**You Will :**
+
+* Design, build, test, and own source connectors from S3 landing to validated Silver records. Each connector covers the full four-component stack: S3 trigger configuration, Bronze layer write (immutable raw copy with provenance metadata), Silver layer transformation (schema enforcement, field mapping, type casting, null and range checks, deduplication, bad record quarantine), and source arrival monitoring feeding the pipeline audit table.
+* Translate source-to-target mapping specifications — provided by the client data analyst team — into connector logic that handles both single-field mappings and multi-field derivations: conditional expressions, arithmetic combinations across multiple source fields, and lookup-based enrichment.
+* Investigate and document source data behavior during the discovery phase: field semantics, undocumented transformations currently embedded in legacy code, frequency and format variability, and data quality gaps that must either be replicated or explicitly flagged in the new platform.
+* Implement bad record handling that quarantines rather than drops — structured failure reasons written to a quarantine prefix with enough context for a business analyst to diagnose the issue without engineering involvement.
+* Build and maintain the source arrival monitoring layer: expected arrival windows per source, SLA breach alerting, missed file notification, and source health dashboard feeding CloudWatch.
+* Work directly with the client's embedded data engineers and data analyst in a co-development model — peer-reviewing their connector code against platform standards, contributing to theirs, and maintaining shared code quality across a jointly owned codebase.
+* Participate in the parallel run: investigate reconciliation breaks traced to the Bronze or Silver layer, distinguish source defects from connector defects, and produce a root cause statement the QA lead can include in the Phase Gate Report.
+* Write and maintain connector unit tests and integration tests as first-class deliverables, not afterthoughts — your connectors are tested before they reach QA, not handed over for testing.
+
+**Who You Are :**
+
+* Strong Python engineering skills — you write production-quality code, not scripts. You know the difference between code that works once and code that holds up under bad data, late files, and schema changes three months into a project.
+* Experienced building data ingestion pipelines on AWS: S3-triggered processing, Glue ETL jobs or equivalent, schema enforcement, and pipeline observability. You have dealt with sources that do not behave the way their documentation says.
+* Familiar with Apache Iceberg table format for Bronze and Silver layers: partition design, schema evolution, and how Iceberg handles late-arriving and out-of-order records.
+* You read a source data dictionary and immediately know which fields will cause problems, which data types will drift, and which business rules embedded in the legacy system are about to become your transformation problem.
+* Comfortable working in co-development settings where the client's engineers own connectors alongside yours — you review their code honestly, accept feedback on yours, and treat the shared codebase as a shared responsibility.
+* Experience with orchestration frameworks (MWAA, Step Functions, Airflow, or Control-M): you understand how your connector fits into the dependency graph and what happens downstream when it fails.
+* Detail-oriented on data provenance — you build Bronze layers that make forensic investigation possible, not just fast processing.
+* Operates effectively in regulated environments where every data movement needs a traceable audit record and every schema change needs a documented rationale.
+
+**What to expect**  
+  
+Besides Competitive Salary and working for one of Canadas Best Managed and Top 50 Technology Companies, you should expect:
+
+* Purposeful Work: autonomy, resources, and time you need to do what matters for our clients and most importantly - you
+* Positive Environment: recognition coupled with a flexible environment that celebrates diversity, inclusivity and encourages everyone to achieve their best
+* Growth & Development: opportunities to grow professionally and personally through mentorship, training, and development programs
+* Transparency & Trust: direction, purpose, mission, and expectations are never a secret; you will always know where you stand as well as where you are going
+* Exclusive Perks: discounts on shopping, the gym, insurance, mobile phone plans, not to mention an office smoothie bar and enough coffee to make you vibrate
+* Meaningful Benefits: life happens. You will get health, dental, vision, disability, travel insurance, and much more all covered by us
+* Unforgettable Events: team bonding, BBQs, office lunches (pizza, always pizza), gala dinners, and any other excuse to have fun
+
+**Inclusion and equal opportunity employment**  
+  
+ML arteka is an equal opportunity employer committed to diversity and inclusion. We are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status, Aboriginal/Native American status, or any other legally-protected factors. Disability-related accommodation during the application process is available upon request.  
+  
+**Are you ready to join the award-winning team and help us accelerate digital transformation?**"
+ef8e6a18076b8c0f,Data Engineer,JD Power,"Remote, Canada",1,"CAD 90,000 - 100,000 /yearly",2026-11-11,"[""indeed""]",https://ca.indeed.com/viewjob?jk=a7d6a1787c81b248,https://jdpa.wd501.myworkdayjobs.com/en-US/JDPower/job/Remote-Canada/Data-Engineer_R-100527,57,"Free scorer: your resume shows 4 of 14 listed skills (Python, LLM, AWS, Git).","[""SQL"", ""Snowflake"", ""BigQuery"", ""dbt"", ""ETL"", ""ELT"", ""Machine Learning"", ""Statistics"", ""GCP"", ""CI/CD""]",new,2026-11-11T20:07:04+00:00,2026-11-11T20:07:23+00:00,"[""Python"", ""LLM"", ""AWS"", ""Git""]",,mid,in-a7d6a1787c81b248,indeed,"**Job Description:**
+
+**Job Title:** Data Engineer
+
+**Location:** Remote | Canada
+
+**Reports to:** Sr. Manager - Data Engineering & Data Science
+
+**Employment Type:** Full-time
+
+This is an existing vacancy
+  
+  
+**About the Role:**
+
+  
+
+JD Power is looking for a data engineer with excellent quantitative and analytical skills to help make our data AI-ready. Our ideal candidates are determined to use their skills to combine multiple data sources together, and to add clear business meaning on top of them, so that both people and AI applications can answer complex client questions around vehicle transactions, incentives, valuations, market readiness, and customer purchase decisions. You’ll work hands on with data on Snowflake to build semantic views, governed metrics, and context layers that power AI assistants and agents, and to improve and maintain existing capabilities.
+
+We make data products that solve problems for the auto industry. Every data engineer will work on projects that go into production and directly impact new and existing products. In this role, your work decides whether our AI products give accurate, traceable answers instead of guesses.
+
+Grow as a data engineer as part of a medium sized team, where data engineering and AI engineering meet. You will build data pipelines, semantic views, and context layers on Snowflake, deploy them in the cloud, and build monitoring & QA suites, including tests for AI answer quality.
+
+The team is an experienced set of creative thinkers who are uncovering new and emerging consumer dynamics in an industry starting to go through rapid disruption. We are moving our key data to Snowflake and making it AI-ready, so our AI assistants and agents can give clients accurate, trusted answers.
+
+We want data engineer candidates who can monitor, improve, and create data processes independently and with an eye toward continuous improvement. We need the capability to leverage the right data sets efficiently from an impressive set of data assets that is unrivaled in this space. We also want someone who is curious about AI, and who knows that AI is only as good as the data and business context behind it.
+
+**In this role, you will:**
+
+* Daily immersion in automotive industry data
+* Build and maintain the business context that makes data AI-ready: business terms, glossaries, metric definitions, rules, and hierarchies for a data domain (e.g., incentives, pricing, sales, dealers), reviewed and approved by business owners
+* Design, build, validate, and publish governed Snowflake semantic views and a versioned metric registry, so every application and AI agent uses one approved definition of each metric
+* Help build canonical “master” data sets where multiple sources of truth exist today (e.g., master vehicle/VIN, master dealer, master incentives)
+* Prepare unstructured content (PDF documents, glossaries, FAQs, data dictionaries) for retrieval with Snowflake Cortex Search, with metadata and source traceability
+* Partner with AI engineers to connect semantic views, metrics, and search services to Cortex Analyst and Cortex Agents
+* Design, troubleshoot, and execute repeatable data pipelines on Snowflake (and on our current Google Cloud/BigQuery platform during the transition), in which you’re finding bottlenecks and ways to become incrementally more efficient. You own the reliability of these pipelines and the quality of the data they produce
+* Collaborate with stakeholders to gather and understand data processing requirements, with consistent proactive demonstration of business acumen and market dynamics
+* Contribute meaningfully to new product development, on top of production, by executing independently to plans (and by influencing the plans themselves) for new features on existing products, and for net-new products or approaches
+* Lead end-to-end data engineering projects, and mentor and guide junior data engineers
+Interdisciplinary work: you’ll interact with multiple teams across the firm to implement solutions and improve processes. This includes Customer Success, Product Management, Product Development, Technology/Architecture, Data Engineering, Data Science, AI Engineering, Data Visualization, etc.  
+
+  
+
+**Required Qualifications:**
+
+* Must have: strong, hands-on proficiency in both Python and SQL. You use both every day to build, test, and debug production data pipelines
+* Must have: proven production experience in designing, building, and running ETL/ELT pipelines that bring together data from multiple sources, with ownership of their robustness and output data quality (e.g., idempotent jobs, monitoring and alerting, automated data quality checks)
+* Software engineering background or experience is a plus: Git and code review, automated testing, CI/CD, and modular, reusable code
+* Hands-on experience with Snowflake is strongly preferred (e.g., Snowpark, Dynamic Tables, role-based access control), and semantic views or Cortex experience is a big plus. Experience with other cloud platforms such as Google Cloud (BigQuery), AWS, or Palantir is also valued
+* Experience building semantic layers or governed metrics (e.g., Snowflake semantic views, dbt Semantic Layer, LookML, AtScale, Cube), with a strong base in dimensional modeling (facts, dimensions, grain)
+* Working knowledge of how AI applications use data: retrieval-augmented generation (RAG), embeddings and vector search, context and prompt design, tool calling, AI agents, and MCP. Hands-on experience building an LLM application is a plus
+* Familiarity with ontologies, knowledge graphs, data catalogs, metadata management, and data governance (e.g., access control, PII handling, lineage)
+* Familiar with AI coding assistants (e.g., Claude Code, Cursor, GitHub Copilot), with hands-on experience using them in daily development work. You know their limits, and you review and test the code they produce before it goes to production
+* Experience resolving data issues in creative and effective ways. Business acumen and gut instincts to know when to say, “This doesn’t seem reasonable.”
+* Independent professional who can take a vision and implement with limited instruction
+* Bachelor’s degree (required), with a background in statistics, machine learning, computer science, finance, engineering, or mathematics preferred
+* An effective cross functional communicator in both written and verbal skills
+* Ability and willingness to learn in a fast-paced environment, with a resilient work ethic
+At least 5 yrs of professional experience with a Bachelor’s degree or 3 yrs with a Graduate degree as a full-time professional (non-academic) experience in data engineering and quantitative analytics, contributing to business impact through data-driven solutions  
+
+**Compensation and Benefits**
+
+This position has a starting salary range of **$90,000 - $100,000 CAD** per year. The range represents what we reasonably and in good faith expect to pay for the role at the time of posting. An employee’s pay within the range is determined by a number of factors, including relevant skills, education, qualifications, experience, performance, business or organizational needs, and geographic location.
+
+Eligible employees may participate in medical, dental, vision, disability, life insurance, retirement savings programs, paid time off, wellness programs, and other company-sponsored benefits. Benefits vary by country and employment status.
+
+  
+  
+
+**Why Join JD Power**
+
+JD Power powers auto-related decisions through proprietary data, advanced analytics, deep industry expertise, and workflows that connect insight to action. Operating across North America, Europe, and Australia, we help customers make better decisions and achieve better outcomes.
+
+As a virtual-first company, we offer flexible work arrangements, opportunities for learning and development, and a culture centered on the Values that guide how we work every day.
+
+* **We power our customers’ success.** Everything we do is focused on helping customers make better decisions and achieve better outcomes.
+
+* **We are innovative, collaborative, and grounded in data.** We combine advanced analytics with human expertise to deliver insight that holds up in the real world.
+
+* **We make things easy.** We turn complexity into clarity so teams can act faster and with confidence.
+
+* **We get it done.** We focus on execution, accountability, and results.
+
+* **We start with trust and prove it every day.** Independence, integrity, and credibility are the foundation of our work.
+
+  
+
+**Equal Opportunity & Accommodations**
+
+JD Power is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.
+
+JD Power is committed to providing reasonable accommodations throughout the recruitment process for individuals with disabilities or other protected needs under applicable local laws. Please contact careers@jdpower.com for accommodation request.
+
+  
+
+**Data Privacy**
+
+JD Power does not disclose your personal data to unauthorized third parties. However, as a global corporation consisting of multiple affiliated companies in various countries, JD Power has international sites and JD Power uses resources located throughout the world. JD Power may from time to time also use third parties to act on JD Power’s behalf. You agree to the fact that to the extent necessary your personal data may be transferred and/or disclosed to any company within JD Power group of companies as well as to third parties acting on JD Power’s behalf, including also transfers to servers and databases outside the country where you provided JD Power with your personal data. Such transfers may include for example transfers and/or disclosures outside the European Economic Area and in the United States of America. If you are a California or United Kingdom resident, additional disclosures about the information we collect and how we use that information
+
+**Applications**
+
+Candidates must be legally authorized to work in the country where employment is offered. JD Power does not provide employment sponsorship for this position.
+
+This position is posted exclusively on https://www.jdpower.com/business/careers and select trusted job boards such as LinkedIn or Indeed. All official communication comes from email addresses ending in @jdpower.com or @jdpa.com. We will never ask for payment, equipment purchases, or upfront fees. We may take additional steps to verify candidate information to protect the integrity of our recruitment process.
+
+To all recruitment agencies: JD Power does not accept unsolicited agency resumes and we are not responsible for any fees related to unsolicited resumes."
+86aaf4595428a0e1,Sr. Market Data Software Engineer,Luxoft,"Remote, Canada",1,,2026-11-11,"[""indeed""]",https://ca.indeed.com/viewjob?jk=9a9ef004ca3c14c9,https://career.luxoft.com/jobs/sr-market-data-software-engineer-29278,69,"Free scorer: your resume shows 3 of 6 listed skills (Python, Git, Linux).","[""C++"", ""CI/CD"", ""Networking""]",new,2026-11-11T20:07:04+00:00,2026-11-11T20:07:23+00:00,"[""Python"", ""Git"", ""Linux""]",,senior,in-9a9ef004ca3c14c9,indeed,"##### **Project description**
+
+The ideal candidate combines strong modern C++ skills with experience in market data protocols, Linux, networking, and performance optimization.
+  
+Responsibilities
+  
+
+* Design, develop, and maintain C++ market data feed handlers for direct exchange feeds and third-party data providers.
+* Build and maintain order books, quote and trade processing, and normalized market data interfaces.
+* Implement sequence tracking, gap detection, recovery, snapshot processing, and feed arbitration.
+* Develop efficient subscription management and data distribution, including conflation and backpressure handling.
+* Optimize latency, throughput, CPU utilization, and memory consumption under peak market conditions.
+* Support trading sessions, exchange calendars, symbol mapping, trading status messages, and corporate action updates.
+* Build tools for packet capture analysis, feed replay, automated testing, and production diagnostics.
+* Monitor data quality, feed health, latency, and recovery performance.
+* Investigate production issues and participate in the team’s production support rotation.
+* Collaborate with OMS/EMS, infrastructure, QA, and client application teams on integration and delivery.
+
+Required Qualifications
+  
+
+* Strong professional experience developing production systems in modern C++.
+* Experience building real-time market data or other high-throughput, latency-sensitive systems.
+* Strong understanding of multithreading, synchronization, memory management, data structures, and algorithms.
+* Experience developing and debugging applications on Linux.
+* Working knowledge of TCP/IP, UDP multicast, socket programming, and binary protocols.
+* Understanding of market data concepts, including quotes, trades, order books, sequencing, and recovery.
+* Experience profiling and diagnosing performance, concurrency, and memory issues.
+* Familiarity with Git, code reviews, automated testing, and CI/CD.
+* Ability to investigate complex issues and communicate clearly across engineering and business teams.
+
+Preferred Qualifications
+  
+
+* Experience with U.S. equities, options, or futures market data.
+* Familiarity with protocols such as Nasdaq ITCH, NYSE Pillar, Cboe PITCH, CME MDP, CTA, or UTP.
+* Experience with lock-free data structures, shared memory, CPU affinity, and cache-aware design.
+* Familiarity with hardware timestamping, PTP, kernel bypass, or specialized network interfaces.
+* Experience supporting redundant feeds, failover, and disaster recovery.
+* Python or shell scripting skills for testing, analysis, and operational tooling.
+* Familiarity with OMS/EMS integration and market data distribution to browser-based trading applications.
+
+##### **Responsibilities**
+
+The ideal candidate combines strong modern C++ skills with experience in market data protocols, Linux, networking, and performance optimization.
+
+Responsibilities
+
+Design, develop, and maintain C++ market data feed handlers for direct exchange feeds and third-party data providers.
+
+Build and maintain order books, quote and trade processing, and normalized market data interfaces.
+
+Implement sequence tracking, gap detection, recovery, snapshot processing, and feed arbitration.
+
+Develop efficient subscription management and data distribution, including conflation and backpressure handling.
+
+Optimize latency, throughput, CPU utilization, and memory consumption under peak market conditions.
+
+Support trading sessions, exchange calendars, symbol mapping, trading status messages, and corporate action updates.
+
+Build tools for packet capture analysis, feed replay, automated testing, and production diagnostics.
+
+Monitor data quality, feed health, latency, and recovery performance.
+
+Investigate production issues and participate in the team’s production support rotation.
+
+Collaborate with OMS/EMS, infrastructure, QA, and client application teams on integration and delivery.
+
+Required Qualifications
+
+Strong professional experience developing production systems in modern C++.
+
+Experience building real-time market data or other high-throughput, latency-sensitive systems.
+
+Strong understanding of multithreading, synchronization, memory management, data structures, and algorithms.
+
+Experience developing and debugging applications on Linux.
+
+Working knowledge of TCP/IP, UDP multicast, socket programming, and binary protocols.
+
+Understanding of market data concepts, including quotes, trades, order books, sequencing, and recovery.
+
+Experience profiling and diagnosing performance, concurrency, and memory issues.
+
+Familiarity with Git, code reviews, automated testing, and CI/CD.
+
+Ability to investigate complex issues and communicate clearly across engineering and business teams.
+
+Preferred Qualifications
+
+Experience with U.S. equities, options, or futures market data.
+
+Familiarity with protocols such as Nasdaq ITCH, NYSE Pillar, Cboe PITCH, CME MDP, CTA, or UTP.
+
+Experience with lock-free data structures, shared memory, CPU affinity, and cache-aware design.
+
+Familiarity with hardware timestamping, PTP, kernel bypass, or specialized network interfaces.
+
+Experience supporting redundant feeds, failover, and disaster recovery.
+
+Python or shell scripting skills for testing, analysis, and operational tooling.
+
+Familiarity with OMS/EMS integration and market data distribution to browser-based trading applications.
+
+##### **Skills**
+
+Must have
+
+The ideal candidate combines strong modern C++ skills with experience in market data protocols, Linux, networking, and performance optimization.
+
+Responsibilities
+
+Design, develop, and maintain C++ market data feed handlers for direct exchange feeds and third-party data providers.
+
+Build and maintain order books, quote and trade processing, and normalized market data interfaces.
+
+Implement sequence tracking, gap detection, recovery, snapshot processing, and feed arbitration.
+
+Develop efficient subscription management and data distribution, including conflation and backpressure handling.
+
+Optimize latency, throughput, CPU utilization, and memory consumption under peak market conditions.
+
+Support trading sessions, exchange calendars, symbol mapping, trading status messages, and corporate action updates.
+
+Build tools for packet capture analysis, feed replay, automated testing, and production diagnostics.
+
+Monitor data quality, feed health, latency, and recovery performance.
+
+Investigate production issues and participate in the team’s production support rotation.
+
+Collaborate with OMS/EMS, infrastructure, QA, and client application teams on integration and delivery.
+
+Required Qualifications
+
+Strong professional experience developing production systems in modern C++.
+
+Experience building real-time market data or other high-throughput, latency-sensitive systems.
+
+Strong understanding of multithreading, synchronization, memory management, data structures, and algorithms.
+
+Experience developing and debugging applications on Linux.
+
+Working knowledge of TCP/IP, UDP multicast, socket programming, and binary protocols.
+
+Understanding of market data concepts, including quotes, trades, order books, sequencing, and recovery.
+
+Experience profiling and diagnosing performance, concurrency, and memory issues.
+
+Familiarity with Git, code reviews, automated testing, and CI/CD.
+
+Ability to investigate complex issues and communicate clearly across engineering and business teams.
+
+Nice to have
+
+Preferred Qualifications
+
+Experience with U.S. equities, options, or futures market data.
+
+Familiarity with protocols such as Nasdaq ITCH, NYSE Pillar, Cboe PITCH, CME MDP, CTA, or UTP.
+
+Experience with lock-free data structures, shared memory, CPU affinity, and cache-aware design.
+
+Familiarity with hardware timestamping, PTP, kernel bypass, or specialized network interfaces.
+
+Experience supporting redundant feeds, failover, and disaster recovery.
+
+Python or shell scripting skills for testing, analysis, and operational tooling.
+
+Familiarity with OMS/EMS integration and market data distribution to browser-based trading applications.
+
+##### **Other**
+
+Languages
+
+English: C1 Advanced
+
+Seniority
+
+Senior
+
+  
+
+Remote Canada, Canada
+
+Req. VR-125945
+
+C/C++
+
+BCM Industry
+
+11/11/2026
+
+Req. VR-125945"
+102db808e9b480d7,Technology - Brokerage Engineering - Senior Data Engineer,Questrade Financial Group,"Toronto, ON, Canada",0,"CAD 120,000 - 143,000 /yearly",2026-11-11,"[""indeed""]",https://ca.indeed.com/viewjob?jk=652471b1b5d9e308,https://jobs.dayforcehcm.com/en-US/qfg/CANDIDATEPORTAL/jobs/18382,49,"Free scorer: your resume shows 3 of 22 listed skills (Python, PostgreSQL, Git).","[""SQL"", ""BigQuery"", ""Databricks"", ""Kafka"", ""Pub/Sub"", ""Spark"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling"", ""MLOps"", ""GCP"", ""Kubernetes"", ""Terraform"", ""CI/CD"", ""Agile"", ""Scrum"", ""Security""]",new,2026-11-11T20:06:55+00:00,2026-11-11T20:07:24+00:00,"[""Python"", ""PostgreSQL"", ""Git""]",,senior,in-652471b1b5d9e308,indeed,"Questrade Financial Group (QFG), through its companies - Questrade, Questbank, Questrade Wealth Management, Community Trust Company, Zolo, and Flexiti, provides securities and foreign currency investment, professionally managed investment portfolios, mortgages, real estate services, financial services and more. We use cutting-edge technology to help Canadians become much more financially successful and secure.
+  
+At QFG, we combine human-centric collaboration with AI-driven innovation to redefine financial services. The ideal candidate will be a catalyst for change, using AI to transform and deliver unparalleled customer experiences and shaping a future where AI empowers our teams to do their best work.
+  
+Join our diverse, inclusive, and hybrid workplace to unleash your creativity and nurture your curiosity without limits. If you share this sense of infinite possibility, come shape your future at QFG.
+  
+  
+What’s in it for you as an employee of QFG?
+  
+
+* Health & wellbeing resources and programs
+* Paid vacation, personal, and sick days for work-life balance
+* Competitive compensation and benefits packages
+* Work-life balance in a hybrid environment with at least 3 days in office
+* Career growth and development opportunities
+* Opportunities to contribute to community causes
+* Work with diverse team members in an inclusive and collaborative environment
+
+This job posting is for an existing vacancy
+  
+  
+We’re looking for our next Senior Data Engineer. Could It Be You?
+  
+As part of the Brokerage Engineering organization, the Senior Data Engineer is accountable for the technical design, development, and operational excellence of scalable data pipelines and modern data platform infrastructure. Operating in a high-velocity, agile delivery model, this role bridges business requirements, core trading and brokerage operations, and downstream analytics to deliver timely, reliable, and audit-compliant data products. By leveraging cloud data warehousing, automated transformations with dbt (Data Build Tool), distributed data processing with Spark on Kubernetes, GCP data services, and Infrastructure as Code, the role enhances platform performance and data self-service capabilities across the brokerage ecosystem.
+  
+  
+Need more details? Keep reading…
+  
+  
+**In this role, responsibilities include but are not limited to:**
+  
+
+* Pipeline Architecture & Engineering: Lead the technical design, development, and optimization of scalable, high-performance batch and real-time streaming data pipelines (ETL/ELT), ensuring robust data ingestion, orchestration, compute efficiency, and timely availability for critical brokerage trading and digital investing platforms.
+* Data Modeling & Transformation with dbt: Architect, implement, and maintain modular, version-controlled data models and transformation workflows using SQL and dbt, establishing robust automated testing, documentation, and data lineage to deliver analytics-ready and audit-compliant data assets.
+* Distributed Data Processing & Spark Orchestration: Build, tune, and scale high-throughput big data processing workloads utilizing Google Cloud Dataproc and Apache Spark running on Kubernetes, optimizing cluster resource allocation, memory management, and job execution for complex brokerage datasets.
+* Infrastructure as Code (IaC) & Cloud Provisioning: Provision, configure, and manage resilient cloud data infrastructure across environments using Terraform, embedding CI/CD automation, security best practices, and cost-effective resource management into all data platform deployments.
+* Data Reliability, Observability & Incident Resolution: Analyze and resolve complex technical problems and production data anomalies across the stack, diagnosing root causes through systematic investigation and implementing durable monitoring, automated alerting, and self-healing solutions to prevent recurrence.
+* Data Governance, Lineage & Regulatory Integrity: Ensure comprehensive data quality, data lineage, role-based access control, and metadata cataloging across all brokerage data pipelines to satisfy strict financial industry governance, auditability, and regulatory reporting standards.
+* Cross-Functional Solution Delivery: Partner closely with Product Managers, Solution Architects, Software Engineers, and Data Science/ML Ops teams to translate complex business requirements and predictive models into robust, production-grade data products and integration workflows.
+* Standards, Quality & Technical Mentorship: Define and enforce coding, testing, and deployment standards across data repositories, conducting thorough code reviews and providing technical guidance and mentorship to junior and intermediate engineers to foster engineering excellence.
+
+So are YOU our next Senior Data Engineer ? You are if you…
+  
+
+* Bachelor’s degree in Computer Science, Software Engineering, Information Systems, or equivalent practical experience.
+* 5+ years of progressive data engineering experience with demonstrated success delivering robust, production-grade data pipelines.
+* Advanced proficiency in SQL and Python for data engineering, automation, and complex data transformations.
+* Hands-on production experience with distributed data processing using Google Cloud Dataproc and/or Apache Spark.
+* Demonstrated hands-on experience running and orchestrating data processing workloads on Kubernetes (containerization, pod scheduling, and resource scaling).
+* Hands-on production experience with cloud data warehousing and orchestration platforms (e.g., Google Cloud Platform services such as BigQuery, Cloud Composer/Airflow, Dataflow, Pub/Sub, or Databricks).
+* Demonstrated working knowledge and hands-on experience using dbt (data build tool) for data modeling, transformation, and automated testing.
+* Demonstrated working knowledge of Infrastructure as Code (IaC) utilizing Terraform to provision, configure, and maintain cloud infrastructure.
+* Strong experience with relational and non-relational database management systems (e.g., MSSQL, PostgreSQL, CloudSQL).
+* Demonstrated experience with modern CI/CD deployment pipelines, automated testing frameworks, and version control (Git).
+
+Additional kudos if you…
+  
+
+* Direct experience within financial services, brokerage technology, trading systems, capital markets, or wealth management data domains.
+* Experience with event-driven or real-time streaming architectures (e.g., Apache Kafka, Google Cloud Pub/Sub).
+* Relevant cloud or engineering certifications (e.g., Google Cloud Certified Professional Data Engineer, Databricks Certified Data Engineer, or Certified Kubernetes Administrator/Application Developer).
+* Experience working within Agile/Scrum or Scaled Agile Framework (SAFe) environments.
+* Practical experience leveraging AI-assisted developer tooling (e.g., Claude, GitHub Copilot, Cursor) to optimize development velocity and code quality.
+
+**Compensation Information:**  
+
+* Base salary range: $120,000 - $143,000
+* The final compensation package will be commensurate with the successful candidate's experience, skills, and geographic location (Canada). It includes a comprehensive benefits plan and a competitive incentive (bonus) program for Full-Time Permanent roles.
+
+Sounds like you? Click below to apply!
+  
+  
+At Questrade Financial Group of Companies, with multiple office locations around the world, we are committed to fostering a diverse, inclusive and accessible work environment. This is an environment where individuals are treated with dignity and respect. Here, the unique skills and experience you bring will be valued. You will be supported and motivated, so that you can harness your unlimited potential. Our team reflects the diversity of the communities we serve and operate in. Having a collaborative and diverse team helps us push boundaries to bring the future of fintech into existence—not only for the benefit of our customers, but for those who build their career with us.
+  
+  
+Questrade Financial Group of companies Applicant Tracking System utilizes artificial intelligence (AI) for application screening. The AI system operates on predetermined criteria, with final decisions subject to human review.
+  
+  
+Candidates selected for an interview will be contacted directly. If you require accommodation during the recruitment/selection process, please let us know and we will work with you to meet your needs."
+f01c4ff8b0368227,"Data Implementation Engineer (Snowflake, Hadoop)",Yochana,"Toronto, Ontario, Canada",0,,2026-11-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489042040,,49,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Databricks"", ""Spark"", ""PySpark"", ""Hadoop"", ""Azure""]",new,2026-11-11T20:06:51+00:00,2026-11-11T20:07:24+00:00,"[""Python""]",,mid,li-4489042040,linkedin,"**Position Name – Data Implementation Engineer**
+
+**Type of hiring – Fulltime/Subcon**
+
+**Location – Toronto, ON (3 days from client office in Ethoca office)**
+
+**Job Description:**
+
+**Skills & Qualifications:**
+
+* 4+ Years of Data Engineering experience
+* Advanced SQL; experience with relational and NoSQL databases
+* Strong experience with Snowflake, Hadoop, Spark, PySpark, Databricks, Azure
+* Proficiency in Python for data engineering
+* Familiarity with orchestration tools and workflow management systems
+
+**Responsibilities:**
+
+* Design, build, and maintain scalable data pipelines using Snowflake, Hadoop, Spark, PySpark, Azure
+* Implement data architectures and optimize workflows for large financial datasets
+* Write high-quality, maintainable Python and SQL code following best practices
+* Integrate data governance, metadata management, and lineage tracking into solutions"
+8f9d25f5692ab4df,Data Implementation Engineer,Yochana,"Toronto, Ontario, Canada",0,,2026-11-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489022966,,49,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Databricks"", ""Spark"", ""PySpark"", ""Hadoop"", ""Azure""]",new,2026-11-11T20:06:51+00:00,2026-11-11T20:07:24+00:00,"[""Python""]",,mid,li-4489022966,linkedin,"**Position Name – Data Implementation Engineer**
+
+**Type of hiring – Fulltime/Subcon**
+
+**Location – Toronto, ON (3 days from client office in Ethoca office)**
+
+**Job Description:**
+
+**Skills & Qualifications:**
+
+* 4+ Years of Data Engineering experience
+* Advanced SQL; experience with relational and NoSQL databases
+* Strong experience with Snowflake, Hadoop, Spark, PySpark, Databricks, Azure
+* Proficiency in Python for data engineering
+* Familiarity with orchestration tools and workflow management systems
+
+**Responsibilities:**
+
+* Design, build, and maintain scalable data pipelines using Snowflake, Hadoop, Spark, PySpark, Azure
+* Implement data architectures and optimize workflows for large financial datasets
+* Write high-quality, maintainable Python and SQL code following best practices
+* Integrate data governance, metadata management, and lineage tracking into solutions"
+dfe7a7cf6d56a43a,Data Engineer,Scotiabank,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4487856152,https://jobs.scotiabank.com/job/Toronto-Data-Engineer-ON-M5H-1H1/607929717/,50,Free scorer: your resume shows 1 of 6 listed skills (Python).,"[""SQL"", ""Spark"", ""Data Modeling"", ""Power BI"", ""Azure""]",new,2026-11-11T20:06:51+00:00,2026-11-11T20:07:24+00:00,"[""Python""]",,mid,li-4487856152,linkedin,"Requisition ID: 277426
+  
+  
+Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture.
+
+  
+
+**The Role**
+
+  
+
+Contributes to the overall success of GFT and Finance Data Platform (FRDP) by designing, building, and owning scalable and reliable data pipelines. Ensures delivery of high-quality data solutions aligned to enterprise standards while supporting regulatory, audit, and operational requirements.
+
+  
+
+**What will we expect from you?**
+
+  
+
+**1. End-to-End Data Pipeline Ownership**
+
+* Design, develop, and own ingestion, transformation, and publishing pipelines across FRDP
+* Build scalable data workflows across structured, semi-structured, and unstructured datasets
+* Ensure pipelines are optimized for performance, scalability, and reliability.
+
+  
+
+**2. Data Modeling & Engineering Design**
+
+* Design data models aligned with business and analytical requirements
+* Develop transformation logic using SQL and distributed processing frameworks such as Spark
+
+  
+
+**3. Data Quality, Governance & Compliance**
+
+* Implement and enforce data quality frameworks and validation rules
+* Ensure compliance with data governance, lineage, audit, and regulatory requirements (e.g., RDARR, SOX)
+* Participate in defining data standards and best practices.
+
+  
+
+**4. Production Reliability & Operational Excellence**
+
+* Own production pipelines and ensure SLA adherence
+* Lead root-cause analysis and resolve production incidents
+* Enhance observability, monitoring, and alerting across pipelines
+
+  
+
+**5. Cross-Team Integration & Delivery**
+
+* Collaborate with upstream and downstream teams to integrate data systems
+* Translate business requirements into scalable technical solutions
+* Support onboarding of complex data sources and consumers.
+
+  
+
+**6. Continuous Improvement & Engineering Practices**
+
+* Drive improvements in pipeline efficiency, maintainability, and reuse
+* Contribute to standardization of frameworks and development practices
+* Mentor junior engineers (Level 6)
+
+  
+
+**What You Will Bring to Succeed**
+
+  
+
+* 3–5 years of experience in data engineering
+* Strong expertise in SQL, data modeling, and data pipeline development
+* Experience working in enterprise-scale data platforms and in Cloud (Google/Azure)
+* Proven experience owning production data pipelines
+
+  
+
+**Technical Skills**
+
+  
+
+* Data Processing: Advanced SQL, Python, Spark
+* Ingestion: NiFi (design and optimization)
+* Storage: Object Storage (partitioning, performance optimization), RDBMS
+* Query Engine: Trino (query optimization, federation)
+* Orchestration: Autosys/Cloud Composer
+* Data Quality: Implementation of DQ frameworks
+* Visualization: Power BI
+
+  
+
+**The Workplace**
+
+  
+
+* We are technology partners who help the business transform how our employees around the world work
+* We have an inclusive and collaborative working environment that encourages creativity, curiosity, and celebrates success!
+* You'll get to work with and learn from diverse industry leaders, who have hailed from top technology companies around the world
+* We foster an environment of innovation and continuous learning
+* We care about our people, allowing them to design how they work to deliver amazing results
+* We offer a competitive total rewards package, including a performance bonus, company matching programs (on pension & profit sharing), and generous vacation
+
+  
+
+Location(s): Canada : Ontario : Toronto
+  
+  
+Scotiabank is a leading bank in the Americas. Guided by our purpose: ""for every future"", we help our customers, their families and their communities achieve success through a broad range of advice, products and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets.
+  
+  
+At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted."
+37d5364d8f06bdc8,Data Engineering Specialist,Nasdaq,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489637982,,52,Free scorer: your resume shows 1 of 5 listed skills (Python).,"[""SQL"", ""Databricks"", ""Spark"", ""PySpark""]",new,2026-11-11T20:06:51+00:00,2026-11-11T20:07:24+00:00,"[""Python""]",,mid,li-4489637982,linkedin,"**Job Description**
+As a Data Engineering Specialist reporting to the Senior Director of Data Engineering, you'll play a critical role in designing, building, and scaling the data infrastructure that powers one of the world's largest data marketplaces — serving hundreds of thousands of professionals across finance, technology, and beyond.
+  
+  
+You'll thrive in this position if you're analytical, detail-oriented, and passionate about data quality and engineering excellence in a fast-paced, high-impact environment.
+  
+  
+Key Responsibilities
+  
+  
+
+* Design, implement, and maintain components of our data platform, with a strong focus on data onboarding and automation.
+* Build and optimize data ingestion pipelines that clean, transform, and load large volumes of structured and unstructured data.
+* Develop automated data processing, transformation, and quality assurance workflows to ensure completeness, accuracy, and reliability.
+* Write and manage distributed data pipelines supporting both real-time and batch processing across cloud environments.
+* Champion a collaborative code review culture that promotes maintainability, best practices, and continuous improvement.
+
+**Required Qualifications**
+
+* Bachelor's degree in Computer Science, Engineering, or equivalent practical experience.
+* 5-7 years of professional experience in software or data engineering.
+* Proficiency in Python (required), with working knowledge of SQL and Spark/PySpark.
+* Hands-on experience with cloud platforms and data tools, including distributed data pipeline development and orchestration.
+* Strong written and verbal communication skills in English, with the ability to document clearly and concisely.
+
+**Preferred Qualifications**
+
+* Experience building and integrating AI tools into data engineering workflows.
+* Data engineering certification (e.g., Databricks Certified Data Engineering Associate or Professional).
+* Prior experience in fintech, capital markets, or a regulated data environment.
+
+**Come as You Are**
+Nasdaq is an equal opportunity employer. We welcome applications from candidates of all backgrounds and identities.
+  
+  
+We are committed to fostering an inclusive workplace where diverse perspectives, experiences, and identities are valued and celebrated.
+  
+  
+We ensure that individuals with disabilities are provided with reasonable accommodation throughout the hiring process.
+  
+  
+**What We Offer**
+We’re proud to offer a competitive rewards package that is meaningful, recognizes the unique needs of our employees and their families and incentivizes employees for their contribution to Nasdaq’s overall success.
+  
+  
+The base pay range for this role is $84,000 - $115,000. In addition to base salary, Nasdaq provides a generous annual bonus/commission (short-term incentive), and equity (long-term incentive), comprehensive benefits, and opportunity for growth. Exact compensation may vary based on several job-related factors that are unique to each candidate, including but not limited to: skill set, experience, education/training, business needs and market demands."
+241400b93f9569db,SAS/Python Developer,Apptoza Inc.,"Toronto, Ontario, Canada",0,,2026-11-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4488255058,,60,"Free scorer: your resume shows 3 of 9 listed skills (Python, Git, Linux).","[""SQL"", ""Redshift"", ""Machine Learning"", ""Azure"", ""Terraform"", ""Unit Testing""]",new,2026-11-11T20:04:57+00:00,2026-11-11T20:07:24+00:00,"[""Python"", ""Git"", ""Linux""]",,mid,li-4488255058,linkedin,"**SAS/Python Developer\***
+
+**Toronto, ON Hybrid (2 days per week in-person at Toronto office preferred)**
+
+Skills: Digital : Python~Digital : Azure Machine Learning (ML)~Digital: Terraform~AI & Gen AI - Products & Tools
+
+Experience Required: 8 Years
+
+Role Description:
+
+* Analyze business and technical requirements and design scalable Python-based solutions.
+* Interpret and migrate existing SAS programs, datasets, and analytical processes to Python environments.
+* Develop, test, and maintain high-quality Python applications, scripts, and automation solutions.
+* Build and support Unix/Linux-based automation and data-processing pipelines using scripting and CRON scheduling.
+* Work with relational databases, including Netezza and Redshift, and develop efficient SQL-based data processing solutions.
+* Optimize applications for performance, scalability, reliability, and code quality while maintaining documentation and source code using Git/GitHub.
+* Collaborate with business stakeholders, developers, and infrastructure teams to support migration and modernization objectives, targeting migration or retirement of active SAS workloads by December 2027.
+
+* Top 3 Required Skills:
+* Python / Anaconda and SAS, including SAS-to-Python migration experience
+* SQL and Databases, including Netezza and Redshift
+* Linux/Unix scripting and CRON scheduling
+
+* Top 3 Preferred Skills:
+* SAS Enterprise Guide and JupyterHub
+* GitHub and GitHub Copilot
+* Unit testing, debugging, code optimization, and automation development
+
+* Education Requirements:
+* Bachelors or Masters in relevant field
+
+Thanks & regards,
+
+**Lakshmi Bhavani ,**
+
+**Apptoza Inc.**
+
+Phone:
+**678-392-3978 Ext 4640**
+
+Phone: 437-291-3224 Ext 1105
+
+Mail id : Lakshmi.bhavani@apptoza.com"
 62552b550c083ad7,CRM Data Engineer,AGF Investments,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4437612626,,47,Free scorer: your resume shows 1 of 9 listed skills (Python).,"[""Java"", ""JavaScript"", ""SQL"", ""ETL"", ""Data Modeling"", ""Tableau"", ""Azure"", ""Security""]",new,2026-11-10T20:22:57+00:00,2026-11-10T20:23:28+00:00,"[""Python""]",,mid,li-4437612626,linkedin,"**About AGF Management Limited:**
 Founded in 1957, AGF Management Limited (AGF) is an independent and globally diverse asset management firm. Our companies deliver excellence in investing in the public and private markets through three business lines: AGF Investments, AGF Capital Partners and AGF Private Wealth.
   
@@ -4873,11 +5552,11 @@ Strong communication skills with the ability to work effectively across engineer
 TekStaff may use artificial intelligence (AI) tools as part of the applicant screening process. However, applications will also be reviewed by a member of our Recruitment team to ensure a fair and thorough assessment."
 a007236e05589643,SAS / Python Developer,Iris Software Inc.,"Greater Toronto Area, Canada",0,,2026-10-30,"[""linkedin""]",https://www.linkedin.com/jobs/view/4484861062,,73,"Free scorer: your resume shows 4 of 7 listed skills (Python, Pandas, Git, Linux).","[""SQL"", ""NumPy"", ""Statistics""]",new,2026-10-31T17:34:10+00:00,2026-10-31T17:36:32+00:00,"[""Python"", ""Pandas"", ""Git"", ""Linux""]",,mid,li-4484861062,linkedin,"**We have Immediate requirement with our Direct Client as SAS / Python Developer @ Toronto ON (Hybrid - 3 Days/Week). if you are interested, Please share your updated resume to nakka.prasad@irissoftware.com**
 
-**Title: SAS / Python Developer - T4 only**
+**Title: SAS / Python Developer - T4 only.**
 
 **Location: Toronto ON (Hybrid - 3 Days/Week)**
 
-**Primary Skills: SAS, Python, Migration**
+**Primary Skills: SAS, Python, Migration.**
 
 **Description:**
 
@@ -4901,7 +5580,7 @@ to join data modernization and migration team. In this role, you will be respons
 * **Required QualificationsEducation:**
   Bachelor’s or master’s degree in computer science, Data Engineering, Statistics, or a related quantitative field.
 * **SAS Experience:**
-  3+ years of hands-on development with Base SAS, SAS Macros, and PROC SQL.
+  3+ years of hands-on development with Base SAS, SAS Macros, and PROC SQL
 * **Python Experience:**
   2+ years of production Python development, with strong proficiency in pandas, data wrangling, and relational SQL.
 * **Environment & Tools:**
@@ -12043,20 +12722,14 @@ You will grow as a technologist and a leader. You’ll develop deep expertise at
 * Experience using coding agents (Cursor, Claude Code, Codex, etc.) is a plus
 * Strong communication skills, both verbal and written, in English and local office language(s)
 * Willingness to travel as required"
-1ca8a1e5608016ed,Data Engineer,Lyft,"Toronto, Ontario, Canada",0,,2026-10-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4450202250,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
-  
-  
+1ca8a1e5608016ed,Data Engineer,Lyft,"Toronto, Ontario, Canada",0,"CAD 108,000 - 135,000 /yearly",2026-10-10,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4450202250,https://grnh.se/se61yntz2us,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+
 Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our riders and drivers.
-  
-  
-As a Software Engineer for Lyft Ads - you will work on one of Lyft’s newest lines of business focused on building the world’s largest transportation media network. We build products that allow brands to engage with our unique audience throughout their transportation journeys and beyond. For this role we are seeking software engineers who are passionate about
-**backend and data engineering**
-. You will join our Ad Infra Engineering team and contribute to building the systems and pipelines powering our ad-serving, measurement and audience platform. We work on technologies that let brands engage with our unique audience throughout their transportation journeys. This role is a great opportunity for an early-career engineer to gain experience working with distributed backend systems and large-scale data workflows, collaborating closely with product, analytics, and data science teams.
-  
-  
-Responsibilities:
-  
-  
+
+As a Software Engineer for Lyft Ads - you will work on one of Lyft's newest lines of business focused on building the world's largest transportation media network. We build products that allow brands to engage with our unique audience throughout their transportation journeys and beyond. For this role we are seeking software engineers who are passionate about **backend and data engineering**. You will join our Ad Infra Engineering team and contribute to building the systems and pipelines powering our ad-serving, measurement and audience platform. We work on technologies that let brands engage with our unique audience throughout their transportation journeys. This role is a great opportunity for an early-career engineer to gain experience working with distributed backend systems and large-scale data workflows, collaborating closely with product, analytics, and data science teams.
+
+**Responsibilities:**
+---------------------
 
 * Develop and maintain backend systems that support real-time ad serving, campaign management, and reporting.
 * Design and implement scalable data models to support analytics, targeting, and measurement use cases.
@@ -12067,9 +12740,8 @@ Responsibilities:
 * Participate in architecture discussions and design reviews with an emphasis on performance and reliability.
 * Learn and grow through mentorship, documentation, and regular team collaboration.
 
-Experience:
-  
-  
+**Experience:**
+---------------
 
 * BSc/MSc in Computer Engineering, Computer Science, related field or relevant work experience
 * 2+ years of industry experience in backend or data engineering roles
@@ -12080,6 +12752,7 @@ Experience:
 * Experience with Linux.
 
 **Benefits:**
+-------------
 
 * Extended health and dental coverage options, along with life insurance and disability benefits
 * Mental health benefits
@@ -12092,17 +12765,13 @@ Experience:
 * Subsidized commuter benefits and Lyft ride credits
 
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
-  
-  
+
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
-  
-  
+
 The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD $135,000, not inclusive of potential equity offering, bonus or benefits. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
-  
-  
+
 Lyft may use artificial intelligence to screen applicants, however, Lyft employees make the ultimate selection and hiring decisions.
-  
-  
+
 This job fills an existing vacancy."
 815b264f6fdac973,Data Engineer II (Restaurant AI CoPilot),OpenTable,"Toronto, Ontario, Canada",0,"CAD 120,000 - 130,000 /yearly",2026-10-10,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4467897996,https://grnh.se/r7e0auix2us,50,"Free scorer: your resume shows 3 of 19 listed skills (Python, AWS, Docker).","[""Java"", ""SQL"", ""Snowflake"", ""Databricks"", ""Kafka"", ""PySpark"", ""Airflow"", ""Machine Learning"", ""NLP"", ""MLOps"", ""A/B Testing"", ""Kubernetes"", ""Helm"", ""Prometheus"", ""Grafana"", ""Agile""]",new,2026-10-11T17:59:03+00:00,2026-10-29T00:46:56+00:00,"[""Python"", ""AWS"", ""Docker""]",,,,linkedin,"This hybrid role requires working in the office two days per week.
   
