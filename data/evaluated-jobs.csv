@@ -1,4 +1,673 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+906035313cf51a7f,Senior Consultant - Risk Data & Technology - Data Engineer,Deloitte,"Toronto, ON, Canada",0,"CAD 84,000 - 126,000 /yearly",2026-11-12,"[""indeed""]",https://ca.indeed.com/viewjob?jk=93f6d41e2d935ad8,https://careers.deloitte.ca/job/Senior-Consultant-Risk-Data-&-Technology-Data-Engineer/135769-en_US,48,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""Databricks"", ""PySpark"", ""ETL"", ""ELT"", ""Machine Learning"", ""MLOps"", ""Azure""]",new,2026-11-12T20:44:57+00:00,2026-11-12T20:45:13+00:00,"[""Python""]",,senior,in-93f6d41e2d935ad8,indeed,"**Job Type:** Permanent  
+**Work Model:** Hybrid  
+**Reference code:** 135769  
+**Primary Location:** Toronto, ON  
+**All Available Locations:** Toronto, ON
+
+  
+
+**Our Purpose**
+
+  
+
+At Deloitte, our Purpose is to make an impact that matters. We exist to inspire and help our people, organizations, communities, and countries to thrive by building a better future. Our work underpins a prosperous society where people can find meaning and opportunity. It builds consumer and business confidence, empowers organizations to find imaginative ways of deploying capital, enables fair, trusted, and functioning social and economic institutions, and allows our friends, families, and communities to enjoy the quality of life that comes with a sustainable future. And as the largest 100% Canadian-owned and operated professional services firm in our country, we are proud to work alongside our clients to make a positive impact for all Canadians.
+
+  
+
+By living our Purpose, we will make an impact that matters.
+
+* Have many careers in one Firm.
+* Enjoy flexible, proactive, and practical benefits that foster a culture of well-being and connectedness.
+* Learn from deep subject matter experts through mentoring and on the job coaching
+
+**-**
+-----
+
+**What will your typical day look like?**
+-----------------------------------------
+
+Our mission is to use data and analytics to deliver value for our clients. Our team understands exactly how dataunderpins a business and how improving management, use and insight from this data improves performance andreduces risk. We also help clients manage the new risks and safely leverage artificial intelligence and machinelearning.
+
+  
+
+For this role, we are seeking Senior Consultants who will help deliver on our ambitious plans to grow our practice.As a Senior Consultant, you will be working collaboratively across the data and analytics domains, helping someof the largest, most interesting organizations in the world imagine, deliver and run the future - transformingcomplex business problems and requirements into practical, implementable solutions.
+
+  
+
+Work with Risk and Regulatory data and technology leaders globally to combine innovative thinking with programand technological execution. Work for a world-class organization that provides an exceptional career experiencewith an inclusive and collaborative team.
+
+Working in our Data and Analytics team offers a dynamic, fast-paced environment, which presents you with theopportunity to continually grow and learn from people with different backgrounds and working styles.
+
+We combine our people's skills and experience, with Deloitte tools and solutions, across four focus capabilityareas across the end-to-end Risk Spectrum.
+
+* Risk Data Strategy & Architecture
+* Risk Data Modelling & Engineering
+* Risk Data Analytics, Reporting & Insights
+* Risk Data Governance & Management
+  
+
+The successful candidate will have responsibility to:
+
+  
+
+* Support our clients to grow responsibly through the use of applied data and analytics.
+* Support the industry leadership in growing our risk analytics business.
+* Support the establishment of a repeatable analytical models and approaches for clients.
+* Work with other Deloitte functions to further the use of data & analytics in go to market activities.
+* Enhance the value of our deliverables and the insights provided by our work.
+* Support in reviews of data and data use for regulatory compliance and process and control effectiveness.
+* Work with existing clients to design and develop programs for data and analytics.
+  
+
+Furthermore, Data and Analytics team is an integral part of Deloitte's risk capabilities, and our OneDeloitte'strategy enables individuals to work with our risk domain specialists in different areas across our core Risk andRegulatory domains.
+
+  
+
+Our advisory domains include, but are not limited to, Financial Risk (Credit, Market, Liquidity) Management, Non-Financial Risk (Operation, Reputation, Strategic Risk) Management, Regulatory Compliance, Financial Crime(Fraud, AML (nice-to-have), Insider) Management, Treasury and Capital Management, IT Risk Control, InternalAudit, Organizational Crisis and Resilience Management, Extended Enterprise Risk Management, Sustainabilityand ESG, as well as Cyber Risk.
+
+**About the team**
+------------------
+
+We are the one of the largest Risk and Regulatory practices in Canada. Our Data and Analytics team is a keycapability within Risk and Regulatory. We are a growing team with initiatives across multiple industries and usecases. We support organizations with all aspects of data and analytics related to risk management. We aim tobring recognized value to each engagement; be it setting up a program to deliver on long term strategic objectivesor solutioning for tactical needs under demanding timelines. We have extensive experience that we draw upondaily and are always looking to the future and innovative solutions and opportunities.
+
+**Enough about us, let’s talk about you**
+-----------------------------------------
+
+In this role, the expected qualifications are:
+
+  
+
+* Exceptional planning, organization, project and people management skills
+* Exceptional communication, presentation, business writing and professional skills, including being able toliaise with both technical and business contacts at our clients.
+* Design and implement end-to-end data pipelines and ETL/ELT workflows using Azure Data Factory orequivalent cloud services and data platforms like Databricks.
+* Knowledge of MLOps, LLMOps, model management and model developement is good to have.
+* Know how to develop and design AI applications on Databricks or cloud platforms.
+* Hands on development experience is important and should be well versed with python/pyspark.
+* 4+ years of experience in Financial Services Industry in consulting or industry capacity.
+* 4+ years of experience in Risk and Regulatory Compliance areas in consulting or industry capacity
+* 4+ years of experience in delivering a broad range of data analytics engagements in areas such as, DataStrategy, Data Architecture, Data Migration, Data Analytics, Data Governance and Data Quality
+* 4+ years of experience in applying Data Analytics, ML/AI and/or other insights approaches to deliver businessvalue
+* 4+ years of experience in working with analytical, visualization and data engineering capabilities
+* 4+ years of experience in working with cloud capabilities is an asset
+* Ability to synthesize large amounts of information to produce clear, concise, and logical presentations andreports
+* Ability to work in a fast paced and demanding environment, both independently and in a team setting
+* Ability to establish priorities and meet challenging deadlines
+* Curiosity and comfortability with ambiguity
+* Undergraduate or Graduate Degree in relevant field; relevant professional qualification is an asset
+* Willingness/flexibility of traveling toclient locations, as required
+* US Regulatory experience is an asset
+
+**Total Rewards**
+-----------------
+
+The salary range for this position is $84,000 - $126,000, and individuals may be eligible to participate in our bonus program. Deloitte is fair and competitive when it comes to the salaries of our people. We regularly benchmark across a variety of positions, industries, sectors, targets, and levels. Our approach is grounded on recognizing people's unique strengths and contributions and rewarding the value that they deliver.
+  
+  
+Our Total Rewards Package extends well beyond traditional compensation and benefit programs and is designed to recognize employee contributions, encourage personal wellness, and support firm growth. Along with a competitive base salary and variable pay opportunities, we offer a wide array of initiatives that differentiate us as a people-first organization. On top of our regular paid vacation days, some examples include: $4,000 per year for mental health support benefits, a $1,300 flexible benefit spending account, firm-wide closures known as ""Deloitte Days"", dedicated days of for learning (known as Development and Innovation Days), flexible work arrangements and a hybrid work structure.
+
+**Our promise to our people: Deloitte is where potential comes to life.**
+
+  
+
+**Be yourself, and more.**
+
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+  
+  
+**You shape how we make impact.**
+
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute.
+  
+  
+**Be the leader you want to be**
+
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+  
+  
+**Have as many careers as you want.**
+
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors.
+  
+  
+**The next step is yours**
+
+  
+
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan, Reconciliation Action Plan and the BlackNorth Initiative.
+
+  
+
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations) or indigenouscareers@deloitte.ca for any questions relating to careers for Indigenous peoples at Deloitte (First Nations, Inuit, Métis).
+
+  
+
+When you apply, we will review your application using Deloitte's Global Talent Standards to ensure a consistent recruitment experience. Our recruitment advisors and hiring teams will utilize human screening combined with AI technology to help identify the skills and qualities that matter most to our business, while safeguarding your privacy and using AI responsibly.
+
+Deloitte Canada has 20 offices with representation across most of the country. We acknowledge that Deloitte offices stand on traditional, treaty, and unceded territories in what is now known as Canada. We recognize that Indigenous Peoples have been the caretakers of this land since time immemorial, nurturing its resources and preserving its natural beauty. We acknowledge this land is still home to many First Nations, Inuit, and Métis Peoples, who continue to maintain their deep connection to the land and its sacred teachings. We humbly acknowledge that we are all Treaty people, and we commit to fostering a relationship of respect, collaboration, and stewardship with Indigenous communities in our shared goal of reconciliation and environmental sustainability."
+07b895d5869a6cdf,Backend Engineer,Kablamo,"Toronto, ON, Canada",0,,2026-11-12,"[""indeed""]",https://ca.indeed.com/viewjob?jk=3a98ffc3f5cdb578,https://jobs.employmenthero.com/application_jobs/bc931ab8-7127-427b-9c39-906c8a92b62e/view?source=INDEED,59,"Free scorer: your resume shows 6 of 18 listed skills (Python, REST, AWS, Lambda).","[""Go"", ""SQL"", ""gRPC"", ""Microservices"", ""MongoDB"", ""Azure"", ""GCP"", ""CI/CD"", ""Serverless"", ""Agile"", ""Unit Testing"", ""Security""]",new,2026-11-12T20:44:51+00:00,2026-11-12T20:45:13+00:00,"[""Python"", ""REST"", ""AWS"", ""Lambda"", ""Docker"", ""Git""]",,mid,in-3a98ffc3f5cdb578,indeed,"**Introduction**
+
+Kablamo is an impact-driven software engineering company (teamkablamo.com). We bring engineering, data, and AI expertise to solve complex problems with the intellectual horsepower to know what works and the care to make sure it actually does. Founded in 2017 in Australia, we've grown quickly across both markets, including the expansion of our team to Canada in 2021.
+
+Our team is growing but we remain small and nimble in Canada - because AI is reshaping what traditional roles look like, the boundaries between roles stay flexible. People pick up what the work needs and have a real voice in how we continue to improve our own work experiences. As a result, we commit time so that everyone has the opportunity to learn and grow significantly in their careers. We call our approach Make with Heart and Mind.
+
+We are looking for a **Back End Engineer** as we expand our impact with new customers. This posting supports the position to start between November 2026 and February 2027.
+
+**The Role**
+
+As an engineer at Kablamo, you will operate at the frontier of technical possibility, pairing genuine curiosity for modern tools with a commitment to high-impact execution. You will construct performant backend APIs and services using scalable architectures, taking pride in exceeding customer expectations with exceptional delivery speed and craftsmanship.
+
+**Responsibilities**
+
+**1. MAKE — Engineering That Delivers**
+
+* Construct, deploy, and refine scalable backend services and APIs using Go, Python, or other modern languages that perform exceptionally in real-world environments.
+* Adhere to established development patterns and engineering practices to deliver robust, thoroughly tested solutions across every stage.
+* Prioritize security throughout the lifecycle by identifying vulnerabilities early and maintaining strict adherence to internal compliance standards.
+
+**2. MIND — Intellectual Horsepower**
+
+* Drive meaningful impact within delivery squads by sharing actionable insights on architectural standards and modern practices.
+* Actively refine technical methodologies by championing innovative tools and streamlining repeatable delivery workflows.
+* Proactively monitor security concerns, partner with leadership to mitigate exposure, and continuously enhance operational safety mechanisms.
+
+**3. HEART — Care Is an Outcome**
+
+* Partner closely with multi-disciplinary peers in Product, Design, QA, and CloudOps to craft seamless technical experiences.
+* Embody company values daily, promoting a supportive environment when interacting with team members and client stakeholders.
+
+**Core Skills and Experience:**
+
+  
+
+* 2-5 years’ experience developing complex backend solutions
+* Production experience with Go Python or any other modern languages
+* Experience developing APIs and back end services (GRPC, REST, Microservices)
+* Experience with testing platforms, unit testing, and end to end testing
+* Agile practices including: Code versioning, CI/CD, Automated quality practices
+* Experience with cloud technologies - AWS, GCP, Azure. etc.
+* Experience with serverless development i.e. AWS Lambda, AWS Fargate, etc.
+* Experience with SQL and NoSQL Databases such as PostgresSQL and MongoDB
+* Solid Knowledge and experience with common code patterns such as OOP and Dependency Injection, experience with Git
+* Interpersonal skills to collaborate within a cross-functional team
+* Experience using AI coding tools (such as Claude Code or Cursor) to help build software from writing clear prompts for multi-file tasks to reviewing and guiding agent-generated output
+
+This list describes the work as we see it today, and we do not expect anyone to match every line. The core of this role is building and testing the APIs, services and databases behind our apps, mostly in Go or Python on the cloud. If you have that core and your experience is close to the rest, please apply, including if you gained your skills outside a traditional career path. Tell us what you bring and where you want to grow.
+
+**Other valuable skills and experience**
+
+* Experience working with external clients
+* Open source
+* Security
+* Front End development
+* AWS certifications
+* Exposure to Docker
+* Exposure to load testing tools
+
+**Career Progression**
+
+* Senior Engineer
+* Technical Lead
+* Principal/Staff Engineer
+
+**Hiring Process**
+
+* 30-min chat with our TA team
+
+* 1-hr Technical interview
+
+* 1-hr Final/Cultural interview
+
+* References
+
+* Offer!
+
+**Why work at Kablamo?**
+
+**Our Culture**
+
+At Kablamo, we live each day with our value statement “Make with Heart and Mind”. We're passionate and brave craftspeople, we love to redefine what's possible, and we seek growth and discovery together.
+
+We believe inclusion, diversity, and equity matter, and we see it as our job to keep working toward a workplace where people from many backgrounds can do their best work. We welcome applications from all qualified people. We are committed to hiring without discrimination on any ground, including race, ancestry, place of origin, color, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, disability, and family status.
+
+**Benefits**
+
+* Kablamo bonus eligibility
+* Flexible work environment with a downtown Toronto office
+* Work abroad for up to 3 weeks per year (some restrictions apply)
+* Career growth (we really do promote from within!)
+* Individual training budget
+* Blogging rewards
+* Paid birthday leave
+* Anniversary bonus
+* Referral bonus
+* Employee Assistance Program
+
+If you need an accommodation at any point in our hiring process, including interviews and assessments, email us at recruiting@teamkablamo.com. We will work with you on what helps, whether the request is big or small, and we keep what you tell us confidential.
+
+### **Company Overview**
+
+Are you interested in joining an impact-driven software engineering company? At Kablamo, we bring engineering, data, and AI expertise to solve complex problems - with the intellectual horsepower to know what works and the care to make sure it actually does. We work with organisations across industries to solve complex problems, from managing environmental risk and advancing genomics research to launching fintech products and delivering media technology solutions at scale. Our teams bring together product, design, engineering and cloud expertise to build technology that genuinely matters."
+79027ab833f05dee,"Senior Software Engineer, Backend (ML Feature Platform)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-11-12,"[""indeed""]",https://ca.indeed.com/viewjob?jk=d29824aebd199c38,https://grnh.se/5g2p830v3us,69,"Free scorer: your resume shows 4 of 8 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Machine Learning"", ""Kubernetes""]",new,2026-11-12T20:44:48+00:00,2026-11-12T20:45:14+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,senior,in-d29824aebd199c38,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+### **About the Engineering team**
+
+The Engineering team builds systems that power Affirm's mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we're enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering.
+
+### **About the team**
+
+ML Feature Platform is one of the two teams that compose the ML Platform at Affirm, the other team being ML Training & Serving Platform. The two platform teams work closely together to create the ML + Data flywheel that empowers Affirm.
+
+ML Feature Platform's mission is to: Grow Affirm's business by building a delightful, self-serve platform for developing and serving data for machine learning and decisioning.
+
+As the feature platform team, we own multiple artifacts that in aggregate own the end-to-end flows for features. This includes:
+
+* Feature creation, exploration, and serving
+* Data storage, availability, and visibility
+* Offline backfilling infrastructure and platform improvements
+
+This scope means your work will have a direct impact on the everyday lives and capabilities for our end users: MLEs, Analysts, and decisioning teams. Additionally as the primary data source for ML and online decisioning, our platform's performance is critical to Affirm's availability and latency goals.
+
+We're looking for engineers who are passionate about ML enablement and believe that platform level improvements can bring snowball effects across the company.
+
+  
+
+### **What you'll do**
+
+* You will be responsible for owning and delivering quarterly goals for your team, leading engineers on your team through ambiguity to solve open-ended problems, and ensuring that everyone is supported throughout delivery.
+* You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.
+* You will proactively identify project, process, technology or business issues, advocate for them, and lead in solving them.
+* You will support the operations and availability of your team's artifacts by creating and monitoring metrics, escalating when needed, and supporting ""keep the lights on"" & on-call efforts.
+* You will foster a culture of quality and ownership on your team by setting or improving code review and design standards for your team, and advocating for them beyond your team through your writing and tech talks.
+* You will help develop talent on your team by providing feedback and guidance, and leading by example.
+
+### **What we look for**
+
+  
+
+* You have 4+ years of experience designing, developing and launching backend systems at scale using languages like Python or Kotlin.
+* You have a track record of developing highly available distributed systems using technologies like AWS, MySQL and Kubernetes.
+* You have experience defining a technical plan for the delivery of a significant feature or system component with an elegant, simple and extensible design. You write high quality code that is easily understood and used by others.
+* You are proficient at making significant changes in a large code base, and have developed a suite of tools and practices that enable you and your team to do so safely.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+
+Base Pay Grade - N
+
+Equity Grade - 6
+
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+
+Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).
+
+CAN base pay range per year: $153,000 - $213,000
+
+**Location - Remote Canada**  
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.
+
+#LI-Remote
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
+76c02bf47250ae66,Data Engineer,Grand Challenges Canada,"Toronto, Ontario, Canada",0,,2026-11-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489049547,,47,Free scorer: your resume shows 1 of 9 listed skills (Python).,"[""SQL"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Power BI"", ""Azure""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python""]",,mid,li-4489049547,linkedin,"Position: Data Engineer
+
+Site: Hybrid: MaRS Discovery Tower + Work from Home
+
+Reports to: Manager, Digital Transformation and IT Operations
+
+Status: Full-time, Permanent
+
+Salary: $77,834/year + benefits
+
+Grand Challenges Canada backs Bold Ideas with Big Impact
+®
+. We are a global innovation platform and one of the world’s leading impact-first investors, working toward a future where innovation helps everyone thrive. With support from the Government of Canada and other partners, we use a Grand Challenges approach to identify, invest in, and help scale bold, locally led solutions that advance health, equity, and resilience in low- and middle-income countries and Canada.
+
+We back bold ideas from seed to scale—combining capital, advisory support, and strategic partnerships to help them grow and succeed. We look for innovations that combine science, social insight, and business strategy—what we call Integrated Innovation
+®
+—to drive real-world change.
+
+We work with innovators to test, refine, and de-risk solutions, positioning them for long-term adoption through public systems, private-sector pathways, or blended models. Our goal: to save and improve lives at scale by turning bold ideas into sustainable solutions. Learn more at www.grandchallenges.ca.
+
+**POSITION OVERVIEW AND KEY RESPONSIBILITIES**
+
+GCC is in the early stages of a digital transformation and needs a hands-on technical expert to turn our unmanaged data into a strategic asset. As a Data Engineer, you'll build and operate GCC's data foundation, turning raw data into trusted, governed, AI-ready data assets. You will be the primary architect of our Microsoft Fabric environment, responsible for cleaning ""dark data,"" establishing automated pipelines, and implementing the data governance required to make us AI-ready.
+
+**Key Responsibilities**
+
+* **Data Ingestion & Unification:**
+  Identify and migrate unmanaged/siloed data (structured and unstructured) into Microsoft Fabric OneLake.
+* **Pipeline Development:**
+  Build and maintain automated ELT/ETL workflows using Data Factory and Spark Notebooks to eliminate manual bottlenecks.
+* **Governance Implementation:**
+  Technically enforce data governance using Microsoft Purview. You will set up sensitivity labels, data lineage, and role-based access controls (RBAC).
+* **Medallion Architecture:**
+  Design and manage the transition of data from Bronze (raw) to Silver (cleaned) to Gold (business-ready) layers.
+* **AI Enablement:**
+  Ensure all datasets feeding into AI models are accurate, deduplicated, and compliant with privacy standards.
+* **Process Improvement:**
+  Partner with business units to map how data flows between core systems and automate manual data movement and preparation.
+
+**Qualifications**
+
+* **Technical Proficiency:**
+  3+ years of experience in Data or Analytics Engineering. AI experience considered a bonus.
+* **Microsoft Ecosystem:**
+  Hands-on experience with Microsoft Fabric (OneLake, Lakehouse, Data Factory, Spark Notebooks), including at least one year of practical Fabric experience.
+* **Azure Data Platform:**
+  Hands-on experience with Azure data platform technologies such as Azure Data Factory, Azure Synapse Analytics, and/or Azure Databricks.
+* **Delivery Experience:**
+  Has designed and delivered at least one lakehouse or medallion-architecture (Bronze/Silver/Gold) implementation end to end.
+* **Languages:**
+  Strong mastery of SQL and Python (PySpark) for data transformation.
+* **Governance Knowledge:**
+  Familiarity with Microsoft Purview or similar data cataloging/governance tools.
+* **Analytical Mindset:**
+  Proven ability to take messy, unstructured data and turn it into clean, structured, reliable datasets.
+* **Synthesizing and sharing:**
+  Excellent verbal and written communications skills
+* Undergraduate degree in a relevant discipline or commensurate work experience
+* Asset: Microsoft certifications such as DP-700 (Fabric Data Engineer), DP-600 (Fabric Analytics Engineer), or DP-203 (Azure Data Engineer).
+* Asset: Familiarity with Power BI semantic models, to support colleagues who build reports and dashboards.
+
+*People from historically excluded communities with lived experiences in relevant thematic areas are encouraged to apply. People with lived experience and/or work experience in the communities or countries we are supporting are especially encouraged to apply.*
+
+*Don’t meet every requirement? Studies have shown that women, people of colour, people from LGBTQ2S+ and disability communities are less likely to apply to jobs when they do not meet every qualification. At Grand Challenges Canada, we are dedicated to building a diverse, inclusive, authentic, and accountable workplace, so if you are excited about this role but your experience does not align perfectly with every qualification in the job description, we encourage you to apply, as you may be the ideal candidate we are looking for.*
+
+**Location and Work Requirements**
+
+* We are currently working in a hybrid model with time in office and working from home. With rare, approved exceptions, GCC staff are to live in or near the Greater Toronto Area (GTA) and available to travel to, and work from the Toronto main office, as business operational needs require. Any expenses related to travel and or relocating to Toronto are the sole responsibility of the employee and will not be reimbursed by GCC.
+* Domestic and international travel may be required.
+* Applicants must be eligible to work in Canada.
+
+**Benefits**
+
+* Health and Dental provided by Sunlife Canada effective on start date.
+* Enrollment in the Healthcare of Ontario (HOOPP) Defined-Benefit Pension Plan
+* Four (4) weeks of paid vacation per calendar year (prorated)
+* Four (4) day work week (with Friday as a flex/off day), excluding weeks with Statutory holiday (program reviewed annually)
+* Access to Employee Assistance Program (EAP), and UHN added value benefits such as fitness, spas and wellbeing, hotels and travel services, and retail discounts.
+* International SOS (ISOS) travel safety and supports around the world.
+* Bring-your-own-device (BYOD) cell phone allowance
+* Professional development allowance
+* New Temporary Work Relocation – work remotely for up to 90 days, almost anywhere in the world.
+
+**Term**
+
+* Start date: As soon as possible
+* Full-time, Permanent
+
+**AI Use in Application Processing**
+
+Please be advised that Grand Challenges Canada may use artificial intelligence tools to assist in the processing and evaluation of applications submitted for this position. These tools may be used to support activities such as résumé screening, candidate assessment, or scheduling, and are used as an aid to, and not a replacement for, human decision-making. All hiring decisions are made by qualified personnel who review AI-assisted outputs before any determination is made regarding a candidate's application. Grand Challenges Canada is committed to ensuring that its use of AI in recruitment is fair, transparent, and free from unlawful discrimination, in accordance with applicable federal and provincial human rights and privacy legislation. If you have questions about how AI is used in our hiring process, or if you require an accommodation at any stage of the recruitment process, please contact GCC’s HR Team at
+hr@grandchallenges.ca
+."
+207aea60822e972f,Data Engineer - Snowflake / Hadoop,Viva Tech Solutions,"Toronto, Ontario, Canada",0,,2026-11-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490301785,,49,Free scorer: your resume shows 1 of 7 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Spark"", ""PySpark"", ""Hadoop"", ""Azure""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python""]",,mid,li-4490301785,linkedin,"* Design, build, and maintain scalable data pipelines using Snowflake, Hadoop, Spark, PySpark, Azure
+* Implement data architectures and optimize workflows for large financial datasets
+* Write high-quality, maintainable Python and SQL code following best practices
+* Integrate data governance, metadata management, and lineage tracking into solutions"
+0c1ac76115105a0b,Senior Data Engineer,73 Strings,"Toronto, Ontario, Canada",0,,2026-11-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489285406,,50,"Free scorer: your resume shows 2 of 12 listed skills (Python, GitHub Actions).","[""SQL"", ""SQL Server"", ""Snowflake"", ""Databricks"", ""Kafka"", ""Spark"", ""Airflow"", ""dbt"", ""Azure"", ""CI/CD""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python"", ""GitHub Actions""]",,senior,li-4489285406,linkedin,"**Overview Of 73 Strings**
+73 Strings is an innovative platform providing comprehensive data extraction, monitoring, and valuation solutions for the private capital industry. The company's AI-powered platform streamlines middle-office processes for alternative investments, enabling seamless data structuring and standardization, monitoring, and fair value estimation aAbout the role
+  
+  
+We are hiring a Senior Data Engineer to build and operate the pipelines, integrations and warehouse that support valuation and monitoring.
+  
+  
+You will own production pipelines from source capture through transformation, reconciliation and client delivery, and put them under GitHub, automated test and CI/CD. The platform currently captures change data from relational systems, processes it on Azure Databricks, and delivers it to Snowflake, Microsoft SQL Server and Databricks. The capture method may change. Copied client pipelines are being replaced by metadata-driven components, with data contracts, quality rules and lineage.
+  
+  
+What you will do
+  
+  
+
+* Help redefine the platform’s architecture across ingestion, processing and delivery, so it’s stable, secure and fast enough to support advanced use cases for the business.
+* Build and operate batch and streaming pipelines from databases, APIs, event streams and semi-structured sources.
+* Implement change data capture and incremental load, including ordering, deletes, replay and slowly changing dimensions.
+* Build medallion datasets and dimensional models, and deliver them to Snowflake, Microsoft SQL Server and Databricks.
+* Apply data contracts, reconciliation and row-level quarantine before publication.
+* Own the GitHub workflow and CI/CD, including tests, review, environment promotion and deployment as code.
+* Investigate production data failures, and turn requirements from product, valuation and client-facing teams into operable pipelines.
+
+**Requirements**
+
+* 10+ years in data engineering on production systems.
+* Snowflake or Databricks as a primary platform, including modelling, performance tuning and cost management.
+* Python and SQL for pipeline development and testing.
+* Change data capture and event processing, including ordering, replay and schema change.
+* Azure, including Databricks, ADLS and private network connectivity.
+* GitHub and CI/CD for data workloads, using GitHub Actions or an equivalent system.
+* Data quality, reconciliation, monitoring and production incident response.
+* Experience building multi-tenant, secure data platforms, including tenant isolation, access control and data protection.
+
+Desirable
+  
+  
+
+* Databricks Lakeflow, Auto CDC, Declarative Automation Bundles and DQX, or the Snowflake equivalents: Dynamic Tables, Streams and Tasks, Snowpark, Snowflake CLI deployments and Data Metric Functions.
+* Debezium, Kafka Connect or Confluent Kafka. This is the current ingestion path. It may be replaced.
+* Apache Airflow, or an equivalent workflow orchestrator.
+* Kafka or Spark Structured Streaming, Apache Iceberg or Delta Sharing, and dbt for analytical models on curated data.
+* Private markets data: valuations, funds, portfolio companies or capital activity.
+* Comfortable working directly with client technical teams, and collaborating across field engineering, product and other stakeholders.t the click of a button. 73 Strings serves clients globally across various strategies, including Private Equity, Growth Equity, Venture Capital, Infrastructure and Private Credit.
+
+Our 2025 $55M Series B, the largest in the industry, was led by Goldman Sachs, with participation from Golub Capital and Hamilton Lane, with continued support from Blackstone, Fidelity International Strategic Ventures and Broadhaven Ventures.
+  
+  
+We cultivate a culture of innovation and collaboration, where your ideas matter. We empower our team members to take initiative, learn continuously, and thrive in a supportive environment."
+8bc6579b29af4f4a,Data Engineer (Implementation),Quantum World Technologies Inc.,"Toronto, Ontario, Canada",0,CAD 48 - 52 /hourly,2026-11-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490344895,,50,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Databricks"", ""Spark"", ""PySpark"", ""Hadoop"", ""Azure""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python""]",,mid,li-4490344895,linkedin,"**Skills & Qualifications:**
+
+* 4+ years of Data Engineering experience
+* Advanced SQL; experience with relational and NoSQL databases
+* Strong experience with Snowflake, Hadoop, Spark, PySpark, Databricks, Azure
+* Proficiency in Python for data engineering
+* Familiarity with orchestration tools and workflow management systems"
+eb07018d2ccde709,Data Engineer – Snowflake & dbt,Axiom Global Technologies,"Toronto, Ontario, Canada",0,,2026-11-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489261653,,49,Free scorer: your resume shows 1 of 7 listed skills (Python).,"[""SQL"", ""Snowflake"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python""]",,mid,li-4489261653,linkedin,"Data Engineer – Snowflake & dbt
+
+**Location:**
+Toronto, Canada (Onsite)
+
+**Experience:**
+5+ Years
+
+**Interview Process:**
+Face-to-Face (F2F) Interview Required
+
+Job Overview
+
+We are seeking an experienced Data Engineer with strong hands-on expertise in
+**Snowflake and dbt**
+to design, develop, and maintain scalable, high-performance data solutions. The ideal candidate will have strong SQL and ETL/ELT skills, with the ability to build reliable data pipelines and collaborate with business and technology teams.
+
+Key Responsibilities & Skills
+
+* Design, develop, and maintain scalable data solutions using Snowflake and dbt.
+  **(Must Have)**
+* Write and optimize complex SQL queries for data extraction, transformation, validation, and performance tuning.
+* Apply strong knowledge of ETL/ELT processes, data integration, and data quality management.
+* Translate business and technical requirements into scalable and reliable data solutions.
+* Ensure data accuracy, consistency, reliability, and performance across data pipelines.
+* Understand end-to-end data architecture, including data ingestion, transformation, storage, governance, and consumption.
+* Work with data modeling, data warehousing, and reporting/analytics ecosystems.
+
+Nice-to-Have Skills
+
+* Python programming experience.
+* Prior experience in the Property & Casualty (P&C) Insurance domain.
+* Exposure to data governance, data modeling, and enterprise data architecture.
+
+**Important:**
+This is a fully onsite position in Toronto, Canada, and candidates must be available for a face-to-face interview."
+a5ae0ffed2af44ff,Senior Data Engineer,Xforia Global Talent  & Technology Solutions,"Toronto, Ontario, Canada",0,,2026-11-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489257533,,64,"Free scorer: your resume shows 4 of 10 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""Bash"", ""Redshift"", ""PySpark"", ""Airflow"", ""Agile""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3""]",,senior,li-4489257533,linkedin,"**1st Round Inperson Interview @Toronto ON**
+
+**Key Technical Skills:**
+
+* **Languages & Scripting:**
+  Python, PySpark, SQL, BASH/Shell
+* **Cloud & Data Stack:**
+  AWS (S3, Redshift, Lambda, EMR, Airflow, Glue)
+* **Domain & Leadership:**
+  Healthcare Insurance domain expertise & team leadership experience
+* **Methodology:**
+  Agile environment
+
+**Core Responsibilities:**
+
+* Lead end-to-end development of large-scale data architecture and pipelines.
+* Provide technical leadership and maintain high data quality standards across environments.
+* Collaborate with Product, Finance, and Business teams to enable predictive & prescriptive analytics."
+98a8b9ab6eb730f9,Data Engineer,Tekshapers,"Toronto, Ontario, Canada",0,,2026-11-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490343888,,64,"Free scorer: your resume shows 4 of 10 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""Bash"", ""Redshift"", ""PySpark"", ""Airflow"", ""Agile""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3""]",,mid,li-4490343888,linkedin,"Job Description
+
+* We are looking for an experienced Data Engineer nwith strong expertise in Python, PySpark, SQL, and AWS cloud services. The ideal candidate will have experience designing and developing large-scale data pipelines, optimizing data workflows, and managing complex data engineering projects. Healthcare insurance domain experience and technical leadership skills are highly preferred.
+* ### Key Responsibilities
+* - Lead the development and implementation of data pipelines and architectures to handle large-scale datasets.
+* - Design, build, and test data architectures aligned with business requirements.
+* - Provide technical leadership on data engineering projects, ensuring best practices and high-quality solutions.
+* - Collaborate with Product, Finance, and other business teams to understand data requirements.
+* - Develop data solutions that support predictive and prescriptive analytics.
+* - Ensure data quality, consistency, and smooth data movement across different environments.
+* - Optimize data workflows and improve overall data processing performance.
+* - Align data architecture with Healthfirst solution architecture.
+* Required Technical Skills
+* - Strong experience in Python Scripting and PySpark for data processing.
+* - Proficiency in \*SQL\* and large-scale data processing.
+* - Hands-on experience with \*\*AWS Cloud Services\*\*, including:
+* - Amazon S3
+* - AWS Redshift
+* - AWS Lambda
+* - Amazon EMR
+* - AWS Glue
+* - Apache Airflow
+* - Expertise in BASH/Shell Scripting.
+* - Strong understanding of data engineering concepts, data pipelines, and data architecture.
+* Domain & Other Requirements
+* - Strong understanding and experience in the \*\*Healthcare Insurance domain\*\*.
+* - Experience leading data engineering teams.
+* - Experience working in Agile environments.
+* - Excellent problem-solving, analytical, and communication skills.
+* - Ability to collaborate effectively with technical and business stakeholders."
+6fab8de5efa0c0e8,Senior Data Engineer,J&M Group,"Toronto, Ontario, Canada",0,,2026-11-11,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490037864,,63,"Free scorer: your resume shows 3 of 8 listed skills (Python, AWS, Git).","[""Spark"", ""PySpark"", ""Airflow"", ""Terraform"", ""CI/CD""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python"", ""AWS"", ""Git""]",,senior,li-4490037864,linkedin,"* Strong hands-on experience building and operating AWS-based data platforms and data pipelines.
+* Advanced expertise with Apache Spark, PySpark, distributed data processing, and performance optimization.
+* Experience with modern data lake technologies, particularly Apache Hudi and Apache Iceberg.
+* Strong Python programming and software engineering practices, including testing, code quality, and Git-based development workflows.
+* Hands-on experience with Apache Airflow or comparable workflow orchestration platforms.
+* Experience with Terraform, CI/CD pipelines, and infrastructure automation.
+* Ability to independently translate business requirements into production-ready data solutions."
+21635cb15313aba8,"Senior Software Engineer, Backend (ML Training and Serving)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-11-12,"[""indeed""]",https://ca.indeed.com/viewjob?jk=c601fb5ab3b7c903,https://grnh.se/yzj18mz33us,69,"Free scorer: your resume shows 4 of 8 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Machine Learning"", ""Kubernetes""]",new,2026-11-12T20:44:42+00:00,2026-11-12T20:45:14+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,senior,in-c601fb5ab3b7c903,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+About the team
+
+Machine Learning is central to how Affirm delivers on its mission, powering decisions across underwriting, fraud, servicing, and personalization. We are seeking a Senior Software Engineer to join our ML Training & Serving engineering team, the team that builds and operates the critical infrastructure that enables models to be trained and served across Affirm.
+
+  
+
+This role sits at the intersection of distributed systems, ML infrastructure, and platform engineering. We value engineers who listen closely, invite feedback, and work effectively across organizational boundaries, while maintaining a high bar for ownership, technical judgment, and execution. Strong candidates care about building reliable shared platforms, improving developer velocity, and creating durable systems that enable teams across the company to move faster with confidence.  
+  
+**What You'll Do**  
+  
+
+* You will be responsible for owning and delivering quarterly goals for your team, leading engineers on your team through ambiguity to solve open-ended problems, and ensuring that everyone is supported throughout delivery.
+* You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.
+* You will proactively identify project, process, technology or business issues, advocate for them, and lead in solving them.
+* You will support the operations and availability of your team's artifacts by creating and monitoring metrics, escalating when needed, and supporting ""keep the lights on"" & on-call efforts.
+* You will foster a culture of quality and ownership on your team by setting or improving code review and design standards for your team, and advocating for them beyond your team through your writing and tech talks.
+* You will help develop talent on your team by providing feedback and guidance, and leading by example.
+
+  
+**What We Look For**  
+  
+
+* You have 4+ years of experience designing, developing and launching backend systems at scale using languages like Python or Kotlin.
+* You have a track record of developing highly available distributed systems using technologies like AWS, MySQL and Kubernetes.
+* You have experience defining a technical plan for the delivery of a significant feature or system component with an elegant, simple and extensible design. You write high quality code that is easily understood and used by others.
+* You are proficient at making significant changes in a large code base, and have developed a suite of tools and practices that enable you and your team to do so safely.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+
+Experience training and deploying models for production is a nice to have.
+
+Base Pay Grade - N
+
+Equity Grade - 6
+
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+
+Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).
+
+CAN base pay range per year: $153,000 - $213,000
+
+**Location - Remote Canada**  
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.
+
+#LI-Remote
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
+65dda14cc4456e22,Python - Software Developer,Axelon Services Corporation,"Toronto, Ontario, Canada",0,USD 75 - 75 /hourly,2026-11-12,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489256404,,59,"Free scorer: your resume shows 5 of 16 listed skills (Python, PostgreSQL, AWS, Linux).","[""SQL"", ""Bash"", ""React"", ""Angular"", ""MongoDB"", ""Kafka"", ""Azure"", ""GCP"", ""Terraform"", ""Agile"", ""Security""]",new,2026-11-12T20:42:44+00:00,2026-11-12T20:45:15+00:00,"[""Python"", ""PostgreSQL"", ""AWS"", ""Linux"", ""Distributed Systems""]",,mid,li-4489256404,linkedin,"**Summary**
+
+* Work Mode: Remote in Canada, needs to work EST hours
+* Duration: 12 Months Contract
+
+**Responsibilities**
+
+* Design, develop, and enhance high-quality software solutions supporting cybersecurity platforms.
+* Re-architect and modernize core components using contemporary architectures focused on availability, resiliency, and scalability.
+* Contribute to the delivery of initiatives aligned to the Cyber Security product portfolio roadmap.
+* Partner with global stakeholders and engineering teams to gather requirements and communicate technical solutions.
+* Analyze complex technical requirements and support architectural decision-making.
+* Operate effectively in a fast-paced environment, managing priorities and delivering under pressure.
+* Communicate technical considerations, risks, and recommendations clearly to stakeholders.
+* Support agile delivery practices and collaboration across engineering teams.
+
+**Requirements**
+
+* Minimum 6 years of relevant software development experience.
+* Strong proficiency in Python with hands-on development experience.
+* Strong application design skills and object-oriented programming fundamentals.
+* Experience with domain, event, and message-driven architectures and RESTful services.
+* Hands-on experience with distributed systems and messaging technologies (e.g., Apache Kafka).
+* At least 1 year of hands-on experience with a major cloud service provider (AWS, Azure, or GCP).
+* Experience using Infrastructure as Code (IaC) tools such as Terraform.
+* Strong analytical and problem-solving skills with knowledge of data structures and algorithms.
+* Proficiency in complex SQL and experience with relational databases (e.g., PostgreSQL, MSSQL).
+* Experience with NoSQL databases (e.g., MongoDB).
+* Strong written and verbal communication skills.
+
+**Preferred Skills**
+
+* Experience with Cloud Security Posture Management (CSPM) tools (e.g., Wiz, Prisma Cloud, Check Point CloudGuard).
+* Experience with cloud-native security and governance tooling (e.g., Azure Policy, AWS SCP/RCP, GCP Constraints).
+* Scripting experience (Bash and/or PowerShell) and familiarity with Linux and Windows platforms.
+* Experience with web technologies (e.g., Angular, React) or equivalent frameworks.
+
+This role is for an existing vacancy."
 d551044fe7434cd1,Sr Data Engineer,ML arteka,"Toronto, ON, Canada",0,,2026-11-11,"[""indeed""]",https://ca.indeed.com/viewjob?jk=742bcb1506e8006a,https://mlarteka.catsone.com/careers/57293-General/jobs/16862056-Sr-Data-Engineer/?ref=Indeed,68,"Free scorer: your resume shows 3 of 6 listed skills (Python, AWS, S3).","[""SQL"", ""Airflow"", ""ETL""]",new,2026-11-11T20:07:07+00:00,2026-11-11T20:07:22+00:00,"[""Python"", ""AWS"", ""S3""]",,senior,in-742bcb1506e8006a,indeed,"**Who we are**  
   
 ML arteka is one of the fastest-growing IT Services and Consulting companies in Canada and serves some of the most iconic brands, including Google, Loblaws, Staples, Telus, Bell, Rogers, CIBC, BMO, CMLS, Fossil, Fitbit and more.  
