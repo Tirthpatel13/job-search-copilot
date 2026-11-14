@@ -1,4 +1,323 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+8355a6c56dfdafd5,Senior Data Engineer,NTT DATA,"Toronto, ON, Canada",0,"CAD 88,528 - 110,660 /yearly",2026-11-13,"[""indeed""]",https://ca.indeed.com/viewjob?jk=66fe03f4caa303d6,https://careers.nttdata.com/global/en/job/397702,58,"Free scorer: your resume shows 5 of 16 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""Redshift"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-14T18:43:48+00:00,2026-11-14T18:44:03+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Git""]",,senior,in-66fe03f4caa303d6,indeed,"**Req ID:** 397702
+  
+  
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+  
+  
+We are currently seeking a Senior Data Engineer to join our team in Toronto, Ontario (CA-ON), Canada (CA).
+  
+  
+Seeking a Senior Data Engineer with strong hands-on expertise in Databricks, Azure data services, Python/PySpark and SQL.
+  
+  
+Day to Day/ Job Function
+  
+  
+The role will be responsible for designing, building and optimizing scalable enterprise data solutions, including data ingestion, transformation, integration and lakehouse pipelines.
+  
+  
+Requires a strong hands-on engineer who can work independently, collaborate with architects and business teams, and deliver in a fast-paced environment.
+  
+  
+**Required Qualifications:**  
+
+* 10+ years Senior-level experience in data engineering and enterprise data platforms.
+* 10+ years Experience working with high-volume enterprise datasets and performance tuning/optimization.
+* 10+ years Experience with Git, Azure DevOps/GitHub and CI/CD practices for data engineering.
+* 8+ years Strong hands-on experience with Databricks, Apache Spark/PySpark, Python and SQL.
+* 8+ years Experience with Azure Data Lake Storage (ADLS), Azure Data Factory and related Azure data services
+
+Preferred Qualifications
+  
+
+* Knowledge of data security, governance, RBAC, encryption and data lineage.
+* Strong knowledge of Delta Lake, Unity Catalog and Databricks Workflows.
+* Strong understanding of ETL/ELT, data modeling, data integration and data quality concepts.
+* Knowledge of data security, governance, RBAC, encryption and data lineage.
+* AWS data engineering experience, including services such as S3, Glue, Lambda or Redshift, is a plus.
+* Strong communication, problem-solving and documentation skills, with the ability to operate independently with minimal guidance
+
+**Education:**  
+Bachelor's degree in Computer Science or equivalent real-world experience
+  
+  
+NTT DATA provides a reasonable range of compensation for Canada-based positions. The starting pay range for this role is $88,528.00 to $110,660.00. This range reflects the minimum and maximum target compensation for the position across all Canada locations. Actual compensation will depend on a number of factors, including the candidate’s actual work location, relevant experience, technical skills, and other qualifications. This position may also be eligible for incentive compensation based on individual and/or company performance. If the position offered is temporary, the position will not be eligible for incentive compensation. This position is eligible for the Company’s comprehensive benefits program in Canada, including customizable health and dental coverage with telemedicine, wellness credits, and gym discounts. Employees receive income protection through life, disability, and optional insurance plans, plus access to a 24/7 Employee Assistance Program. Additional perks include retirement savings, a remote work allowance for eligible employees, and various discounts and travel insurance.
+  
+  
+#LI-NorthAmerica
+  
+  
+About NTT DATA
+  
+  
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in RD.
+  
+  
+Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
+  
+  
+NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here."
+4c0b1ed2a95c3954,Senior Data Engineer,NTT DATA North America,"Toronto, Ontario, Canada",0,,2026-11-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490785740,,58,"Free scorer: your resume shows 5 of 16 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""Redshift"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-14T18:43:32+00:00,2026-11-14T18:44:03+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Git""]",,senior,li-4490785740,linkedin,"**Req ID:**
+397702
+  
+  
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+  
+  
+We are currently seeking a
+**Senior Data Engineer**
+to join our team in Toronto, Ontario (CA-ON), Canada (CA).
+  
+  
+Seeking a
+**Senior Data Engineer**
+with strong hands-on expertise in Databricks, Azure data services, Python/PySpark and SQL.
+  
+  
+**Day to Day/ Job Function**
+The role will be responsible for designing, building and optimizing scalable enterprise data solutions, including data ingestion, transformation, integration and lakehouse pipelines.
+  
+  
+Requires a strong hands-on engineer who can work independently, collaborate with architects and business teams, and deliver in a fast-paced environment.
+  
+  
+**Required Qualifications:**
+
+* 10+ years Senior-level experience in data engineering and enterprise data platforms.
+* 10+ years Experience working with high-volume enterprise datasets and performance tuning/optimization.
+* 10+ years Experience with Git, Azure DevOps/GitHub and CI/CD practices for data engineering.
+* 8+ years Strong hands-on experience with Databricks, Apache Spark/PySpark, Python and SQL.
+* 8+ years Experience with Azure Data Lake Storage (ADLS), Azure Data Factory and related Azure data services
+
+**Preferred Qualifications**
+
+* Knowledge of data security, governance, RBAC, encryption and data lineage.
+* Strong knowledge of Delta Lake, Unity Catalog and Databricks Workflows.
+* Strong understanding of ETL/ELT, data modeling, data integration and data quality concepts.
+* Knowledge of data security, governance, RBAC, encryption and data lineage.
+* AWS data engineering experience, including services such as S3, Glue, Lambda or Redshift, is a plus.
+* Strong communication, problem-solving and documentation skills, with the ability to operate independently with minimal guidance
+
+**Education:**
+Bachelor's degree in Computer Science or equivalent real-world experience
+  
+  
+NTT DATA provides a reasonable range of compensation for Canada-based positions. The starting pay range for this role is $88,528.00 to $110,660.00. This range reflects the minimum and maximum target compensation for the position across all Canada locations. Actual compensation will depend on a number of factors, including the candidate’s actual work location, relevant experience, technical skills, and other qualifications. This position may also be eligible for incentive compensation based on individual and/or company performance. If the position offered is temporary, the position will not be eligible for incentive compensation. This position is eligible for the Company’s comprehensive benefits program in Canada, including customizable health and dental coverage with telemedicine, wellness credits, and gym discounts. Employees receive income protection through life, disability, and optional insurance plans, plus access to a 24/7 Employee Assistance Program. Additional perks include retirement savings, a remote work allowance for eligible employees, and various discounts and travel insurance.
+  
+  
+**About NTT DATA**
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&D.
+  
+  
+Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
+  
+  
+***NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us.***
+***This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.***"
+cac30955891a53b9,Full Stack Data Engineer,Manulife,"Toronto, Ontario, Canada",0,"CAD 86,100 - 136,100 /yearly",2026-11-13,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4489828739,https://careers.manulife.com/global/en/job/JR26110170/Full-Stack-Data-Engineer,52,"Free scorer: your resume shows 3 of 15 listed skills (Python, REST, Git).","[""SQL"", ""HTML"", ""Databricks"", ""Kafka"", ""Spark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Tableau"", ""Power BI"", ""Azure"", ""CI/CD""]",new,2026-11-14T18:43:32+00:00,2026-11-14T18:44:04+00:00,"[""Python"", ""REST"", ""Git""]",,mid,li-4489828739,linkedin,"**Description**
+---------------
+
+Manulife / John Hancock is seeking a highly skilled Full-Stack Data Engineer, Modernization & Migration to join our Insurance Licensing & Compensation Engineering team.
+
+The successful candidate will play a key role in themigration of legacy licensing & compensation capabilities to vendor Platform & Data Lake.
+
+  
+  
+
+This role will focus on analyzing and transforming complex legacy data, building scalable ETL/ELT pipelines, supporting data conversion and reconciliation, and developing the reports, extracts, and downstream feeds required to enable the future-state platform.
+
+  
+  
+
+The ideal candidate combines strong SQL, Informatica/ADF/Data Bricks, data warehousing, data modeling, ETL, reporting, and data analysis skills with the ability to understand complex business rules and data relationships across legacy and modern platforms.
+
+  
+  
+
+**Position Responsibilities:**
+
+* Analyze data structures, relationships, transformations, and business rules across multiple legacy systems, and related upstream and downstream platforms.
+* Design and develop ETL/ELT pipelines using Informatica, Azure Data Factory (ADF), SQL, or Databricks to support data conversion, integration, and downstream delivery.
+* Support the migration and conversion of data into the target compensation platform and the Data Lake.
+* Perform source-to-target mapping, data profiling, cleansing, transformation, validation, and reconciliation throughout the migration lifecycle.
+* Design and maintain 3NF, dimensional, and analytical data models supporting business processing, reporting, reconciliation, and downstream consumption.
+* Build automated data extracts, interfaces, and feeds for Finance, Distribution, Operations, Treasury, and other enterprise consumers.
+* Develop operational, reconciliation, and analytical reporting using tools such as Power BI, Tableau, Cognos, SSRS, or Crystal Reports.
+* Develop automated controls to validate record counts, financial totals, balances, results, and source-to-target completeness.
+* Partner with business analysts, engineers, architects, and Operations to translate legacy data structures and processing requirements into future-state solutions.
+* Investigate complex data issues across source systems, transformation layers, target vendor platform, and downstream consumers and support root-cause analysis and remediation.
+* Build and maintain scheduling, monitoring, alerting, restart, and exception-handling capabilities for production data pipelines.
+* Maintain clear data lineage, mappings, transformation rules, technical specifications, and reconciliation evidence to support auditability and production readiness.
+* Contribute to migration planning, test-data preparation, conversion rehearsals, parallel validation, cutover, and post-production stabilization.
+  
+
+  
+
+**Required Qualifications:**
+
+* Bachelor’s degree in Computer Science, Software Engineering, Data Engineering, or a related field, or equivalent professional experience.
+* 4+ years of experience in data engineering, ETL development, data migration, Cloud data engineering.
+* Advanced SQL skills with experience analyzing and transforming large and complex datasets.
+* Strong hands-on experience with Informatica, Azure Data Factory (ADF), Data Bricks or comparable ETL/ELT platforms.
+* Strong working knowledge of data warehousing, 3NF, Medallion Architecture, dimensional modeling, and enterprise data-model design.
+* Work experience with large-scale data migration or system-conversion initiatives, including source-to-target mapping, profiling, transformation, validation, and reconciliation.
+* Experience building automated extracts and file-based integrations, including CSV, TSV, XML, JSON, or similar formats.
+* Experience delivering data through SFTP, Managed File Transfer (MFT), APIs, or enterprise integration frameworks.
+* Strong experience implementing data-quality controls, financial reconciliation, exception handling, data governance and auditability.
+* Practical experience developing operational or analytical reporting using Power BI, Tableau, SSRS, Crystal Reports, or similar technologies.
+* Experience with scheduling and orchestration technologies such as ADF, CA WLA or MuleSoft.
+* Strong analytical and troubleshooting skills with the ability to reverse-engineer complex legacy data structures and transformation logic.
+* Strong communication skills with the ability to work across engineering, architecture, operations, and business teams.
+  
+
+  
+
+**Preferred Qualifications:**
+
+* Experience with legacy-system modernization and complex data-conversion programs.
+* Exposure to Azure Databricks, Synapse, Spark, Python or other modern cloud/data platforms.
+* Experience with Git, CI/CD pipelines, automated deployment, and DevOps practices for data engineering workloads.
+* Familiarity with REST APIs, API gateways, Kafka, Azure Event Hubs, or event-driven integration patterns.
+* Background in insurance, financial services, producer compensation, or distribution technology would be a strong asset.
+* Strong communication, analytical, problem-solving skills.
+* Experience with AI, Business Intelligence (BI), and/or Generative AI solutions.
+  
+
+  
+
+***When you join our team:***
+
+* We’ll empower you to learn and grow the career you want.
+* We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words.
+* As part of our global team, we’ll support you in shaping the future you want to see.
+  
+
+  
+  
+
+#LI-Hybrid
+
+The role being advertised is an existing vacancy.
+
+**About Manulife and John Hancock**
+
+Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html.
+
+**Manulife is an Equal Opportunity Employer**
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact hr@manulife.com.
+
+**Referenced Salary Location**
+
+Toronto, Ontario
+
+**Working Arrangement**
+
+Hybrid  
+  
+
+**Base salary range is expected to be between**
+
+$86,100.00 CAD - $136,100.00 CAD  
+  
+
+Employees also have the opportunity to participate in incentive programs and earn incentive compensation tied to business and individual performance. The actual base salary will vary depending on local market conditions, geography and relevant job-related factors such as knowledge, skills, qualifications, experience, and education/training. If you are applying for this role outside of the primary location, please contact hr@manulife.com for the salary range for your location.
+
+  
+  
+
+Manulife offers eligible employees a wide array of customizable benefits, including health, dental, mental health, vision, short- and long-term disability, life and AD&D insurance coverage, adoption/surrogacy and wellness benefits, and employee/family assistance plans. We also offer eligible employees various retirement savings plans (including pension and a global share ownership plan with employer matching contributions) and financial education and counseling resources. Our generous paid time off program in Canada includes holidays, vacation, personal, and sick days, and we offer the full range of statutory leaves of absence. If you are applying for this role in the U.S., please contact hr@manulife.com for more information about U.S.-specific paid time off provisions.
+
+We use data and analytics technologies, such as artificial intelligence (AI), and automated processing tools, to analyze and process the information you provide to us or third parties in the application process. For more information, please refer to our personal information collection statement."
+6f3edb007a181dd4,Senior Data Engineer,Questrade Financial Group,"Greater Toronto Area, Canada",0,,2026-11-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489573868,,49,"Free scorer: your resume shows 3 of 22 listed skills (Python, PostgreSQL, Git).","[""SQL"", ""BigQuery"", ""Databricks"", ""Kafka"", ""Pub/Sub"", ""Spark"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling"", ""MLOps"", ""GCP"", ""Kubernetes"", ""Terraform"", ""CI/CD"", ""Agile"", ""Scrum"", ""Security""]",new,2026-11-14T18:43:32+00:00,2026-11-14T18:44:04+00:00,"[""Python"", ""PostgreSQL"", ""Git""]",,senior,li-4489573868,linkedin,"Questrade is on a mission to help Canadians to become much more financially successful and secure.
+  
+  
+For nearly 30 years, Questrade Financial Group has been delivering on that mission through investing, banking, mortgages, and real estate. Together, we tilt finance in favour of ambitious Canadians, creating new ways for them to seize the financial future they deserve.
+  
+  
+We're looking for people who are ready to enter their career inflection point. Mission-driven, exceptional folks that never settle. The work here is hard because the responsibility is real. If that's the standard you've been looking for, keep reading.
+  
+  
+Req #4401
+  
+  
+**The return on your career investment**
+
+* Compensation and incentives built to reward the value you bring.
+* RRSP matching of up to 6%.
+* Health and wellness resources and programs, including $5,000 in mental health practitioner coverage.
+* $5,000 in tuition subsidies for job-related courses, every year.
+* 100% parental top-up, up to 26 weeks for birthing parents and 18 weeks for non-birthing parents.
+* A hybrid environment, with at least three days in the office built for working together.
+* Paid vacation, personal, and sick days.
+* A community care day to give back to the causes you care about.
+
+*This job posting is for an existing vacancy*
+**We’re looking for our next Senior Data Engineer**
+As part of the Brokerage Engineering organization, the Senior Data Engineer is accountable for the technical design, development, and operational excellence of scalable data pipelines and modern data platform infrastructure. Operating in a high-velocity, agile delivery model, this role bridges business requirements, core trading and brokerage operations, and downstream analytics to deliver timely, reliable, and audit-compliant data products. By leveraging cloud data warehousing, automated transformations with dbt (Data Build Tool), distributed data processing with Spark on Kubernetes, GCP data services, and Infrastructure as Code, the role enhances platform performance and data self-service capabilities across the brokerage ecosystem.
+  
+  
+**The mandate**
+**In This Role, You Will**
+
+* Pipeline Architecture & Engineering: Lead the technical design, development, and optimization of scalable, high-performance batch and real-time streaming data pipelines (ETL/ELT), ensuring robust data ingestion, orchestration, compute efficiency, and timely availability for critical brokerage trading and digital investing platforms.
+* Data Modeling & Transformation with dbt: Architect, implement, and maintain modular, version-controlled data models and transformation workflows using SQL and dbt, establishing robust automated testing, documentation, and data lineage to deliver analytics-ready and audit-compliant data assets.
+* Distributed Data Processing & Spark Orchestration: Build, tune, and scale high-throughput big data processing workloads utilizing Google Cloud Dataproc and Apache Spark running on Kubernetes, optimizing cluster resource allocation, memory management, and job execution for complex brokerage datasets.
+* Infrastructure as Code (IaC) & Cloud Provisioning: Provision, configure, and manage resilient cloud data infrastructure across environments using Terraform, embedding CI/CD automation, security best practices, and cost-effective resource management into all data platform deployments.
+* Data Reliability, Observability & Incident Resolution: Analyze and resolve complex technical problems and production data anomalies across the stack, diagnosing root causes through systematic investigation and implementing durable monitoring, automated alerting, and self-healing solutions to prevent recurrence.
+* Data Governance, Lineage & Regulatory Integrity: Ensure comprehensive data quality, data lineage, role-based access control, and metadata cataloging across all brokerage data pipelines to satisfy strict financial industry governance, auditability, and regulatory reporting standards.
+* Cross-Functional Solution Delivery: Partner closely with Product Managers, Solution Architects, Software Engineers, and Data Science/ML Ops teams to translate complex business requirements and predictive models into robust, production-grade data products and integration workflows.
+* Standards, Quality & Technical Mentorship: Define and enforce coding, testing, and deployment standards across data repositories, conducting thorough code reviews and providing technical guidance and mentorship to junior and intermediate engineers to foster engineering excellence.
+
+**You’re ready for this mandate if you have the following qualifications**
+
+* Bachelor’s degree in Computer Science, Software Engineering, Information Systems, or equivalent practical experience.
+* 5+ years of progressive data engineering experience with demonstrated success delivering robust, production-grade data pipelines.
+* Advanced proficiency in SQL and Python for data engineering, automation, and complex data transformations.
+* Hands-on production experience with distributed data processing using Google Cloud Dataproc and/or Apache Spark.
+* Demonstrated hands-on experience running and orchestrating data processing workloads on Kubernetes (containerization, pod scheduling, and resource scaling).
+* Hands-on production experience with cloud data warehousing and orchestration platforms (e.g., Google Cloud Platform services such as BigQuery, Cloud Composer/Airflow, Dataflow, Pub/Sub, or Databricks).
+* Demonstrated working knowledge and hands-on experience using dbt (data build tool) for data modeling, transformation, and automated testing.
+* Demonstrated working knowledge of Infrastructure as Code (IaC) utilizing Terraform to provision, configure, and maintain cloud infrastructure.
+* Strong experience with relational and non-relational database management systems (e.g., MSSQL, PostgreSQL, CloudSQL).
+* Demonstrated experience with modern CI/CD deployment pipelines, automated testing frameworks, and version control (Git).
+
+**Nice to have**
+
+* Direct experience within financial services, brokerage technology, trading systems, capital markets, or wealth management data domains.
+* Experience with event-driven or real-time streaming architectures (e.g., Apache Kafka, Google Cloud Pub/Sub).
+* Relevant cloud or engineering certifications (e.g., Google Cloud Certified Professional Data Engineer, Databricks Certified Data Engineer, or Certified Kubernetes Administrator/Application Developer).
+* Experience working within Agile/Scrum or Scaled Agile Framework (SAFe) environments.
+* Practical experience leveraging AI-assisted developer tooling (e.g., Claude, GitHub Copilot, Cursor) to optimize development velocity and code quality.
+
+***Enter your career inflection point. Apply now.***
+*LI-Hybrid,*
+The final compensation package will be commensurate with the successful candidate's experience, skills, and geographic location (Canada). It includes a comprehensive benefits plan and a competitive incentive (bonus) program for Full-Time Permanent roles.
+  
+  
+Base salary range
+  
+  
+$123,000 - $143,000 CAD
+  
+  
+**Technology and AI**
+We mix human ingenuity with advanced technology. For ambitious builders like you, we provide the latest technology to enable your creativity. You'll have everything you need to build the best outcomes and products for our clients.
+  
+  
+**Diversity and Inclusion**
+At Questrade Financial Group of Companies, we’re committed to fostering a diverse, inclusive, and accessible work environment where individuals are treated with dignity and respect. Our global team reflects the diversity of the communities we serve and operate in.
+  
+  
+**Accessibility statement**
+Candidates selected for an interview are contacted directly. If you require accommodation during the recruitment or selection process, please let us know. We will work with you to meet your needs.
+  
+  
+**AI in hiring**
+Questrade Financial Group of companies Applicant Tracking System uses artificial intelligence (AI) for application screening. The AI system operates on predetermined criteria, with final decisions subject to human review."
 aab529f7964d26ea,Senior Data Engineer (Supply Chain & Distribution),Quantiphi,"Remote, Canada",1,,2026-11-13,"[""indeed""]",https://ca.indeed.com/viewjob?jk=a49ea144ad746ddb,https://quantiphi.wd1.myworkdayjobs.com/en-US/Careers_at_Quantiphi/job/Canada---Remote/Senior-Data-Engineer--Supply-Chain---Distribution-_JR12525,53,"Free scorer: your resume shows 2 of 9 listed skills (Python, AWS).","[""SQL"", ""Snowflake"", ""Data Modeling"", ""Data Warehouse"", ""Power BI"", ""Excel"", ""GCP""]",new,2026-11-13T20:26:24+00:00,2026-11-13T20:26:43+00:00,"[""Python"", ""AWS""]",,senior,in-a49ea144ad746ddb,indeed,"While technology is the heart of our business, a global and diverse culture is the heart of our success. We love our people and we take pride in catering them to a culture built on transparency, diversity, integrity, learning and growth.  
   
 If working in an environment that encourages you to innovate and excel, not just in professional but personal life, interests you- you would enjoy your career with Quantiphi!
