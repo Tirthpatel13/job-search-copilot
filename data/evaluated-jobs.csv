@@ -1,4 +1,161 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+b348d1c083c4ab96,Sr Data Engineer,MPA Recruitment,"Toronto, Ontario, Canada",0,,2026-11-15,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491240835,,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Docker).","[""Java"", ""Scala"", ""SQL"", ""Databricks"", ""Kafka"", ""ETL"", ""ELT"", ""Azure"", ""GCP"", ""Kubernetes"", ""Agile""]",new,2026-11-15T19:19:53+00:00,2026-11-15T19:20:24+00:00,"[""Python"", ""AWS"", ""Docker""]",,senior,li-4491240835,linkedin,"Sr Data Engineer
+
+Toronto (hybird)
+
+$110-120k
+
+Global software consultancy
+
+As a Senior Data Engineer, you will be responsible or designing and developing data processing and data persistence software components for solutions which handle data at scale. Working in agile teams, Senior Data Engineers provide strong development leadership and take responsibility for significant technical components of data systems. You will work within a multi-skilled agile team to design and develop large-scale data processing software to meet user needs in demanding production environments.
+
+Your responsibilities will include working to develop data processing software primarily for deployment in Big Data technologies. The role encompasses the full software lifecycle including design, code, test and defect resolution. Working with Architects and Lead Engineers to ensure the software supports non-functional needs. Collaborating with colleagues to resolve implementation challenges and ensure code quality and maintainability remains high. Leads by example in code quality. Working with operations teams to ensure operational readiness. Advising customers and managers on the estimated effort and technical implications of user stories and user journeys. Coaching and mentoring team members
+
+**MINIMUM (ESSENTIAL) REQUIREMENTS**
+:
+
+• Strong software development experience in one of Java, Scala, or Python
+
+• Software development experience with data-processing platforms from vendors such as AWS, Azure, GCP, Databricks.
+
+• Experience of developing substantial components for large-scale data processing solutions and deploying into a production environment
+
+• Proficient in SQL and SQL extensions for analytical queries
+
+• Solid understanding of ETL/ELT data processing pipelines and design patterns
+
+• Aware of key features and pitfalls of distributed data processing frameworks, data stores and data serialisation formats
+
+• Able to write quality, testable code and has experience of automated testing
+
+• Experience with Continuous Integration and Continuous Deployment techniques
+
+**DESIRABLE:**
+
+• Experience of data pipeline development
+
+• Experience of Docker and Kubernetes
+
+• Experience of performance tuning
+
+• Experience of data visualisation and complex data transformations
+
+• Experience with steaming and event-processing architectures including technologies such as Kafka and change-data-capture (CDC) products
+
+• Expertise in continuous improvement and sharing input on data best practice"
+f36af9b22063b8f7,Data Engineer - Clinical Data Experience,Kaizen Technologies,"Toronto, Ontario, Canada",0,,2026-11-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491086871,,73,"Free scorer: your resume shows 4 of 7 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""SQS"", ""PySpark""]",new,2026-11-15T19:19:53+00:00,2026-11-15T19:20:24+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3""]",,mid,li-4491086871,linkedin,"**Job Title : Data Engineer - Clinical Data Experience**
+
+**Location: TORONTO, Canada**
+
+**Skill Cluster : DE-Python\_Full Stack (with SQL), Frameworks, DevOps.**
+
+**Primary Skill : Python**
+
+**Experience : 15 years**
+
+**Job Description :**
+
+* We are looking for a hands-on Python / PySpark Developer with practical experience processing CCD/C-CDA clinical documents and building scalable healthcare data pipelines
+
+**Key Responsibilities**
+
+* Develop and enhance Python-based CCD/C-CDA parsing and clinical data processing solutions.
+* Analyze raw CCD/C-CDA XML and extract clinical information such as demographics, encounters, diagnoses, medications, allergies, immunizations, vitals, labs, and procedures.
+* Build reusable and scalable parsing logic that can support multiple EHRs, HIEs, vendors, and CCD variations.
+* Onboard new CCD vendors into an existing framework with minimal vendor-specific code.
+* Develop scalable data processing pipelines using Python and PySpark.
+* Handle large numbers of files and large XML documents efficiently.
+* Implement validation, error handling, logging, reconciliation, retry, and source-lineage capabilities.
+* Troubleshoot missing, duplicate, malformed, or incorrectly interpreted clinical data.
+* Optimize processing performance and support production incidents and root-cause analysis.
+* Develop automated unit and regression tests to ensure new vendor changes do not impact existing integrations.
+* Work with upstream providers and internal teams to resolve data-quality and clinical mapping issues.
+
+**Required Skills**
+
+* Strong hands-on Python development.
+* Strong PySpark and large-scale data processing experience.
+* Practical experience with XML parsing and CCD/C-CDA documents.
+* Experience developing or significantly enhancing CCD/C-CDA parsers.
+* Good understanding of clinical data domains such as Labs, Vitals, Problems, Medications, Immunizations, Allergies, Procedures, and Encounters.
+* Experience handling different vendor/EHR implementations of CCD/C-CDA.
+* Strong SQL and relational database experience.
+* Experience with clinical terminology such as LOINC, SNOMED CT, ICD-10, CPT/HCPCS, RxNorm, and CVX.
+* Experience designing modular, reusable, and configuration-driven solutions rather than vendor-specific hardcoded parsers.
+
+**Preferred Skills**
+
+* AWS experience including S3, Lambda, Glue, ECS/Fargate, Step Functions, SQS/SNS, CloudWatch, or similar services.
+* Experience with Epic, Cerner, Meditech, HIEs, or other EHR/clinical data sources.
+* Healthcare payer, population health, or clinical quality reporting experience.
+* HEDIS / NCQA knowledge is an advantage but not mandatory"
+d67f19d413684a94,Backend Platform Engineer,Spin Master,"Toronto, Ontario, Canada",0,,2026-11-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4488983960,,69,"Free scorer: your resume shows 2 of 4 listed skills (Python, PostgreSQL).","[""Elixir"", ""Security""]",new,2026-11-15T19:17:51+00:00,2026-11-15T19:20:24+00:00,"[""Python"", ""PostgreSQL""]",,mid,li-4488983960,linkedin,"Please Note: If you are a current Spin Master employee with access to Workday, apply to this job via the Workday application.
+  
+  
+Are you a kid at heart looking to build a career with a leading global children's toy, entertainment and digital gaming company?
+  
+  
+At Spin Master, our unwavering commitment to open mindedness, integrity and innovation is a great part of what has made us an industry leader. How do we stay ahead of the pack? By hiring the best and brightest minds—and that’s why we want you!
+  
+  
+**Job Description**
+**About Hapiko**
+Hapiko makes Stickerbox, a voice-activated sticker printer for kids. A child says whatever they can imagine, and seconds later it's a real sticker in their hand. Hapiko is a Spin Master company, so we pair a small, senior engineering team with the reach of one of the world's largest toy companies.
+  
+  
+**What will you work on?**
+You'll own everything behind that moment: the real-time connection layer, the API, the job pipeline and the cloud infrastructure every device talks to. We're a small team building a first-of-its-kind product and scaling it globally, and the backend has to stay fast, safe for kids and affordable as we grow.
+  
+  
+This is a hands-on, end-to-end ownership role. The foundations are in place. Your job is to harden them, scale them and set the standards others follow as the team grows.
+  
+  
+**How will you create impact?**
+
+* Own the API and job queues that every sticker request runs through.
+* Keep the real-time connection layer that devices rely on healthy and reliable, partnering with our firmware engineer.
+* Tune and extend autoscaling so the system handles holiday spikes and a growing fleet, partnering with our ML Serving engineer on GPU inference.
+* Mature our observability: metrics, logs, tracing and alerts that tell us what's wrong before families do.
+* Build cost instrumentation so we can see what each request, model and service actually costs.
+* Own release engineering for server-side services, including safe deploys, database migrations and fast rollback.
+* Partner with our Trust Safety engineer on abuse prevention, device security and privacy for a kids' product.
+* Share on-call and make the rotation quieter over time.
+
+**What are your skills and experience?**
+
+* Depth in Python and PostgreSQL.
+* Elixir experience, or real interest in learning it.
+* You've owned production infrastructure end to end, not just written code that runs on it.
+* You've scaled a queue-driven or real-time system through an order of magnitude of traffic growth.
+* You're comfortable being paged for systems you own, and you work to make that happen less.
+
+*The anticipated pay range for candidates who will work in Ontario is $136,700 to $182,300 Per Annum. The offered pay to a successful candidate will be dependent on several factors that may include but are not limited to years of experience within the job, years of experience within the required industry, education, etc. Spin Master Inc. is a multi-state employer, and this salary range may not reflect positions that work only in other states.*
+This job posting is tied to an open vacancy.
+  
+  
+**What You Can Expect From Us**
+Our mission is to Make Life More Fun with a vision to push the boundaries of innovation, creativity, and fun.
+  
+  
+
+* Growth and Career Opportunities#xa;
+* Flexible Work Hours#xa;
+* Innovation, Collaboration and Fun#xa;
+* Comprehensive Benefits#xa;
+* Other fun Perks!#xa;
+
+**What’s it like to work here?**
+Spin Master is a fast-paced, hands-on organization that provides many great opportunities for impactful decision-making; though our challenging start-up atmosphere isn’t for everyone, we have a proven record of opportunities for future advancement and internal transfers for our passionate and results driven team.
+  
+  
+Everyone is welcome in our sandbox and we are committed to an accessible and inclusive hiring process that provides reasonable accommodation to all applicants.
+  
+  
+Spin Master strives to create an accessible and inclusive application and selection process and is committed to working with and providing reasonable accommodation to job applicants who may require provisions to participate in the recruitment, selection and/or assessment processes. Should you require an accommodation, please contact our Talent Acquisition team, by email at TAinquiries@spinmaster.com or by phone at 416 364-6002 and we will work with you to meet your accessibility needs.
+  
+  
+***Follow us on Instagram and Twitter @SpinMaster to stay up to date on Spin Master career opportunities.***
+*We do appreciate all interest; however only those selected for interview will be contacted.*"
 8355a6c56dfdafd5,Senior Data Engineer,NTT DATA,"Toronto, ON, Canada",0,"CAD 88,528 - 110,660 /yearly",2026-11-13,"[""indeed""]",https://ca.indeed.com/viewjob?jk=66fe03f4caa303d6,https://careers.nttdata.com/global/en/job/397702,58,"Free scorer: your resume shows 5 of 16 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""Redshift"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-14T18:43:48+00:00,2026-11-14T18:44:03+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Git""]",,senior,in-66fe03f4caa303d6,indeed,"**Req ID:** 397702
   
   
@@ -998,7 +1155,7 @@ Country Hiring Guidelines: GitLab hires new team members in countries around the
 Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us.
 
 GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know during the recruiting process."
-906035313cf51a7f,Senior Consultant - Risk Data & Technology - Data Engineer,Deloitte,"Toronto, ON, Canada",0,"CAD 84,000 - 126,000 /yearly",2026-11-12,"[""indeed""]",https://ca.indeed.com/viewjob?jk=93f6d41e2d935ad8,https://careers.deloitte.ca/job/Senior-Consultant-Risk-Data-&-Technology-Data-Engineer/135769-en_US,48,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""Databricks"", ""PySpark"", ""ETL"", ""ELT"", ""Machine Learning"", ""MLOps"", ""Azure""]",new,2026-11-12T20:44:57+00:00,2026-11-12T20:45:13+00:00,"[""Python""]",,senior,in-93f6d41e2d935ad8,indeed,"**Job Type:** Permanent  
+906035313cf51a7f,Senior Consultant - Risk Data & Technology - Data Engineer,Deloitte,"Toronto, ON, Canada",0,"CAD 84,000 - 126,000 /yearly",2026-11-12,"[""indeed"", ""linkedin""]",https://ca.indeed.com/viewjob?jk=93f6d41e2d935ad8,https://careers.deloitte.ca/job/Senior-Consultant-Risk-Data-&-Technology-Data-Engineer/135769-en_US,48,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""Databricks"", ""PySpark"", ""ETL"", ""ELT"", ""Machine Learning"", ""MLOps"", ""Azure""]",new,2026-11-12T20:44:57+00:00,2026-11-12T20:45:13+00:00,"[""Python""]",,senior,in-93f6d41e2d935ad8,indeed,"**Job Type:** Permanent  
 **Work Model:** Hybrid  
 **Reference code:** 135769  
 **Primary Location:** Toronto, ON  
