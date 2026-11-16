@@ -1,4 +1,641 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+4842824370e969c4,Senior Data Engineer – Google Cloud,Ontrac Solutions,"Remote, Canada",1,,2026-11-16,"[""indeed""]",https://ca.indeed.com/viewjob?jk=bbffb5e40b668f15,https://ontrac-solutions-llc.breezy.hr/p/2e74b43e8d5d-senior-data-engineer-google-cloud?source=indeed,47,"Free scorer: your resume shows 2 of 20 listed skills (Python, Git).","[""SQL"", ""SQL Server"", ""Oracle"", ""BigQuery"", ""Databricks"", ""Pub/Sub"", ""Spark"", ""PySpark"", ""Hadoop"", ""Airflow"", ""ELT"", ""Data Modeling"", ""Looker"", ""GCP"", ""Terraform"", ""CI/CD"", ""Serverless"", ""Security""]",new,2026-11-16T22:49:53+00:00,2026-11-16T22:50:12+00:00,"[""Python"", ""Git""]",,senior,in-bbffb5e40b668f15,indeed,"ABOUT ONTRAC SOLUTIONS
+
+Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape.
+
+OVERVIEW
+
+Ontrac is seeking a Senior Data Engineer with deep, hands-on Google Cloud experience to support our client in delivering Google Cloud data platform engagements for enterprise customers. This is a consulting-delivery role: you will design and build production data pipelines on GCP, migrate legacy warehouses and Hadoop estates into BigQuery, and work directly with customer engineering and analytics teams from discovery through hand-off. The ideal candidate has spent several years shipping GCP data platforms for multiple customers, not maintaining a single internal stack.
+
+ENGAGEMENT
+
+* Duration: 6 months, with possible extension
+* Location: United States or Canada, fully remote.
+* We are not able to provide sponsorship for this role.
+
+REQUIRED QUALIFICATIONS
+
+* 6+ years in data engineering, including 3+ years delivering production workloads on Google Cloud Platform
+* Deep hands-on BigQuery experience: data modeling, partitioning and clustering, cost and performance tuning, and ELT in SQL
+* Built and operated batch and streaming pipelines with Dataflow (Apache Beam) and/or Dataproc (Spark / PySpark), with Pub/Sub as a streaming source
+* Orchestrated production workflows with Cloud Composer (Apache Airflow), including dependency management, retries, and alerting
+* Strong Python and advanced SQL
+* Provisioned GCP data infrastructure with Terraform and deployed through Git-based CI/CD
+* Delivered at least one migration into BigQuery from an on-prem or legacy platform (Hadoop/Hive, Teradata, Netezza, Oracle, DB2, SQL Server, or another cloud warehouse), including data validation and cut-over
+* Client-facing experience: running requirements sessions, presenting designs, and handing off documented solutions to customer teams
+
+USEFUL QUALIFICATIONS
+
+* Google Cloud Professional Data Engineer certification (or a current Associate Cloud Engineer / Professional Cloud Architect)
+* Databricks certification or production Databricks-on-GCP experience
+* Looker / LookML modeling, or Looker Studio dashboard delivery
+* Serverless integration work on Cloud Run or Cloud Functions (API ingestion, event handlers)
+* Data governance on GCP: Dataplex, Data Catalog, IAM and column-level security, DLP
+* Feeding GenAI use cases from the warehouse: BigQuery ML, Vertex AI, embeddings or RAG data preparation
+* BigQuery Migration Service / SQL translation, Datastream, or Database Migration Service used on a real migration
+* Prior experience at a Google Cloud partner or in Google Cloud Professional Services
+
+SCOPE AND DELIVERY EXPECTATIONS
+
+The following covers the scope of work we anticipate the contractor supporting throughout the engagement.
+
+* Assess the customer's current data estate and produce a target-state GCP data architecture and migration plan
+* Build ingestion, transformation, and orchestration pipelines (batch and streaming) into BigQuery, deployed entirely through Terraform and CI/CD
+* Migrate historical data and workloads with documented reconciliation proving row- and aggregate-level parity
+* Tune BigQuery models and queries for cost and performance, and leave the customer with monitoring and alerting on pipeline health
+* Deliver runbooks, architecture documentation, and knowledge-transfer sessions so the customer team can own the platform after hand-off
+
+WHAT WE OFFER
+
+* Competitive Compensation: Compensation will be commensurate with experience.
+* Remote Work: Fully remote engagement from anywhere in the United States or Canada."
+418aa012f4c8cdf7,Senior Backend Engineer,AeroVect,"Vancouver, BC, Canada",1,,2026-11-16,"[""indeed""]",https://ca.indeed.com/viewjob?jk=a4e516cba04e896c,https://jobs.ashbyhq.com/AeroVect/c8437753-a85c-45c8-973c-8e7f1897423f?utm_source=Eop7pMkGOp,60,"Free scorer: your resume shows 5 of 15 listed skills (Python, Redis, AWS, Docker).","[""Go"", ""C++"", ""gRPC"", ""WebSockets"", ""Microservices"", ""Kafka"", ""RabbitMQ"", ""Kubernetes"", ""System Design"", ""Networking""]",new,2026-11-16T22:49:47+00:00,2026-11-16T22:50:12+00:00,"[""Python"", ""Redis"", ""AWS"", ""Docker"", ""Distributed Systems""]",,senior,in-a4e516cba04e896c,indeed,"**Who We Are**
+--------------
+
+AeroVect is transforming ground handling with autonomy, redefining how airlines and ground service providers around the globe run day-to-day operations. We are a Series A company backed by top-tier venture capital investors in aviation and autonomous driving. Our customers include some of the world’s largest airlines and ground handling providers. For more information, visit www.aerovect.com.
+
+As a Senior Backend Engineer you will design, build, and scale the backend systems that enable remote operators to monitor, support, and interact with our autonomous ground support equipment (AGSE) operating in live airport environments.
+
+As our autonomous fleet expands across airports, remote assistance becomes a critical component of safe and reliable operations. You'll build the services that connect autonomous vehicles with remote operators, enabling real-time communication, vehicle monitoring, assistance requests, and operational decision-making.
+
+This is a hands-on engineering role at the intersection of distributed systems, real-time communication, and autonomous vehicle operations. You'll work closely with autonomy, platform, infrastructure, and operations teams to develop reliable, low-latency backend services that support an increasingly large fleet of autonomous vehicles.
+
+You'll have significant ownership over system architecture, reliability, and scalability, building production systems where performance and availability directly impact real-world operations.
+
+**You Will**
+------------
+
+* Design, develop, and maintain backend services powering AeroVect's remote assistance platform for autonomous vehicle operations.
+* Build reliable, low-latency communication systems between autonomous vehicles, cloud infrastructure, and remote operators.
+* Develop APIs and cloud backend services that enable vehicle monitoring, remote assistance requests, operator interactions, and fleet coordination.
+* Design and implement real-time data streaming and cloud event-driven architectures to support vehicle state updates, telemetry, and operational events.
+* Build scalable systems to manage remote assistance sessions, including request routing, operator assignment, session state, and lifecycle management.
+* Ensure backend systems are resilient to network interruptions, latency, and intermittent connectivity in real-world airport environments.
+* Develop robust mechanisms for authentication, authorization, auditing, and secure communication between vehicles and remote operators.
+* Build monitoring, logging, and observability capabilities to identify issues and maintain high system reliability.
+* Collaborate with autonomy and platform engineers to integrate remote assistance capabilities with vehicle software and fleet management systems.
+* Optimize backend performance, scalability, and fault tolerance as the number of deployed vehicles and remote assistance sessions increases.
+* Take end-to-end ownership of backend services, from system design and implementation through deployment, testing, and production support.
+
+**You have**
+------------
+
+* 5+ years of experience in backend software engineering, with a strong track record of designing and operating production-grade distributed systems.
+* Strong programming experience in Python, Go, C++, or similar backend languages.
+* Experience designing and building scalable backend services, APIs, and microservices architectures.
+* Strong understanding of distributed systems, concurrency, asynchronous processing, and fault-tolerant architectures.
+* Experience with real-time communication technologies such as WebSockets, gRPC, or similar protocols.
+* Hands-on experience with message brokers and event-driven systems such as Kafka, RabbitMQ, Redis Streams, or equivalent technologies.
+* Experience building and deploying cloud-native applications, preferably on AWS.
+* Familiarity with containerization and orchestration technologies such as Docker and Kubernetes.
+* Strong understanding of networking fundamentals, including TCP/IP, HTTP, connection management, and latency optimization.
+* Experience designing systems for high availability, observability, and production reliability.
+* Ability to independently own complex technical projects and make sound architectural decisions in an evolving environment.
+* Strong communication skills and experience collaborating across software, infrastructure, and product teams.
+
+**We Prefer**
+-------------
+
+* Experience building backend systems for autonomous vehicles, robotics, teleoperations, or remote assistance platforms.
+* Experience working with vehicle telemetry, fleet management, or real-time operational monitoring systems.
+* Knowledge of video streaming technologies such as WebRTC, RTSP, or other low-latency media protocols.
+* Experience developing systems that operate across unreliable or bandwidth-constrained networks.
+* Familiarity with safety-critical systems, operational safeguards, and secure remote interactions with physical devices.
+* Experience with edge-to-cloud communication architectures.
+* Experience building dispatching, scheduling, or resource allocation systems.
+* Previous experience in a fast-paced startup environment, building products and infrastructure from the ground up."
+cc6711b1fb6bd80d,Senior Data Engineer,AeroVect,"Toronto, Ontario, Canada",1,,2026-11-16,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4489774963,https://jobs.ashbyhq.com/AeroVect/ee6dfcdc-e7b9-4e69-aee4-fd72b7926448?utm_source=Eop7pMkGOp,64,"Free scorer: your resume shows 5 of 12 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""BigQuery"", ""Redshift"", ""Machine Learning"", ""GCP"", ""Kubernetes"", ""Terraform""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:12+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Distributed Systems""]",,senior,li-4489774963,linkedin,"**Who We Are**
+--------------
+
+AeroVect is transforming ground handling with autonomy, redefining how airlines and ground service providers around the globe run day-to-day operations. We are a Series A company backed by top-tier venture capital investors in aviation and autonomous driving. Our customers include some of the world’s largest airlines and ground handling providers. For more information, visit www.aerovect.com.
+
+As a Senior Data Engineer at AeroVect, you will design, build, and scale the data infrastructure powering our autonomous ground support equipment (AGSE) operations. As our fleet expands across airports, you'll be responsible for ensuring that large volumes of vehicle telemetry, sensor data, and operational data are reliably ingested, processed, stored, and made accessible to engineering and operational teams.
+
+You'll work at the intersection of autonomous systems, cloud infrastructure, and data engineering, building robust pipelines that transform real-world vehicle data into actionable insights. From processing data generated by autonomous tractors to enabling fleet performance monitoring and engineering analysis, your work will directly impact how we operate, improve, and scale our autonomous fleet.
+
+This is a hands-on engineering role in a fast-paced environment where you'll have significant ownership over data architecture, pipeline reliability, and infrastructure scalability. You'll collaborate closely with software, infrastructure, autonomy, and operations teams to build systems that support vehicles operating in live airport environments.
+
+**You Will**
+------------
+
+* Design, build, and maintain scalable data pipelines to ingest, process, and store large volumes of autonomous vehicle telemetry, sensor, and operational data.
+* Develop and operate reliable batch and streaming data pipelines, supporting both near-real-time monitoring and historical analysis.
+* Build and optimize cloud-based data infrastructure using AWS and modern distributed data processing technologies.
+* Develop systems to move data reliably from edge devices and on-premise infrastructure into cloud-based storage and processing environments.
+* Design and maintain data models, schemas, and storage architectures that enable efficient querying, analytics, and downstream engineering workflows.
+* Ensure data quality, consistency, availability, and observability across production pipelines.
+* Optimize data processing performance, storage efficiency, and infrastructure costs as fleet size and data volumes increase.
+* Collaborate with autonomy, software, and infrastructure engineers to support debugging, performance analysis, and continuous improvement of autonomous vehicle systems.
+* Build tools and infrastructure that make data easily accessible to engineering, product, and fleet operations teams.
+* Take end-to-end ownership of data infrastructure, from architecture and implementation to deployment, monitoring, and production troubleshooting.
+
+**You have**
+------------
+
+* 5+ years of experience in data engineering, software engineering, or distributed systems, with a strong focus on building production-grade data infrastructure.
+* Strong programming experience in Python and SQL.
+* Hands-on experience designing and operating large-scale batch and streaming data pipelines.
+* Strong experience with AWS services such as S3, Kinesis, Lambda, Glue, Redshift, or similar cloud-native data infrastructure.
+* Experience designing data architectures, storage solutions, and data models for high-volume, complex datasets.
+* Strong understanding of distributed systems, data reliability, fault tolerance, and performance optimization.
+* Experience deploying, monitoring, and troubleshooting data pipelines in production environments.
+* Familiarity with terraform and Kubernetes is preferred.
+* Ability to work independently, navigate ambiguity, and take ownership of complex technical problems.
+* Strong communication skills and experience collaborating across engineering teams.
+
+**We prefer**
+-------------
+
+* Experience working with autonomous vehicles, robotics, automotive telemetry, IoT, or other sensor-heavy systems.
+* Experience processing large-scale time-series, image, video, or other unstructured datasets.
+* Familiarity with edge-to-cloud data ingestion architectures and intermittent-connectivity environments.
+* Experience with data lake architectures, GCP BigQuery and AWS Athena.
+* Experience building data infrastructure supporting machine learning, simulation, or robotics development workflows.
+* Knowledge of ROS, ROS bags, or autonomous vehicle data formats.
+* Experience building data platforms from the ground up in a startup or rapidly scaling engineering organization."
+75c1e3a2e2e94d71,Senior Data Engineer,Futran Solutions,"Toronto, Ontario, Canada",0,,2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491517377,,51,"Free scorer: your resume shows 3 of 17 listed skills (Python, REST, Git).","[""SQL"", ""Snowflake"", ""Databricks"", ""Kafka"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Power BI"", ""Azure"", ""Terraform"", ""CI/CD"", ""Security""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:12+00:00,"[""Python"", ""REST"", ""Git""]",,senior,li-4491517377,linkedin,"**Job Description – Databricks Data Engineer**
+
+**Location:**
+Canada (Onsite)
+
+**Experience:**
+6-10 Years
+
+**Job Summary**
+
+We are seeking an experienced
+**Databricks Data Engineer**
+to design, develop, and optimize enterprise-scale data platforms on Azure. The ideal candidate should have strong hands-on expertise in Azure Databricks, PySpark, Delta Lake, Azure Data Factory, and modern Lakehouse architectures. The role requires working closely with business stakeholders, data architects, and analytics teams to deliver scalable, high-performance data solutions.
+
+**Key Responsibilities**
+
+* Design, develop, and maintain scalable data pipelines using Azure Databricks and PySpark.
+* Build and optimize ETL/ELT workflows for processing large volumes of structured and unstructured data.
+* Develop and manage Delta Lake-based Lakehouse solutions following Medallion Architecture (Bronze, Silver, Gold).
+* Integrate data from multiple sources including databases, APIs, cloud storage, and enterprise applications.
+* Create and maintain data ingestion frameworks using Azure Data Factory (ADF).
+* Optimize Spark jobs, cluster configurations, and storage structures to improve performance and reduce costs.
+* Implement data quality, validation, monitoring, logging, and alerting mechanisms.
+* Collaborate with Data Architects and Business Analysts to gather and translate business requirements into technical solutions.
+* Implement security, governance, and access controls using Unity Catalog and Azure security services.
+* Support CI/CD deployment processes using Azure DevOps, Git, and automated release pipelines.
+* Participate in code reviews, design discussions, and knowledge-sharing initiatives.
+* Troubleshoot production issues and provide operational support for critical data pipelines.
+
+**Mandatory Skills**
+
+**Databricks & Big Data**
+
+* Azure Databricks
+* Apache Spark
+* PySpark
+* Spark SQL
+* Delta Lake
+* Databricks Workflows
+* Unity Catalo
+
+**Azure Data Services**
+
+* Azure Data Factory (ADF)
+* Azure Data Lake Storage (ADLS Gen2)
+* Azure Key Vault
+* Azure Synapse Analytics
+
+**Programming & Database**
+
+* Python
+* SQL / T-SQL
+* Data Modeling
+* Data Warehousing Concepts
+
+**DevOps & Version Control**
+
+* Azure DevOps
+* Git/GitHub
+* CI/CD Pipelines
+
+**Preferred Skills**
+
+* Snowflake
+* Microsoft Fabric
+* Kafka/Event Streaming
+* Power BI
+* Terraform/IaC
+* Azure Functions
+* REST API Integration
+* Data Governance and Metadata Management
+
+**Desired Experience**
+
+* 6+ years of overall Data Engineering experience.
+* Minimum 3+ years of hands-on experience with Azure Databricks and PySpark.
+* Experience building enterprise-grade Lakehouse architectures.
+* Strong understanding of performance tuning and optimization techniques for Spark workloads."
+0fbdfbe40487bf9c,Senior Data Engineer,Ardent SoftSol Inc.,"Toronto, Ontario, Canada",0,"CAD 100,000 - 110,000 /yearly",2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490931303,,49,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Databricks"", ""Spark"", ""PySpark"", ""Hadoop"", ""Azure""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:12+00:00,"[""Python""]",,senior,li-4490931303,linkedin,"**Title: Senior Data Engineer**
+
+**Location: Toronto, Canada**
+
+**Duration: Fulltime**
+
+**Hybrid 3 days from client office**
+
+**Key Skills: Snowflake, PySpark, Azure, DevOps**
+
+**Domain: BFSI preferred**
+
+**Skills & Qualifications:**
+
+* 4+ years of Data Engineering experience
+* Advanced SQL; experience with relational and NoSQL databases
+* Strong experience with Snowflake, Hadoop, Spark, PySpark, Databricks, Azure
+* Proficiency in Python for data engineering
+* Familiarity with orchestration tools and workflow management systems
+
+**Responsibilities:**
+
+* Design, build, and maintain scalable data pipelines using Snowflake, Hadoop, Spark, PySpark, Azure
+* Implement data architectures and optimize workflows for large financial datasets
+* Write high-quality, maintainable Python and SQL code following best practices
+* Integrate data governance, metadata management, and lineage tracking into solutions"
+acadfccbd3415ba4,Data Engineer,BrainRidge Consulting,"Toronto, Ontario, Canada",0,,2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491501904,,60,"Free scorer: your resume shows 4 of 12 listed skills (Python, AWS, Lambda, S3).","[""Java"", ""SQL"", ""Snowflake"", ""dbt"", ""ETL"", ""ELT"", ""CI/CD"", ""Security""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:13+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3""]",,mid,li-4491501904,linkedin,"**About BrainRidge**
+BrainRidge Consulting is a premium FinTech Technology Consulting firm with the energy of a startup and experience of an enterprise. With a mission to empower financial institutions and organizations to thrive in the digital age, we provide cutting-edge technology solutions and strategic guidance to drive innovation and growth. As we continue to grow, we are seeking a motivated and experienced Data Engineer.
+  
+  
+**Role Overview**
+We are seeking a Data Engineer to design, build, and maintain scalable data pipelines across AWS and Snowflake environments. You will work alongside senior engineers and the Data Engineering Lead to deliver reliable data integrations, models, and schemas. Partnering with stakeholders in Product, Finance, and Analytics, you will turn business requirements into well-structured data solutions that support our financial services clients.
+  
+  
+**Key Responsibilities**
+
+* Design, build, and maintain scalable, high-performance data pipelines (ETL/ELT) across AWS and Snowflake environments.
+* Develop and support data integrations between AWS services such as S3, Kinesis, and RDS, and Snowflake.
+* Monitor and tune Snowflake performance through clustering, warehouse sizing, and query optimization to keep data infrastructure efficient and cost-effective.
+* Apply DataOps best practices for CI/CD, code quality, testing, and automation to improve data reliability and scalability.
+* Participate in code reviews, technical discussions, and architecture reviews alongside senior engineers and the Data Engineering Lead.
+* Work with stakeholders in Product, Finance, and Analytics to understand business requirements and turn them into well-structured data models and schemas.
+* Support data governance, access security (IAM roles), and compliance standards to protect the integrity and confidentiality of enterprise data assets.
+
+**Qualifications**
+
+* 5+ years of hands-on experience in Data Engineering, with a track record of delivering reliable data solutions in production environments.
+* Strong working knowledge of Snowflake, including Snowpipe, Streams, and Tasks.
+* Proficiency in the AWS ecosystem, especially S3, Lambda, Glue, and IAM.
+* Solid programming skills in Python or Java, and strong SQL proficiency for data transformation and analysis.
+* Experience contributing to data migration or cloud initiatives within a team environment.
+* Strong analytical and problem-solving skills, with a willingness to learn and grow within a collaborative engineering team.
+* Experience with Snowflake Secure Data Sharing is a plus.
+* Experience with dbt (Data Build Tool) or similar transformation frameworks is a plus.
+
+*Our Commitment*
+*At BrainRidge Consulting, we value and prioritize diversity, equity, and inclusion. We believe that a diverse and inclusive workplace leads to a more innovative and productive team. We welcome applicants of all backgrounds and are committed to providing a safe, fair, and welcoming environment where everyone feels valued and respected. If you require accommodations during the hiring process, please let us know.*"
+600851d1813975f5,Senior Data Engineer,Tek Leaders Inc,"Toronto, Ontario, Canada",0,,2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490104550,,49,"Free scorer: your resume shows 2 of 14 listed skills (Python, AWS).","[""SQL"", ""Oracle"", ""Snowflake"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""GCP"", ""Security""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:13+00:00,"[""Python"", ""AWS""]",,senior,li-4490104550,linkedin,"**Job Title: Senior Data Engineer – Clinical Data / Healthcare**
+
+**Domain Experience: Clinical / Healthcare**
+
+**Location: Remote -**
+@ Ontorio, Toronto
+
+**Job Summary**
+
+We are seeking an experienced
+**Senior Data Engineer with strong clinical data and healthcare domain experience**
+to design, develop, and maintain scalable data engineering solutions for clinical data platforms.
+
+The ideal candidate will have hands-on experience building data pipelines, integrating clinical and healthcare datasets, developing ETL/ELT workflows, and managing large-scale clinical data environments. Candidates must have experience working with clinical clients, healthcare organizations, hospitals, health systems, life sciences organizations, or clinical research teams.
+
+The role requires strong technical expertise in Python, SQL, cloud data platforms, and modern data engineering technologies, along with the ability to collaborate directly with clinical stakeholders, healthcare data analysts, data scientists, and business teams.
+
+**Key Responsibilities**
+
+**Clinical Data Engineering**
+
+* Design, develop, and maintain scalable data pipelines for clinical and healthcare datasets.
+* Integrate data from Electronic Health Records (EHR), Electronic Medical Records (EMR), clinical systems, healthcare applications, and external data sources.
+* Work with clinical datasets such as patient demographics, encounters, diagnoses, procedures, medications, laboratory results, and clinical observations.
+* Develop data ingestion, transformation, validation, and processing workflows.
+* Support clinical data standardization, normalization, mapping, and transformation.
+* Ensure clinical data quality, accuracy, consistency, completeness, and reliability.
+* Work with healthcare data standards such as HL7, FHIR, ICD-10, CPT, SNOMED CT, and LOINC.
+
+**Data Pipeline Development**
+
+* Build and optimize batch and streaming data pipelines using Python, SQL, and modern data engineering frameworks.
+* Develop ETL/ELT processes to extract, transform, and load clinical data.
+* Implement data validation, reconciliation, error handling, and monitoring processes.
+* Optimize data processing performance, scalability, and reliability.
+* Build reusable data engineering components and automated workflows.
+
+**Cloud & Data Platform Engineering**
+
+* Develop and manage data solutions on AWS, Azure, or GCP.
+* Work with cloud-based data storage, data lakes, data warehouses, and lakehouse architectures.
+* Develop solutions using technologies such as Snowflake, Databricks, Spark, AWS Glue, Azure Data Factory, or equivalent platforms.
+* Implement data orchestration and workflow automation.
+* Support data platform performance tuning, scalability, and cost optimization.
+
+**Clinical Client Engagement**
+
+* Work directly with clinical clients, healthcare providers, clinical operations teams, and business stakeholders.
+* Understand clinical workflows, business requirements, and healthcare data challenges.
+* Translate clinical and business requirements into technical data engineering solutions.
+* Participate in requirement-gathering sessions, technical discussions, and solution design meetings.
+* Collaborate with clinical analysts, healthcare data architects, data scientists, and application teams.
+* Explain technical data solutions and data quality issues to clinical and non-technical stakeholders.
+
+**Data Governance & Compliance**
+
+* Implement data quality checks, data lineage, metadata management, and data governance practices.
+* Ensure appropriate handling of Protected Health Information (PHI) and sensitive patient information.
+* Follow HIPAA and applicable healthcare data privacy and security requirements.
+* Implement role-based access, encryption, audit logging, and secure data processing practices.
+
+**Required Technical Skills**
+
+* Strong experience in Data Engineering and enterprise data pipeline development.
+* Hands-on experience with clinical or healthcare data.
+* Experience working directly with clinical clients or healthcare organizations.
+* Strong programming experience in Python and SQL.
+* Experience with ETL/ELT development and data integration.
+* Experience with cloud platforms such as AWS, Azure, or GCP.
+* Experience with data warehouses, data lakes, and modern data platforms.
+* Knowledge of Spark, PySpark, Databricks, Snowflake, or equivalent technologies.
+* Strong understanding of data modeling, data transformation, data quality, and data validation.
+
+**Required Clinical / Healthcare Domain Experience**
+
+Candidates should have experience with one or more of the following:
+
+* Electronic Health Records (EHR) / Electronic Medical Records (EMR).
+* Clinical data integration and clinical data repositories.
+* Patient demographics, encounters, diagnoses, procedures, and medications.
+* Laboratory and diagnostic data.
+* Clinical workflows and healthcare operations.
+* Clinical research or clinical trial data.
+* Healthcare interoperability standards such as HL7 and FHIR.
+* Healthcare terminologies such as ICD-10, CPT, SNOMED CT, and LOINC.
+* HIPAA and PHI data handling.
+
+**Preferred Skills**
+
+* Experience with HL7 v2 and FHIR APIs.
+* Experience with OMOP Common Data Model.
+* Experience with Epic, Cerner/Oracle Health, Meditech, or other EHR platforms.
+* Experience with clinical data warehouses and healthcare analytics platforms.
+* Experience with healthcare claims and payer/provider data.
+* Knowledge of healthcare interoperability and data exchange.
+* Experience supporting AI/ML and advanced analytics initiatives using clinical data.
+
+**Qualifications**
+
+* Bachelor's or Master's degree in Computer Science, Information Technology, Data Engineering, or a related field.
+* 8+ years of experience in Data Engineering or related roles (suggested).
+* Demonstrated hands-on experience with clinical data engineering.
+* Experience working with clinical clients, healthcare providers, or clinical operations teams.
+* Strong communication, analytical, and problem-solving skills."
+e11ad2c2814eb37c,Data Engineer,Univedge Consulting LLC,"Toronto, Ontario, Canada",0,CAD 50 - 55 /hourly,2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490649966,,70,"Free scorer: your resume shows 4 of 8 listed skills (Python, AWS, Lambda, S3).","[""Airflow"", ""ETL"", ""ELT"", ""Data Modeling""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:13+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3""]",,mid,li-4490649966,linkedin,"**Data Engineer(Python and AWS)**
+
+**Toronto, ON**
+
+**Hybrid ( 1- 2 days onsite)**
+
+**Job Overview**
+
+* Strong Python programming and coding skills with experience building scalable ETL/ELT pipelines, data transformation frameworks, and automation solutions.
+* 6+ years of overall experience, including at least 3 years as a Data Engineer or similar role, with strong knowledge of AWS cloud services, data architecture, and engineering best practices.
+* Hands-on experience with AWS technologies such as S3, AWS Transfer Family (SFTP), Kinesis, AWS Glue, Athena, Lambda, and Apache Airflow to design and support modern data platforms.
+* Experience working with large-scale data processing, data lakes, data warehousing, and real-time/streaming data pipelines in cloud environments.
+* Strong understanding of data modeling, data quality, performance optimization, monitoring, and troubleshooting across end-to-end data workflows.
+* Ability to collaborate effectively with business stakeholders, analysts, architects, and engineering teams to deliver reliable and scalable data solutions."
+241b061f53848263,Data Engineer - AWS and Python,Iris Software Inc.,"Toronto, Ontario, Canada",0,,2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490669092,,69,"Free scorer: your resume shows 4 of 8 listed skills (Python, AWS, Lambda, S3).","[""Airflow"", ""ETL"", ""ELT"", ""Data Modeling""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:13+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3""]",,mid,li-4490669092,linkedin,"Hello
+
+Iris's client one of the leading Bank in Canada is urgently looking to hire a Data Engineer.
+
+Job Title - Data Engineer(Python and AWS)
+
+Location - Toronto ON
+
+Hybrid - Yes ( 1- 2 days onsite)
+
+Job description
+
+Strong Python programming and coding skills with experience building scalable ETL/ELT pipelines, data transformation frameworks, and automation solutions.
+
+6+ years of overall experience, including at least 3 years as a Data Engineer or similar role, with strong knowledge of AWS cloud services, data architecture, and engineering best practices.
+
+Hands-on experience with AWS technologies such as S3, AWS Transfer Family (SFTP), Kinesis, AWS Glue, Athena, Lambda, and Apache Airflow to design and support modern data platforms.
+
+Experience working with large-scale data processing, data lakes, data warehousing, and real-time/streaming data pipelines in cloud environments.
+
+Strong understanding of data modeling, data quality, performance optimization, monitoring, and troubleshooting across end-to-end data workflows.
+
+Ability to collaborate effectively with business stakeholders, analysts, architects, and engineering teams to deliver reliable and scalable data solutions.
+
+About Iris Software Inc.
+
+With 4,000+ associates and offices in India, U.S.A. and Canada, Iris Software delivers technology services and solutions that help clients complete fast, far-reaching digital transformations and achieve their business goals. A strategic partner to Fortune 500 and other top companies in financial services and many other industries, Iris provides a value-driven approach - a unique blend of highly-skilled specialists, software engineering expertise, cutting-edge technology, and flexible engagement models. High customer satisfaction has translated into long-standing relationships and preferred-partner status with many of our clients, who rely on our 30+ years of technical and domain expertise to future-proof their enterprises. Associates of Iris work on mission-critical applications supported by a workplace culture that has won numerous awards in the last few years, including Certified Great Place to Work in India; Top 25 GPW in IT & IT-BPM; Ambition Box Best Place to Work, #3 in IT/ITES; and Top Workplace NJ-USA."
+e298f94783cb10ba,"Senior Software Engineer, Data Solutions",StackAdapt,"Toronto, Ontario, Canada",0,,2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490911977,,52,"Free scorer: your resume shows 2 of 10 listed skills (Python, LLM).","[""Java"", ""Go"", ""Scala"", ""Redshift"", ""Kafka"", ""Spark"", ""Data Modeling"", ""Kubernetes""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:13+00:00,"[""Python"", ""LLM""]",,senior,li-4490911977,linkedin,"StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels.
+
+About the Data Solutions Team
+  
+We're looking for a Senior Software Engineer to help build Data Solutions, a new domain at StackAdapt. Data Solutions turns the data StackAdapt generates, licenses, and partners for into trusted, reusable data products. Those products power targeting, measurement, AI, and new products across the company.
+  
+You'll help shape the enablement layers that power numerous core features across StackAdapt, including Ivy, StackAdapt's AI assistant for marketers. You'll also combine our proprietary datasets with third-party data to generate new insights.
+  
+The data underneath is large and rich: billions of events a day across impressions, clicks, and conversions, plus partner and licensed datasets. Our core technologies include Flink, Spark, Kafka, Iceberg, Golang, and Kubernetes. If you want to build data products that people rely on, and help define how an AI-forward company uses its data, this role is for you.
+  
+  
+What You'll Be Doing
+  
+• Design, build, and operate data products end to end, including audiences, signals, enrichments, and the APIs and services that expose them
+  
+• Build the foundational data layer that gives Ivy and other AI agents rich context on audiences, campaigns, inventory, and performance
+  
+• Develop streaming and batch pipelines with Flink, Spark, and Kafka that publish into our Iceberg-based data plane, with clear contracts for schema, freshness, and ownership
+  
+• Create reusable frameworks for onboarding third-party and partner data, so new providers can be added quickly and shared across products
+  
+• Turn raw platform data into insights, such as audience traits, inventory signals, and performance baselines, that improve targeting and recommendations
+  
+• Work closely with Product, Data Science, and external data partners to decide what to build and why
+  
+• Lead projects from technical design through production rollout, monitoring, and iteration
+  
+• Use AI tools and agents in your daily work, and help shape how the team builds with them
+  
+• Mentor engineers and raise the bar through design reviews and code reviews
+  
+  
+What You'll Bring to the Table
+  
+• 5+ years of experience as a backend, data, or platform software engineer, with strong coding skills in Java, Scala, Python, or Go
+  
+• A track record of shipping data products or platforms that other teams or customers depend on
+  
+• Hands-on experience with distributed processing, streaming, and lakehouse or warehouse technologies (e.g., Flink, Spark, Kafka, Iceberg, Redshift, ClickHouse, Trino)
+  
+• Strong grasp of data modeling, data contracts, and data quality at scale
+  
+• Product sense: you care who uses the data and whether it moves a business outcome
+  
+• Comfort working with technical and non-technical stakeholders to turn ambiguous needs into well-scoped systems
+  
+• An AI-forward mindset, with hands-on use of AI tools and curiosity about building data that agents consume
+  
+  
+Bonus Points
+  
+• Proficiency in Golang
+  
+• Experience working with privacy or legal teams on data use, such as consent, licensing, or clean rooms
+  
+• Experience building and shipping AI products or features, such as LLM-powered applications, agents, or recommendation systems
+  
+• Experience building data for ML or AI systems, such as features, embeddings, vector stores, retrieval, or MCP servers
+  
+• AdTech or MarTech experience
+  
+• Experience building data catalogs, marketplaces, or semantic layers
+
+The compensation range listed for this role reflects the expected base salary for candidates located in the posting country based on a global rate. It is informed by market data and the approved budget for this position. StackAdapt maintains different compensation ranges for roles across other countries and regions, and final offers will be aligned to the candidate’s current location. We do not ask candidates about current or prior salary history, and we will not use such information, if volunteered, in setting an offer.This range represents base salary only. Depending on the role, candidates may also be eligible for additional compensation such as annual bonuses, commissions, equity awards, and a comprehensive benefits package.Factors Influencing Final Compensation:The final compensation offer will be determined by a variety of factors, which may include, but are not limited to: the candidate's specific experience, technical skills, knowledge, abilities, and relevant education, licensure, and certifications.Other business factors, such as organizational needs and budget alignment, may also be considered in the final offer.
+
+Canada Base Salary Band: $170,400 CAD - $234,300 CAD
+
+USA Base Salary Band: $170,400 CAD - $234,300 CAD
+
+StackAdapter's Enjoy:
+
+* Highly competitive salary
+* Retirement/ 401K/ Pension Savings globally
+* Competitive Paid time off packages including birthday's off!
+* Access to a comprehensive mental health care program
+* Health benefits from day one of employment
+* Work from home reimbursements
+* Optional global WeWork membership for those who want a change from their home office and hubs in London and Toronto
+* Robust training and onboarding program
+* Coverage and support of personal development initiatives (conferences, courses, books etc)
+* Access to StackAdapt programmatic courses and certifications to support continuous learning
+* An awesome parental leave program
+* A friendly, welcoming, and supportive culture
+* Our social and team events!
+
+*Please note: Benefits and perks may vary depending on your country of employment and the nature of your engagement. In locations where StackAdapt does not have a legal entity, employment and benefits are administered in accordance with local regulations and partner policies.*
+
+*StackAdapt is a diverse and inclusive team of collaborative, hardworking individuals trying to make a dent in the universe. No matter who you are, where you are from, who you love, follow in faith, disability, superpower status, ethnicity, or the gender you identify with (if you’re comfortable, let us know your pronouns), you are welcome at StackAdapt.*
+ 
+*StackAdapt is committed to providing an inclusive and accessible recruitment process. Accommodations are available upon request for candidates taking part in all aspects of the selection process. If you require an accommodation, please let us know.*
+ 
+*We use artificial intelligence (AI) to streamline the resume reviews of candidates and assess their fit based on the criteria outlined in the job posting. We do not use AI to make any final hiring or interview decisions.*
+ 
+**About StackAdapt**
+ We've been recognized for our diverse and supportive workplace, high performing campaigns, award-winning customer service, and innovation. We've been awarded: G2 Top Software for 2026
+  
+2026 Best Workplaces™ for Young Talent and in Canada by Great Place to Work®
+  
+#1 DSP on G2 and leader in a number of categories including Cross-Channel Advertising2026 Winner in the (CTV/OTT) Product/Platform category for the 2026 ADWEEK Tech Stack Awards To learn more about our privacy practices, please see our Privacy Policy."
+087832b0e489e6e3,Data Engineer,Hirevantis LLC,"Toronto, Ontario, Canada",0,"CAD 105,000 - 135,000 /yearly",2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490922986,,49,"Free scorer: your resume shows 4 of 30 listed skills (Python, PostgreSQL, AWS, Docker).","[""SQL"", ""SQL Server"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""Databricks"", ""Kafka"", ""Spark"", ""PySpark"", ""Airflow"", ""dbt"", ""Prefect"", ""ETL"", ""ELT"", ""Data Modeling"", ""Data Warehouse"", ""Tableau"", ""Power BI"", ""Machine Learning"", ""Azure"", ""GCP"", ""Kubernetes"", ""Terraform"", ""CI/CD"", ""CloudFormation"", ""Security""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:13+00:00,"[""Python"", ""PostgreSQL"", ""AWS"", ""Docker""]",,mid,li-4490922986,linkedin,"**Job Title:**
+Data Engineer
+
+**Company:**
+Hirevantis LLC
+
+**Location:**
+Toronto, ON (Hybrid / Remote across Canada)
+
+**Employment Type:**
+Full-Time / Contract
+
+**Compensation:**
+CA$105,000 – CA$135,000 per year (or commensurate hourly contract rate)
+
+About Hirevantis LLC
+
+Hirevantis LLC is an IT staffing and technology consulting provider connecting skilled technology professionals with leading organizations across North America and the Asia-Pacific region. We partner with innovative enterprises to build scalable, data-driven engineering teams.
+
+Role Summary
+
+We are seeking an experienced
+**Data Engineer**
+to join one of our premier Canadian enterprise clients. You will design, build, and maintain scalable data pipelines and cloud data architectures that turn raw data into reliable insights for analytics, business intelligence, and machine learning teams.
+
+Key Responsibilities
+
+* **Data Pipeline Development:**
+  Design, build, and optimize scalable ETL/ELT pipelines to ingest, transform, and load structured and unstructured data from diverse sources.
+* **Data Warehouse & Lakehouse Architecture:**
+  Develop and maintain modern cloud data warehouses and data lakes (e.g., Snowflake, Databricks, BigQuery, or Redshift).
+* **Data Modeling & Optimization:**
+  Create efficient dimensional and relational data models, optimizing SQL queries and storage for performance and cost efficiency.
+* **Data Quality & Governance:**
+  Implement automated data validation, monitoring, lineage tracking, and security controls to ensure high data accuracy and compliance with Canadian privacy regulations (such as PIPEDA).
+* **Cross-Functional Collaboration:**
+  Partner closely with Data Scientists, Business Analysts, and Software Engineers to understand data requirements and deliver production-ready datasets.
+* **CI/CD & Automation:**
+  Automate infrastructure provisioning and pipeline deployments using modern DevOps and DataOps practices.
+
+Required Qualifications
+
+* **Experience:**
+  3+ years of hands-on experience in data engineering, big data processing, or backend data architecture.
+* **Programming & Querying:**
+  Strong proficiency in
+  **Python**
+  and advanced
+  **SQL**
+  (complex joins, window functions, query tuning).
+* **Big Data & Orchestration:**
+  Practical experience with Apache Spark (PySpark) and workflow orchestration tools such as Apache Airflow, dbt, or Prefect.
+* **Cloud Platforms:**
+  Hands-on experience with at least one major cloud provider (
+  **AWS**
+  ,
+  **Microsoft Azure**
+  , or
+  **Google Cloud Platform**
+  ).
+* **Database Technologies:**
+  Solid understanding of both relational databases (PostgreSQL, SQL Server) and NoSQL or distributed storage systems.
+* **Work Authorization:**
+  Must be legally eligible to work in Canada (Canadian Citizen, Permanent Resident, or valid Open Work Permit).
+
+Preferred Qualifications
+
+* Experience with real-time streaming technologies such as Apache Kafka, AWS Kinesis, or Azure Event Hubs.
+* Familiarity with Infrastructure as Code (Terraform, CloudFormation) and containerization (Docker, Kubernetes).
+* Exposure to data governance frameworks and enterprise BI tools (Power BI, Tableau).
+* Bachelor’s or Master’s degree in Computer Science, Data Engineering, Information Systems, or a related quantitative field.
+
+What We Offer
+
+* Competitive Canadian salary or flexible incorporated/T4 contract rates.
+* Comprehensive health and dental benefits (for full-time employees).
+* Flexible hybrid or remote work arrangements across Canada.
+* Ongoing career support, interview preparation, and placement opportunities with top North American enterprises."
+a7faef820bb2e55d,Data Engineer,Mindlance,"Toronto, Ontario, Canada",0,CAD 50 - 80 /hourly,2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490903689,,55,"Free scorer: your resume shows 2 of 8 listed skills (Python, AWS).","[""SQL"", ""Elasticsearch"", ""Snowflake"", ""Kafka"", ""Spark"", ""Azure""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:13+00:00,"[""Python"", ""AWS""]",,mid,li-4490903689,linkedin,"Job Title: Principle Data Engineer
+
+Location: Mississauga ON OR Toronto, ON (Hybrid – 4 Days Onsite)
+
+Duration-12 Months+
+
+Required
+
+* **10 + years of experience in**
+  building and deploying applications across hybrid and multi-cloud environments, including on-premises, Snowflake, AWS, and Azure
+* **10 + years of experience**
+  in SQL, Python, and Spark for data processing and analytics
+* 10 + years of experience in building streaming pipelines (e.g. kafka)
+* **Expertise in**
+  large-scale data and platform migrations in complex enterprise environments
+* Experience with cloud infrastructure and migrating data from on-prem to cloud
+* **Expertise**
+  in modern data platform architectures, including data lakehouses (Delta Lake, Iceberg), and integrated BI/AI solutions
+* **Hands-on knowledge**
+  of enterprise platforms including OpenShift, Apigee, Kafka, and Elasticsearch
+
+If interested please share resume directly @vidushis1@mindlance.com
+
+“Mindlance is an equal-opportunity employer. We are committed to inclusive, equitable, barrier-free recruitment and selection processes, and a work environment in accordance with the Accessibility for Ontarians with Disabilities Act (AODA). We will be happy to work with applicants requesting accommodation at any stage of the hiring process”.
+
+We should include, “We use AI in our Hiring processes”, in all job postings for Canada."
 b348d1c083c4ab96,Sr Data Engineer,MPA Recruitment,"Toronto, Ontario, Canada",0,,2026-11-15,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491240835,,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Docker).","[""Java"", ""Scala"", ""SQL"", ""Databricks"", ""Kafka"", ""ETL"", ""ELT"", ""Azure"", ""GCP"", ""Kubernetes"", ""Agile""]",new,2026-11-15T19:19:53+00:00,2026-11-15T19:20:24+00:00,"[""Python"", ""AWS"", ""Docker""]",,senior,li-4491240835,linkedin,"Sr Data Engineer
 
 Toronto (hybird)
@@ -2664,7 +3301,52 @@ eb85f864f33d668c,SAS/Python Developer,Quantum World Technologies Inc.,"Toronto, 
   **Git/GitHub**
   .
 * Collaborate with business, infrastructure, and development teams to support migration and modernization initiatives."
-9c95119bb38d7d7b,Python Backend Engineer,Staffingine LLC,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489646200,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-11-10T20:21:00+00:00,2026-11-10T20:23:28+00:00,"[""Python""]",,mid,li-4489646200,linkedin,
+9c95119bb38d7d7b,Python Backend Engineer,Staffingine LLC,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489646200,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-11-10T20:21:00+00:00,2026-11-10T20:23:28+00:00,"[""Python""]",,mid,li-4489646200,linkedin,"**Staffingine LLC**
+is excited to announce an excellent
+**Contract & Fulltime**
+opportunity with one of our top clients !
+
+**Position: Python Backend Engineer**
+
+**Location: Toronto Ontario - Onsite**
+
+**Hire Mode: Fulltime & Contract**
+
+**Experience: 5–10+ years (backend-focused)**
+
+**In person Interview in Toronto is MANDATORY**
+
+**Job Summary**
+
+* Seeking experienced Python Backend Engineers to design, develop, and scale secure, high-performance backend systems for enterprise financial platforms. The role focuses on Python development, API engineering, platform engineering, and distributed system design.
+
+**Key Responsibilities**
+
+* Design, develop, and maintain scalable backend services using Python.
+* Build and manage RESTful APIs and backend integrations.
+* Develop reliable and scalable platform services.
+* Contribute to system design and distributed architecture.
+* Optimize application performance, security, and observability.
+* Collaborate with frontend, DevOps, and product teams.
+* Participate in code reviews and follow engineering best practices.
+
+**Required Skills**
+
+* Strong hands-on experience with Python backend development.
+* REST API development, JSON, and OpenAPI.
+* System design, scalability, and distributed systems.
+* Platform engineering and microservices architecture.
+* SQL and NoSQL databases.
+* Cloud platforms: AWS, Azure, or GCP.
+* CI/CD, Git, and DevOps practices.
+* Bachelor's or Master's degree from a Canadian university or college.
+* Strong communication and problem-solving skills.
+
+**Preferred Skills**
+
+* Financial services or FinTech experience.
+* Docker and Kubernetes.
+* Application security, compliance, and high-availability systems"
 b5c66c93fd7939d0,"Software Engineer II, Back-end, (AI Agents)",Affirm,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4488307303,,69,"Free scorer: your resume shows 3 of 6 listed skills (Python, REST, LLM).","[""Kotlin"", ""React"", ""Vue""]",new,2026-11-10T20:21:00+00:00,2026-11-10T20:23:29+00:00,"[""Python"", ""REST"", ""LLM""]",,mid,li-4488307303,linkedin,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
   
   
