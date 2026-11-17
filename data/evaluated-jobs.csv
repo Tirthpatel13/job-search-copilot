@@ -1,4 +1,778 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+c5d41db1afa9f846,Senior Data Engineer,Bridgenext,"Toronto, ON, Canada",0,,2026-11-17,"[""indeed""]",https://ca.indeed.com/viewjob?jk=ade9793b0926326f,https://cancareers-bridgenext.icims.com/jobs/11388/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,60,"Free scorer: your resume shows 7 of 21 listed skills (Python, Pandas, AWS, S3).","[""SQL"", ""Snowflake"", ""Airflow"", ""dbt"", ""Dagster"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""GCP"", ""Terraform"", ""CI/CD"", ""Datadog"", ""Security""]",new,2026-11-17T21:37:18+00:00,2026-11-17T21:37:33+00:00,"[""Python"", ""Pandas"", ""AWS"", ""S3"", ""GitHub Actions"", ""Git""]",,senior,in-ade9793b0926326f,indeed,"Company Overview:
+
+At Bridgenext, we engineer Growth Operating Systems. Most enterprises have spent millions on their revenue stack and still aren't seeing the growth they expected.They have tools that function, but no system that wins. We help growth-hungry companies close that gap by turning fragmented platforms, siloed teams, and disconnected data into one integrated Growth OS. More than a technology company or marketing agency, we're a global digital consultancy with experts in engineering, data, AI, creative and more.
+
+Our teams are made up of experts who believe in engineering impact, starting with putting people at the center of everything we do. Every team member directly shapes our work, culture, and values. Nothing matters more to us than a kind, respectful, fulfilling environment that supports everyone. Our flexible, inclusive culture gives you the autonomy, resources, and opportunities to thrive.
+
+Position Description:
+
+We are looking for a talented and experienced Senior Data Engineer to join our team in Canada.  
+  
+Bridgenext is seeking a Senior Data Engineer to design, build, and improve its next-generation data platform. You will be the architect and builder of scalable data pipelines, so the data ecosystem stays reliable, efficient, and ready to grow. You will work closely with Tech Leads, analysts, and product teams to turn raw data into a strategic asset. The team treats data pipelines with the same engineering rigor as production software.
+
+Responsibilities include, but are not limited to:
+
+* Design and build scalable, robust data models in Snowflake that support diverse analytics and reporting needs
+* Build and maintain modular, tested and well-documented ELT and ETL pipelines using dbt
+* Design complex workflow orchestrations and dependency graphs in Dagster or Apache Airflow, with high availability and fault tolerance
+* Write clean, efficient and reusable Python for data functions, pipeline development and monitoring of data assets
+* Use cloud services (AWS and Azure to manage data lake storage, compute resources and secure data sharing
+* Run code reviews and champion software engineering best practices in the data team, including version control, testing and documentation
+* Run automated tests and deployments through GitHub Actions CI/CD
+* Manage infrastructure as code with Terraform where the team uses it
+* Protect PII and sensitive data in every pipeline and environment
+
+**Workplace:** This is a hybrid contract role for 6 months to start with potential for extension. The successful candidate will be required to work in office 2 days per week in either Vancouver, Calgary, or Toronto. Candidates must live within commuting distance of one of these offices and are expected to work the regular business hours in their respective timezones.
+
+**Must Have Skills:**
+
+* 5+ years in data engineering, software engineering or a related quantitative field, with data pipelines running in production
+* Snowflake: deep understanding of the architecture, including virtual warehouses, clustering, micro-partitions, Snowpipe and cost optimization
+* Terraform and Datadog
+* dbt in production at scale, with a proven track record
+* Strong production experience with Dagster or Airflow, such as custom operators, sensors or software-defined assets
+* Advanced Python, including pandas, pytest and poetry or pipenv
+* Advanced SQL, with highly optimized and complex queries
+* Data modeling for analytics and reporting
+* Hands-on cloud experience (AWS or Azure) with managed services, IAM policies, and cloud storage such as S3
+* Git version control and code review habits, plus CI/CD experience (GitHub Actions or comparable)
+* Working awareness of data privacy, security and PII handling
+* Clear spoken and written English for daily work with Tech Leads, analysts and product teams
+
+**Preferred Skills:**
+
+* Both Dagster and Airflow experience
+* Both AWS and Azure experience, or exposure to GCP
+* Experience in a financial institution or other regulated environment
+* Data contracts, schema validation and data quality testing (dbt tests, Great Expectations or Soda)
+* Observability and monitoring for pipelines, such as Datadog
+* Experience mentoring other data engineers
+
+**Professional Skills:**
+
+* Solid English verbal and written communication skills
+* Solid written, verbal, and presentation communication skills
+* Strong team and individual player
+* Maintains composure during all types of situations and is collaborative by nature
+* High standards of professionalism, consistently producing high quality results
+* Self-sufficient, independent requiring very little supervision or intervention
+* Demonstrate flexibility and openness to bring creative solutions to address issues
+
+**Bridgenext is an Equal Opportunity Employer**
+
+Canadian citizens and those authorized to work in Canada are encouraged to apply
+
+Compensation varies depending on a wide array of factors, which may include but are not limited to location, role, skill set, and level of experience. This is a contract position open to incorporated contractors."
+2e5e55a22876bd20,Senior Data Engineer,AeroVect,"Vancouver, BC, Canada",1,,2026-11-16,"[""indeed""]",https://ca.indeed.com/viewjob?jk=9240f4c1d780c800,https://jobs.ashbyhq.com/AeroVect/ee6dfcdc-e7b9-4e69-aee4-fd72b7926448?utm_source=Eop7pMkGOp,64,"Free scorer: your resume shows 5 of 12 listed skills (Python, AWS, Lambda, S3).","[""SQL"", ""BigQuery"", ""Redshift"", ""Machine Learning"", ""GCP"", ""Kubernetes"", ""Terraform""]",new,2026-11-17T21:37:15+00:00,2026-11-17T21:37:33+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Distributed Systems""]",,senior,in-9240f4c1d780c800,indeed,"**Who We Are**
+--------------
+
+AeroVect is transforming ground handling with autonomy, redefining how airlines and ground service providers around the globe run day-to-day operations. We are a Series A company backed by top-tier venture capital investors in aviation and autonomous driving. Our customers include some of the world’s largest airlines and ground handling providers. For more information, visit www.aerovect.com.
+
+As a Senior Data Engineer at AeroVect, you will design, build, and scale the data infrastructure powering our autonomous ground support equipment (AGSE) operations. As our fleet expands across airports, you'll be responsible for ensuring that large volumes of vehicle telemetry, sensor data, and operational data are reliably ingested, processed, stored, and made accessible to engineering and operational teams.
+
+You'll work at the intersection of autonomous systems, cloud infrastructure, and data engineering, building robust pipelines that transform real-world vehicle data into actionable insights. From processing data generated by autonomous tractors to enabling fleet performance monitoring and engineering analysis, your work will directly impact how we operate, improve, and scale our autonomous fleet.
+
+This is a hands-on engineering role in a fast-paced environment where you'll have significant ownership over data architecture, pipeline reliability, and infrastructure scalability. You'll collaborate closely with software, infrastructure, autonomy, and operations teams to build systems that support vehicles operating in live airport environments.
+
+**You Will**
+------------
+
+* Design, build, and maintain scalable data pipelines to ingest, process, and store large volumes of autonomous vehicle telemetry, sensor, and operational data.
+* Develop and operate reliable batch and streaming data pipelines, supporting both near-real-time monitoring and historical analysis.
+* Build and optimize cloud-based data infrastructure using AWS and modern distributed data processing technologies.
+* Develop systems to move data reliably from edge devices and on-premise infrastructure into cloud-based storage and processing environments.
+* Design and maintain data models, schemas, and storage architectures that enable efficient querying, analytics, and downstream engineering workflows.
+* Ensure data quality, consistency, availability, and observability across production pipelines.
+* Optimize data processing performance, storage efficiency, and infrastructure costs as fleet size and data volumes increase.
+* Collaborate with autonomy, software, and infrastructure engineers to support debugging, performance analysis, and continuous improvement of autonomous vehicle systems.
+* Build tools and infrastructure that make data easily accessible to engineering, product, and fleet operations teams.
+* Take end-to-end ownership of data infrastructure, from architecture and implementation to deployment, monitoring, and production troubleshooting.
+
+**You have**
+------------
+
+* 5+ years of experience in data engineering, software engineering, or distributed systems, with a strong focus on building production-grade data infrastructure.
+* Strong programming experience in Python and SQL.
+* Hands-on experience designing and operating large-scale batch and streaming data pipelines.
+* Strong experience with AWS services such as S3, Kinesis, Lambda, Glue, Redshift, or similar cloud-native data infrastructure.
+* Experience designing data architectures, storage solutions, and data models for high-volume, complex datasets.
+* Strong understanding of distributed systems, data reliability, fault tolerance, and performance optimization.
+* Experience deploying, monitoring, and troubleshooting data pipelines in production environments.
+* Familiarity with terraform and Kubernetes is preferred.
+* Ability to work independently, navigate ambiguity, and take ownership of complex technical problems.
+* Strong communication skills and experience collaborating across engineering teams.
+
+**We prefer**
+-------------
+
+* Experience working with autonomous vehicles, robotics, automotive telemetry, IoT, or other sensor-heavy systems.
+* Experience processing large-scale time-series, image, video, or other unstructured datasets.
+* Familiarity with edge-to-cloud data ingestion architectures and intermittent-connectivity environments.
+* Experience with data lake architectures, GCP BigQuery and AWS Athena.
+* Experience building data infrastructure supporting machine learning, simulation, or robotics development workflows.
+* Knowledge of ROS, ROS bags, or autonomous vehicle data formats.
+* Experience building data platforms from the ground up in a startup or rapidly scaling engineering organization."
+79f1640837336667,Senior Software Engineer - Backend,Guidepoint,"Toronto, ON, Canada",0,"CAD 140,000 - 170,000 /yearly",2026-11-17,"[""indeed""]",https://ca.indeed.com/viewjob?jk=113687c2a98e19df,https://grnh.se/17dfc8ic2us,65,"Free scorer: your resume shows 6 of 14 listed skills (Python, FastAPI, PostgreSQL, Redis).","[""Microservices"", ""RabbitMQ"", ""Pub/Sub"", ""ETL"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD""]",new,2026-11-17T21:37:12+00:00,2026-11-17T21:37:34+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""Redis"", ""AWS"", ""Docker""]",,senior,in-113687c2a98e19df,indeed,"#### **Overview:**
+
+Frontier models have already absorbed most of the public internet and generalist tasks, but they still lack the tacit judgment of experts who do complex professional work for a living. Bridging this gap requires identifying, verifying, and engaging a significant number of experts across many, often niche, domains over an extended period of time. And the specificity matters: not a physician, but an investigator who has actually run a Phase III oncology trial; not a generalist consultant, but a reimbursement lead who has negotiated with payers.
+
+Guidepoint Labs is a new human data team leading the way to solve exactly that problem for frontier model builders and researchers. Providing access on day one to millions of vetted experts across effectively every industry and deep into the sub-specialties, along with mature governance, compliance, and confidentiality infrastructure.
+
+We are seeking a Senior Software Engineer – Backend with 8+ years of software engineering experience to own the foundational architecture of our new project from 0 to 1. You will design, build, and scale our new project, distributed data pipelines, and high-performance infrastructure. This is a hands-on technical leadership role for someone who has built mission-critical production systems from scratch, possesses deep mastery over Python and data stores, and thrives on solving complex architectural scaling challenges.
+
+**This is a hybrid role in our Toronto office.**
+
+#### **What You'll Do:**
+
+* **0-to-1 PLatform Development:** Design and build core backend services, microservices, and distributed data pipelines from the ground up, establishing scalable system patterns for the entire engineering organization.
+* **High-Throughput Data & Event Processing:** Architect low-latency, event-driven messaging and caching frameworks using RabbitMQ (RMQ) and Redis to support real-time data flows and high-concurrency workloads.
+* **Data Lake & Database Engineering:** Design robust relational schemas and complex querying layers in PostgreSQL alongside large-scale data lake architecture for analytical and operational workloads.
+* **Complex Third-Party Integrations:** Build secure, fault-tolerant integration pipelines connecting enterprise systems, external vendors, and proprietary data streams with strict error handling and rate-limiting.
+* **Cloud Infrastructure & Reliability:** Provision, manage, and scale containerized cloud environments (AWS/GCP/Azure) utilizing Infrastructure-as-Code (IaC), automated CI/CD pipelines, and rigorous monitoring/observability standards.
+* **Enterprise Integrations & Cloud Infrastructure:** Integrate frontier models (OpenAI, Anthropic, open-source LLMs) with internal microservices, proprietary data stores, and third-party tools within a scalable cloud environment.
+
+#### **What You Have:**
+
+* **Experience:** 8+ years of professional software engineering experience with a heavy focus on backend systems, distributed computing, and taking products from 0 to 1.
+* Bachelor's Degree in Computer Science, Engineering, Information Technology or related field
+* **Core Language & Frameworks:** Expert-level proficiency in Python and asynchronous programming frameworks (e.g., FastAPI) with a deep understanding of memory management, concurrency, and performance tuning.
+* **Databases & Data Lakes:** Extensive experience scaling PostgreSQL (query optimization, indexing, partitioning) alongside hands-on experience architecting and querying data lakes.
+* **Messaging & Caching:** Production expertise in configuring and managing RabbitMQ (RMQ) for event-driven microservices and Redis for distributed caching, rate limiting, and pub/sub patterns.
+* **Integration & Pipelines:** Proven track record of engineering complex ETL/data pipelines and secure, robust API and webhook integrations across heterogeneous systems.
+* **AI Experience:** Demonstrated success building and deploying applications powered by LLMs subagents and agent led frameworks.
+* **Cloud & DevOps:** Deep hands-on experience with major cloud platforms (AWS, GCP, or Azure), Docker, Kubernetes, CI/CD automation, and modern infrastructure monitoring tools.
+
+**What We Offer:**
+
+The annual base salary range for this position is **140,000-170,000**. Additionally, this position is eligible for an annual discretionary bonus based on performance.
+
+**You will also be eligible for the following benefits:**
+
+* Paid Time Off
+* Comprehensive benefits plan
+* Company RRSP Match
+* Development opportunities through the LinkedIn Learning platform
+
+**About Guidepoint:**
+
+Guidepoint powers end-to-end research workflows for the world's best research teams.
+
+Backed by a global network of more than **2 million experts and over 1,600 employees,** Guidepoint delivers real-time access to expertise, primary research, and actionable knowledge that help organizations make informed decisions. Through consultations, surveys, events, proprietary content, and AI-enabled tools, we support every stage of the decision-making process—from developing hypotheses and gathering insights to validating assumptions and building conviction for critical decisions.
+
+At Guidepoint, our success relies on the diversity of our employees, experts, and clients, which enables us to foster meaningful connections and a broad range of perspectives. We are committed to creating an inclusive and welcoming environment where individuals of all backgrounds, identities, and experiences can contribute and succeed.
+
+#LI-TA1
+
+#LI-HYBRID"
+a8312d4bff9d6f35,"Senior Software Engineer, Backend (Continuous Delivery)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-11-17,"[""indeed""]",https://ca.indeed.com/viewjob?jk=ded505c64db0223a,https://grnh.se/zk92acqp3us,69,"Free scorer: your resume shows 4 of 8 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kubernetes"", ""CI/CD""]",new,2026-11-17T21:37:03+00:00,2026-11-17T21:37:34+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,senior,in-ded505c64db0223a,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+Our team sits within Developer Productivity, whose mission is to make software development at Affirm simpler and faster across the company. The broader org owns much of the path between a developer's laptop and production, including developer environments, CI/CD pipelines, test automation, dependency management, and release engineering, all in service of helping engineers ship code quickly, safely, and with confidence.
+
+The Continuous Delivery team's charter is centered on enabling engineering teams to release independently through strong automation, standard patterns, predictable rollouts, resilient recovery mechanisms, and less manual toil. This role is uniquely positioned to help solve one of Affirm's most important engineering challenges: scaling developer productivity in an era where the software development lifecycle is increasingly AI-enhanced. The team builds and improves the platforms, workflows, and guardrails that help engineers move from idea to production faster, with better safety, consistency, and developer experience.
+
+We value engineers who listen closely, invite feedback, and work well across organizational boundaries, while also holding a high bar for ownership, technical judgment, and follow-through. Strong candidates will care about building reliable shared systems, reducing friction for other engineers, and making durable improvements that raise the quality and speed of software delivery across Affirm.  
+  
+**What You'll Do**
+
+* You will be responsible for owning and delivering quarterly goals for your team, leading engineers on your team through ambiguity to solve open-ended problems, and ensuring that everyone is supported throughout delivery.
+* You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.
+* You will proactively identify project, process, technology or business issues, advocate for them, and lead in solving them.
+* You will support the operations and availability of your team's artifacts by creating and monitoring metrics, escalating when needed, and supporting ""keep the lights on"" & on-call efforts.
+* You will foster a culture of quality and ownership on your team by setting or improving code review and design standards for your team, and advocating for them beyond your team through your writing and tech talks.
+* You will help develop talent on your team by providing feedback and guidance, and leading by example.
+
+  
+
+**What We Look For**
+
+* You have 4+ years of experience designing, developing and launching backend systems at scale using languages like Python or Kotlin.
+* You have a track record of developing highly available distributed systems using technologies like AWS, MySQL and Kubernetes.
+* You have experience building or evolving CI/CD, deployment, or release automation systems that reduce manual toil and improve rollout predictability, recovery, and auditability across many engineering teams
+* You are comfortable working on shared developer infrastructure and defining clear platform interfaces, templates, or guardrails that make it easier for product teams to adopt standard deployment patterns with confidence.
+* You have experience defining a technical plan for the delivery of a significant feature or system component with an elegant, simple and extensible design. You write high quality code that is easily understood and used by others.
+* You are proficient at making significant changes in a large code base, and have developed a suite of tools and practices that enable you and your team to do so safely.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+  
+
+Base Pay Grade - N  
+Equity Grade - 6
+
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.  
+  
+Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).  
+  
+CAN base pay range per year: $153,000 - $213,000 CAD.
+
+Location - Remote Canada
+
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.
+
+#LI-Remote
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
+36cca64377cb6081,Senior Data Engineer - Toronto,Trisura,"Toronto, Ontario, Canada",0,,2026-11-17,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491182663,,56,"Free scorer: your resume shows 4 of 15 listed skills (Python, REST, PostgreSQL, Git).","[""SQL"", ""SQL Server"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Power BI"", ""Excel"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-17T21:37:02+00:00,2026-11-17T21:37:34+00:00,"[""Python"", ""REST"", ""PostgreSQL"", ""Git""]",,senior,li-4491182663,linkedin,"At
+**Trisura**
+, we expect more because we believe it can be done better.
+  
+  
+We are a young, growth oriented team with a commitment to exceptional talent and have been named one of
+**Canada’s Top Small and Medium Employers**
+since 2017. Our growth and our entrepreneurial style, niche market position and development opportunities ensure that our people see the results of their commitment reflected in the company’s success.
+  
+  
+We are currently seeking a driven and collaborative Senior Data Engineer to join our forward-thinking Data and Analytics team.
+  
+  
+**SENIOR DATA ENGINEER**
+**TORONTO**
+**Position Overview**
+As a Senior Data Engineer on our Data & Analytics Team, you will be a hands-on technical leader responsible for designing, building, operating, and continuously improving scalable, secure, and reliable data solutions. The role will help modernize Trisura’ s data platform, enable trusted analytics and reporting, and establish engineering standards across ingestion, transformation, orchestration, deployment, monitoring, data quality, and documentation.
+  
+  
+Working closely with Data & Analytics, application teams, architects, analysts, governance, and business stakeholders, the Senior Data Engineer will translate business requirements into reusable data products and production-grade solutions across Microsoft Fabric, Azure, SQL Server, Power BI, and related technologies.
+  
+  
+**What You Will Do**
+
+* Design, build, test, deploy, and support scalable batch and near-real-time data pipelines for structured, semi-structured, and unstructured data using Microsoft Fabric, Azure Data Factory, SSIS, SQL Server, Azure SQL, cloud storage, and other enterprise data sources.
+* Develop modern data engineering solutions using Microsoft Fabric capabilities such as Lakehouse, Warehouse, OneLake, Copy Jobs, Notebooks, Dataflow Gen2, and related services, applying layered bronze/silver/gold architecture patterns where appropriate.
+* Develop robust, reusable ETL/ELT and data transformation solutions using T-SQL, Python, PySpark, and Spark SQL, including incremental loading, Change Data Capture (CDC), schema evolution, reconciliation, restart/recovery, idempotency, and error-handling patterns.
+* Design dimensional, relational, and Lakehouse data models that support analytics, operational and regulatory reporting, self-service analytics, and downstream system integrations.
+* Ensure production reliability by implementing monitoring, alerting, logging, data quality controls, reconciliation, metadata, lineage, auditability, and operational support procedures.
+* Optimize SQL, Spark, pipeline, and storage workloads for performance, scalability, reliability, and cost efficiency while applying security and privacy best practices, including least-privilege access, managed identities, service principals, secrets management, secure connectivity, and environment separation.
+* Implement source control, automated deployment, and CI/CD practices using Git, Azure DevOps, and Microsoft Fabric deployment capabilities, and participate in code reviews, testing, release planning, incident resolution, root-cause analysis, and post-implementation reviews.
+* Develop reusable engineering standards, frameworks, templates, patterns, and technical documentation to improve consistency, maintainability, and operational support across the data platform.
+* Partner with Power BI developers, analysts, business stakeholders, Data Governance, and other technology teams to translate business requirements into trusted, well-structured data solutions and clearly communicate dependencies, risks, and technical trade-offs.
+* Support the modernization and migration of legacy SSIS, SSRS, Azure Data Factory, SQL-based, and other data integration workloads to strategic cloud and Microsoft Fabric platforms.
+
+**What You Bring**
+**Core Skills:**
+
+* Strong ownership, accountability, and a focus on delivering reliable, maintainable data solutions.
+* Ability to lead technical design discussions, mentor other engineers, and promote engineering best practices.
+* Excellent written and verbal communication skills, including the ability to explain complex technical concepts to technical and non-technical audiences.
+* Ability to thrive in a fast-paced environment, manage competing priorities, and independently drive work from requirements through production support.
+* A collaborative and customer-focused mindset when working with business stakeholders, analysts, developers, architects, vendors, and operational teams.
+* Strong analytical and troubleshooting skills with a focus on root-cause analysis, automation, and continuous improvement.
+
+**Technical Expertise**
+
+* Advanced SQL and T-SQL skills, including complex querying, stored procedures, views, indexing, execution-plan analysis, performance tuning, and query optimization.
+* Strong Python skills for data engineering, automation, testing, API integration, and file processing, with hands-on experience in PySpark and Spark SQL preferred.
+* Hands-on experience with Microsoft Fabric and Azure data services, including Lakehouse, Warehouse, OneLake, Delta tables, pipelines, notebooks, Azure Data Factory, Azure SQL Database/Managed Instance, Azure Data Lake Storage, and Key Vault.
+* Strong understanding of modern data architecture and engineering patterns, including data warehousing, Lakehouse architecture, dimensional modeling, medallion architecture, ETL/ELT, incremental processing, and enterprise data integration.
+* Experience with Git-based source control, branching and pull-request practices, automated testing, CI/CD, and environment-specific configuration and deployment.
+* Experience designing secure data solutions using Microsoft Entra ID, managed identities, service principals, role-based access control, secrets management, and least-privilege principles.
+* Knowledge of data observability and governance practices, including logging, monitoring, alerting, pipeline metrics, reconciliation, metadata, lineage, data quality, retention, reference/master data, and audit requirements.
+* Working knowledge of Power BI and semantic model consumption patterns; experience with DAX is considered an asset.
+* Experience integrating enterprise databases, REST APIs, JSON, CSV, Parquet, Delta, SFTP, and other file-based or application data sources.
+* Experience with PostgreSQL and legacy Microsoft technologies such as SSIS and SSRS is an asset, particularly in modernization and migration initiatives.
+* Ability to develop clean, modular, testable, maintainable, and well-documented production-quality code.
+
+**Qualifications**
+
+* Bachelor's degree, college diploma, or equivalent practical experience in Computer Science, Information Systems, Data Engineering, Software Engineering, or a related field.
+* Minimum 5 years of progressive experience in data engineering, data integration, data warehousing, analytics engineering, or related roles, including ownership of production data solutions.
+* Demonstrated experience designing and delivering end-to-end data solutions rather than only developing individual ETL components or reports.
+* Demonstrated experience troubleshooting complex production data issues and improving platform reliability, performance, and maintainability.
+* Experience providing technical leadership, mentoring, code review, solution design, or engineering standards is strongly preferred.
+* Experience in Insurance or another regulated financial-services environment is strongly preferred.
+* Microsoft Fabric, Azure Data Engineer, Azure, Power BI, or related Microsoft certifications are considered an asset.
+
+**Location:**
+
+* Downtown Toronto – Hybrid
+
+**Salary**
+
+* The maximum potential base salary for this position is $125,000
+
+This salary range reflects the expected base compensation for the role across Canada. Actual compensation will be determined based on factors such as experience, qualifications, and scope of responsibilities. Trisura provides this range in good faith in accordance with applicable legislation.
+  
+  
+*This position is for an existing, currently vacant position.*
+If you are looking for a career in an exciting and rewarding company, are driven to excel, thrive in a team environment and want to contribute to the success of an organization that values your contribution, we would like to hear from you!
+  
+  
+We are committed to an inclusive and barrier-free workplace that reflects the diversity in each of our offices across Canada. Accommodations will be provided on request for candidates taking part in all aspects of our recruitment and selection process.
+  
+  
+We thank all candidates for their interest however only those selected for an interview will be contacted.
+  
+  
+**Trisura**
+, headquartered in the heart of Canada’s financial district, is a specialty lines insurer with a focus on Surety, Specialty Insurance, Property & Casualty, and Warranty products.
+  
+  
+**Trisura**
+brings innovative solutions and expertise through a select network of both national and regional brokerage firms.
+  
+  
+The company, founded in 2006, and operating across North America with offices in Toronto, Ottawa, Halifax, Montréal, Calgary, Vancouver, Stamford. Denver, Chicago, Philadelphia and Oklahoma City, is uniquely positioned to satisfy all varieties of risk in Contract, Commercial and Developer Surety, Directors' and Officers' Liability, Fidelity, and Professional Liability including Media Liability, as well as Warranty products.
+  
+  
+**trisura.com/careers**"
+acce9ebae9fae25d,Senior Data Engineer,KTek Resourcing,"Toronto, Ontario, Canada",0,,2026-11-17,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491707764,,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Git).","[""SQL"", ""Databricks"", ""Spark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Data Warehouse"", ""Azure"", ""GCP"", ""CI/CD"", ""Security""]",new,2026-11-17T21:37:02+00:00,2026-11-17T21:37:35+00:00,"[""Python"", ""AWS"", ""Git""]",,senior,li-4491707764,linkedin,"* Design, develop, and maintain scalable ETL/ELT pipelines for structured and unstructured data.
+* Build and optimize data solutions using
+  **Databricks**
+  ,
+  **Spark**
+  , and
+  **Spark SQL**
+  .
+* Implement data ingestion frameworks from various source systems including databases, APIs, files, and streaming platforms.
+* Develop and maintain data lakehouse architectures leveraging Databricks best practices.
+* Design and implement Medallion Architecture (Bronze, Silver, Gold layers) for enterprise data platforms.
+* Collaborate with business stakeholders, data scientists, architects, and application teams to understand data requirements.
+* Optimize Spark jobs and data pipelines for performance, scalability, and cost efficiency.
+* Implement data quality, governance, security, and monitoring frameworks.
+* Support AI/ML initiatives by preparing and engineering datasets for model development and deployment.
+* Develop CI/CD pipelines and automate deployment processes for data engineering workloads.
+* Participate in architecture reviews and establish data engineering standards and best practices.
+* Mentor junior engineers and provide technical leadership across projects.
+
+**Required Qualifications**
+
+* Bachelor's or Master's degree in Computer Science, Information Technology, Data Science, or related field.
+* 8+ years of experience in Data Engineering and Data Platform development.
+* Strong hands-on experience with
+  **Databricks**
+  and
+  **Apache Spark**
+  .
+* Proficiency in
+  **Python**
+  ,
+  **Spark**
+  , and
+  **SQL**
+  .
+* Experience with cloud platforms such as:
+* Microsoft Azure (preferred)
+* AWS
+* Google Cloud Platform
+* Experience with Delta Lake, Unity Catalog, and Databricks workflows.
+* Strong understanding of Data Lake, Data Warehouse, and Lakehouse architectures.
+* Experience working with large-scale distributed data processing systems.
+* Knowledge of data modeling, partitioning, indexing, and query optimization techniques.
+* Experience with Git, CI/CD pipelines, and DevOps practices."
+47542db3b6a3ba7d,Cloud Data Engineer,Tata Consultancy Services,"Toronto, Ontario, Canada",0,"CAD 100,000 - 120,000 /yearly",2026-11-17,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491412983,,54,"Free scorer: your resume shows 3 of 13 listed skills (Python, AWS, GitHub Actions).","[""SQL"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Azure"", ""Terraform"", ""CI/CD"", ""Security"", ""Networking""]",new,2026-11-17T21:37:02+00:00,2026-11-17T21:37:35+00:00,"[""Python"", ""AWS"", ""GitHub Actions""]",,mid,li-4491412983,linkedin,"**Inclusion without Exception**
+
+Tata Consultancy Services (TCS) is an equal opportunity employer, and embraces diversity in race, nationality, ethnicity, gender, age, physical ability, neurodiversity, and sexual orientation, to create a workforce that reflects the societies we operate in. Our continued commitment to Culture and Diversity is reflected in our people stories across our workforce and implemented through equitable workplace policies and processes.
+
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry-leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, engineering excellence and customer service.
+
+It has set an aspiration to become the world's largest AI-led technology services company and is enabling its clients to transform themselves across the full AI stack, from infrastructure to intelligence.
+
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its employees, and the community at large. With a highly skilled workforce spread across 56 countries and 194 service delivery centers across the world, the company has been recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, the company has built long term partnerships with its clients. Many of these relationships have endured into decades and navigated every technology cycle, from mainframes in the 1970s to artificial intelligence today.
+
+**Role and Responsibilities**
+
+**Experience:**
+Strong relevant experience, including demonstrated experience in Cloud / Platform / Data Engineering
+
+**Must-Have Skills**
+
+* AWS & Microsoft Azure
+* Microsoft Fabric administration and engineering
+* Terraform and AWS CDK
+* Data Engineering: ETL / ELT
+* Python, PySpark, SQL, Spark
+* Azure DevOps or GitHub Actions CI/CD
+* IAM / RBAC, networking, secrets management
+* Monitoring, logging, security, and governance
+* Strong platform administration & production support
+* Microsoft Fabric experience
+
+Microsoft Fabric - Hands-On Exposure
+
+Candidate should have hands-on exposure to:
+
+* OneLake
+* Lakehouse & Warehouse
+* Data Factory
+* Data Pipelines
+* Notebooks & Spark
+* Workspaces
+* Capacity/access administration
+
+**Key Responsibilities**
+
+* Engineer and administer enterprise platforms across AWS and Azure.
+* Provision and automate infrastructure using Terraform and AWS CDK.
+* Administer and support Microsoft Fabric workloads and environments.
+* Build scalable ETL/ELT pipelines using Python, PySpark, SQL, and Spark.
+* Automate deployment through Azure DevOps or GitHub Actions.
+* Implement IAM/RBAC, networking, secrets, monitoring, security, and governance.
+* Troubleshoot infrastructure, deployment, performance, and data-pipeline issues.
+* Handle upgrades, capacity management, access management, production incidents, and operational support.
+
+
+
+Salary Range - CA$ 100,000 - CA$ 120,000 Per Year
+
+TCS does not use artificial intelligence tools for candidate screening or evaluation. This post is for a current vacancy. The hiring process includes an initial screening, followed by a technical evaluation and managerial discussion.
+
+Tata Consultancy Services Canada Inc. is committed to meeting the accessibility needs of all individuals in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code (OHRC). Should you require accommodation during the recruitment and selection process, please inform Human Resources.
+
+Thank you for your interest in TCS. Candidates that meet the qualifications for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile."
+1e857b78aacaa9bf,Senior Data Engineer,Financial Services Regulatory Authority of Ontario (FSRA),"Toronto, Ontario, Canada",0,"CAD 86,379 - 127,288 /yearly",2026-11-16,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4490952564,https://fsra.wd3.myworkdayjobs.com/en-US/FSRA_Careers/job/Toronto-ON/Senior-Data-Engineer_R002339,51,"Free scorer: your resume shows 2 of 11 listed skills (Python, Git).","[""SQL"", ""SQL Server"", ""PySpark"", ""ETL"", ""ELT"", ""Power BI"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-17T21:37:02+00:00,2026-11-17T21:37:35+00:00,"[""Python"", ""Git""]",,senior,li-4490952564,linkedin,"At FSRA, our vision is to ensure financial safety, fairness, and choice for Ontarians. As a financial services regulator, we’re passionate about protecting consumers. Our principles-based approach means we can quickly and effectively respond to the changing needs of consumers and the industry.
+  
+  
+Our team combines industry expertise with commitment to public service. We attract individuals who are interested in meaningful work and who measure success through outcomes, not inputs.
+  
+  
+At FSRA, we invest in the personal and professional growth of our team. We offer a competitive compensation package that includes an employer-matched defined benefit pension plan, and a comprehensive and competitive benefits plan. We prioritize learning and development, wellbeing, diversity, equity, inclusion and belonging, and community giving.
+  
+  
+Join FSRA and help us shape the future of regulation for generations to come!
+  
+  
+**Job Description:**
+**PURPOSE OF POSITION**
+Provides senior-level data-engineering expertise and technical leadership for the design, development and operation of FSRA’s enterprise data platform. Leads the planning and delivery of complex, cross-functional data initiatives and provides authoritative technical advice to management, Data Architects, business stakeholders and delivery partners on data-platform design, integration, governance, security and operational risks. In collaboration with Data Architects, Business Stakeholders, and delivery partners, contributes to a modern, governed data platform that enables regulatory reporting, analytics, and future AI initiatives.
+  
+  
+**Key Responsibilities**
+
+* Leads the technical design of complex Microsoft Fabric solutions and provides senior-level recommendations on Lakehouse, Warehouse, OneLake, pipeline, semantic-model and integration architecture; provides technical leadership for the development and operation of the enterprise data platform.
+* Designs and develop scalable Microsoft Fabric solutions using OneLake, Lakehouse, Warehouse, Pipelines, Notebooks, and Dataflows Gen2.
+* Establishes and directs implementation of enterprise engineering patterns and standards for Medallion Architecture (Bronze, Silver, Gold) and Delta Lake best practices to deliver scalable, maintainable, and analytics-ready data solutions.
+* Evaluates solution options, identifies enterprise impacts and risks, and recommends technical approaches to management and architecture governance bodies.
+* Build and maintain reliable, scalable enterprise ETL/ELT pipelines and integrations using SQL, Python, PySpark, Fabric Data Factory, Azure Data Factory, SSIS, and Dataiku.
+* Integrate SQL Server, Dynamics 365, Dataverse, APIs, files, and other enterprise systems to deliver reliable, scalable data integrations.
+* Develop automated data-quality, validation, reconciliation, monitoring, and error-handling solutions that support reliable data processing and operational support.
+* Provides senior technical advice and leads implementation of governance, lineage, security and compliance controls by developing governed, analytics-ready data products.
+* Provides technical ownership and ensures the quality, reliability and operational readiness for curated datasets, Power BI Semantic Models, and reporting-ready data products that meet business and reporting needs.
+* Develop and maintain Power BI dashboards in collaboration with business and technical teams to support reporting and analytical needs.
+* Leads design and code reviews and provides technical direction and quality oversight in CI/CD deployment processes, and operational support activities, supported by documented deployment procedures and operational runbooks.
+* Serves as a senior data-engineering subject-matter expert and provides consultative advice to management and stakeholders on platform capabilities, solution options, delivery risks, data quality, security, governance and operational sustainability.
+* Translates complex technical issues into options, implications and recommendations to support management decisions and enterprise priorities.
+* Ensures solutions support regulatory reporting, business analytics and strategic priorities while meeting agreed performance, security, governance and service requirements.
+* Acts as technical lead for project teams and oversees the integration of work completed by internal resources and external service providers.
+* Creates and maintains technical documentation, source-to-target mappings, deployment procedures, and operational runbooks that support code reviews, CI/CD deployments, and ongoing operations; Establishes documentation and operational-readiness standards and ensures adherence across delivery teams.
+* Leads cross-functional technical delivery and coordinates work across internal and external teams with business and technical teams to deliver reliable, scalable, governed, and analytics-ready data solutions.
+
+**Qualifications**
+**Education and Experience**
+
+* Postsecondary degree in computer science, software engineering, data engineering, information systems, or a related discipline, or an equivalent combination of education and relevant professional experience.
+* Microsoft Fabric ((DP-700 or DP-600) or Azure Data Engineering (DP-203) certification, an asset.
+* 7+ years of experience in Data Engineering, Data Integration, or Data Warehousing.
+* Hands-on experience with Microsoft Fabric or Azure Data Platforms
+* Strong knowledge of Microsoft Fabric, including OneLake, Lakehouse, Warehouse, Data Factory, Dataflows Gen2, Notebooks, and Delta Lake.
+* Experience with Dynamics 365, Dataverse, Power BI, and Power Platform.
+* Experience in financial services, government, or another regulated industry, an asset.
+
+**Knowledge And Skills**
+
+* Strong knowledge of Microsoft Fabric, including OneLake, Lakehouse, Warehouse, Data Factory, Dataflows Gen2, Notebooks, and Delta Lake.
+* Strong knowledge of Power BI, including the development and management of semantic models.
+* Advanced SQL/T-SQL skills, including hands-on experience, with Python or PySpark.
+* Experience developing enterprise ETL/ELT pipelines and data integration solutions.
+* Strong understanding of dimensional modeling, star schemas, and analytics data structures.
+* Experience with SQL Server, SSIS, SSAS, Git, Azure DevOps, and CI/CD.
+* Strong analytical, troubleshooting/problem-solving skills with the ability to diagnose data-quality and technical issues, assess alternatives and recommend practical solutions.
+* Strong stakeholder-management and consultation skills with the ability to explain technical concepts clearly, gather requirements and work effectively with technical and non-technical partners.
+* Enterprise Microsoft Fabric implementation experience with Microsoft Fabric.
+* Microsoft Fabric ((DP-700 or DP-600) or Azure Data Engineering (DP-203) certification.
+* Experience migrating SSIS, Synapse, Azure Data Factory, or legacy data warehouses to Fabric.
+* Knowledge of Direct Lake, Semantic Models, OneLake Shortcuts, and Fabric Capacity Management.
+
+**Compensation Grade:**
+Grade 06-AMAPCEO
+  
+  
+**Compensation Range:**
+$86,379.00
+  
+  
+$127,288.00
+  
+  
+**Bargaining Unit:**
+AMAPCEO
+  
+  
+**Job Code:**
+Job Code: 6A001F
+  
+  
+**Employment Type:**
+Regular
+  
+  
+**Scheduled Weekly Hours:**
+36.25
+  
+  
+**FSRA is committed to ensuring equity in employment. Our goal is to create a diverse, inclusive workforce that reflects the communities we serve and to ensure our services and communications are accessible to all individuals. Accommodation is available under the Ontario Human Rights Code.**
+**NOTE: ONLY QUALIFIED CANDIDATES WILL BE CONSIDERED**"
+91d18aa0a0435c0b,Python Developer - Insurance Experience - Remote,FormativGroup,"Atlanta, GA, USA",1,,2026-11-17,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491590706,,66,"Free scorer: your resume shows 4 of 9 listed skills (Python, Django, FastAPI, REST).","[""SQL"", ""Flask"", ""CI/CD"", ""Agile"", ""Security""]",new,2026-11-17T21:34:35+00:00,2026-11-17T21:37:35+00:00,"[""Python"", ""Django"", ""FastAPI"", ""REST""]",,mid,li-4491590706,linkedin,"***Build reliable Python backend applications and integrations that support critical insurance business processes.***
+*FormativGroup is a technology consulting and implementation partner delivering practical solutions for clients. This role supports a client engagement in the insurance industry.*
+*You will develop and maintain production Python applications, REST APIs, and backend services; build data-processing solutions; and integrate business systems using APIs, web services, and SQL.*
+*Working with business and technical stakeholders, you will contribute to cloud deployments, application quality, production support, and secure delivery in an Agile environment.*
+**What You'll Work On**
+*As a Python Developer, you will:*
+
+* Build and maintain Python backend applications and REST APIs supporting insurance-related business processes.
+* Develop services and integrations connecting internal and external systems through APIs and web services.
+* Create data-processing and automation solutions with Python and SQL; develop and optimize relational database queries.
+* Develop production applications using Django, Flask, or FastAPI, and support cloud deployments and CI/CD workflows.
+* Collaborate on requirements, testing, debugging, performance improvements, and production support while following secure coding and Agile practices.
+
+**What You'll Bring**
+*You will likely be successful in this role if you have:*
+
+* 7+ years of relevant software development experience, including substantial hands-on Python backend development.
+* Production development experience with at least one of Django, Flask, or FastAPI, plus REST API and backend-service development.
+* Strong SQL and relational database skills, including query development, data processing, and optimization.
+* Experience integrating systems using APIs/web services and working with business and technical stakeholders.
+* Experience with cloud deployments, CI/CD, testing, debugging, production support, performance optimization, and secure development practices.
+
+**How You Work**
+
+* You take ownership of hands-on development and follow through from requirements to production support.
+* You collaborate effectively with technical and business partners and adapt to changing delivery priorities.
+* You balance delivery speed with code quality, maintainability, performance, and security.
+
+**Bonus Points If You Have**
+
+* Hands-on experience developing or supporting insurance applications or processes.
+* Familiarity with Policy, Claims, Underwriting, or Billing systems and their integrations.
+* Experience across multiple Python backend frameworks or cloud deployment environments.
+
+**What Success Looks Like**
+
+* Deliver dependable Python applications, backend services, and APIs that meet agreed business requirements.
+* Improve the reliability and performance of data processing, SQL queries, and system integrations.
+* Maintain quality through effective testing, debugging, secure development, and production support.
+* Build productive working relationships with business and technical stakeholders and contribute consistently to Agile delivery.
+
+**Why Join FormativGroup**
+FormativGroup is a PE-backed technology consulting and implementation partner helping organizations modernize complex business platforms, improve delivery outcomes, and scale technology solutions that support long-term growth. We partner with clients across strategy, solution design, implementation, and ongoing support to help move critical initiatives from vision to execution. Our teams bring deep technical expertise, delivery discipline, and a collaborative approach to every engagement.
+  
+  
+At FormativGroup, you'll work with people who are practical, collaborative, and focused on solving meaningful business and technology problems. We're growing, which means you'll have opportunities to contribute ideas, work closely with experienced leaders, and help shape how we deliver for clients.
+  
+  
+**Employment Eligibility**
+Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment visa currently.
+  
+  
+*This is a full-time, remote position with FormativGroup.*
+Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment visa currently.
+  
+  
+To be considered for this position, candidates must reside in one of the following U.S. states: AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, MA, MD, MI, MN, MO, NC, NH, NJ, NV, NY, OH, OK, OR, PA, TN, TX, VA, WI, and Washington DC. Candidates residing outside these states are not eligible for consideration currently.
+  
+  
+We are committed to pay equity and transparency. The compensation range for this position represents our good faith estimate of the range we reasonably expect to pay for this role at the time of posting. The actual compensation offered will be determined based on factors such as the candidate's experience, skills, education, work location, and internal equity.
+  
+  
+In addition to hourly pay, employees may be eligible for discretionary bonuses, commissions, or other incentive programs, as well as a comprehensive benefits package that includes medical, dental, vision, 401(k), paid time off, etc.
+  
+  
+Estimated hourly Compensation Range:
+  
+  
+$55—$65 USD
+  
+  
+FormativGroup operates within the critical middle layer of business technology, where applications and systems connect infrastructure to business processes. We are specialists who help the middle market take full advantage of their technology investments with deep, industry-centric expertise, all in one place, to unify fragmented systems.
+*With deep technical expertise across cloud architecture, system integration, AI, and data strategy, we bridge the gap between business goals and modern platforms.*
+FormativGroup is an equal opportunity employer providing opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.
+  
+  
+ADA Specifications: Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this position.
+  
+  
+#formativgroupcareers #WorkWithUs
+  
+  
+Click here to view our Privacy Policy"
+40cff6d6e41a62ed,Senior Data Engineer Tech Foundations,Airbnb,US - Remote,1,,2026-11-17,"[""greenhouse""]",https://careers.airbnb.com/positions/8396777?gh_jid=8396777,https://careers.airbnb.com/positions/8396777?gh_jid=8396777,50,Free scorer: your resume shows 1 of 6 listed skills (Python).,"[""Scala"", ""SQL"", ""Spark"", ""Data Modeling"", ""Security""]",new,2026-11-17T21:34:05+00:00,2026-11-17T21:37:36+00:00,"[""Python""]",,senior,8396777,greenhouse,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Senior Data Engineer, Enterprise Core Datasets, Tech Foundations
+
+The Community You Will Join
+
+At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.
+
+Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.
+
+You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome strong engineers who are curious about the business and eager to solve problems across diverse domains.
+
+The Difference You Will Make
+
+As a Senior Data Engineer, you will design, build, and operate datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.
+
+You will own complex data engineering projects from requirements gathering and technical design through implementation, validation, and production operations. Working closely with stakeholders and engineering partners, you will build maintainable data models and pipelines that accommodate new AI tools, products, cost categories, and enterprise systems while preserving clear definitions, traceability, and reliable historical data.
+
+Operating in an ecosystem that includes petabyte-scale datasets, you will improve correctness, freshness, performance, and cost efficiency. You will build reusable components that simplify source onboarding and reduce duplicated logic. Through design reviews, knowledge sharing, and mentorship, you will help strengthen the team’s engineering practices and contribute to Airbnb’s broader data community.
+
+A Typical Day
+
+- Design, build, and operate high-impact data pipelines across AI usage and cost, Unit Economics, enterprise applications, and critical financial metrics.
+
+- Partner with stakeholders to clarify how AI adoption, consumption, and spending are measured, and implement consistent data models that support those definitions.
+
+- Evolve Unit Economics datasets to connect revenue and diverse cost drivers, enabling teams to understand product profitability and resource efficiency.
+
+- Build reliable ingestion and transformation pipelines for non-platform systems such as Jira and other BizTech enterprise applications.
+
+- Translate complex requirements into clear source contracts, reusable fact and dimension models, and practical technical designs.
+
+- Develop configurable pipelines and shared components that simplify onboarding new data sources, products, and business requirements.
+
+- Implement automated testing, reconciliation, anomaly detection, and monitoring to protect data accuracy, completeness, and availability.
+
+- Plan and execute safe migrations and historical backfills through dependency analysis, validation, controlled cutovers, and recovery planning.
+
+- Optimize distributed processing, storage, and query performance to improve freshness and reduce compute costs.
+
+- Own production reliability for your datasets and pipelines through on-call participation, incident response, and improvements to systems and runbooks.
+
+- Contribute to technical planning and design reviews, mentor fellow engineers, and improve Airbnb’s Data Engineering Paved Path.
+
+Your Expertise
+
+- 5+ years of relevant industry experience, with a Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or a related field, or equivalent practical experience.
+
+- A track record of independently delivering complex data engineering projects, from requirements and technical design through implementation and sustained production ownership.
+
+- Strong expertise in SQL and programming skills in Python or Scala, with experience building maintainable, well-tested data systems.
+
+- Hands-on experience with distributed processing technologies such as Apache Spark and large-scale analytical storage systems.
+
+- Strong data modeling skills, including fact and dimension design, slowly changing dimensions, incremental processing, and historical data management.
+
+- Experience integrating heterogeneous sources, including APIs, enterprise applications, event data, and transactional systems, while managing schema changes and source reliability.
+
+- Proven ability to build reliable pipelines and execute migrations and backfills while preserving correctness and downstream compatibility.
+
+- Experience implementing data quality controls, observability, lineage, and governance practices, and troubleshooting production data issues.
+
+- The ability to diagnose performance bottlenecks and optimize distributed computation, storage, and query execution.
+
+- Strong collaboration and communication skills, including the ability to clarify requirements with business partners, explain technical tradeoffs, and coordinate delivery across teams.
+
+- Experience contributing to design and code reviews, sharing knowledge, and supporting the development of other engineers.
+
+- Curiosity and sound judgment when learning new domains and balancing delivery needs with long-term system health.
+
+Experience with AI usage or cost measurement, cloud cost attribution, Unit Economics, enterprise application data, or financial and payments datasets is a plus. Familiarity with workflow orchestration, SQL transformation frameworks, and modern table formats such as Apache Iceberg is also valuable.
+
+Your Location
+
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+
+Our Commitment To Inclusion & Belonging:
+
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process. 
+
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+
+Equal Employment Opportunity:
+
+Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, gender, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, gender expression, sexual orientation, or any other legally protected characteristic.
+How We'll Take Care of You:
+
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  
+Pay Range$196,000—$230,000 USD 
+
+Reasonable Accommodations: We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+
+A Note on Recruiting Scams: Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @airbnb.com or @ext.airbnb.com email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.  We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb."
+0f977380d213886b,"Backend Engineer (Ruby), AI Engineering: AI Catalog",GitLab,"Remote, United Kingdom",1,,2026-11-17,"[""greenhouse""]",https://job-boards.greenhouse.io/gitlab/jobs/8940898002,https://job-boards.greenhouse.io/gitlab/jobs/8940898002,56,"Free scorer: your resume shows 3 of 11 listed skills (Python, REST, PostgreSQL).","[""Ruby"", ""SQL"", ""Vue"", ""GraphQL"", ""Rails"", ""Data Modeling"", ""GitLab"", ""Security""]",new,2026-11-17T21:34:02+00:00,2026-11-17T21:37:36+00:00,"[""Python"", ""REST"", ""PostgreSQL""]",,mid,8940898002,greenhouse,"GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.
+
+The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co-create the future with us as we build technology that transforms how the world develops software.
+
+*Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.
+An overview of this role
+
+As an Intermediate Backend Engineer in GitLab's Agent Foundations stage, you'll go beyond using AI tools. You'll help build the foundations for GitLab's agentic AI experiences: the platform that lets AI agents work across the whole software delivery lifecycle, not just write code. That covers how agents are created, shared and connected to tools inside and outside GitLab, how they run, and how their work shows up and can be observed across GitLab.
+
+In this role you'll work closely with engineers across the stage and other AI Engineering teams. This is a high-visibility area where GitLab's core platform meets its AI strategy.
+
+What you'll do
+
+- Develop, ship and maintain features for the Duo Agent Platform in the GitLab monolith (Ruby) and, where needed, the AI Gateway (Python). Keep them secure, well-tested and performant.
+
+- Work with Product Management, UX, frontend, backend and AI specialists to refine requirements and ship improvements in small iterations.
+
+- Design, implement and review GraphQL and REST APIs and the backend logic behind them, with reliable, scalable and clear contracts for clients.
+
+- Improve and extend automated testing (RSpec and other frameworks) to strengthen quality and give developers faster feedback.
+
+- Share standards, patterns and learnings with other engineers to raise the bar for responsible AI integration and evidence-driven engineering.
+
+- Join Tier 2 on-call rotations to troubleshoot production issues, contribute to root cause analysis, and improve observability and resiliency.
+
+- Keep an eye on the competitive landscape to help keep GitLab's agent platform best-in-class.
+
+What you'll bring
+
+- Experience building and maintaining production Ruby on Rails applications, including background jobs, APIs and data models.
+
+- Comfort working across the stack in a mature codebase. Familiarity with Python backends and/or Vue frontends is a plus.
+
+- Skill in designing or extending REST and/or GraphQL APIs with attention to scalability, maintainability and backward compatibility.
+
+- Real enthusiasm for AI and hands-on experience using AI tools in your daily work. Experience designing and shipping AI-powered backend features or integrations is a plus.
+
+- Proven SQL and experience with relational databases such as PostgreSQL, including writing efficient queries and data modeling.
+
+- Experience finding and fixing performance bottlenecks in applications.
+
+- Clear written and verbal communication, including technical proposals and documentation, in a remote, async, cross-functional team.
+
+- Openness to learning and to applying skills from related technologies or fields.
+
+About the team
+
+The Agent Foundations stage builds the foundations for GitLab's agentic AI experiences. We provide the platform, catalog and execution features that help teams deliver resilient agents and flows to customers. The stage has three groups: Agent Developer, AI Catalog and Agent Execution, they provide the core harness for GitLab’s agents, the tools Agent’s need to interact with GitLab as well as ways to configure and execute Agents across GitLab.
+
+Our engineers work async-first across EMEA and AMER timezones. We work with teams across AI engineering and the rest of GitLab so the Duo Agent Platform can power many of GitLab's AI features.
+How GitLab Supports Full-Time Employees
+
+- Benefits to support your health, finances, and well-being
+
+- Flexible Paid Time Off 
+
+- Team Member Resource Groups
+
+- Equity Compensation & Employee Stock Purchase Plan
+
+- Growth and Development Fund
+
+- Parental Leave 
+
+Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from underrepresented groups are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.
+
+Country Hiring Guidelines: GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.  
+
+Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us.
+
+GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know during the recruiting process."
 4842824370e969c4,Senior Data Engineer – Google Cloud,Ontrac Solutions,"Remote, Canada",1,,2026-11-16,"[""indeed""]",https://ca.indeed.com/viewjob?jk=bbffb5e40b668f15,https://ontrac-solutions-llc.breezy.hr/p/2e74b43e8d5d-senior-data-engineer-google-cloud?source=indeed,47,"Free scorer: your resume shows 2 of 20 listed skills (Python, Git).","[""SQL"", ""SQL Server"", ""Oracle"", ""BigQuery"", ""Databricks"", ""Pub/Sub"", ""Spark"", ""PySpark"", ""Hadoop"", ""Airflow"", ""ELT"", ""Data Modeling"", ""Looker"", ""GCP"", ""Terraform"", ""CI/CD"", ""Serverless"", ""Security""]",new,2026-11-16T22:49:53+00:00,2026-11-16T22:50:12+00:00,"[""Python"", ""Git""]",,senior,in-bbffb5e40b668f15,indeed,"ABOUT ONTRAC SOLUTIONS
 
 Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape.
@@ -15109,7 +15883,65 @@ ODAIA is an equal opportunity employer. We are committed to building an environm
 **ACCOMMODATIONS AND ACCESSIBILITY**
 Accommodations are available upon request. If you need assistance or accommodation due to a disability or special need at any stage of the recruitment process, please contact us at hr@odaia.ai."
 eab5e5090f2071f0,Data Engineer I IS - Remote,RemoteHunter,USA,1,"USD 105,000 - 135,000 /yearly",2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478137504,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-13T19:50:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
-cb9e4549aacc64fd,Python Developer,Kumaran Systems,"Greater Toronto Area, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478139030,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-13T19:48:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
+cb9e4549aacc64fd,Python Developer,Kumaran Systems,"Greater Toronto Area, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478139030,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-13T19:48:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,"**Summary:**
+
+Build, deploy and operate Python services on Linux. The role demands strong Linux fundamentals — including sudo, systemd, shell scripting and permissions — alongside production-grade Python engineering.
+
+**Key Responsibilities**
+
+• Design and develop backend services and automation tooling in Python 3.x.
+
+• Build and consume RESTful APIs using FastAPI / Flask / Django.
+
+• Operate services on Linux (RHEL / Ubuntu / CentOS); manage users, groups, sudoers and file
+
+permissions.
+
+• Write robust Bash / shell scripts for deployment, scheduling (cron / systemd timers) and
+
+housekeeping.
+
+• Package, deploy and monitor services using systemd units, journald and standard Linux tooling.
+
+• Diagnose production issues using strace, lsof, top, iotop, ss, tcpdump and log analysis.
+
+• Collaborate with DevOps on CI/CD, container builds and server hardening.
+
+**Must-Have Skills**
+
+• 7+ years of production Python development (3.9+).
+
+• Strong Linux administration: file system, processes, networking, systemd.
+
+• Deep understanding of sudo and /etc/sudoers — privilege delegation, NOPASSWD rules, security
+
+implications.
+
+• Proficient in Bash scripting, cron, logrotate and SSH-based automation.
+
+• REST API frameworks: FastAPI, Flask or Django REST Framework.
+
+• Oracle database experience — PL/SQL, stored procedures, query tuning; cx\_Oracle / oracledb
+
+driver and SQLAlchemy ORM.
+
+• Virtual environments, pip / poetry, packaging and dependency hygiene.
+
+• Git-based workflows and code-review discipline.
+
+**Good-to-Have Skills**
+
+• Containerization — Docker, Docker Compose, basic Kubernetes.
+
+• Configuration management (Ansible) or IaC (Terraform).
+
+• Message brokers — RabbitMQ, Kafka, Redis Streams.
+
+• Observability stack — Prometheus, Grafana, ELK.
+
+• Async Python (asyncio, aiohttp) and concurrency tuning.
+
+• Cloud exposure — AWS or Azure for compute, storage and secrets."
 783d8b4a6785a24c,Python Full stack developer,"Zodiac Solutions, Inc","Toronto, Ontario, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4476479338,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-10-13T19:48:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
 413c8a8c45a59f7c,Associate Software Developer (Node.js & Python),Liberty Mutual Canada,"Toronto, Ontario, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4478112081,,68,"Free scorer: your resume shows 1 of 2 listed skills (Python); there's no job description, so this is a rough guess.","[""Node.js""]",new,2026-10-13T19:48:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
 92387bde3e904051,Software Developer (Node.js & Python),Liberty Mutual Canada,"Toronto, Ontario, Canada",0,,2026-10-13,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477996820,,68,"Free scorer: your resume shows 1 of 2 listed skills (Python); there's no job description, so this is a rough guess.","[""Node.js""]",new,2026-10-13T19:48:30+00:00,2026-10-29T00:46:56+00:00,"[""Python""]",,,,linkedin,
