@@ -1,4 +1,156 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+016989bfa6ba81a4,Data Engineer Specialist,NASDAQ,"Toronto, ON, Canada",0,"CAD 84,000 - 115,000 /yearly",2026-11-18,"[""indeed""]",https://ca.indeed.com/viewjob?jk=cd8c7992e0cb24a4,https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/CA-Toronto-York-St-2425/Data-Engineer-Specialist_R0027311,52,Free scorer: your resume shows 1 of 5 listed skills (Python).,"[""SQL"", ""Databricks"", ""Spark"", ""PySpark""]",new,2026-11-18T21:11:48+00:00,2026-11-18T21:12:03+00:00,"[""Python""]",,mid,in-cd8c7992e0cb24a4,indeed,"As a Data Engineer Specialist reporting to the AVP of Data Engineering, you'll play a critical role in designing, building, and scaling the data infrastructure that powers one of the world's largest data marketplaces — serving hundreds of thousands of professionals across finance, technology, and beyond.
+
+You'll thrive in this position if you're analytical, detail-oriented, and passionate about data quality and engineering excellence in a fast-paced, high-impact environment.
+
+**Key Responsibilities**
+------------------------
+
+* Design, implement, and maintain components of our data platform, with a strong focus on data onboarding and automation.
+* Build and optimize data ingestion pipelines that clean, transform, and load large volumes of structured and unstructured data.
+* Develop automated data processing, transformation, and quality assurance workflows to ensure completeness, accuracy, and reliability.
+* Write and manage distributed data pipelines supporting both real-time and batch processing across cloud environments.
+* Champion a collaborative code review culture that promotes maintainability, best practices, and continuous improvement.
+
+**Required Qualifications**
+---------------------------
+
+* Bachelor's degree in Computer Science, Engineering, or equivalent practical experience.
+* 5 - 7 years of professional experience in software or data engineering.
+* Proficiency in Python (required), with working knowledge of SQL and Spark/PySpark.
+* Hands-on experience with cloud platforms and data tools, including distributed data pipeline development and orchestration.
+* Strong written and verbal communication skills in English, with the ability to document clearly and concisely.
+
+**Preferred Qualifications**
+----------------------------
+
+* Experience building and integrating AI tools into data engineering workflows.
+* Data engineering certification (e.g., Databricks Certified Data Engineering Associate or Professional).
+* Prior experience in fintech, capital markets, or a regulated data environment.
+
+*This position will be located in Toronto and offers the opportunity for a hybrid work environment at least 3 days a week in-office, subject to change, providing flexibility and accessibility for qualified candidates.*
+
+**Come as You Are**
+
+Nasdaq is an equal opportunity employer. We welcome applications from candidates of all backgrounds and identities.
+
+We are committed to fostering an inclusive workplace where diverse perspectives, experiences, and identities are valued and celebrated.
+
+We ensure that individuals with disabilities are provided with reasonable accommodation throughout the hiring process.
+
+**What We Offer**
+
+We’re proud to offer a competitive rewards package that is meaningful, recognizes the unique needs of our employees and their families and incentivizes employees for their contribution to Nasdaq’s overall success.
+
+The base pay range for this role is $84,000 - $115,000. In addition to base salary, Nasdaq provides a generous annual bonus/commission (short-term incentive), and equity (long-term incentive), comprehensive benefits, and opportunity for growth. Exact compensation may vary based on several job-related factors that are unique to each candidate, including but not limited to: skill set, experience, education/training, business needs and market demands."
+b1c7cbf1bc56a48a,Python & Talend Developer,Tata Consultancy Services,"Toronto, Ontario, Canada",0,"CAD 90,000 - 100,000 /yearly",2026-11-18,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491865327,,64,"Free scorer: your resume shows 5 of 12 listed skills (Python, REST, PostgreSQL, Git).","[""SQL"", ""SQL Server"", ""Oracle"", ""ETL"", ""ELT"", ""CI/CD"", ""Security""]",new,2026-11-18T21:10:38+00:00,2026-11-18T21:12:04+00:00,"[""Python"", ""REST"", ""PostgreSQL"", ""Git"", ""Linux""]",,mid,li-4491865327,linkedin,"**Inclusion without Exception**
+
+Tata Consultancy Services (TCS) is an equal opportunity employer, and embraces diversity in race, nationality, ethnicity, gender, age, physical ability, neurodiversity, and sexual orientation, to create a workforce that reflects the societies we operate in. Our continued commitment to Culture and Diversity is reflected in our people stories across our workforce and implemented through equitable workplace policies and processes.
+
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry-leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, engineering excellence and customer service.
+
+It has set an aspiration to become the world's largest AI-led technology services company and is enabling its clients to transform themselves across the full AI stack, from infrastructure to intelligence.
+
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its employees, and the community at large. With a highly skilled workforce spread across 56 countries and 194 service delivery centers across the world, the company has been recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, the company has built long term partnerships with its clients. Many of these relationships have endured into decades and navigated every technology cycle, from mainframes in the 1970s to artificial intelligence today.
+
+**Experience**
+
+Demonstrated professional experience in Python, Talend ETL, SQL, data integration, and production support within complex enterprise environments.
+
+**Core Skills**
+
+* Strong hands-on Python development for data processing, automation, scripting, and APIs
+* Strong hands-on Talend Data Integration / Talend Open Studio
+* Advanced SQL, including complex queries, stored procedures, and performance optimization
+* ETL/ELT, data mapping, transformation, migration, data quality, and reconciliation
+* Experience with Oracle, SQL Server, or PostgreSQL
+* Batch processing and file-based integrations
+* REST APIs, JSON, XML, CSV, SFTP
+* Linux/Unix, Git, CI/CD and production deployments
+* Production troubleshooting, RCA, and SLA-driven support
+
+**Key Responsibilities**
+
+* Develop and maintain Python applications, scripts, automation, and data-processing solutions.
+* Design and support Talend ETL/ELT jobs and data pipelines.
+* Handle large-volume data integration and migration using SQL and relational databases.
+* Develop batch, API, SFTP, and file-based integrations across banking systems.
+* Perform data validation, reconciliation, exception handling, and performance tuning.
+* Troubleshoot critical production batch/interface failures and perform root-cause analysis.
+* Coordinate with application, database, infrastructure, business, and data teams.
+* Follow banking requirements for security, auditability, change management, and production releases.
+
+Salary Range - CA$ 90,000 - CA$ 100,000 Per Year
+
+TCS does not use artificial intelligence tools for candidate screening or evaluation. This post is for a current vacancy. The hiring process includes an initial screening, followed by a technical evaluation and managerial discussion.
+
+Tata Consultancy Services Canada Inc. is committed to meeting the accessibility needs of all individuals in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code (OHRC). Should you require accommodation during the recruitment and selection process, please inform Human Resources.
+
+Thank you for your interest in TCS. Candidates that meet the qualifications for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile."
+73ecc78b6b5c3b70,Python Developer,VySystems,"Toronto, Ontario, Canada",0,,2026-11-18,"[""linkedin""]",https://www.linkedin.com/jobs/view/4492205244,,71,"Free scorer: your resume shows 2 of 4 listed skills (Python, FastAPI).","[""SQL"", ""Microservices""]",new,2026-11-18T21:10:38+00:00,2026-11-18T21:12:04+00:00,"[""Python"", ""FastAPI""]",,mid,li-4492205244,linkedin,"**Python Developer**
+
+**Toronto, ON (Hybrid 3 days onsite a week)**
+
+**Experience level: 7+ years of experience in python development**
+
+**Contract and Fulltime opportunity**
+
+**Must have: Python Development, FastApi, SQL, UI Skills-Microservices (Please ensure your resume reflects these skills when applying to this position)**"
+bed0f5992b0445bc,Senior Backend Engineer,AeroVect,"Toronto, Ontario, Canada",0,,2026-11-18,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4492016126,https://jobs.ashbyhq.com/AeroVect/8b876472-0a45-492d-8879-f494a7bd52d3?utm_source=Eop7pMkGOp,60,"Free scorer: your resume shows 5 of 15 listed skills (Python, Redis, AWS, Docker).","[""Go"", ""C++"", ""gRPC"", ""WebSockets"", ""Microservices"", ""Kafka"", ""RabbitMQ"", ""Kubernetes"", ""System Design"", ""Networking""]",new,2026-11-18T21:10:38+00:00,2026-11-18T21:12:04+00:00,"[""Python"", ""Redis"", ""AWS"", ""Docker"", ""Distributed Systems""]",,senior,li-4492016126,linkedin,"**Who We Are**
+--------------
+
+AeroVect is transforming ground handling with autonomy, redefining how airlines and ground service providers around the globe run day-to-day operations. We are a Series A company backed by top-tier venture capital investors in aviation and autonomous driving. Our customers include some of the world’s largest airlines and ground handling providers. For more information, visit www.aerovect.com.
+
+As a Senior Backend Engineer you will design, build, and scale the backend systems that enable remote operators to monitor, support, and interact with our autonomous ground support equipment (AGSE) operating in live airport environments.
+
+As our autonomous fleet expands across airports, remote assistance becomes a critical component of safe and reliable operations. You'll build the services that connect autonomous vehicles with remote operators, enabling real-time communication, vehicle monitoring, assistance requests, and operational decision-making.
+
+This is a hands-on engineering role at the intersection of distributed systems, real-time communication, and autonomous vehicle operations. You'll work closely with autonomy, platform, infrastructure, and operations teams to develop reliable, low-latency backend services that support an increasingly large fleet of autonomous vehicles.
+
+You'll have significant ownership over system architecture, reliability, and scalability, building production systems where performance and availability directly impact real-world operations.
+
+**You Will**
+------------
+
+* Design, develop, and maintain backend services powering AeroVect's remote assistance platform for autonomous vehicle operations.
+* Build reliable, low-latency communication systems between autonomous vehicles, cloud infrastructure, and remote operators.
+* Develop APIs and cloud backend services that enable vehicle monitoring, remote assistance requests, operator interactions, and fleet coordination.
+* Design and implement real-time data streaming and cloud event-driven architectures to support vehicle state updates, telemetry, and operational events.
+* Build scalable systems to manage remote assistance sessions, including request routing, operator assignment, session state, and lifecycle management.
+* Ensure backend systems are resilient to network interruptions, latency, and intermittent connectivity in real-world airport environments.
+* Develop robust mechanisms for authentication, authorization, auditing, and secure communication between vehicles and remote operators.
+* Build monitoring, logging, and observability capabilities to identify issues and maintain high system reliability.
+* Collaborate with autonomy and platform engineers to integrate remote assistance capabilities with vehicle software and fleet management systems.
+* Optimize backend performance, scalability, and fault tolerance as the number of deployed vehicles and remote assistance sessions increases.
+* Take end-to-end ownership of backend services, from system design and implementation through deployment, testing, and production support.
+
+**You have**
+------------
+
+* 5+ years of experience in backend software engineering, with a strong track record of designing and operating production-grade distributed systems.
+* Strong programming experience in Python, Go, C++, or similar backend languages.
+* Experience designing and building scalable backend services, APIs, and microservices architectures.
+* Strong understanding of distributed systems, concurrency, asynchronous processing, and fault-tolerant architectures.
+* Experience with real-time communication technologies such as WebSockets, gRPC, or similar protocols.
+* Hands-on experience with message brokers and event-driven systems such as Kafka, RabbitMQ, Redis Streams, or equivalent technologies.
+* Experience building and deploying cloud-native applications, preferably on AWS.
+* Familiarity with containerization and orchestration technologies such as Docker and Kubernetes.
+* Strong understanding of networking fundamentals, including TCP/IP, HTTP, connection management, and latency optimization.
+* Experience designing systems for high availability, observability, and production reliability.
+* Ability to independently own complex technical projects and make sound architectural decisions in an evolving environment.
+* Strong communication skills and experience collaborating across software, infrastructure, and product teams.
+
+**We Prefer**
+-------------
+
+* Experience building backend systems for autonomous vehicles, robotics, teleoperations, or remote assistance platforms.
+* Experience working with vehicle telemetry, fleet management, or real-time operational monitoring systems.
+* Knowledge of video streaming technologies such as WebRTC, RTSP, or other low-latency media protocols.
+* Experience developing systems that operate across unreliable or bandwidth-constrained networks.
+* Familiarity with safety-critical systems, operational safeguards, and secure remote interactions with physical devices.
+* Experience with edge-to-cloud communication architectures.
+* Experience building dispatching, scheduling, or resource allocation systems.
+* Previous experience in a fast-paced startup environment, building products and infrastructure from the ground up."
 c5d41db1afa9f846,Senior Data Engineer,Bridgenext,"Toronto, ON, Canada",0,,2026-11-17,"[""indeed""]",https://ca.indeed.com/viewjob?jk=ade9793b0926326f,https://cancareers-bridgenext.icims.com/jobs/11388/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,60,"Free scorer: your resume shows 7 of 21 listed skills (Python, Pandas, AWS, S3).","[""SQL"", ""Snowflake"", ""Airflow"", ""dbt"", ""Dagster"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""GCP"", ""Terraform"", ""CI/CD"", ""Datadog"", ""Security""]",new,2026-11-17T21:37:18+00:00,2026-11-17T21:37:33+00:00,"[""Python"", ""Pandas"", ""AWS"", ""S3"", ""GitHub Actions"", ""Git""]",,senior,in-ade9793b0926326f,indeed,"Company Overview:
 
 At Bridgenext, we engineer Growth Operating Systems. Most enterprises have spent millions on their revenue stack and still aren't seeing the growth they expected.They have tools that function, but no system that wins. We help growth-hungry companies close that gap by turning fragmented platforms, siloed teams, and disconnected data into one integrated Growth OS. More than a technology company or marketing agency, we're a global digital consultancy with experts in engineering, data, AI, creative and more.
@@ -113,40 +265,43 @@ This is a hands-on engineering role in a fast-paced environment where you'll hav
 * Experience building data infrastructure supporting machine learning, simulation, or robotics development workflows.
 * Knowledge of ROS, ROS bags, or autonomous vehicle data formats.
 * Experience building data platforms from the ground up in a startup or rapidly scaling engineering organization."
-79f1640837336667,Senior Software Engineer - Backend,Guidepoint,"Toronto, ON, Canada",0,"CAD 140,000 - 170,000 /yearly",2026-11-17,"[""indeed""]",https://ca.indeed.com/viewjob?jk=113687c2a98e19df,https://grnh.se/17dfc8ic2us,65,"Free scorer: your resume shows 6 of 14 listed skills (Python, FastAPI, PostgreSQL, Redis).","[""Microservices"", ""RabbitMQ"", ""Pub/Sub"", ""ETL"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD""]",new,2026-11-17T21:37:12+00:00,2026-11-17T21:37:34+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""Redis"", ""AWS"", ""Docker""]",,senior,in-113687c2a98e19df,indeed,"#### **Overview:**
-
+79f1640837336667,Senior Software Engineer - Backend,Guidepoint,"Toronto, ON, Canada",0,"CAD 140,000 - 170,000 /yearly",2026-11-17,"[""indeed"", ""linkedin""]",https://ca.indeed.com/viewjob?jk=113687c2a98e19df,https://grnh.se/17dfc8ic2us,65,"Free scorer: your resume shows 6 of 14 listed skills (Python, FastAPI, PostgreSQL, Redis).","[""Microservices"", ""RabbitMQ"", ""Pub/Sub"", ""ETL"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD""]",new,2026-11-17T21:37:12+00:00,2026-11-17T21:37:34+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""Redis"", ""AWS"", ""Docker""]",,senior,in-113687c2a98e19df,indeed,"**Overview:**
 Frontier models have already absorbed most of the public internet and generalist tasks, but they still lack the tacit judgment of experts who do complex professional work for a living. Bridging this gap requires identifying, verifying, and engaging a significant number of experts across many, often niche, domains over an extended period of time. And the specificity matters: not a physician, but an investigator who has actually run a Phase III oncology trial; not a generalist consultant, but a reimbursement lead who has negotiated with payers.
-
+  
+  
 Guidepoint Labs is a new human data team leading the way to solve exactly that problem for frontier model builders and researchers. Providing access on day one to millions of vetted experts across effectively every industry and deep into the sub-specialties, along with mature governance, compliance, and confidentiality infrastructure.
-
+  
+  
 We are seeking a Senior Software Engineer – Backend with 8+ years of software engineering experience to own the foundational architecture of our new project from 0 to 1. You will design, build, and scale our new project, distributed data pipelines, and high-performance infrastructure. This is a hands-on technical leadership role for someone who has built mission-critical production systems from scratch, possesses deep mastery over Python and data stores, and thrives on solving complex architectural scaling challenges.
-
+  
+  
 **This is a hybrid role in our Toronto office.**
+**What You’ll Do:**
 
-#### **What You'll Do:**
+* 0-to-1 PLatform Development: Design and build core backend services, microservices, and distributed data pipelines from the ground up, establishing scalable system patterns for the entire engineering organization.
+* High-Throughput Data & Event Processing: Architect low-latency, event-driven messaging and caching frameworks using RabbitMQ (RMQ) and Redis to support real-time data flows and high-concurrency workloads.
+* Data Lake & Database Engineering: Design robust relational schemas and complex querying layers in PostgreSQL alongside large-scale data lake architecture for analytical and operational workloads.
+* Complex Third-Party Integrations: Build secure, fault-tolerant integration pipelines connecting enterprise systems, external vendors, and proprietary data streams with strict error handling and rate-limiting.
+* Cloud Infrastructure & Reliability: Provision, manage, and scale containerized cloud environments (AWS/GCP/Azure) utilizing Infrastructure-as-Code (IaC), automated CI/CD pipelines, and rigorous monitoring/observability standards.
+* Enterprise Integrations & Cloud Infrastructure: Integrate frontier models (OpenAI, Anthropic, open-source LLMs) with internal microservices, proprietary data stores, and third-party tools within a scalable cloud environment.
 
-* **0-to-1 PLatform Development:** Design and build core backend services, microservices, and distributed data pipelines from the ground up, establishing scalable system patterns for the entire engineering organization.
-* **High-Throughput Data & Event Processing:** Architect low-latency, event-driven messaging and caching frameworks using RabbitMQ (RMQ) and Redis to support real-time data flows and high-concurrency workloads.
-* **Data Lake & Database Engineering:** Design robust relational schemas and complex querying layers in PostgreSQL alongside large-scale data lake architecture for analytical and operational workloads.
-* **Complex Third-Party Integrations:** Build secure, fault-tolerant integration pipelines connecting enterprise systems, external vendors, and proprietary data streams with strict error handling and rate-limiting.
-* **Cloud Infrastructure & Reliability:** Provision, manage, and scale containerized cloud environments (AWS/GCP/Azure) utilizing Infrastructure-as-Code (IaC), automated CI/CD pipelines, and rigorous monitoring/observability standards.
-* **Enterprise Integrations & Cloud Infrastructure:** Integrate frontier models (OpenAI, Anthropic, open-source LLMs) with internal microservices, proprietary data stores, and third-party tools within a scalable cloud environment.
+**What You Have:**
 
-#### **What You Have:**
-
-* **Experience:** 8+ years of professional software engineering experience with a heavy focus on backend systems, distributed computing, and taking products from 0 to 1.
-* Bachelor's Degree in Computer Science, Engineering, Information Technology or related field
-* **Core Language & Frameworks:** Expert-level proficiency in Python and asynchronous programming frameworks (e.g., FastAPI) with a deep understanding of memory management, concurrency, and performance tuning.
-* **Databases & Data Lakes:** Extensive experience scaling PostgreSQL (query optimization, indexing, partitioning) alongside hands-on experience architecting and querying data lakes.
-* **Messaging & Caching:** Production expertise in configuring and managing RabbitMQ (RMQ) for event-driven microservices and Redis for distributed caching, rate limiting, and pub/sub patterns.
-* **Integration & Pipelines:** Proven track record of engineering complex ETL/data pipelines and secure, robust API and webhook integrations across heterogeneous systems.
-* **AI Experience:** Demonstrated success building and deploying applications powered by LLMs subagents and agent led frameworks.
-* **Cloud & DevOps:** Deep hands-on experience with major cloud platforms (AWS, GCP, or Azure), Docker, Kubernetes, CI/CD automation, and modern infrastructure monitoring tools.
+* Experience: 8+ years of professional software engineering experience with a heavy focus on backend systems, distributed computing, and taking products from 0 to 1.
+* Bachelor’s Degree in Computer Science, Engineering, Information Technology or related field
+* Core Language & Frameworks: Expert-level proficiency in Python and asynchronous programming frameworks (e.g., FastAPI) with a deep understanding of memory management, concurrency, and performance tuning.
+* Databases & Data Lakes: Extensive experience scaling PostgreSQL (query optimization, indexing, partitioning) alongside hands-on experience architecting and querying data lakes.
+* Messaging & Caching: Production expertise in configuring and managing RabbitMQ (RMQ) for event-driven microservices and Redis for distributed caching, rate limiting, and pub/sub patterns.
+* Integration & Pipelines: Proven track record of engineering complex ETL/data pipelines and secure, robust API and webhook integrations across heterogeneous systems.
+* AI Experience: Demonstrated success building and deploying applications powered by LLMs subagents and agent led frameworks.
+* Cloud & DevOps: Deep hands-on experience with major cloud platforms (AWS, GCP, or Azure), Docker, Kubernetes, CI/CD automation, and modern infrastructure monitoring tools.
 
 **What We Offer:**
-
-The annual base salary range for this position is **140,000-170,000**. Additionally, this position is eligible for an annual discretionary bonus based on performance.
-
+The annual base salary range for this position is
+**140,000-170,000**
+. Additionally, this position is eligible for an annual discretionary bonus based on performance.
+  
+  
 **You will also be eligible for the following benefits:**
 
 * Paid Time Off
@@ -155,16 +310,22 @@ The annual base salary range for this position is **140,000-170,000**. Additiona
 * Development opportunities through the LinkedIn Learning platform
 
 **About Guidepoint:**
-
-Guidepoint powers end-to-end research workflows for the world's best research teams.
-
-Backed by a global network of more than **2 million experts and over 1,600 employees,** Guidepoint delivers real-time access to expertise, primary research, and actionable knowledge that help organizations make informed decisions. Through consultations, surveys, events, proprietary content, and AI-enabled tools, we support every stage of the decision-making process—from developing hypotheses and gathering insights to validating assumptions and building conviction for critical decisions.
-
+Guidepoint powers end-to-end research workflows for the world’s best research teams.
+  
+  
+Backed by a global network of more than
+**2 million experts and over 1,600 employees,**
+Guidepoint delivers real-time access to expertise, primary research, and actionable knowledge that help organizations make informed decisions. Through consultations, surveys, events, proprietary content, and AI-enabled tools, we support every stage of the decision-making process—from developing hypotheses and gathering insights to validating assumptions and building conviction for critical decisions.
+  
+  
 At Guidepoint, our success relies on the diversity of our employees, experts, and clients, which enables us to foster meaningful connections and a broad range of perspectives. We are committed to creating an inclusive and welcoming environment where individuals of all backgrounds, identities, and experiences can contribute and succeed.
-
-#LI-TA1
-
-#LI-HYBRID"
+  
+  
+This job posting is for an existing vacancy. The salary offered will be based on the successful candidate’s skills, experience, qualifications, and location.
+  
+  
+**Compensation**
+$140,000—$170,000 CAD"
 a8312d4bff9d6f35,"Senior Software Engineer, Backend (Continuous Delivery)",Affirm,"Toronto, ON, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-11-17,"[""indeed""]",https://ca.indeed.com/viewjob?jk=ded505c64db0223a,https://grnh.se/zk92acqp3us,69,"Free scorer: your resume shows 4 of 8 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kubernetes"", ""CI/CD""]",new,2026-11-17T21:37:03+00:00,2026-11-17T21:37:34+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,senior,in-ded505c64db0223a,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
 
 Our team sits within Developer Productivity, whose mission is to make software development at Affirm simpler and faster across the company. The broader org owns much of the path between a developer's laptop and production, including developer environments, CI/CD pipelines, test automation, dependency management, and release engineering, all in service of helping engineers ship code quickly, safely, and with confidence.
