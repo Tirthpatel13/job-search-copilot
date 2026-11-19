@@ -1,4 +1,65 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+4fdca48e67799f5a,"Senior Software Engineer - Backend, Guidepoint Labs",Guidepoint,"Toronto, Ontario, Canada",0,"CAD 140,000 - 170,000 /yearly",2026-11-18,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4491770669,https://grnh.se/17dfc8ic2us,65,"Free scorer: your resume shows 6 of 14 listed skills (Python, FastAPI, PostgreSQL, Redis).","[""Microservices"", ""RabbitMQ"", ""Pub/Sub"", ""ETL"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD""]",new,2026-11-19T21:14:27+00:00,2026-11-19T21:15:07+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""Redis"", ""AWS"", ""Docker""]",,senior,li-4491770669,linkedin,"**Overview:**
+Frontier models have already absorbed most of the public internet and generalist tasks, but they still lack the tacit judgment of experts who do complex professional work for a living. Bridging this gap requires identifying, verifying, and engaging a significant number of experts across many, often niche, domains over an extended period of time. And the specificity matters: not a physician, but an investigator who has actually run a Phase III oncology trial; not a generalist consultant, but a reimbursement lead who has negotiated with payers.
+  
+  
+Guidepoint Labs is a new human data team leading the way to solve exactly that problem for frontier model builders and researchers. Providing access on day one to millions of vetted experts across effectively every industry and deep into the sub-specialties, along with mature governance, compliance, and confidentiality infrastructure.
+  
+  
+We are seeking a Senior Software Engineer – Backend with 8+ years of software engineering experience to own the foundational architecture of our new project from 0 to 1. You will design, build, and scale our new project, distributed data pipelines, and high-performance infrastructure. This is a hands-on technical leadership role for someone who has built mission-critical production systems from scratch, possesses deep mastery over Python and data stores, and thrives on solving complex architectural scaling challenges.
+  
+  
+**This is a hybrid role in our Toronto office.**
+**What You’ll Do:**
+
+* 0-to-1 PLatform Development: Design and build core backend services, microservices, and distributed data pipelines from the ground up, establishing scalable system patterns for the entire engineering organization.
+* High-Throughput Data & Event Processing: Architect low-latency, event-driven messaging and caching frameworks using RabbitMQ (RMQ) and Redis to support real-time data flows and high-concurrency workloads.
+* Data Lake & Database Engineering: Design robust relational schemas and complex querying layers in PostgreSQL alongside large-scale data lake architecture for analytical and operational workloads.
+* Complex Third-Party Integrations: Build secure, fault-tolerant integration pipelines connecting enterprise systems, external vendors, and proprietary data streams with strict error handling and rate-limiting.
+* Cloud Infrastructure & Reliability: Provision, manage, and scale containerized cloud environments (AWS/GCP/Azure) utilizing Infrastructure-as-Code (IaC), automated CI/CD pipelines, and rigorous monitoring/observability standards.
+* Enterprise Integrations & Cloud Infrastructure: Integrate frontier models (OpenAI, Anthropic, open-source LLMs) with internal microservices, proprietary data stores, and third-party tools within a scalable cloud environment.
+
+**What You Have:**
+
+* Experience: 8+ years of professional software engineering experience with a heavy focus on backend systems, distributed computing, and taking products from 0 to 1.
+* Bachelor’s Degree in Computer Science, Engineering, Information Technology or related field
+* Core Language & Frameworks: Expert-level proficiency in Python and asynchronous programming frameworks (e.g., FastAPI) with a deep understanding of memory management, concurrency, and performance tuning.
+* Databases & Data Lakes: Extensive experience scaling PostgreSQL (query optimization, indexing, partitioning) alongside hands-on experience architecting and querying data lakes.
+* Messaging & Caching: Production expertise in configuring and managing RabbitMQ (RMQ) for event-driven microservices and Redis for distributed caching, rate limiting, and pub/sub patterns.
+* Integration & Pipelines: Proven track record of engineering complex ETL/data pipelines and secure, robust API and webhook integrations across heterogeneous systems.
+* AI Experience: Demonstrated success building and deploying applications powered by LLMs subagents and agent led frameworks.
+* Cloud & DevOps: Deep hands-on experience with major cloud platforms (AWS, GCP, or Azure), Docker, Kubernetes, CI/CD automation, and modern infrastructure monitoring tools.
+
+**What We Offer:**
+The annual base salary range for this position is
+**140,000-170,000**
+. Additionally, this position is eligible for an annual discretionary bonus based on performance.
+  
+  
+**You will also be eligible for the following benefits:**
+
+* Paid Time Off
+* Comprehensive benefits plan
+* Company RRSP Match
+* Development opportunities through the LinkedIn Learning platform
+
+**About Guidepoint:**
+Guidepoint powers end-to-end research workflows for the world’s best research teams.
+  
+  
+Backed by a global network of more than
+**2 million experts and over 1,600 employees,**
+Guidepoint delivers real-time access to expertise, primary research, and actionable knowledge that help organizations make informed decisions. Through consultations, surveys, events, proprietary content, and AI-enabled tools, we support every stage of the decision-making process—from developing hypotheses and gathering insights to validating assumptions and building conviction for critical decisions.
+  
+  
+At Guidepoint, our success relies on the diversity of our employees, experts, and clients, which enables us to foster meaningful connections and a broad range of perspectives. We are committed to creating an inclusive and welcoming environment where individuals of all backgrounds, identities, and experiences can contribute and succeed.
+  
+  
+This job posting is for an existing vacancy. The salary offered will be based on the successful candidate’s skills, experience, qualifications, and location.
+  
+  
+**Compensation**
+$140,000—$170,000 CAD"
 016989bfa6ba81a4,Data Engineer Specialist,NASDAQ,"Toronto, ON, Canada",0,"CAD 84,000 - 115,000 /yearly",2026-11-18,"[""indeed""]",https://ca.indeed.com/viewjob?jk=cd8c7992e0cb24a4,https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/CA-Toronto-York-St-2425/Data-Engineer-Specialist_R0027311,52,Free scorer: your resume shows 1 of 5 listed skills (Python).,"[""SQL"", ""Databricks"", ""Spark"", ""PySpark""]",new,2026-11-18T21:11:48+00:00,2026-11-18T21:12:03+00:00,"[""Python""]",,mid,in-cd8c7992e0cb24a4,indeed,"As a Data Engineer Specialist reporting to the AVP of Data Engineering, you'll play a critical role in designing, building, and scaling the data infrastructure that powers one of the world's largest data marketplaces — serving hundreds of thousands of professionals across finance, technology, and beyond.
 
 You'll thrive in this position if you're analytical, detail-oriented, and passionate about data quality and engineering excellence in a fast-paced, high-impact environment.
