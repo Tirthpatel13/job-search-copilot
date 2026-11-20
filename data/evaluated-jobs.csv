@@ -1,4 +1,380 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+e1401712ff4008b6,Test Data Quality Engineer,Plato,Canada,1,CAD 60 - 75 /hourly,2026-11-20,"[""indeed""]",https://ca.indeed.com/viewjob?jk=e17b89534695d227,https://careers.platotech.com/jobs/8771441-test-data-quality-engineer,53,Free scorer: your resume shows 1 of 5 listed skills (Python).,"[""SQL"", ""Databricks"", ""Excel"", ""Azure""]",new,2026-11-20T20:59:36+00:00,2026-11-20T20:59:54+00:00,"[""Python""]",,mid,in-e17b89534695d227,indeed,"**Job Description:**  
+The Test Data Quality Engineer plans, creates, masks and manages test data across the R2 test environments. Ensures that functional, negative, boundary, performance and reconciliation scenarios have representative and privacy-compliant data.
+  
+  
+**Responsibilities:**  
+Test-data strategy and planning
+  
+Synthetic test-data generation
+  
+Data masking and anonymization
+  
+Privacy and protected-data controls
+  
+Boundary and negative-data design
+  
+Referential-integrity management
+  
+Test-data refresh and reset coordination
+  
+Data-subsetting techniques
+  
+Test-data traceability and versioning
+  
+  
+**Must have 3-5 years of experience with the following:**  
+SQL
+  
+Python
+  
+Databricks
+  
+Azure Data Lake Storage
+  
+Data-generation libraries
+  
+Masking or anonymization tools
+  
+Azure DevOps
+  
+Excel and SharePoint
+  
+Azure Key Vault awareness"
+20863a06fb2ab4af,Backend Engineer,Wisedocs AI,"Toronto, ON, Canada",0,"CAD 95,000 - 135,000 /yearly",2026-11-20,"[""indeed""]",https://ca.indeed.com/viewjob?jk=bcaec84c55220bbc,https://apply.workable.com/j/9EEB19F698,71,"Free scorer: your resume shows 8 of 15 listed skills (Python, Django, PostgreSQL, LLM).","[""Flask"", ""Machine Learning"", ""Computer Vision"", ""Azure"", ""GCP"", ""Agile"", ""System Design""]",new,2026-11-20T20:59:33+00:00,2026-11-20T20:59:54+00:00,"[""Python"", ""Django"", ""PostgreSQL"", ""LLM"", ""AWS"", ""Docker""]",,mid,in-bcaec84c55220bbc,indeed,"**About Wisedocs**
+
+Wisedocs is transforming how organizations make claims decisions. Our platform combines AI with expert human review to analyze millions of documents, giving insurers, legal teams, and healthcare providers the speed, accuracy, and oversight they need to close claims with confidence.
+
+Our engineering organization is what makes that trust possible, from the AI pipeline and models that extract the data, to the labeling tools, to the customer-facing product our clients use every day.
+
+Transforming this industry takes the right people. If you want to build the engineering behind AI, expert human review, and customer trust, we’d love to meet you.
+
+**About you and the role**
+
+You build the systems that power our AI pipeline. Every document our clients upload passes through services you design and maintain, and the reliability and speed of those services determine how quickly our customers can move claims forward.
+
+You are a thoughtful back end engineer who writes efficient, reusable, and reliable Python, understands data structures and algorithms, and enjoys solving performance and scalability problems. You document your architectural decisions clearly and work well with front end and ML engineers.
+
+Our platform connects computer vision and generative models to the work of making sense of intricate legal and medical documents. Wisedocs spent the past year rebuilding its core technical platform from the ground up, including our back end, and that foundation is now in place. Our largest customers have doubled with us in the past year, and they are counting on the platform to stay fast and dependable as it grows.
+
+You will work across our Data Delivery and Core Platform teams, with close partnership from Machine Learning, to build and scale the services that move documents and data through our pipeline, from upload to download.
+
+At Wisedocs, you are close to the problems, customers, and decisions. You’ll take on meaningful responsibility, learn beyond the boundaries of your role, and see the impact of your work.
+
+**What you’ll do**
+
+* Design, build, and maintain efficient, reusable, and reliable Python services that power our back end and ML pipeline
+* Build and scale the services that move documents and data through our pipeline, from upload to download
+* Identify and resolve performance and scalability issues to improve the robustness of the system
+* Design data models and handle complex data structures and algorithms to keep processing accurate and fast
+* Integrate models and processes from our Machine Learning team into the processing pipeline
+* Work with front end engineers to design APIs and connect user-facing features to server-side logic
+* Create and maintain technical documentation for system components and architecture, including the reasoning behind key decisions
+* Contribute to automation across the Agile development, build, and deployment lifecycle
+* Other duties as assigned
+
+ **Requirements**
+
+**You’re a great candidate if...**
+
+* 3+ years of professional back end development experience, with extensive Python experience and a deep understanding of the language
+* Proficiency with Python web frameworks such as Django or Flask
+* Experience with relational or NoSQL database systems such as PostgreSQL
+* Experience with a cloud platform such as AWS, Google Cloud, or Azure
+* An understanding of automation practices across the Agile development, build, and deployment phases of the application lifecycle
+* Experience diagnosing and improving performance in data-intensive systems
+* A robust problem-solving mindset, comfortable navigating frequently changing work items and scope, and able to manage multiple tasks efficiently
+* Clear written communication, including technical documentation
+
+**Bonus points if...**
+
+* Experience building or operating data or ML pipelines, including model deployment
+* Working knowledge of Linux, Git, and Docker
+* Hands-on experience with LLM or agentic tooling
+* A background in document processing, insurance, or healthcare data
+
+ **Benefits**
+
+**Why you’ll love working here**
+
+You’ll own meaningful pieces of a platform we rebuilt from the ground up, working on problems that matter to insurers, legal teams, and healthcare providers. Your work will shape how quickly and accurately our customers can close claims.
+
+You’ll help drive our shift to AI-first engineering, rolling out an agentic way of building product and bringing our team along with you.
+
+**Compensation Range**
+
+Range: $95K – $135K CAD
+
+We are open to applications from candidates whose salary expectations fall outside of the stated range, provided the role aligns with your career goals and experience. We will further discuss compensation expectations if you are invited for a first-round interview.
+
+Number of Vacancies: [1]
+
+**Perks of working at Wisedocs**
+
+* **Healthcare:** We offer a comprehensive benefits package that includes health, dental, and vision coverage, designed to support your overall well-being.
+* **Vacation:** Take time off to travel, recharge, or focus on what matters most to you. We offer generous paid vacation so you can explore the world, pursue personal goals, or simply enjoy well-earned downtime.
+* **Flexible Work:** We embrace a hybrid work approach, offering employees the flexibility to divide their time between a remote location and our vibrant downtown Toronto office. For our US workforce, we operate with a remote first model.
+* **Stock Options:** Our foundational belief is that we all win together and always will. We offer competitive stock options so as you grow with us, your share value in Wisedocs grows alongside you.
+* **Learning & Development:** We invest in your future. To help you develop your career, we offer a learning fund to all employees, as well as many Wisedocs-sponsored development opportunities.
+* **Team Events:** We love bringing the team together, whether it's for a celebration, team building, or just fun. Every year this includes a company-wide onsite and our annual holiday party. Every event is planned and sponsored by Wisedocs.
+
+**Use of AI**
+
+While we encourage the use of AI within our day-to-day work and build it into our product, we do not use AI throughout the hiring process. We believe in a human-centric approach when reviewing and welcoming candidates through the interview process.
+
+**Our HQ**
+
+30 Duncan St #701, Toronto, ON M5V 2C3. This is a hybrid role, with 2 days a week in the office.
+
+**Diversity, Equity, and Inclusion**
+
+We are committed to equal employment opportunity regardless of race, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, marital status, ability, or gender identity.
+
+Wisedocs celebrates what makes every member of our team unique and strives to create a safe and inclusive workplace where everyone can be their truest selves. If you require any accommodation to succeed in your role and feel supported in the workplace, please feel free to let us know. We are more than happy to accommodate all."
+b8c3e6036ff31b22,Senior Platform Data Engineer,Raising The Village,"Toronto, ON, Canada",0,,2026-11-20,"[""indeed""]",https://ca.indeed.com/viewjob?jk=1c4c0d5ad16d6356,https://raisingthevillage.breezy.hr/p/8953bc71fcd701-senior-platform-data-engineer?source=indeed,47,"Free scorer: your resume shows 2 of 18 listed skills (Python, AWS).","[""SQL"", ""Snowflake"", ""Databricks"", ""PySpark"", ""Airflow"", ""dbt"", ""Prefect"", ""Data Modeling"", ""Data Warehouse"", ""Machine Learning"", ""Azure"", ""GCP"", ""Terraform"", ""CI/CD"", ""Unit Testing"", ""Security""]",new,2026-11-20T20:59:27+00:00,2026-11-20T20:59:55+00:00,"[""Python"", ""AWS""]",,senior,in-1c4c0d5ad16d6356,indeed,"**About Raising The Village**
+
+Raising The Village's mission is to build and strengthen pathways out of ultra-poverty through an approach guided by data, designed with communities, and scaled by partnerships. We work with last-mile communities to implement solutions that raise incomes, sustain impact, and chart sustainable pathways to possibility within 24 months. To date, we have supported more than two million people in Uganda, Rwanda, and the Democratic Republic of Congo, with support from our partners and our team in North America. Find out more about our programs and impact at www.raisingthevillage.org (http://www.raisingthevillage.org/).
+
+**About the Venn platform**
+
+RTV is investing in the next generation of Venn, an integrated platform for program delivery, monitoring, evaluation, and learning.
+
+What sets Venn apart is its unique ability to unify two critical domains:
+
+* **Monitoring, Evaluation, and Learning (MEL):** The measurement frameworks, indicators, instruments, and learning loops that drive continuous program improvement.
+* **Systems:** The applications, data infrastructure, and data science capabilities that power and operationalize those frameworks. Getting this platform right has direct consequences for program delivery at scale across multiple countries.
+
+Getting this platform right has direct consequences for program delivery at scale across multiple countries.
+
+**Position overview**
+
+We are seeking a Senior Platform Data Engineer to serve as a core technical custodian of our enterprise data infrastructure and automated pipelines. In this role, you will be responsible for designing, building, and maintaining our scalable cloud data platform and multi-layer data pipelines.
+
+You will work closely with cross-functional engineering teams to ensure optimal data availability, performance, and reliability. The ideal candidate brings a strong background in distributed data systems, a disciplined approach to data governance, and an enthusiasm for leveraging modern AI-assisted development tools to safely accelerate delivery and optimize platform workflows. This individual is a technical leader responsible for the platform's data strategy, delivery oversight, and long-term scalability.
+
+In this role, you will leverage modern AI-assisted development tools to rapidly build, scale, and optimize data workflows while maintaining strict data governance, pipeline performance, and multi-tenant security isolation.
+
+Key responsibilities
+
+Data Platform Engineering & Architecture
+
+Pipeline Management: Design, build, scale, and extend multi-tier data pipelines (Raw/Landing Cleaned/Conformed
+
+* Aggregated/Reporting layers).
+* Multi-Tenant Isolation: Implement and enforce strict data isolation, row-level security, and tenant boundaries within the data platform to ensure compliance with enterprise data privacy mandates.
+* AI-Assisted Delivery: Integrate modern AI code assistants into your daily workflow to accelerate data transformations, schema generation, and unit testing, while rigorously validating all outputs for accuracy, performance, and security.
+
+Orchestration, Observability & Performance
+
+* Data Orchestration: Manage workflow scheduling, dependency mapping, and reliable data ingestion from external APIs, webhooks, and core transactional databases.
+* Performance Tuning: Monitor and optimize cloud data environments, storage layers, and query logic to minimize cloud compute costs, data lag, and execution latency.
+* Data Quality & Governance: Build and maintain automated data validation frameworks, anomaly detection, and comprehensive alerting systems to ensure high-fidelity reporting data.
+
+Collaboration & Continuous Improvement
+
+* Technical Standards: Contribute to team engineering standards, data infrastructure documentation, and code review processes.
+* System Sustainability: Champion strong engineering fundamentals including comprehensive automated testing, documentation, and reliable change management practices.
+
+Team Leadership
+
+* Provide technical leadership and mentorship to data engineers, developers, analysts, and platform teams involved in data-related initiatives.
+* Establish and promote best practices for data architecture, engineering, governance, quality, security, and operational excellence.
+* Foster a culture of data-driven decision-making, continuous improvement, and innovation across the engineering organization.
+* Act as the primary technical authority for data-related decisions, risks, dependencies, and issue resolution across internal and external delivery teams.
+
+Vendor Oversight and Delivery Governance
+
+* Provide technical oversight of external vendors and implementation partners responsible for platform development and data engineering deliverables.
+* Review and validate data architectures, integration designs, and implementation approaches to ensure alignment with RTV's standards and long-term platform strategy.
+* Establish and monitor delivery quality, performance expectations, and technical compliance across vendor-led workstreams.
+* Ensure vendor-developed solutions are scalable, maintainable, secure, and appropriately documented to support long-term sustainability.
+
+Strategic Contribution
+
+* Define and lead the Venn Platform's enterprise data architecture, ensuring a scalable foundation for analytics, reporting, artificial intelligence, and machine learning capabilities.
+* Develop and execute a long-term data strategy that supports RTV's multi-country operations, growth objectives, and digital transformation roadmap.
+
+**Qualifications and Experience**
+
+Technical Expertise
+
+* Core Experience: 8-12+ years of professional software or data engineering experience, with a strong focus on cloud data platform architectures.
+* Modern Data Stack: Deep hands-on experience with modern cloud data warehouse/lakehouse architectures (e.g., Databricks, Snowflake, or cloud-native equivalents).
+* Languages & Frameworks: High proficiency in Python (including data processing libraries or PySpark) and Advanced SQL. Experience with data transformation tools (such as dbt) or workflow orchestrators (such as Airflow or Prefect) is highly valued.
+* Data Modeling: Solid understanding of relational database design, data warehousing concepts (Star/Snowflake schemas, Kimball methodology), and managing multi-tenant or distributed data structures.
+* Cloud & DevOps: Familiarity with major cloud ecosystems (AWS, Azure, or GCP) and foundational knowledge of Infrastructure as Code (Terraform/Pulumi) and CI/CD pipelines.
+
+Leadership & Mindset
+
+* 2–5+ years managing engineers or leading technical teams.
+* Proven ability to mentor, coach, and develop engineering talent.
+* Strong communication skills — able to explain technical concepts clearly to diverse audiences.
+* Experience guiding teams through ambiguity and complex technical decisions.
+* AI-First Approach: An enthusiasm for integrating AI development tools into your daily workflow to multiply velocity, paired with the engineering discipline required to thoroughly review and debug generated code.
+* Systems Thinker: Excellent problem-solving capabilities with a high attention to detail regarding data types, schema evolution, null-handling, and edge cases.
+* Communication: Strong cross-functional collaboration skills; able to translate complex data engineering constraints into clear technical trade-offs for product managers and business stakeholders.
+
+Collaboration
+
+* Comfortable working with product, design, data, and operations teams.
+* Ability to balance technical excellence with practical delivery needs.
+* Strong stakeholder management and cross-functional communication.
+
+***Disclaimer:***
+
+*This job description is intended to describe the general nature and level of work being performed by individuals assigned to this position. It is not intended to be an exhaustive list of all duties, responsibilities, or qualifications. The company reserves the right to modify, add, or remove duties as necessary.*
+
+*RTV uses artificial intelligence to screen and assess applicants for this position, including through an applicant tracking system (ATS) that helps sort applications based on job related criteria. Our hiring team reviews all candidates and makes all final decisions.*
+
+***Ontario Inclusion and Accessibility Statement:***
+
+*RTV is committed to fostering an inclusive, equitable, and accessible workplace. We comply with the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act (AODA). Accommodations are available upon request for candidates participating in all aspects of the employment process.*"
+6c324bb88663d07a,Senior Cloud Data Engineer - Remote,Optum,"Eden Prairie, MN, USA",1,,2026-11-19,"[""linkedin""]",https://www.linkedin.com/jobs/view/4492293219,,49,"Free scorer: your resume shows 2 of 13 listed skills (Python, AWS).","[""SQL"", ""Snowflake"", ""Databricks"", ""Spark"", ""ETL"", ""Data Warehouse"", ""Machine Learning"", ""MLOps"", ""Azure"", ""GCP"", ""Agile""]",new,2026-11-20T20:59:23+00:00,2026-11-20T20:59:55+00:00,"[""Python"", ""AWS""]",,senior,li-4492293219,linkedin,"Optum Insight is improving the flow of health data and information to create a more connected system. We remove friction and drive alignment between care providers and payers, and ultimately consumers. Our deep expertise in the industry and innovative technology empower us to help organizations reduce costs while improving risk management, quality and revenue growth. Ready to help us deliver results that improve lives? Join us to start
+**Caring. Connecting. Growing together.**
+We are seeking a highly skilled and experienced Senior Cloud Data Engineer to join our team. The successful candidate will be responsible for migrating on-premises database and ETL solutions to a modern cloud-based data platform utilizing Azure Cloud technologies, Snowflake, Python, and Generative AI solutions. This role will also be responsible for leveraging AI, Large Language Models (LLMs), and advanced analytics capabilities to automate processes, enhance data accessibility, improve operational efficiency, and accelerate business insights.
+  
+  
+You'll enjoy the flexibility to work remotely\* from anywhere within the U.S. as you take on some tough challenges. For all hires in the Minneapolis or Washington, D.C. area, you will be required to work in the office a minimum of four days per week.
+  
+  
+**Primary Responsibilities**
+
+* Lead the migration of ETL workloads from on-premises data warehouse platforms to Azure Cloud and Snowflake
+* Design, develop, and implement scalable data platform solutions using Azure Data Factory (ADF), Databricks, Self-hosted Integration Runtime (SHIR), Logic Apps, Azure Data Lake Storage Gen2 (ADLS Gen2), Blob Storage, Snowflake, and Python
+* Review, analyze, modernize, and optimize existing SSIS, T-SQL, and legacy ETL solutions
+
+You'll be rewarded and recognized for your performance in an environment that will challenge you and give you clear direction on what it takes to succeed in your role as well as provide development for other roles you may be interested in.
+  
+  
+**Required Qualifications**
+
+* 6+ years of ETL development experience using on-premises databases and ETL technologies
+* 4+ years of experience as a Cloud Data Engineer
+* 3+ years of hands-on experience with Azure Cloud data services including ADF, SHIR, Logic Apps, ADLS Gen2, and Blob Storage
+* 3+ years of experience working with Snowflake data platforms
+* 2+ years of experience working with Databricks
+* 2+ years of experience Python for data engineering, automation, API integration, and AI application development
+* 2+ years of experience integrating Large Language Models (LLMs) such as Azure OpenAI, OpenAI, Anthropic Claude, or similar platforms
+* 1+ years of experience with Agile methodologies
+* Experience developing AI-powered solutions including prompt engineering, document intelligence, semantic search, vector databases, and Retrieval-Augmented Generation (RAG) architectures
+* Proven excellent problem-solving skills and ability to work independently
+* Proven solid communication and collaboration skills
+* Proven solid analytical skills and attention to detail
+* Ability to adapt to new technologies and learn quickly
+* Ability to travel up to 10%
+
+**Preferred Qualifications**
+
+* Azure Data Engineer, Azure AI Engineer, Azure Solutions Architect, and/or Snowflake certifications
+* Experience designing enterprise AI solutions in Azure cloud environments.
+* Experience with Azure OpenAI Service, Azure AI Search, Azure AI Studio, and Azure Machine Learning.
+* Proven knowledge of vector databases, embeddings, semantic search, and GenAI application architectures.
+* Experience implementing data governance, data quality, and AI governance frameworks.
+* Demonstrated familiarity with Spark, MLflow, or machine learning operationalization (MLOps)
+* Experience with healthcare data platforms, HIPAA compliance, and protected health information (PHI) handling.
+* Demonstrated familiarity with AWS and Google Cloud Platform data and AI services.
+* All employees working remotely will be required to adhere to UnitedHealth Group's Telecommuter Policy
+
+Pay is based on several factors including but not limited to local labor markets, education, work experience, certifications, etc. In addition to your salary, we offer benefits such as, a comprehensive benefits package, incentive and recognition programs, equity stock purchase and 401k contribution (all benefits are subject to eligibility requirements). No matter where or when you begin a career with us, you'll find a far-reaching choice of benefits and incentives. The salary for this role will range from $91,700 - $163,700 annually based on full-time employment. We comply with all minimum wage laws as applicable.
+  
+  
+*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission.*
+*UnitedHealth Group is an Equal Employment Opportunity employer under applicable law and qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations.*
+*UnitedHealth Group is a drug - free workplace. Candidates are required to pass a drug test before beginning employment.*"
+3c08ebd8a27ea2cb,Data Engineer Tech Foundations,Airbnb,US - Remote,1,,2026-11-17,"[""greenhouse""]",https://careers.airbnb.com/positions/8396777?gh_jid=8396777,https://careers.airbnb.com/positions/8396777?gh_jid=8396777,50,Free scorer: your resume shows 1 of 6 listed skills (Python).,"[""Scala"", ""SQL"", ""Spark"", ""Data Modeling"", ""Security""]",new,2026-11-20T20:57:50+00:00,2026-11-20T20:59:56+00:00,"[""Python""]",,mid,8396777,greenhouse,"Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Data Engineer, Enterprise Core Datasets, Tech Foundations
+
+The Community You Will Join
+
+At Airbnb, trustworthy data powers business decisions, product innovation, and operational efficiency. The Enterprise Core Datasets team builds the technical data foundations that help Airbnb understand how the business operates, where resources are invested, and how new technologies create value.
+
+Our scope spans high-impact datasets across the organization: measuring AI adoption, usage, and cost; understanding revenue, costs, and profitability through Unit Economics; integrating non-platform data from Jira and other enterprise applications; and powering critical company metrics such as Gross Booking Value and Revenue.
+
+You will join a team that values thoughtful architecture, engineering rigor, and operational ownership. We collaborate with engineering, product, analytics, finance, and business teams to turn complex requirements into dependable, reusable data assets. We welcome engineers who are curious about the business and eager to learn and solve problems across diverse domains.
+
+The Difference You Will Make
+
+As a Data Engineer, you will build and operate datasets that shape decisions across Airbnb. Your work will help the organization measure AI adoption and spending, understand the economics of its products, and connect enterprise application data to meaningful business and operational insights.
+
+You will deliver well-scoped data engineering projects, from requirements through design, implementation, validation, and production operations. You will work closely with teammates and stakeholders, with guidance from senior engineers on larger or more ambiguous problems. You will build maintainable data models and pipelines that accommodate new AI tools, products, cost categories, and enterprise systems while preserving clear definitions, traceability, and reliable historical data.
+
+You will work in an ecosystem that includes petabyte-scale datasets, and you will help improve correctness, freshness, performance, and cost efficiency. You will contribute reusable components that simplify source onboarding and reduce duplicated logic. You will grow your craft through design reviews, code reviews, and mentorship from senior teammates.
+
+A Typical Day
+
+- Build, test, and operate data pipelines across AI usage and cost, Unit Economics, enterprise applications, and critical financial metrics.
+
+- Work with stakeholders and senior teammates to understand how AI adoption, consumption, and spending are measured, and implement data models that follow those definitions.
+
+- Extend Unit Economics datasets to connect revenue and diverse cost drivers.
+
+- Build ingestion and transformation pipelines for non-platform systems such as Jira and other BizTech enterprise applications.
+
+- Turn defined requirements into source contracts, reusable fact and dimension models, and technical designs for your projects, and get design feedback early.
+
+- Contribute to configurable pipelines and shared components that simplify onboarding new data sources and products.
+
+- Implement automated tests, reconciliation, and monitoring to protect data accuracy, completeness, and availability.
+
+- Support migrations and historical backfills by following dependency analysis, validation, and cutover plans.
+
+- Identify and fix performance and cost issues in distributed processing, storage, and queries.
+
+- Take part in the on-call rotation, respond to incidents, and improve runbooks for the datasets you own.
+
+- Participate in design and code reviews, share what you learn, and help improve Airbnb's Data Engineering Paved Path.
+
+Your Expertise
+
+- 3+ years of relevant industry experience, with a Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field, or equivalent practical experience.
+
+- A track record of delivering data engineering projects end to end, with increasing independence.
+
+- Strong SQL skills and programming skills in Python or Scala, with experience writing maintainable, well-tested code.
+
+- Hands-on experience with distributed processing such as Apache Spark, and familiarity with large-scale analytical storage systems.
+
+- Solid data modeling fundamentals, including fact and dimension design, slowly changing dimensions, incremental processing, and historical data management.
+
+- Experience working with varied data sources, such as APIs, enterprise applications, event data, and transactional systems, including handling schema changes.
+
+- Experience building reliable pipelines, and the ability to support migrations and backfills while preserving correctness and downstream compatibility.
+
+- Working knowledge of data quality checks, observability, lineage, and governance, and the ability to troubleshoot production data issues.
+
+- Ability to find and fix common performance bottlenecks in distributed computation, storage, and query execution.
+
+- Clear communication and collaboration skills, including asking clarifying questions of business partners and explaining your technical choices.
+
+- Willingness to give and receive feedback in design and code reviews, and to help onboard teammates.
+
+- Curiosity and sound judgment when learning new domains.
+
+- Experience with AI usage or cost measurement, cloud cost attribution, Unit Economics, enterprise application data, or financial and payments datasets is a plus. Familiarity with workflow orchestration, SQL transformation frameworks, and modern table formats such as Apache Iceberg is also valuable.
+
+Your Location
+
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+
+Our Commitment To Inclusion & Belonging:
+
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process. 
+
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.
+
+Equal Employment Opportunity:
+
+Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, gender, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, gender expression, sexual orientation, or any other legally protected characteristic.
+How We'll Take Care of You:
+
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  
+Pay Range$162,000—$186,000 USD 
+
+Reasonable Accommodations: We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.
+
+A Note on Recruiting Scams: Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @airbnb.com or @ext.airbnb.com email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.  We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb."
 4fdca48e67799f5a,"Senior Software Engineer - Backend, Guidepoint Labs",Guidepoint,"Toronto, Ontario, Canada",0,"CAD 140,000 - 170,000 /yearly",2026-11-18,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4491770669,https://grnh.se/17dfc8ic2us,65,"Free scorer: your resume shows 6 of 14 listed skills (Python, FastAPI, PostgreSQL, Redis).","[""Microservices"", ""RabbitMQ"", ""Pub/Sub"", ""ETL"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD""]",new,2026-11-19T21:14:27+00:00,2026-11-19T21:15:07+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""Redis"", ""AWS"", ""Docker""]",,senior,li-4491770669,linkedin,"**Overview:**
 Frontier models have already absorbed most of the public internet and generalist tasks, but they still lack the tacit judgment of experts who do complex professional work for a living. Bridging this gap requires identifying, verifying, and engaging a significant number of experts across many, often niche, domains over an extended period of time. And the specificity matters: not a physician, but an investigator who has actually run a Phase III oncology trial; not a generalist consultant, but a reimbursement lead who has negotiated with payers.
   
