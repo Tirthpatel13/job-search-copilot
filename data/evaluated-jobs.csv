@@ -1,4 +1,530 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+708914af759a1091,GTM Data Engineer/ AI,RightsLine,"Toronto, ON, Canada",0,"CAD 170,000 - 180,000 /yearly",2026-11-21,"[""indeed""]",https://ca.indeed.com/viewjob?jk=e4a85e741d3dde1a,https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f93572d0-23af-4fc8-978b-3dc51f63c8fa&ccId=19000101_000001&jobId=593829&source=IN&lang=en_US,59,"Free scorer: your resume shows 2 of 6 listed skills (Python, LLM).","[""TypeScript"", ""SQL"", ""dbt"", ""Data Modeling""]",new,2026-11-21T20:00:26+00:00,2026-11-21T20:00:41+00:00,"[""Python"", ""LLM""]",,mid,in-e4a85e741d3dde1a,indeed,"Since 2012, Rightsline has been making work easier for rights and royalties professionals with our innovative rights and royalties management software, allowing our customers to maximize their portfolios without having to max out their daily to-do-lists.
+
+Our fully integrated and configurable platform provides customers with comprehensive access to all their rights and royalties, across all markets and platforms, instantly. Departments can communicate, collaborate, and cohesively take action without worrying about mistakes; and in-app reports and timely alerts ensure our customers never miss an opportunity to do more.
+
+**The Position**
+----------------
+
+The GTM Data Engineer / AI is the technical architect behind Rightsline’s revenue intelligence engine. This role builds robust, low-latency data pipelines connecting go-to-market systems, automates inbound and outbound enrichment workflows, and engineers production-grade AI agents that improve rep productivity, speed-to-lead, and pipeline conversion. The role is based in the Greater Toronto Area in a hybrid work environment and reports to the Head of Revenue Operations.
+
+**Mission & Impact**
+--------------------
+
+Build reliable, scalable GTM data and AI infrastructure that equips commercial teams with timely intelligence and automated workflows. Success will be measured by fast lead routing, comprehensive enrichment, highly available pipelines, and reduced seller research time.
+
+**What You Will Own**
+---------------------
+
+**GTM Data Pipeline Architecture**
+----------------------------------
+
+* *Design, build, and maintain high-reliability data models, pipelines, and synchronization jobs using SQL, Python/TypeScript, and APIs across Salesforce, Clay, Gong, and ZoomInfo.*
+
+**Production AI Automation & Agent Orchestration**
+--------------------------------------------------
+
+* *Develop and deploy autonomous and human-in-the-loop AI workflows that research incoming leads, parse conversational context from Gong, summarize account intent, and trigger tailored actions.*
+
+**Enrichment Loops & Speed-to-Lead**
+------------------------------------
+
+* *Engineer automated multi-source enrichment tables in Clay, integrating intent signals, technographic data, and company hiring signals directly into rep workflows.*
+* *Build automated webhook listeners and distribution logic to enrich, score, and route inbound demo requests and product signals to reps in under 5 minutes.*
+
+**Internal Tool Ownership & AI Governance**
+-------------------------------------------
+
+* *Serve as technical product owner for in-house GTM tools and custom API integrations, ensuring resilient error handling, retry logic, and monitoring.*
+* *Partner with the Head of Revenue Operations to evaluate emerging LLM capabilities, establish guardrails around data privacy and brand compliance, and advise commercial leaders on high-ROI AI use cases.*
+
+**Key Deliverables & Technical KPIs**
+-------------------------------------
+
+* *Speed-to-Lead: Complete inbound lead enrichment and delivery in under 5 minutes.*
+* *Lead Enrichment Completeness: Achieve greater than 95% automated coverage of key technographic and firmographic data points.*
+* *Data Pipeline Reliability: Maintain greater than 99.5% pipeline uptime with automated alerting and failover.*
+* *Rep Time Saved: Reduce seller administrative research time by an estimated 3 to 5 hours per week per rep.*
+
+**Technical Boundary & Clean Handoff**
+--------------------------------------
+
+Own external data extraction, pipeline transformation, API connectors, and AI agent execution. Consume normalized schema from the GTM Systems Owner (Role 2) and programmatically enrich data without making unmanaged, unilateral changes to core CRM validation rules or permissions.
+
+**What You Will Bring**
+-----------------------
+
+* *4+ years of data engineering, systems integration, or technical Revenue Operations experience within modern B2B SaaS technology stacks.*
+* *Strong proficiency with Python or TypeScript, API architecture, webhooks, and relational data modeling (SQL / dbt).*
+* *Hands-on mastery of modern enrichment and orchestration tools (Clay, Zapier/Make, Gong, ZoomInfo) and CRM APIs.*
+* *Demonstrated experience building and evaluating practical LLM/AI agent workflows in production business environments.*
+* *Strong business acumen and understanding of B2B SaaS revenue funnels (MQL SQL Opportunity Closed-Won).*
+
+**Our Core Values**
+-------------------
+
+At Rightsline, we look for these qualities in every hire, and we hold ourselves to them every day.
+
+* **Be Curious and Smart**
+  ------------------------
+
+*Being smart isn't about having all the answers — it's about asking the right questions, seeking out new ideas, and never assuming you already know enough.*
+
+* **Embrace Change**
+  ------------------
+
+*This industry moves fast and so do we. We don't resist change — we lean into it. That means staying flexible, letting go of what isn't working, and treating uncertainty as opportunity rather than obstacle.*
+
+* **Show Up**
+  -----------
+
+*Showing up means being present — not just physically, but mentally and emotionally. Your teammates count on you. Your customers count on you. We do our best work when everyone is fully engaged and accountable to each other.*
+
+* **Get it Done**
+  ---------------
+
+*Ideas are easy. Execution is the job. We hold ourselves to what we commit to, push through the hard parts, and measure success by our actual accomplishments.*
+
+* **Be Humble**
+  -------------
+
+*Nobody here has a monopoly on good ideas. We listen more than we talk, share credit freely, and check our egos at the door. The best outcome matters more than whose idea it was.*
+
+**Equal Employment Opportunity**
+--------------------------------
+
+Rightsline is an equal opportunity workplace. All candidates will be afforded equal opportunity through the recruiting process. We do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, disability, gender identity and/or expression. We are dedicated to growing a diverse team of highly talented individuals and creating an inclusive environment where everyone feels empowered to bring their authentic selves to work.
+
+If you are contacted for an interview and require accommodation during the interviewing process, please let us know.
+
+**Apply Today**
+---------------
+
+If you want to join a company that strives for a mission, purpose and making an impact, we encourage you to apply today."
+47023ed5830921ba,Data Engineer,Bits In Glass,"Edmonton, AB, Canada",1,"CAD 90,000 - 110,000 /yearly",2026-11-21,"[""indeed""]",https://ca.indeed.com/viewjob?jk=bb0e2eedd1d9f713,https://bitsinglassca.bamboohr.com/careers/544?source=indeed&src=indeed&postedDate=2026-11-20,51,"Free scorer: your resume shows 5 of 29 listed skills (Python, FastAPI, PostgreSQL, AWS).","[""SQL"", ""SQL Server"", ""MongoDB"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""Databricks"", ""Kafka"", ""Neo4j"", ""Spark"", ""PySpark"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling"", ""Tableau"", ""Power BI"", ""Azure"", ""GCP"", ""Terraform"", ""CI/CD"", ""Agile"", ""Security""]",new,2026-11-21T20:00:23+00:00,2026-11-21T20:00:41+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""AWS"", ""Git""]",,mid,in-bb0e2eedd1d9f713,indeed,"Join a company that’s leading the way in AI and automation consulting. Our portfolio spans 10+ top technologies across business applications, data, process, cloud, and AI. At Bits In Glass, you’ll do meaningful work with a supportive, driven team that loves to collaborate and celebrate wins together. Whether you’re coding, consulting or bringing bold ideas to the table, you’ll tackle real business challenges, grow your skills, and make a BIG impact.
+
+Our growing team has earned global recognition as a Great Place to Work and received multiple industry partner awards—while keeping things fun and people-focused. If you’re looking to deepen your expertise and solve real-world problems, Bits In Glass could be the place for you
+
+As a Data Engineer, you will be an integral part of our team, working on data pipelines, data warehousing, and data integration for various analytics and AI use cases. You will collaborate closely with Delivery Managers, ML Engineers and other stakeholders to ensure seamless data flow and accessibility. Your expertise will be crucial in enabling data-driven decision-making for our clients. To thrive in this role, you need to be a quick learner, get excited about innovation and be on the constant lookout to master new technologies as they come up in the Data, AI & Cloud realms.
+
+**Key Responsibilities**
+
+* Build and maintain scalable batch and streaming pipelines (ETL/ELT) for analytics and AI.
+* Ingest data from OLTP databases, files, SaaS apps, and APIs into the lakehouse.
+* Prepare data for ML and GenAI use cases with ML Engineers.
+* Translate client data requirements into tailored solutions.
+* Ensure data quality, security, and governance.
+* Optimize cloud storage and compute for performance and cost.
+* Use Databricks as the primary platform for processing and orchestration.
+* Monitor, troubleshoot, and improve pipeline reliability.
+* Apply best practices: version control, code review, testing, CI/CD, and documentation.
+* Contribute to technical design and mentor junior team members.
+
+  
+
+**Qualifications**
+
+* **Education:** Degree in Computer Science, Engineering, or related field, or equivalent experience.
+* **Experience:** 3–5 years building production data pipelines.
+* **Programming:** Strong SQL and Python (including PySpark).
+* **Distributed processing:** Partitioning, joins, and performance tuning (e.g., Apache Spark on Databricks).
+* **Lakehouse architecture:** Medallion architecture and open table formats (e.g., Delta Lake, Apache Iceberg).
+* **Declarative pipelines and orchestration:** e.g., Lakeflow Spark Declarative Pipelines, Lakeflow Jobs, Airflow, dbt.
+* **Data ingestion:** Batch, incremental, CDC, and API ingestion (e.g., Lakeflow Connect, Auto Loader, Fivetran, Azure Data Factory, AWS Glue).
+* **Batch and streaming:** Streaming concepts such as watermarking and late data (e.g., Spark Structured Streaming).
+* **OLTP and OLAP:** How transactional and analytical systems differ and integrate (e.g., PostgreSQL, SQL Server, Databricks Lakebase).
+* **Data modeling:** Relational and dimensional modeling, including star schemas and SCDs.
+* **Data warehousing:** e.g., Databricks SQL, Snowflake, BigQuery, Redshift.
+* **Data quality:** Validation, monitoring, and alerting (e.g., pipeline expectations, Lakehouse Monitoring).
+* **Governance and security:** Access control (RBAC/ABAC), PII masking, and lineage (e.g., Unity Catalog).
+* **Cloud platforms:** At least one of AWS, Azure, or GCP.
+* **DevOps and CI/CD:** Git, automated testing, CI/CD, and infrastructure as code (e.g., Databricks Asset Bundles, Terraform).
+* **Soft skills:** Strong problem-solving, communication, and collaboration.
+
+  
+
+**Highly Desirable Skills**
+
+* **Vector databases:** e.g., Databricks Vector Search, pgvector, Pinecone.
+* **GenAI data pipelines:** Preparing unstructured data for RAG and AI agents (e.g., Databricks AI Functions, Agent Bricks).
+* **Real-time streaming:** e.g., Apache Kafka, Azure Event Hubs, Amazon Kinesis.
+* **Operational data serving:** Serving data to applications (e.g., Lakebase, FastAPI, Databricks Apps).
+* **ML lifecycle:** Feature engineering and model tracking (e.g., MLflow, Feature Store).
+* **NoSQL and graph databases:** e.g., MongoDB, Cosmos DB, Neo4j.
+* **BI and semantic layer:** e.g., Unity Catalog metric views, AI/BI and Genie, Power BI, Tableau.
+* **Certifications:** Databricks Data Engineer Associate/Professional or a cloud data certification.
+* **Consulting:** Client-facing and Agile delivery experience.
+
+  
+
+BIG is a high growth Cloud Consulting firm with offices in Edmonton, Calgary, Toronto, Denver, India and the United Kingdom. Our clients are in Canada, UK, India and the US. We are a team of experienced IT professionals who specialize in providing business value to organizations looking at leveraging modern platforms such as Pega, Appian, MuleSoft and Boomi. Our vast experience in the IT industry and our current track record in enterprise software development, allow us to provide a full range of services to our clients. Bits In Glass helps organizations of all sizes to automate their businesses and leverage the power of the web and mobile technologies.
+
+**Compensation:** The expected base salary range for this position is $90,000 – $110,000 CAD annually. The final offer will depend on factors such as skills, experience, certifications, and qualifications relevant to the role.
+
+**AI Disclosure:** Bits In Glass uses artificial intelligence (AI) tools to help screen, assess, or select applicants for this position. All hiring decisions are reviewed and made by our recruitment team."
+d581ba981ad5e301,"Software Engineer I, Backend (Streaming Infra)",Affirm,"Toronto, ON, Canada",1,"CAD 101,000 - 151,000 /yearly",2026-11-21,"[""indeed""]",https://ca.indeed.com/viewjob?jk=b8146baedb3a97e1,https://grnh.se/u7np9g0a3us,66,"Free scorer: your resume shows 4 of 9 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kafka"", ""Spark"", ""Kubernetes""]",new,2026-11-21T20:00:17+00:00,2026-11-21T20:00:42+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,junior,in-b8146baedb3a97e1,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.  
+  
+The Streaming team at Affirm is responsible for all things data and drives the strategy for event driven architecture, stream processing, data exploration, discovery and validation. We leverage existing open source technologies like Kafka, Flink, Spark and also build our own as needed. As a member of our team you would spend time identifying and executing on new use cases of data infrastructure, designing and scaling our existing infrastructure and working closely with other teams to promote the optimal use of data at the company.  
+  
+**What You'll Do**
+
+* With the support of your team, you will work on tasks that contribute to the team's projects and goals.
+* You will work collaboratively and proactively with your team and stakeholders, bringing them along for your work and helping to create visibility and dialog regarding the risks and trade-offs related to your work.
+* You will strike the right balance of speed and quality in your work, ensuring that we hit our business goals while protecting our systems from downtime.
+* You will contribute to a sense of community on your team by engaging in growth and development activities.
+
+**What We Look For**
+
+* You have previous work or internship experience designing, developing and launching backend systems at scale and are experienced using one of Python or Kotlin.
+* You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes.
+* You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
+* You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+* Experience building and owning large-scale stream processing systems, such as Kafka, SNS is a plus.
+  
+
+Base Pay Grade - J  
+Equity Grade - 4  
+  
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.  
+Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).  
+  
+CAN base pay range per year: $101,000 - $151,000 CAD
+
+**Location - Remote Canada.** This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.
+
+#LI-Remote
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
+3347f4f41c3e3521,Backend Software Engineer,Capco,"Toronto, ON, Canada",0,"CAD 92,000 - 118,000 /yearly",2026-11-20,"[""indeed""]",https://ca.indeed.com/viewjob?jk=8b6dac01c40c06a1,https://grnh.se/z7jmkmk31us,59,"Free scorer: your resume shows 7 of 21 listed skills (Python, REST, LLM, AWS).","[""Java"", ""SQL"", ""Spring"", ""React"", ""Angular"", ""Microservices"", ""Oracle"", ""SQS"", ""ETL"", ""Terraform"", ""CI/CD"", ""CloudFormation"", ""Agile"", ""Security""]",new,2026-11-21T20:00:14+00:00,2026-11-21T20:00:42+00:00,"[""Python"", ""REST"", ""LLM"", ""AWS"", ""Lambda"", ""S3""]",,mid,in-8b6dac01c40c06a1,indeed,"**Build modern Java services. Modernize critical platforms. Use AI to make engineering better.**
+
+**The Role**
+------------
+
+At Capco, we're looking for a hands-on Backend Software Engineer to help build and modernize the technology behind digital marketing platforms used by financial services organizations.
+
+You'll join a cross-functional Agile engineering team, designing, developing and maintaining Java-based backend services, REST APIs and microservices on AWS. You'll work with Oracle databases, cloud-based data pipelines and existing platform components, helping improve performance, reliability and scalability.
+
+This is an opportunity to take ownership of your development work, solve interesting technical challenges and contribute to the modernization of enterprise platforms. You'll collaborate with experienced engineers, contribute to technical discussions and continue developing your expertise in cloud-based backend engineering.
+
+You'll also use AI-enabled development tools to improve how you code, debug and test, while applying sound engineering judgement to deliver secure, reliable solutions.
+
+We're looking for a strong backend engineer first. This is not a dedicated AI or data science role.
+
+**What You'll Do**
+------------------
+
+* **Build and modernize backend services:** Design, develop, test and maintain Java and Spring Boot services, REST APIs and microservices. Contribute to refactoring legacy components while maintaining existing business functionality.
+* **Develop reliable cloud solutions:** Build and deploy applications on AWS, support cloud-based data processing and ETL integrations, and help improve application scalability, resilience and performance.
+* **Solve engineering problems:** Investigate production issues, write and optimize SQL and Oracle PL/SQL, trace defects using Java and Python, and implement effective, maintainable fixes.
+* **Use AI to improve engineering delivery:** Apply approved AI coding assistants and agentic development tools to support coding, debugging, testing and automation. Validate AI-generated outputs, follow security and responsible AI practices, and contribute to integrating AI capabilities into backend applications and workflows.
+* **Collaborate and deliver quality software:** Use Git, CI/CD pipelines, automated testing and code reviews. Work closely with product owners, QA, designers and fellow engineers, contribute ideas to technical discussions and help deliver solutions aligned with product and client needs.
+
+**What We're Looking For**
+--------------------------
+
+* **Hands-on engineering experience:** At least 5 years of professional software development experience, with the ability to independently develop, test and maintain backend applications.
+* **Strong problem-solving skills:** A practical, analytical approach to debugging, investigating technical issues and developing reliable solutions.
+* **Ownership and accountability:** The ability to take responsibility for assigned features and services, deliver quality work and consider the impact of technical decisions on the wider application.
+* **Collaboration and communication:** Experience working in cross-functional Agile teams, communicating technical concepts clearly, participating in code reviews and contributing constructively to team discussions.
+* **Adaptability and continuous learning:** A willingness to learn, ask questions, work with evolving requirements and continuously improve engineering practices. This role requires fully bilingual proficiency in French and English, written and verbal. French is required to support clients in Quebec, and English is used for collaboration across Capco's global organization.
+
+**Technical Skills & Experience**
+---------------------------------
+
+* **Java backend development:** Strong hands-on experience with Java 17 or 21, Spring Boot or Spring Framework, object-oriented programming, software design principles, REST APIs and microservices.
+* **Databases and debugging:** Experience with relational databases, SQL and Oracle PL/SQL, including query optimization, data accuracy and using Java and Python to investigate defects and production issues.
+* **AWS and data integration:** Hands-on experience building and deploying AWS applications, understanding cloud architecture, integration, deployment and scalability, and working with cloud-based data processing and ETL pipelines.
+* **Engineering practices:** Experience using Git, CI/CD pipelines, automated testing, code-quality tools and peer code reviews to support reliable software delivery.
+* **AI-enabled development:** Practical experience using AI coding assistants and agentic development tools for coding, debugging, testing and automation; effective prompt engineering; familiarity with generative AI, LLM-based applications and responsible AI practices; and some exposure to integrating AI capabilities into backend applications or enterprise workflows.
+
+**Bonus Points For**
+--------------------
+
+* Experience in **financial services, wealth management or other regulated industries**, particularly supporting enterprise technology platforms.
+* Exposure to **digital marketing platforms, content management systems or customer engagement technologies**.
+* Experience with AWS services such as **Lambda, ECS/EKS, S3, Glue, Step Functions, SQS or SNS**, or infrastructure as code using **Terraform or AWS CloudFormation**.
+* Hands-on experience with **GitHub Copilot, Claude Code, Cursor or Amazon Q Developer**, or building with **LLM APIs, retrieval-augmented generation (RAG) or agent frameworks**.
+* Front-end development experience with **React or Angular**, or an **AWS certification**.
+
+**Why Join Capco**
+------------------
+
+* Deliver high-impact technology solutions for Tier 1 financial institutions
+* Work in a collaborative, flat, and entrepreneurial consulting culture
+* Access continuous learning, training, and industry certifications
+* Be part of a team shaping the future of digital financial services
+* Help shape the future of digital transformation across FS & Energy.
+
+**Benefits**
+------------
+
+We offer a competitive, people-first benefits package designed to support every aspect of your life:
+
+* **Comprehensive Benefits Coverage** – 100% company-paid health, life, and disability insurance effective from Day 1 of employment
+* **Retirement Savings Program** – Registered Retirement Savings Plan (RRSP) with the option of receiving a matching employer contribution
+* **Virtual Health Care** – Company-paid program available to all employees and their dependents/partners
+* **Employee & Family Assistance Program (EFAP)** – Company-paid support services for employees and their dependents/partners
+* **Parental Leave Top-Up** – Enhanced parental leave benefits available from Day 1 of employment
+* **New Parent Gift** – A company-sponsored gift to celebrate the arrival of a new child
+* **Wellness Support** – Fitness reimbursement benefit to promote health and well-being
+* **Business Coach from Day 1:** Personalized one-on-one coaching to support career growth, accelerate development, and help achieve your professional goals at Capco.
+
+**Inclusion at Capco**
+----------------------
+
+We're committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we'll be happy to help. We value each person's unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.
+
+**Use of Artificial Intelligence in Talent Acquisition**
+
+At Capco, we use artificial intelligence (AI) tools to support and enhance several parts of talent acquisition. This includes using AI-enabled features within LinkedIn to help source potential candidates, speeding up routine recruitment communications such as emails and creating compelling and brand-aligned job postings that accurately reflect role requirements, and AI-scheduling applications to improve the efficiency of interview coordination.
+
+AI is used as a support tool only. All hiring decisions are made by talent acquisition and hiring teams.
+
+**Why This Role Is Open**
+
+We are currently hiring for this role due to an existing or newly created vacancy within our organization. This position is open as part of our ongoing business needs, and we are actively reviewing applications to fill this role with a qualified candidate who can make an immediate impact."
+cc800b0034fe06b4,Streaming Azure Data Engineer,Cognizant,"Toronto, Ontario, Canada",1,,2026-11-20,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4492838930,https://careers.cognizant.com/global-en/jobs/00071353911/streaming-azure-data-engineer/,51,"Free scorer: your resume shows 3 of 16 listed skills (Python, Git, Pytest).","[""SQL"", ""Microservices"", ""Snowflake"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""CI/CD"", ""Unit Testing"", ""Security""]",new,2026-11-21T20:00:11+00:00,2026-11-21T20:00:42+00:00,"[""Python"", ""Git"", ""Pytest""]",,mid,li-4492838930,linkedin,"**Job Title - Azure Streaming Data engineer**
+
+* remote \*\*
+
+**MUST HAVE- Streaming experience along with- Event hub, Databricks and Apache Spark, API.**
+**Cloud & Data Integration**
+
+* Hands-on experience with Microsoft Azure as the primary cloud platform
+* Experience with Azure Event Hubs for streaming and event-driven data architectures, including event trigger patterns (eventHubTrigger, batch cardinality) and structured event schema handling (CloudEvents)
+* Practical knowledge of Azure Data Lake Storage (ADLS) including storage hierarchy, access patterns and best practices
+* Experience building and deploying Azure Function Apps for data processing and transformation workloads, including HTTP and event-triggered functions with input/output bindings
+* Proficiency with Azure Data Factory (ADF) for pipeline orchestration and data integration
+* Experience with Azure Cosmos DB — including NoSQL data modeling, partition key strategy, and single-container multi-entity design patterns
+* Hands-on experience with Snowflake, including loading data, schema management and working within Snowflake's processing model
+
+**Programming & Development**
+
+* Strong Python development skills — intermediate to advanced proficiency, with experience in data engineering contexts (data transformation, API integration, automation) and back-end service development
+* Databricks and Apache Spark — hands-on PySpark and SparkSQL experience in production data engineering environments
+* Solid understanding of software engineering best practices: version control (Git), code reviews, modular and maintainable code structure, and CI/CD pipelines using Azure DevOps or equivalent
+* Unit testing and integration testing proficiency (pytest, mocking, async test patterns)
+
+**SQL & ETL**
+
+* Advanced SQL skills — essential; must be comfortable writing complex queries, optimizing performance and troubleshooting data issues
+* Proven experience building and maintaining ETL/ELT pipelines
+
+**Data Architecture & Modelling**
+
+* Solid understanding of data warehousing concepts including star schema, slowly changing dimensions (SCDs) and dimensional modelling
+* Working knowledge of data lake and lakehouse architecture, including medallion (Bronze/Silver/Gold) layered patterns and Delta Lake
+* Ability to contribute to and follow data modelling standards and conventions within an existing platform
+
+**Back-End API Development**
+
+* Experience designing and building RESTful APIs — routing, versioning, error handling and documentation (OpenAPI/Swagger)
+* Familiarity with microservices architecture and inter-service communication patterns
+* Understanding of API security patterns — mTLS (mutual TLS), API keys, and environment-driven auth configuration
+
+The annual salary for this position is between $115-125Kdepending on experience and other qualifications of the successful candidate.
+  
+  
+This position is also eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to the terms of Cognizant’s applicable plans.
+  
+  
+Benefits: Cognizant offers the following benefits for this position, subject to applicable eligibility requirements:
+  
+  
+
+* Medical/Dental/Vision/Life Insurance
+* Paid holidays plus Paid Time Off
+* 401(k) plan and contributions
+* Long-term/Short-term Disability
+* Paid Parental Leave
+* Employee Stock Purchase Plan
+
+Disclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable la"
+bde561619ac64dc8,"Senior Backend Engineer, Operations Technology",HelloFresh,"Toronto, Ontario, Canada",0,,2026-11-21,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477478763,,71,"Free scorer: your resume shows 6 of 11 listed skills (Python, FastAPI, PostgreSQL, AWS).","[""React"", ""Snowflake"", ""Kafka"", ""Airflow"", ""System Design""]",new,2026-11-21T19:59:52+00:00,2026-11-21T20:00:42+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""AWS"", ""S3"", ""Docker""]",,senior,li-4477478763,linkedin,"**S'more About The Team**
+The Production Scheduling Technology team builds and maintains the platform that powers how HelloFresh plans, sequences, and optimizes production across our operations. Our team has developed the first iteration of the next-generation internal system with a planning engine that now automates the end-to-end planning process – a system with deep impact on how millions of meals move through our network.
+  
+  
+As we continue evolving this system, extending its capabilities, and preparing for expansion, we are looking for a Senior Software Engineer with strong backend experience, a talent for turning complex logic into clean, reliable systems, and enough full-stack fluency to support and enhance our internal application.
+  
+  
+Above all, we are looking for people who will make HelloFresh better. We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.
+  
+  
+**Lettuce Share What This Role Will Be Responsible For**
+
+* Build, enhance, and co-own the Python-based algorithmic engine that drives automated planning, including deterministic logic and constraint-based components
+* Design, develop, and maintain backend services using FastAPI, ensuring scalable, reliable API interactions with our internal application
+* Work end-to-end across architecture, implementation, deployment, and operations within our modern technology ecosystem (EKS, RDS, S3, ElastiCache, Glue, etc.)
+* Collaborate closely with engineers, analysts, and planners to translate domain knowledge into robust, maintainable system logic
+* Contribute to the evolution of the platform toward event-driven patterns using technologies like Kafka
+* Support frontend needs for our internal React application, ensuring seamless integration between FE and BE layers
+* Improve reliability through automated testing, performance tuning, and thoughtful system design
+* Guide as well as learn through pairing, design discussions, and knowledge sharing to help strengthen collective ownership across a strong, team-first environment
+* Participate in shaping the future direction of an advanced system
+* Work beyond your specialization when the problem demands it. Your specialization is your anchor, not your boundary.
+* Operate what you build. You instrument, monitor, and improve your systems in production. Shipping is the beginning of the learning cycle, not the end
+
+**Sound a-peeling? Here's what we're looking for**
+
+* Hands-on experience working with AI tooling (e.g., Claude Code, Cursor, Copilot) beyond casual experimentation. You use AI agents every day. You have a practical sense of how the context you provide to AI tools shapes output quality, and how to set boundaries on AI-generated work.
+* Strong software engineering experience with a focus on backend development and Python as the primary language
+* Experience designing and building systems with complex business logic, including deterministic, constraint-based optimizers, and MIP solvers
+* Hands-on experience building production-grade APIs with FastAPI or similar modern frameworks
+* Solid knowledge and experience with relational databases and comfortable working with data across various data systems (PostgreSQL, Snowflake, S3)
+* Experience with event-driven architecture and messaging technologies
+* Working knowledge of cloud environments, containerization, and orchestration (AWS, Docker, Airflow)
+* Experience contributing to or designing scalable architecture for internal tools or operational platforms
+* Full-stack capability with React or another modern FE framework — enough to support and enhance application
+* Strong communication skills and a proactive, collaborative approach to working with engineers, analysts, planners, and product partners
+* Comfort working through ambiguity and contributing clarity through simple, pragmatic design choices
+* A mindset of continuous learning, knowledge sharing, and improving the systems
+* Nice to have: Bachelor’s or Master’s degree in Computer Science, Engineering or related field
+* Nice to have: Experience in Fulfillment, Logistics, Supply Chain, Production, or related field working with physical goods
+* You take full ownership. You have a bias to ship. You finish the last twenty percent.
+* You have product sense and are opinionated about what should be built and why, and you can back that opinion with data and user evidence.
+
+**Let’s cut to the cheese, this is why you'll love it here**
+
+* Box Discount - Amazing discounts on 1 box per week! 75% discount on weekly HelloFresh and Chefs Plate meal kits AND 50% off weekly Factor meal box.
+* Health & Wellness - Health & Dental benefits from day 1, a Health Spending Account, unlimited access to the Headspace app to meet your self-care needs, and 25% discount on GoodLife fitness memberships!
+* RRSP Matching - Competitive RRSP matching program offered
+* Vacation & PTO - Time off is also an important part of self-care! We offer generous vacation and PTO to help you create a good work-life balance.
+* Family Benefits - A parental leave top-up program for expectant parents.
+* Growth & Development - We support your career progression and invest in your continued learning through experiences and initiatives owned by our dedicated L&D team
+* Work Hard & Have Fun - From team socials to engaging company days, you’ll have plenty of opportunity to experience the fun!
+* Diversity & Inclusion Initiatives - With impactful ERG’s like FreshPride, Women Empowered and LIMES, we are committed to our diversity, equity & inclusion efforts.
+* Food Puns - this one is kind of a big dill if you haven’t already noticed. We even have some punny meeting room names!
+
+**Flexible Hybrid Approach**
+At HelloFresh, we know that flexible work arrangements are essential in enabling you to do your best work, while balancing your personal and life needs. Offering remote work flexibility, along with the opportunity to interact and collaborate in the office are all a part of creating a great employee experience.
+  
+  
+To meet these needs, we are pleased to provide Flexible Hybrid work. Flexible Hybrid is a people-first approach that is based on choice, trust, personalization, and empowers teams to choose when and how often they work from the office and work from home, in addition to team days and company days. This means a minimum of 2 days in office per week, with most teams in office between 2-3 days a week.
+  
+  
+*HelloFresh Canada uses AI-integrated technology to help us process and evaluate applications more efficiently. This includes tools that screen and assess candidate qualifications based on the requirements for this role. While these tools assist our workflow, all final selection decisions are made by our hiring team.*
+*This is a posting for an existing vacancy. We are actively seeking to fill this position.*
+Toronto, ON Pay Range
+  
+  
+$120,000—$150,000 CAD"
+fee318a371cd8d60,Senior Backend Software Engineer,Capco,"Toronto, Ontario, Canada",0,"CAD 118,000 - 152,000 /yearly",2026-11-19,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4492248476,https://grnh.se/weqerb9g1us,59,"Free scorer: your resume shows 7 of 21 listed skills (Python, REST, LLM, AWS).","[""Java"", ""SQL"", ""Spring"", ""React"", ""Angular"", ""Microservices"", ""Oracle"", ""SQS"", ""ETL"", ""Terraform"", ""CI/CD"", ""CloudFormation"", ""Agile"", ""Security""]",new,2026-11-21T19:59:52+00:00,2026-11-21T20:00:42+00:00,"[""Python"", ""REST"", ""LLM"", ""AWS"", ""Lambda"", ""S3""]",,senior,li-4492248476,linkedin,"**Own complex backend engineering challenges. Shape technical decisions. Build smarter, more reliable platforms.**
+The Role
+  
+  
+At Capco, we're looking for an experienced Senior Java Backend Software Engineer to take a leading hands-on role in building and modernizing the backend services powering digital marketing platforms for financial services organizations.
+  
+  
+You'll design, develop and improve Java-based microservices and REST APIs running on AWS, working across Oracle databases, cloud-based data pipelines and established enterprise systems.
+  
+  
+Beyond delivering high-quality code, you'll help shape technical solutions, evaluate architectural trade-offs and guide engineering decisions that improve scalability, reliability and maintainability. You'll take ownership of complex problems, challenge existing approaches when necessary and support other engineers in delivering better outcomes.
+  
+  
+This is a senior hands-on engineering opportunity where you'll remain close to the code while influencing technical direction and engineering standards. It is not a dedicated AI or data science position.
+  
+  
+What You'll Do
+  
+  
+
+* Lead hands-on backend engineering: Design, build, test and maintain Java 17/21 and Spring Boot services, REST APIs and microservices. Take ownership of complex components and guide the modernization of legacy systems without disrupting critical business operations.
+* Shape cloud architecture and reliability: Design and deploy AWS-based applications, support cloud data processing and ETL integrations, and evaluate technical trade-offs involving scalability, resilience, performance, security and cost.
+* Resolve complex production and data challenges: Lead root-cause investigations using logs, metrics and code, optimize SQL and Oracle PL/SQL, troubleshoot defects using Java and Python, and implement sustainable improvements to platform stability and data accuracy.
+* Advance AI-enabled engineering practices: Use approved AI coding assistants and agentic development tools to accelerate development, debugging, testing and automation. Write effective prompts, validate AI-generated outputs, apply security and responsible AI practices, and help the team adopt effective AI workflows and integrate AI capabilities into backend services.
+* Provide technical leadership and mentorship: Influence design decisions, review code, strengthen automated testing and CI/CD practices, and mentor engineers. Collaborate with product owners, QA, designers and other engineers to challenge assumptions, manage technical risks and deliver solutions aligned with client and product objectives. Contribute to front-end changes when needed.
+
+What We're Looking For
+  
+  
+
+* Advanced Java backend development: 8+ years of professional software development experience, with strong hands-on expertise in Java 17 or 21, Spring Boot or Spring Framework, object-oriented programming, software design principles, REST APIs and microservices. Demonstrated ability to design and maintain complex backend systems.
+* Databases and complex problem-solving: Strong experience with relational databases, SQL and Oracle PL/SQL, including performance tuning and data accuracy. Excellent debugging skills, with the ability to use Java and Python to investigate complex defects, identify root causes and implement sustainable solutions.
+* AWS and cloud architecture: Hands-on experience designing, building and deploying applications on AWS, with a strong understanding of cloud architecture, deployment, integration and scalability, including cloud-based data processing and ETL pipelines.
+* Engineering practices, technical leadership and AI: Strong experience with Git, CI/CD, automated testing, code-quality tools and code reviews. Practical experience using AI coding assistants and agentic development tools, effective prompt engineering, familiarity with generative AI and LLM-based applications, responsible AI practices, and some exposure to integrating AI capabilities into backend applications or enterprise workflows. Ability to evaluate architectural trade-offs, mentor engineers, communicate clearly with technical and non-technical stakeholders, and collaborate in cross-functional Agile teams.
+* Mandatory language requirements: Full professional proficiency in both French and English, written and spoken. French is required to support clients in Quebec, while English is used to collaborate with Capco's global teams.
+
+Bonus Points For
+  
+  
+
+* Experience delivering technology solutions in financial services, wealth management or regulated environments, including an understanding of enterprise reliability and governance expectations.
+* Experience with digital marketing platforms, content management systems or customer engagement technologies.
+* Experience with AWS services such as Lambda, ECS/EKS, S3, Glue, Step Functions, SQS or SNS, or infrastructure as code using Terraform or AWS CloudFormation.
+* Hands-on experience with GitHub Copilot, Claude Code, Cursor or Amazon Q Developer, or building solutions with LLM APIs, retrieval-augmented generation (RAG) or agent frameworks.
+* Experience contributing to front-end applications using React or Angular, or holding an AWS certification.
+
+Why Join Capco
+  
+  
+
+* Deliver high-impact technology solutions for Tier 1 financial institutions
+* Work in a collaborative, flat, and entrepreneurial consulting culture
+* Access continuous learning, training, and industry certifications
+* Be part of a team shaping the future of digital financial services
+* Help shape the future of digital transformation across FS & Energy.
+
+**Benefits**
+We offer a competitive, people-first benefits package designed to support every aspect of your life:
+  
+  
+
+* Comprehensive Benefits Coverage – 100% company-paid health, life, and disability insurance effective from Day 1 of employment
+* Retirement Savings Program – Registered Retirement Savings Plan (RRSP) with the option of receiving a matching employer contribution
+* Virtual Health Care – Company-paid program available to all employees and their dependents/partners
+* Employee & Family Assistance Program (EFAP) – Company-paid support services for employees and their dependents/partners
+* Parental Leave Top-Up – Enhanced parental leave benefits available from Day 1 of employment
+* New Parent Gift – A company-sponsored gift to celebrate the arrival of a new child
+* Wellness Support – Fitness reimbursement benefit to promote health and well-being
+* Business Coach from Day 1: Personalized one-on-one coaching to support career growth, accelerate development, and help achieve your professional goals at Capco.
+
+Inclusion at Capco
+  
+  
+We're committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we'll be happy to help. We value each person's unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.
+  
+  
+**Use of Artificial Intelligence in Talent Acquisition**
+At Capco, we use artificial intelligence (AI) tools to support and enhance several parts of talent acquisition. This includes using AI-enabled features within LinkedIn to help source potential candidates, speeding up routine recruitment communications such as emails and creating compelling and brand-aligned job postings that accurately reflect role requirements, and AI-scheduling applications to improve the efficiency of interview coordination.
+  
+  
+AI is used as a support tool only. All hiring decisions are made by talent acquisition and hiring teams.
+  
+  
+**Why This Role Is Open**
+We are currently hiring for this role due to an existing or newly created vacancy within our organization. This position is open as part of our ongoing business needs, and we are actively reviewing applications to fill this role with a qualified candidate who can make an immediate impact.
+  
+  
+**Pay Transparency**
+The salary range for this position is listed below. Additionally, this position may also be eligible to receive an annual discretionary/variable bonus payment.
+  
+  
+Capco is committed to providing fair and equitable compensation to our people. Our compensation policies and salary ranges are designed to allow our people to progress through the salary range as they demonstrate strong performance and develop in their role over time. The base pay offered to selected candidates will be within the salary range and the placement will vary based upon a variety of factors, including, but not limited to job-related knowledge, skills, experience and internal equity.
+  
+  
+Canada Pay Transparency
+  
+  
+$118,000—$152,000 CAD"
 e1401712ff4008b6,Test Data Quality Engineer,Plato,Canada,1,CAD 60 - 75 /hourly,2026-11-20,"[""indeed""]",https://ca.indeed.com/viewjob?jk=e17b89534695d227,https://careers.platotech.com/jobs/8771441-test-data-quality-engineer,53,Free scorer: your resume shows 1 of 5 listed skills (Python).,"[""SQL"", ""Databricks"", ""Excel"", ""Azure""]",new,2026-11-20T20:59:36+00:00,2026-11-20T20:59:54+00:00,"[""Python""]",,mid,in-e17b89534695d227,indeed,"**Job Description:**  
 The Test Data Quality Engineer plans, creates, masks and manages test data across the R2 test environments. Ensures that functional, negative, boundary, performance and reconciliation scenarios have representative and privacy-compliant data.
   
@@ -103,7 +629,7 @@ You’ll help drive our shift to AI-first engineering, rolling out an agentic wa
 
 **Compensation Range**
 
-Range: $95K – $135K CAD
+Range: $100K – $140K CAD
 
 We are open to applications from candidates whose salary expectations fall outside of the stated range, provided the role aligns with your career goals and experience. We will further discuss compensation expectations if you are invited for a first-round interview.
 
@@ -17329,6 +17855,10 @@ If our mission energizes you and you’re ready to build the future of finance, 
   
 **AI Usage Disclosure:**
 Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams.
+  
+  
+**Application Limit:**
+Candidates may submit no more than 3 applications in any 90 days. Within that time, they may apply to each role only once.
   
   
 Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application."
