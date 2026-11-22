@@ -1,4 +1,369 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+f51c0e3679b3a00b,Senior Data Engineer,Ipsos in Canada,"Toronto, Ontario, Canada",0,"CAD 100,000 - 110,000 /yearly",2026-11-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4492940666,,68,"Free scorer: your resume shows 4 of 8 listed skills (Python, LLM, AWS, Git).","[""SQL"", ""BigQuery"", ""GCP"", ""Serverless""]",new,2026-11-22T20:13:17+00:00,2026-11-22T20:13:48+00:00,"[""Python"", ""LLM"", ""AWS"", ""Git""]",,senior,li-4492940666,linkedin,"**Job Description**
+
+**Title: Senior Data Engineer**
+
+**Location: Any Ipsos Canada Location**
+
+**Who We Are**
+
+Ipsos is one of the world's largest research companies and the only one primarily managed by researchers. Ranked the #1 Most Innovative Market Research Supplier by Greenbook’s GRIT report for four consecutive years, we operate in 90 markets, offer more than 75 data-driven solutions, and serve over 5,000 clients worldwide. Our research, methodological, implementation, and subject matter experts help organizations solve complex business challenges through data-driven insights and evidence-based decision-making. We're proud to have been named one of Forbes' America's Best Employers for Company Culture in 2025, Forbes' America's Best Employers for Women in 2026 and recognized by Newsweek as one of the World’s Most Trustworthy Companies in 2026.
+
+**ABOUT The Ipsos DataHub**
+
+The Ipsos DataHub is a uniquely positioned group within Ipsos. It is a next-generation data platform designed to unlock the full value of data across the organization. By bringing together information, technology, and expertise in a seamless and secure ecosystem, it empowers teams to move faster, think bigger, and deliver deeper, more meaningful insights. DataHub is at the heart of Ipsos’ vision to transform how data drives decisions, innovation, and impact for clients worldwide.
+
+We’re looking for someone with a deep interest and expertise in data engineering and the dedication to apply that passion. We need someone with the technical expertise to expand and optimize our existing data pipeline and architecture. The ideal candidate will have experience using cloud-based platforms, like Google Cloud Services and AWS, to build and maintain serverless data pipelines to efficiently process and warehouse large scale datasets. The role also requires conscientious attention to detail, an ability to work well on a small team, and a self-starter approach to problem solving and debugging.
+
+**What You Can Expect To Be Doing**
+
+* Design, code, and test cloud-based data pipelines to process and store large-scale datasets.
+* Develop and maintain data warehouses to efficiently store large, complex datasets in a cost-optimal manner.
+* Ingest and assemble data from various disparate sources using a variety of tools, including Python and SQL.
+* Work with internal/external stakeholders to identify and understand needs and project goals.
+* Drive the migration of development code into production, providing technical assistance and guidance to refine and optimize processes.
+* Troubleshoot and improve existing infrastructure and codebases.
+
+**This might be the job for you if you have:**
+
+* 5+ years of professional experience as a data engineer
+* Bachelor's degree in computer science or a related field required, master’s degree or higher preferred
+* Proficiency in Python & advanced working knowledge of SQL
+* Experience incorporating AI/LLM-based tools into data engineering workflows, with demonstrated ability to critically evaluate AI outputs and apply sound engineering judgment to accept, adapt, or reject suggestions.
+* Strong technical communication skills
+* Experience with collaboration tools (e.g. Atlassian suite) and version control systems (e.g. Git).
+* Strong hands-on experience with GCP services (e.g. BigQuery, GCS); familiarity with other cloud platforms is an asset.
+* Comfortable working in a highly collaborative, consensus-oriented environment.
+* Prior success designing and deploying data pipelines in large-scale production environments.
+* Strong eye for detail, ability to communicate scientific concepts both in written form and verbally, and excellent time-management skills.
+* Large dataset manipulation. Experience in distributed storage and computing.
+
+*In accordance with Ontario & British Columbia law, the estimated base salary range for this role is $100,000 - $110,000 CAD. Your final base salary will be determined based on several non-discrimatory factors which may include but are not limited to location, work experience, skills, knowledge, education and/or certifications.*
+
+*If you don’t meet 100% of the requirements, we encourage all who feel they might be a fit for the opportunity to apply. We may consider a variety of backgrounds for a particular role and are also committed to considering candidates for available positions throughout our organization, not just the one you’re applying to!*
+
+**What’s In It For You**
+
+*At Ipsos you’ll experience opportunities for Career Development, an exceptional benefits package (including generous PTO, healthcare plans, wellness benefits), a flexible workplace policy, and a strong collaborative culture.*
+
+*To find out more about all the great reasons to work at Ipsos, how we’re making an impact around the world, and more about our benefits and employee programs, please visit:*
+*Why Work at Ipsos | CA*
+
+**Inclusive Workplace Commitment**
+
+Ipsos recognizes the necessity of building an inclusive culture that values each employee’s individuality and diverse perspectives. For more than 40 years, our mission has been to generate and analyze data about society, markets, brands, and behaviors to provide our clients with the insights that elevate their understanding of the world. This could not be fulfilled without Ipsos’ diverse employees who compile and analyze this data—they are the essence of who we are and what we do.
+
+We are committed to providing equal opportunity to all employees, creating an environment that promotes inclusion, and enabling employees from all walks of life to flourish. Ipsos encourages our employees to act in a respectful and responsible manner, in line with code of best practices concerning diversity and inclusion, human rights, equality, and civility for every individual.
+
+Ipsos is An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or any other protected class and will not be discriminated against on the basis of disability.
+
+**#IpsosCanada**
+
+**About Us**
+
+Ipsos is one of the world’s largest research companies and currently the only one primarily managed by researchers, ranking as a #1 full-service research organization for four consecutive years. With over 75 different data-driven solutions, and presence in 90 markets, Ipsos brings together research, implementation, methodological, and subject-matter experts from around the world, combining thematic and technical experts to deliver top-quality research and insights. Simply speaking, we help the biggest companies solve some of their biggest problems, serving more than 5000 clients across the globe by providing research, data, and insights on their target markets. And we are proud of our continuous efforts in making Ipsos the best place to work!"
+fbd2306125947fb0,Senior Data Engineer,Munich Re,"Toronto, Ontario, Canada",0,,2026-11-19,"[""linkedin""]",https://www.linkedin.com/jobs/view/4492716595,,50,"Free scorer: your resume shows 2 of 12 listed skills (Python, Git).","[""SQL"", ""SQL Server"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""ELT"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-22T20:13:17+00:00,2026-11-22T20:13:48+00:00,"[""Python"", ""Git""]",,senior,li-4492716595,linkedin,"**Position Overview**
+We are seeking a highly skilled Senior Data Engineer – SQL with a strong software engineering background to join our Solution Services team at MLMC. In this role, you will focus on developing and maintaining SQL and Python-based data solutions, building reliable ETL/ELT pipelines, and optimizing database performance. This role is ideal for someone who combines strong SQL development skills with sound data engineering practices to deliver high-quality data for business applications, reporting, and analytics.
+  
+  
+
+* Please note that the internal job title for this position is Senior Application Developer.
+
+**Your Role:**
+
+* Build and optimize SQL and Python-based ETL/ELT pipelines to extract, transform, and load data from multiple sources.
+* Collaborate with business stakeholders, analysts, and software developers to deliver reliable, reusable datasets for applications, reporting, and analytics.
+* Implement CI/CD pipelines, testing frameworks, and observability for data workflows.
+* Develop and maintain SQL queries, stored procedures, data models, and documentation, including metadata and data lineage.
+* Ensure data quality, governance, and compliance across all data assets.
+* Optimize query performance, indexing, and data processing jobs to improve reliability and efficiency.
+* Manage, administer, and evolve the enterprise Databricks platform, including workspace governance, cluster policies, security controls, cost optimization, monitoring, and operational support.
+* Design and implement scalable cloud-native data solutions using Azure services including Azure Data Factory, Azure Storage Accounts, Azure Key Vault, Azure Monitor, Azure DevOps, and Databricks.
+* Design and implement scalable data products using Lakehouse architecture, Delta Lake, and modern data governance practices.
+
+**Your Profile:**
+
+* 8+ years of experience in data engineering, database development, software engineering, or a related technical field, including experience designing and supporting enterprise data solutions.
+* Advanced SQL skills, including complex queries, stored procedures, functions, and performance optimization.
+* Strong Python programming skills for data engineering, automation, and testing.
+* Hands-on experience with Azure Databricks, PySpark, and Delta Lake.
+* Strong understanding of relational databases, data modelling, and ETL/ELT processes.
+* Experience designing, developing, and maintaining cloud-based data solutions using Microsoft Azure services.
+* Experience with SQL Server, including database performance tuning, troubleshooting, and optimization.
+* Experience migrating SQL Server workloads to Databricks and selecting appropriate technologies based on business and technical requirements.
+* Knowledge of DevOps practices, including Git, CI/CD pipelines, and tools such as Azure DevOps.
+* Strong analytical and problem-solving skills, with the ability to troubleshoot complex data and system issues.
+* Excellent communication and collaboration skills, with the ability to explain technical concepts to both technical and non-technical stakeholders.
+
+**Preferred Qualifications:**
+
+* Experience with Big Data: Strong proficiency with big data technologies such as Azure Databricks and Spark.
+* Leadership Experience: Demonstrated technical leadership, mentoring, solution design leadership, or team leadership experience.
+* Databricks Certifications: Databricks Certified Data Engineer Associate and Professional
+
+**About Munich Re**
+*Together, we engage with everything we have and are, to help humankind act braver and better.*
+As the world’s leading reinsurance company with more than 40,000 employees in over 50 locations around the globe, Munich Re introduces a paradigm shift in the way you think about insurance. By turning uncertainty into manageable risk, we enable fundamental change. We recognize Diversity, Inclusion, and Belonging as a key priority with a culture that welcomes different thoughts and opinions. We dare to think big and are continuously innovating on behalf of our clients.
+  
+  
+Our data, our technology, and our teams place us in a unique position to drive transformative change in the life insurance industry. We invest strategically in our world class talent, offering our employees a work experience that promotes professional development, innovation, and rewards high performance.
+  
+  
+**What Can We Offer You?**
+We are pleased to offer our employees great benefits and resources to support their mental, physical and financial wellbeing. These include:
+  
+  
+
+* An engaging and collaborative environment that promotes continuous learning and development
+* A hybrid work environment that combines weekly in-office and remote days
+* A great compensation package including annual company bonus
+* Market leading company-paid flexible health and dental benefits, starting on your first day
+* Flexible dollars provided by the company to put towards Health Spending Account and/or Wellness Spending Account
+* Immediate participation in DC Pension Plan with an automatic employer contribution, plus optional company match
+* Generous time off including vacation, personal days, unplanned time, Statutory Holidays and company-wide early closure half-days
+* Learning and development programs and resources, including unlimited access to LinkedIn Learning, Education Assistance Program and reimbursement for professional fees
+* Maternity, Parental & Adoption Leave top-up program
+* Employee Referral Program, Recognition & Rewards Platform
+
+Our base salary range for this role is between
+**$135,000**
+**and $150,000 per year**
+, plus an opportunity for an annual company bonus based upon a percentage of eligible pay. The salary estimate displayed represents the typical salary range for candidates hired in this position. Factors that may be used to determine your actual salary include your specific skills, how many years of experience you have and comparison to internal equity.
+  
+  
+This role is located in our
+**Toronto office on 390 Bay St**
+, and we operate in a
+**hybrid work model.**
+This job posting is for an existing vacancy.
+  
+  
+We do not use AI in our recruitment process - applications are reviewed by our team to ensure a fair and personalized experience.
+  
+  
+Please note that only candidates who are selected for interview will be contacted directly. We thank all candidates for their interest.
+  
+  
+Munich Re is committed to providing a work environment that is inclusive and free of employment barriers and discrimination. Accommodations will be made for qualified applicants with a disability throughout the recruitment process. If you receive a request for an interview and you have a disability which will require an accommodation to support your participation, please contact AODARequestHR@munichre.ca as soon as practical so that suitable accommodations can be arranged."
+6275583881769883,Senior Backend Software Engineer,Pigment,"Greater Toronto Area, Canada",0,"CAD 100,000 - 180,000 /yearly",2026-11-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4426326932,,56,"Free scorer: your resume shows 5 of 18 listed skills (Python, REST, PostgreSQL, Docker).","[""Java"", ""TypeScript"", ""Go"", ""Rust"", ""C++"", ""C#"", ""Ruby"", ""React"", "".NET"", ""RabbitMQ"", ""GCP"", ""Kubernetes"", ""Terraform""]",new,2026-11-22T20:12:48+00:00,2026-11-22T20:13:48+00:00,"[""Python"", ""REST"", ""PostgreSQL"", ""Docker"", ""Linux""]",,senior,li-4426326932,linkedin,"**Our Story So Far:**
+Since our founding in 2019, Pigment has become one of the fastest-growing SaaS companies in the world today. Our product, a highly efficient Enterprise Performance Management (EPM) platform is helping companies achieve their financial goals by quickly responding to dynamic factors in their respective markets including Tech, Retail, CPG & Financial Services.
+  
+  
+In less than 5 years, Pigment has grown to over 480 employees across offices in New York, Toronto, London, Paris and soon San Francisco, and attracted a total of $393M in investment from some of the top Venture Capital firms globally.
+  
+  
+We serve companies including Unilever, Deliveroo, Gong and Brex to name a few!
+  
+  
+🚀
+**The opportunity:**
+Join our Blocks team as a Software Engineer and play a critical role in shaping the core infrastructure that powers Pigment's platform. This team is responsible for delivering and maintaining the fundamental building blocks that enable both our customers and internal teams to create advanced modeling features.
+  
+  
+**Here’s why this is an exciting opportunity:**
+🛠️ Core Infrastructure Development: Build and maintain the essential components that power Pigment’s modeling capabilities.
+  
+  
+📈 Scalable & Reusable Solutions: Design and deliver features that are scalable and reusable across multiple use cases while ensuring optimal performance.
+  
+  
+🤝 Cross-Team Collaboration: Work closely with other engineering teams, product managers, and customer-facing teams to deliver impactful solutions.
+  
+  
+🔧 Engineering Excellence: Apply best practices in coding, system architecture, and performance optimization.
+  
+  
+If you're passionate about backend engineering, solving complex problems, and working on foundational technology, this is an ideal opportunity to make a significant impact!
+  
+  
+**Who You Are:**
+We value strong technical skills, a collaborative mindset, and a proactive approach to problem-solving. You should be comfortable handling complex technical challenges and working across teams to deliver reliable, scalable solutions.
+  
+  
+**Preferred Requirements:**
+
+* Proven Experience: Solid background in backend software engineering and delivering production-ready systems
+* Proven experience designing object oriented software with languages such as C#, Java, C++, Golang, Rust, Python or Ruby (this list is not exhaustive)
+* Great team spirit with a problem-solving attitude
+* A good dose of humility and the willingness to grow (no matter your seniority!)
+* A fluent level in English (French is not a must)
+
+**Your Responsibilities:**
+🧱 Core Feature Development:
+  
+  
+
+* Design, develop, and maintain critical backend components within the Blocks scope
+* Ensure solutions are scalable, maintainable, and reusable to support diverse use cases
+
+📊 Optimize Performance & Scalability:
+  
+  
+
+* Design systems that prioritize performance, reliability, and low maintenance overhead
+* Ensure reusability across the platform to serve both internal and external stakeholders
+
+**About the Team:**
+🎯 Mission: Deliver and maintain the core building blocks that power Pigment's modeling capabilities while providing technical expertise across the organization.
+  
+  
+👥 Structure: You’ll join a 5-person Blocks team consisting of 3 backend engineers, 1 frontend engineer, and 1 backend.
+  
+  
+🌍 Location: While most team members are based in Paris or remote, you will work alongside one Toronto-based teammate & 2 Technical Escalation Engineer.
+  
+  
+🌴
+**Recharge & Refresh**
+- We believe in work-life balance! Take the time you need with our generous time off and parental leave policies. Work hard, rest well.
+  
+  
+✈️
+**Global Gatherings & Prime Locations**
+- Enjoy an annual company offsite plus access to our brand-new offices in vibrant cities like New York, Toronto, Paris, and London.
+  
+  
+💻
+**Top-Tier Gear**
+- Get high-end equipment (subject to availability) to ensure you have the best tools to do your best work.
+  
+  
+❤️
+**Comprehensive Healthcare**
+- Your well-being matters! We offer top-tier health coverage to keep you feeling your best.
+  
+  
+Our Engineering team
+  
+  
+Our Engineering team is responsible for developing our SaaS platform and building a comprehensive and user-friendly product.
+  
+  
+Pigment engineers participate in the entire application development lifecycle, focusing on design, coding, and keeping the production platform up and running. They can be specialized, but there is no strict separation between the backend and the frontend.
+  
+  
+We value user-centricity and pragmatism: we choose the most relevant tools for the problem we have to solve, understanding the strengths and constraints of each technology.
+  
+  
+Our engineering culture also values curiosity, humility, trust, ownership and team spirit.
+  
+  
+Our technical stack is C# on .NET Core Linux, React, TypeScript, PostgreSQL, Google Cloud Platform, Docker, Kubernetes, Terraform, RabbitMQ and Circle CI.
+  
+  
+Explore Our Tech Blog:
+  
+  
+If you're curious about the kind of challenges our engineering team tackles, our culture and our organization, we invite you to explore our Tech Blog!
+  
+  
+Who you are
+  
+  
+More than knowledge of a specific language or framework, we are looking for great software engineering skills: ability to translate functional requirements into an elegant and simple design, and then deliver the code.
+  
+  
+We are also looking for engineers who understand the product and the customer's needs in detail and can suggest innovative ideas: in the end, it's all about delivering value to end users.
+  
+  
+In any case, you have:
+  
+  
+
+* Experiences as a software engineer working on a product in production
+* Proven experience designing object oriented software with languages such as C#, Java, C++, Golang, Rust, Python or Ruby (this list is not exhaustive)
+* Great team spirit with a problem-solving attitude
+* A good dose of humility and the willingness to grow (no matter your seniority!)
+
+Folks from underrepresented minorities: science shows that you are less likely to apply if you feel that you don’t have all the necessary prerequisites. If this description matches where you are now or what you'd like to grow into in your next position, we encourage you to apply.
+  
+  
+What you will get
+  
+  
+
+* Competitive salary
+* Equity
+* Trust and flexible working hours
+* Brand new offices in the heart of Paris, London, New York and, Toronto
+* Remote-friendly environment
+
+*We conduct background checks as part of our hiring process, in accordance with applicable laws and regulations in the countries where we operate. This may include verification of employment history, education, and, where legally permitted, criminal records. Any checks will be conducted lawfully, with candidate consent, and information will be treated confidentially.*
+*Pigment is an equal opportunity employer. We believe diversity is a strength and fosters innovation. We are committed to enabling everyone to feel included and valued at the workplace. All qualified applicants will receive consideration for employment without regard to age, color, family, gender identity, marital status, national origin, physical or mental disability, sex (including pregnancy), sexual orientation, social origin, or any other characteristic protected by applicable laws. We may process your personal data in accordance with our*
+*HR Data Protection Notice*
+*.*
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
+0b49b3e03a1f46e6,"Senior Software Engineer, Backend (PBA - Growth)",Affirm,"Toronto, Ontario, Canada",0,,2026-11-22,"[""linkedin""]",https://www.linkedin.com/jobs/view/4444660820,,73,"Free scorer: your resume shows 4 of 7 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kubernetes""]",new,2026-11-22T20:12:24+00:00,2026-11-22T20:13:49+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,senior,li-4444660820,linkedin,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+  
+  
+The Engineering team builds systems that power Affirm’s mission. We take pride in our craft, building reliable, performant, and scalable solutions that touch every part of the business. Whether we’re enabling new ways to pay, ensuring our platforms can scale to the most demanding levels in the industry, or developing seamless servicing experiences, our focus is on solving complex problems through exceptional engineering.
+  
+  
+The Powered by Affirm (PBA) team builds the APIs and solutions that power all of Affirm’s integrations with Enterprise Merchants and Partners. We create and manage the APIs and tools that drive checkout and merchant onboarding, and we collaborate with stakeholders to design and build custom end-to-end integrated solutions.
+  
+  
+**What You'll Do**
+
+* You will be responsible for owning and delivering quarterly goals for your team, leading engineers on your team through ambiguity to solve open-ended problems, and ensuring that everyone is supported throughout delivery.
+* You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.
+* You will proactively identify project, process, technology or business issues, advocate for them, and lead in solving them.
+* You will support the operations and availability of your team’s artifacts by creating and monitoring metrics, escalating when needed, and supporting “keep the lights on” & on-call efforts.
+* You will foster a culture of quality and ownership on your team by setting or improving code review and design standards for your team, and advocating for them beyond your team through your writing and tech talks.
+* You will help develop talent on your team by providing feedback and guidance, and leading by example.
+
+**What We Look For**
+
+* You have 4+ years of experience designing, developing and launching backend systems at scale using languages like Python or Kotlin.
+* You have a track record of developing highly available distributed systems using technologies like AWS, MySQL and Kubernetes.
+* You have experience defining a technical plan for the delivery of a significant feature or system component with an elegant, simple and extensible design. You write high quality code that is easily understood and used by others.
+* You are proficient at making significant changes in a large code base, and have developed a suite of tools and practices that enable you and your team to do so safely.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+* This position requires either equivalent practical experience or a Bachelor’s degree in a related field.
+
+**Base Pay Grade**
+- N
+  
+  
+**Equity Grade**
+- 6
+  
+  
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+  
+  
+Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).
+  
+  
+**CAN base pay range per year:**
+CAD $153,000 - $213,000
+  
+  
+**Location - Remote Canada**
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.
+  
+  
+**Remote-first with flexibility built in**
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+  
+  
+**Benefits Designed For You**
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+  
+  
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help.
+  
+  
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+  
+  
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
 708914af759a1091,GTM Data Engineer/ AI,RightsLine,"Toronto, ON, Canada",0,"CAD 170,000 - 180,000 /yearly",2026-11-21,"[""indeed""]",https://ca.indeed.com/viewjob?jk=e4a85e741d3dde1a,https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f93572d0-23af-4fc8-978b-3dc51f63c8fa&ccId=19000101_000001&jobId=593829&source=IN&lang=en_US,59,"Free scorer: your resume shows 2 of 6 listed skills (Python, LLM).","[""TypeScript"", ""SQL"", ""dbt"", ""Data Modeling""]",new,2026-11-21T20:00:26+00:00,2026-11-21T20:00:41+00:00,"[""Python"", ""LLM""]",,mid,in-e4a85e741d3dde1a,indeed,"Since 2012, Rightsline has been making work easier for rights and royalties professionals with our innovative rights and royalties management software, allowing our customers to maximize their portfolios without having to max out their daily to-do-lists.
 
 Our fully integrated and configurable platform provides customers with comprehensive access to all their rights and royalties, across all markets and platforms, instantly. Departments can communicate, collaborate, and cohesively take action without worrying about mistakes; and in-app reports and timely alerts ensure our customers never miss an opportunity to do more.
@@ -10505,11 +10870,24 @@ Robinhood is a metrics driven company and data is foundational to all key decisi
 * Familiarity with data visualization tools (Looker, Tableau, etc).
 * Great communication skills and ability to democratize data through actionable insights and solutions.
 
-**Bonus Points**
+**Bonus points**
 
 * Passion for working and learning in a fast-growing company.
 
+**What We Offer**
+
+* Challenging, high-impact work to grow your career
+* Performance driven compensation with multipliers for outsized impact, bonus programs, and equity ownership
+* Top tier benefits to fuel your work, including supplemental health insurance, ancillary insurance, and mental health support programs
+* Lifestyle wallet - a highly flexible employer-paid benefits spending account expenses beyond traditional benefits such as wellness, childcare, learning, and more.
+* Time off to recharge including company holidays, paid time off, sick time, paid volunteer time off, parental leave, and more!
+* Exceptional office experience with catered meals, events, and comfortable workspaces.
+* Monthly commuter stipend to help offset in-office commuting costs
+
 Our team is committed to providing an inclusive and welcoming interview experience for all candidates. If you require a specific accommodation during the application or interview process due to a physical or mental condition, please complete this Applicant Accommodation Form to notify our team. The form should only be completed if you need a specific accommodation.
+  
+  
+Vacancy Notice: This job posting represents an existing vacancy that we are actively seeking to fill.
   
   
 **In addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits.**
@@ -10531,6 +10909,10 @@ If our mission energizes you and you’re ready to build the future of finance, 
   
 **AI Usage Disclosure:**
 Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams.
+  
+  
+**Application Limit:**
+Candidates may submit no more than 3 applications in any 90 days. Within that time, they may apply to each role only once.
   
   
 Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application."
@@ -16060,7 +16442,141 @@ Location(s): Canada : Ontario : Toronto
   
   
 At Tangerine we value the unique skills and experiences each individual brings to the team, and are committed to creating and maintaining an inclusive and accessible environment. If you require accommodation during the recruitment and selection process, please let our Recruitment team know."
-38f077cfc093a54e,Data Engineer (Databricks) - Consultant,Deloitte,"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4471676080,,62,"Free scorer: your resume shows 0 of 1 listed skills (none of them); there's no job description, so this is a rough guess.","[""Databricks""]",new,2026-10-18T16:27:30+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+38f077cfc093a54e,Data Engineer (Databricks) - Consultant,Deloitte,"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4471676080,,62,"Free scorer: your resume shows 0 of 1 listed skills (none of them); there's no job description, so this is a rough guess.","[""Databricks""]",new,2026-10-18T16:27:30+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**Job Type:**
+Permanent
+**Work Model:**
+Hybrid
+**Reference code:**
+135230
+**Primary Location:**
+Toronto, ON
+**All Available Locations:**
+Brossard, QC; Burlington, ON; Calgary, AB; Edmonton, AB; Fredericton, NB; Halifax, NS; Kitchener, ON; Laval, QC; Moncton, NB; Montreal, QC; Ottawa, ON; Quebec City, QC; Regina, SK; Saint John, NB; Saskatoon, SK; St. John's, NL; Toronto, ON; Vancouver, BC; Victoria, BC; Winnipeg, MB
+  
+  
+**Our Purpose**
+At Deloitte, our Purpose is to make an impact that matters. We exist to inspire and help our people, organizations, communities, and countries to thrive by building a better future. Our work underpins a prosperous society where people can find meaning and opportunity. It builds consumer and business confidence, empowers organizations to find imaginative ways of deploying capital, enables fair, trusted, and functioning social and economic institutions, and allows our friends, families, and communities to enjoy the quality of life that comes with a sustainable future. And as the largest 100% Canadian-owned and operated professional services firm in our country, we are proud to work alongside our clients to make a positive impact for all Canadians.
+  
+  
+By living our Purpose, we will make an impact that matters.
+  
+  
+
+* Have many careers in one Firm.
+* Enjoy flexible, proactive, and practical benefits that foster a culture of well-being and connectedness.
+* Learn from deep subject matter experts through mentoring and on the job coaching
+
+--
+  
+  
+**What will your typical day look like?**
+Ready to shape the future of data and analytics? Join our team of innovative professionals who are helping organizations unlock the power of their data through cutting-edge Lakehouse architectures. Apply today to become part of Deloitte Canada's data transformation journey.
+  
+  
+Technical Architecture & Design
+  
+  
+
+* Design comprehensive Lakehouse architectures using Databricks platform capabilities including Delta Lake, MLflow, and Unity Catalog
+* Develop scalable data engineering pipelines and advanced analytics solutions that meet enterprise-grade requirements
+* Create technical roadmaps and migration strategies for legacy data platform modernization
+* Ensure solutions align with industry best practices for data governance, security, and performance optimization
+
+Collaboration
+  
+  
+
+* Collaborate with client technical teams to facilitate knowledge transfer and ensure sustainable solution adoption
+* Work closely with Deloitte's broader technology and industry practices to deliver integrated client solutions
+
+Solution Delivery & Innovation
+  
+  
+
+* Drive end-to-end delivery of complex data platform implementations from conception through production deployment
+* Establish CI/CD processes and DataOps practices for scalable, repeatable solution delivery
+* Stay current with emerging Databricks features and industry trends to continuously enhance solution offerings
+* Contribute to Deloitte's intellectual capital and accelerators for faster client value realization
+
+**About The Team**
+We are seeking an experienced Databricks consultant to join our growing data and analytics practice at Deloitte Canada. This role presents an exceptional opportunity to work with enterprise clients across various industries, designing and implementing world-class Lakehouse architectures that transform how organizations leverage their data assets. As a Databricks consultant, you will serve as both a technical leader and trusted advisor, guiding clients through complex data modernization initiatives while leading high-performing teams to deliver innovative solutions.
+  
+  
+**Required Qualifications**
+**Enough about us, let’s talk about you**
+Certifications & Experience
+  
+  
+
+* Certified Databricks Data Engineer Associate (required)
+* Certified Databricks Data Engineer Professional
+* 3-5 years of consulting experience in data and analytics, with demonstrated client-facing capabilities
+* Bachelor's degree in Computer Science, Engineering, Mathematics, or related technical field
+
+Technical Expertise
+  
+  
+
+* Deep hands-on experience with the Databricks Unified Analytics Platform, including Databricks SQL, Delta Lake, MLflow, and Unity Catalog
+* Proficiency in Python, Scala, or SQL for data engineering and analytics workloads
+* Strong understanding of cloud platforms (AWS, Azure, or GCP) and their data services
+* Experience with modern data architecture patterns including data Lakehouse, Data Mesh, and event-driven architectures
+* Knowledge of data governance frameworks and data quality management practices
+
+Professional Skills
+  
+  
+
+* Proven ability to lead and influence technical teams in a consulting environment
+* Excellent communication and presentation skills with the ability to translate complex technical concepts for business audiences
+* Strong project management capabilities with experience in agile delivery methodologies
+* Demonstrated success in building client relationships and managing stakeholder expectations
+
+**Nice To Have Qualifications**
+
+* Advanced degree (Master's or PhD) in a quantitative field
+* Experience with specific industry verticals (Financial Services, Healthcare, Retail, Manufacturing)
+* Knowledge of data science and machine learning frameworks and methodologies
+* Previous experience in a consulting environment
+
+Quebec Locations: Bilingualism in French and English is required for this position due to the nature of the role having interactions with National & Global clients and project teams.
+  
+  
+**Total Rewards**
+The salary range for this position is $58,000 - $102,000, and individuals may be eligible to participate in our bonus program. Deloitte is fair and competitive when it comes to the salaries of our people. We regularly benchmark across a variety of positions, industries, sectors, targets, and levels. Our approach is grounded on recognizing people's unique strengths and contributions and rewarding the value that they deliver.
+  
+  
+Our Total Rewards Package extends well beyond traditional compensation and benefit programs and is designed to recognize employee contributions, encourage personal wellness, and support firm growth. Along with a competitive base salary and variable pay opportunities, we offer a wide array of initiatives that differentiate us as a people-first organization. On top of our regular paid vacation days, some examples include: $4,000 per year for mental health support benefits, a $1,300 flexible benefit spending account, firm-wide closures known as ""Deloitte Days"", dedicated days of for learning (known as Development and Innovation Days), flexible work arrangements and a hybrid work structure.
+  
+  
+**Our promise to our people: Deloitte is where potential comes to life.**
+**Be yourself, and more.**
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+  
+  
+**You Shape How We Make Impact.**
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute.
+  
+  
+**Be the leader you want to be**
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+  
+  
+**Have as many careers as you want.**
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors.
+  
+  
+**The next step is yours**
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan, Reconciliation Action Plan and the BlackNorth Initiative.
+  
+  
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations) or indigenouscareers@deloitte.ca for any questions relating to careers for Indigenous peoples at Deloitte (First Nations, Inuit, Métis).
+  
+  
+When you apply, we will review your application using Deloitte's Global Talent Standards to ensure a consistent recruitment experience. Our recruitment advisors and hiring teams will utilize human screening combined with AI technology to help identify the skills and qualities that matter most to our business, while safeguarding your privacy and using AI responsibly.
+  
+  
+Deloitte Canada has 20 offices with representation across most of the country. We acknowledge that Deloitte offices stand on traditional, treaty, and unceded territories in what is now known as Canada. We recognize that Indigenous Peoples have been the caretakers of this land since time immemorial, nurturing its resources and preserving its natural beauty. We acknowledge this land is still home to many First Nations, Inuit, and Métis Peoples, who continue to maintain their deep connection to the land and its sacred teachings. We humbly acknowledge that we are all Treaty people, and we commit to fostering a relationship of respect, collaboration, and stewardship with Indigenous communities in our shared goal of reconciliation and environmental sustainability."
 03fc5cc69d319827,Sr. IFRS17 Data Engineer,"Zodiac Solutions, Inc","Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4477712607,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-18T16:27:30+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
 06fca3cef22ceb0f,Backend Engineer,Lakeview Loan Servicing,"Toronto, ON, Canada",1,"CAD 140,000 - 240,000 /yearly",2026-10-17,"[""indeed""]",https://ca.indeed.com/viewjob?jk=27d364910bdbb195,https://careers.bayview.com/lls/jobs/9153/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-17T16:14:03+00:00,2026-10-29T00:46:56+00:00,[],,,,indeed,
 a771e1dc94d9eb29,Senior Data Engineer,HOOPP (Healthcare of Ontario Pension Plan),"Toronto, Ontario, Canada",0,,2026-10-17,"[""linkedin""]",https://www.linkedin.com/jobs/view/4472054295,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-17T16:14:02+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**Why You’ll Love Working Here**
@@ -16206,7 +16722,134 @@ Toronto, ON, CAN - 97,100.00 CAD Annually
   
   
 Job ID: A10559101"
-2fa42dd4e406ce80,Data Engineer II,TD,"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4480510516,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
+2fa42dd4e406ce80,Data Engineer II,TD,"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4480510516,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**Work Location:**
+Toronto, Ontario, Canada
+  
+  
+**Hours**
+37.5
+  
+  
+**Line Of Business**
+Technology Solutions
+  
+  
+**Pay Details**
+$81,600 - $115,200 CAD
+  
+  
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+  
+  
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+  
+  
+**Job Description**
+**CUSTOMER**
+
+* Perform data analysis and assess data management requirements for a specific Platform or Journey, including complex analysis involving multiple pods or products
+* Maintain expert knowledge of upstream data, including knowledge provided through data profiling, data quality reporting, and via the production of metadata
+* Support the acquisition and ingestion of data
+* Articulate complex, large scale, and high impact technical design and development details to non-technical business partners
+* Elicit, analyze, and understand business and data requirements to develop complete business solutions, including data models (entity relationship diagrams, dimensional data models), ETL and business rules, data life-cycle management, governance, lineage, and metadata
+* Ensure data is maintained in compliance with enterprise data standards, policies, and guidelines
+* Develop and maintain complex data models using industry standard modeling tools
+* Develop and maintain complex ETL jobs and frameworks using the Bank's standard tools
+* Provide support to the development and testing teams to resolve data issues, including escalation support on complex issues
+* Support partners and stakeholders in interpreting and analyzing data
+* Build effective working relationships within own pod and across partner teams to encourage collaboration on all pod deliverables
+
+**SHAREHOLDER**
+
+* Coordinate with technology work teams such as ITS, ARE, Architecture, Enterprise Protect etc. to ensure overall delivery success
+* Support the QA team with data analysis/investigations of complex issues/ test cases as part of SIT/UAT/PAT testing
+* Provide oversight on post implementation activities during the warranty period
+* Execute & approve code check-in/ check-out into source code repository as part of source code management
+* Work closely with ITS/ ARE teams to support code packaging & deployment (CI & CD) into higher environments
+* Be the lead participant in the design & architecture reviews or the application
+* Raise service-now requests and work with the change management team to support release management activities
+* Lead data engineering initiatives and capabilities, data governance principles and how they apply across the organization
+* Ensure metadata and data lineage is captured and compatible with enterprise metadata and data management tools and processes
+* Adhere & contribute towards standard security coding practices to ensure application is free of most common coding vulnerabilities
+* Ensure technical decisions, technical risks and lessons learned are identified, clearly documented and enhancements are accordingly implemented
+* Protect the interests of the organization – identify and manage risks, and escalate non-standard, high-risk activities as necessary
+* Adhere to internal policies/procedures and applicable regulatory guidelines
+* Keep current on emerging trends/ developments and grow knowledge of the business, related tools, and techniques
+* Enable team members by sharing knowledge and leveraging engineering best practices.
+
+**EMPLOYEE / TEAM**
+
+* Participate fully as a member of the team, support a positive work environment that promotes service to the business, quality, innovation and teamwork and ensure timely communication of issues/ points of interest
+* Provide thought leadership and/ or industry knowledge for Data engineering best practices and participate in knowledge transfer within the team and business unit
+* Keep current on emerging trends/ developments and grow knowledge of the business, related tools and techniques
+* Participate in personal performance management and development activities, including cross training within own team
+* Keep others informed and up-to-date about the status / progress of projects and / or all relevant or useful information related to day-to-day activities
+* Actively mentors and enables team members by sharing knowledge and leveraging engineering best practices.
+* Supports the team by providing guidance and proactively identifying and resolving issues
+* Lead, motivate and develop relationships with internal and external business partners / stakeholders to develop productive working relationships.
+* Contribute to a fair, positive and equitable environment that supports a diverse workforce
+* Act as a brand ambassador for your business area/function and the bank, both internally and/or externally
+
+**BREADTH & DEPTH**
+
+* Advanced knowledge of data engineering frameworks, technologies, tools, processes, patterns, and procedures, including how they impact other technology areas such as Architecture or Infrastructure
+* Performs complex technical tasks independently
+* Advanced knowledge of TD applications, systems, networks, innovation, design activities, business, organization, best practices, and standards
+* Designs and develops to meet business and technical requirements; analyzes, adapts, integrates, codes, tests, debugs, and executes
+* Uses and evolves established patterns to solve complex problems; leads the development of new patterns where necessary
+* May be recognized as a subject matter expert in areas directly related to key accountabilities
+* Generally reports to a Practice Lead
+
+**Experience And / Or Education**
+
+* Degree, Postgraduate Degree, or Technical Certificate in Data Management or related discipline (e.g. Computer Science, Engineering), or equivalent practical experience
+* A minimum of 3 years' relevant experience
+* Working experience in Microsoft Azure, Databricks, Pyspark, Python, SQL, ADF
+* Measurable outcomes from having leveraged AI to improve productivity.
+* Excellent at problem-solving, communication and at influencing stakeholders.
+
+**Who We Are**
+TD is one of the world's leading global financial institutions and is the fifth largest bank in North America by branches/stores. Every day, we strive to make every interaction, product, and experience remarkably human and refreshingly simple for over 27 million households and businesses in Canada, the United States and around the world. More than 95,000 TD colleagues bring their skills, talent, and creativity to foster deeper relationships, ensure disciplined execution, and build a simpler, faster banking experience. TD is deeply committed to being a leader in client experience, that is why we believe that all colleagues, no matter where they work, are client facing. Together, we are reimagining what banking can be for our clients, colleagues and communities.
+  
+  
+**Our Total Rewards Package**
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+  
+  
+**Additional Information**
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+  
+  
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+  
+  
+**Colleague Development**
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.
+  
+  
+If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.
+  
+  
+We're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.
+  
+  
+**Training & Onboarding**
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+  
+  
+**Interview Process**
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+  
+  
+**Accommodation**
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+  
+  
+We look forward to hearing from you!
+  
+  
+**Language Requirement (Quebec Only)**
+Sans Objet"
 8c80bb5141265ec4,"Senior Data Engineer, Risk Technology",Investment Management Corporation of Ontario (IMCO),"Toronto, Ontario, Canada",0,,2026-10-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470001579,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"At IMCO, our talent is among the best! IMCO offers a uniquely stimulating and rewarding environment where you can help build and drive organizational transformation, all while seeking to challenge yourself, learn, and grow your career.
   
   
@@ -18105,6 +18748,10 @@ If our mission energizes you and you’re ready to build the future of finance, 
   
 **AI Usage Disclosure:**
 Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams.
+  
+  
+**Application Limit:**
+Candidates may submit no more than 3 applications in any 90 days. Within that time, they may apply to each role only once.
   
   
 Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application."
