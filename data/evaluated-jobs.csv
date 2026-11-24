@@ -1,4 +1,900 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+7661863337c9bee5,Data engineer/Sr. Data Engineer,Home Depot Canada,"Toronto, ON, Canada",0,"CAD 80,000 - 110,000 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=fcf2ac102ca7666b,https://careers.homedepot.ca/job-view-id/2114098?utm_campaign=Indeed.ca,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Git).","[""SQL"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""ETL"", ""Data Modeling"", ""Tableau"", ""Statistics"", ""Azure"", ""GCP"", ""CI/CD""]",new,2026-11-24T22:58:46+00:00,2026-11-24T22:59:01+00:00,"[""Python"", ""AWS"", ""Git""]",,senior,in-fcf2ac102ca7666b,indeed,"**Pay Range: $80,000 - $110,000**
+
+**At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting your growth with us.**
+
+**Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you’re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot.**
+====================================================================================================================================================================================================================================================================================================
+
+Do you have a learning mindset and a passion for data-driven decision-making? Do you thrive in a dynamic environment where you can leverage technology to uncover efficiencies? Would working in a highly collaborative and relationship driven company that values respect for everyone excite you? Look no further than Home Depot Canada.
+
+We go beyond routine reporting; we engage in creative, hands-on work within an empowering environment where every decision is backed by high-quality data. If you are an innovator passionate about data engineering and reimagining the future of retail, apply today and help shape the next chapter at **The Home Depot Canada**.
+
+As a **Data Engineer**, you will design and build scalable data pipelines to organize, transform, and optimize billions of rows of data for analytics and decision-making. Leveraging **Google BigQuery (GBQ), Python**, and retail domain expertise, you will deliver solutions that power insights, solve complex problems, and support short- and long-term strategies. You will collaborate closely with business teams and data analysts to translate requirements into efficient transformations, ensuring clean, reliable, and high-performance data across the organization.
+
+**About the Team**
+
+You will join the Data & Analytics Engineering pillar within Decision Analytics, Finance at Home Depot Canada. The team owns the data foundations behind the function’s analytics products, including clearance analytics and store performance scorecards, and is migrating legacy Alteryx workloads to BigQuery-native automated pipelines. You will partner with Finance, Merchandising, Supply Chain, Store Ops, E-comm and IT teams, and work within the engineering standards, governance, and AI guardrails set by the team.
+
+**At the Home Depot** **the Data Engineer is responsible for:**
+
+**Data Modeling & Pipeline Engineering**
+
+* **Pipeline Development**: Design, develop, and maintain scalable data pipelines and ETL processes for both structured and unstructured data.
+* **Data Transformation**: Build and optimize tables and views for dashboards and self-service analytics, gathering and translating business requirements into efficient data transformations.
+* **Platform Modernization:** Migrate Finance analytics workloads from desktop Alteryx and locally run workflows to BigQuery-native automated pipelines.
+* **Technical Execution:** Leverage Google BigQuery, Python, and GBQ stored procedures to develop robust solutions and optimize complex queries.
+
+**Data Optimization & AI Innovation**
+
+* **AI Integration:** Leverage and integrate advanced AI tools—such as Gemini, GitHub Copilot, NotebookLM, etc.—to enhance data solutions, automate complex workflows, and build next-generation analytics capabilities.
+* **Governance & Accuracy**: Ensure data quality, governance, and high performance across large-scale datasets.
+* **Automation**: Automate processes and implement strategies to continuously improve data quality across the customer experience.
+* **Monitoring & Reliability:** Monitor pipeline health and delivery SLAs; implement logging, alerting, and debugging standards to catch and resolve failures before they affect downstream reporting.
+* **Performance & Cost Optimization:** Optimize BigQuery queries and pipeline design (partitioning, clustering, slot usage) to improve delivery speed and control compute spend.
+* **Engineering Standards:** Apply version control, CI/CD, and documentation practices to all analytical code and pipelines.
+* **Continuous Improvement**: Drive operational efficiency by identifying process bottlenecks and adopting modern data engineering tools and frameworks.
+
+**Cross-Functional Collaboration & Business Impact**
+
+* **Strategic Partnering**: Collaborate with business teams, data analysts, and technology partners to deliver reliable, actionable data solutions.
+* **Insight Delivery**: Aggregate and prepare data for reporting, dashboards, and scorecards. Provide data extraction support and respond to ad hoc analysis requests.
+* **Communication**: Effectively convey complex technical information and data constraints to stakeholders with a business-oriented background, ensuring alignment with organizational objectives.
+
+**What you will need to be successful in this role:**
+
+**Education & Experience**
+
+* **Education:** Bachelor’s degree in Computer Science, Engineering, Statistics, Applied Mathematics, or a related technical/quantitative field.
+* **Experience:** 3-5 years of experience in data engineering or a related field. *A strong understanding of the retail domain, particularly finance and merchandising data, is highly beneficial.*
+* **Certifications (Bonus):** Relevant technical certifications are a strong asset (e.g., Google Professional Data Engineer, AWS Certified Big Data – Specialty, Microsoft Certified: Azure Data Engineer Associate).
+
+**Technical Proficiency**
+
+* **Core Languages:** Deep proficiency in **SQL** and **Python**.
+* **Cloud & Big Data:** Hands-on experience with **Google Cloud Platform (GCP)** services and one or more big data technologies.
+* **AI:** Familiarity with or strong interest in using AI platforms and coding assistants (such as **Gemini, Copilot etc.**) to accelerate development and build smarter data solutions.
+* **Data Warehousing:** Strong familiarity with modern data warehousing solutions such as **BigQuery**, Snowflake, or Redshift.
+* **Engineering Concepts:** Proven experience building and maintaining complex ETL pipelines, designing stored procedures, and working with large-scale datasets.
+* **Data Modelling:** Strong experience designing dimensional and analytics-ready data models (facts, dimensions, aggregates) that support dashboards, scorecards, and self-service analytics.
+* **Migration & Automation (Bonus):** Experience re-engineering Alteryx workflows (or similar desktop ETL tools) into automated, cloud-native pipelines.
+* **Engineering Practices:** Version control (Git), CI/CD for analytical code, performance tuning, and documentation.
+* **BI Data Layer (Bonus):** Experience building curated data layers for BI tools such as Tableau.
+
+**Skills & Competencies**
+
+* **Innovation & AI Mindset:** A forward-thinking approach with a passion for adopting Generative AI and automation to solve complex problems and reduce manual engineering tasks.
+* **Problem Solving:** Strong analytical mindset with a core focus on process optimization, automation, and continuous improvement.
+* **Communication:** Excellent interpersonal skills with the ability to bridge the gap between highly technical engineering work and business strategy.
+* **Agility:** Excellent organizational and time management skills, with the ability to manage multiple projects and adapt to change in a fast-paced environment.
+
+  
+
+In our commitment to efficiency, consistency, and a fair hiring experience for all candidates, The Home Depot Canada uses**Artificial Intelligence (AI) technology to assist with the screening and assessment of applicants**for this position. This technology is used to quickly and consistently identify candidates whose skills and experience are the strongest match for the role. Our process is designed to ensure human oversight is maintained throughout the selection process."
+c8ff0884f4953920,Senior Data Engineer,Vail Resorts,"BC, Canada",1,"CAD 107,000 - 140,000 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=8d0ca5b0b94097df,https://jsv3.recruitics.com/redirect?rx_cid=3263&rx_jobId=518914-GE0002&rx_url=https%3A%2F%2Fjobs.vailresortscareers.com%2Fcorporate%2Fjob%2FHybrid-Senior-Data-Engineer-Remo%2F1453099000%2F%3FfeedId%3D367000%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D116281%26rx_id%3D1e7eb15e-e78d-11f1-b015-5f24a69160dc%26rx_job%3D518914-GE0002%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20261124T204206Z%26rx_vp%3Dcpc%26sponsored%3Dppsa%26utm_source%3DIndeed,49,"Free scorer: your resume shows 2 of 13 listed skills (Python, Git).","[""SQL"", ""Databricks"", ""Spark"", ""dbt"", ""Data Modeling"", ""Data Warehouse"", ""Tableau"", ""Power BI"", ""Statistics"", ""CI/CD"", ""Security""]",new,2026-11-24T22:58:43+00:00,2026-11-24T22:59:02+00:00,"[""Python"", ""Git""]",,senior,in-8d0ca5b0b94097df,indeed,"Our mission is to create the Experience of a Lifetime for our employees, so they can, in turn, create the Experience of a Lifetime for our guests. We own and operate the most renowned destination resorts in the world as well as regional and local ski areas outside major cities, and connect them all through one unrivaled network. We are looking for ambitious leaders, innovators and creators to join our talented team. If you’re ready to pursue your fullest potential, we want to get to know you!
+
+Candidates for year-round positions are reviewed on a rolling basis. Applications will be accepted up to 90 days after the posting date, or until the position is filled (whichever is first).
+
+**Job Summary:**
+
+We are looking for a curious, driven, and innovative **Senior Data Engineer** who proactively takes initiative to solve complex problems and lead the development of data assets that elevate our marketing analytics capabilities.
+
+In this role, you will architect cost-conscious, high-efficiency data assets and serve as the subject matter expert on production-ready data streams spanning email, website, app, and paid media source systems. You will drive a tight, cross-functional partnership with the marketing analytics team to fundamentally enhance reporting and analytics capabilities across our entire digital and marketing landscape.
+
+**About the Team**
+
+The Data Science & Data Engineering team within the Enterprise Analytics organization builds foundational data assets, predictive models, analytical applications, and platforms for the entire enterprise. Our team collaborates deeply with business stakeholders, analysts, and technology groups to tackle high-impact use cases. We leverage modern tools and methodologies to accelerate business growth, optimize infrastructure costs, and continuously improve guest experiences.
+
+**Job Specifications:**
+
+* Starting Wage: $107,000 - $140,000 + Annual bonus
+
+* Employment Type: Year Round
+
+* Shift Type: Full Time hours available
+
+* Minimum Age: At least 18 years of age
+
+* Housing Availability: No
+
+**Job Responsibilities:**
+
+* **Architect & Scale Data Pipelines:** Design, build, and maintain robust, scalable ingestion pipelines from a diverse suite of marketing sources (APIs, SFTPs, webhooks etc.), ensuring high availability and data integrity.
+* **Optimize Core Data Assets:** Develop, maintain, and tune high-performance dbt models to transform raw marketing data into production-ready analytic assets for cross-functional reporting.
+* **Drive Infrastructure Efficiency:** Audit and refactor existing data infrastructure to uncover cost efficiencies and optimize compute performance across marketing data sets.
+* **Enable AI-Ready Data Products:** Develop semantic context and trusted data foundations for AI agents, predictive models, and conversational analytics. Apply AI-assisted engineering practices while maintaining accountability for production quality
+* **Advance Governance & Data Trust:** Author comprehensive data documentation, lineage maps, and artifacts to elevate data literacy and foster a culture of self-service across the organization.
+* **Lead Cross-Functional Partnerships:** Act as the primary engineering partner to the Marketing Analytics team, translating complex business requirements into high-impact, performant data products.
+* **Bridge Engineering & Enterprise Technology:** Collaborate with IT, security, architecture, and platform teams to align solutions with enterprise standards and resolve cross-system dependencies.
+* **Serve as a Subject Matter Expert:** Act as a key technical resource for data engineering best practices, scalable architectural design, and marketing data usage.
+* **Drive Technical Excellence & Mentorship:** Act as a technical mentor to elevate the team's engineering capabilities, driving continuous skill development and championing modern best practices across analytics and engineering cohorts
+
+**Job Requirements:**
+
+* **Quantitative Foundation**: B.S. degree in a quantitative field (e.g., Computer Science, Mathematics, Statistics, Economics, Operations Research, Engineering).
+* **Data Engineering Maturity:** Proven ability to write clean, modular, testable, and maintainable code. Deep understanding of how to architect production-grade systems over one-off scripts or notebooks.
+* **Experience with Databricks,** especially Unity Catalog, Delta Lake, Databricks Workflows, job optimization, and governance.
+* **Python and SQL Proficiency:** strong in Python and SQL for building data pipelines, automation, model integrations, analytical workflows, and production services.
+* **Digital Marketing Domain Expertise:** Hands-on experience managing and processing large-scale digital marketing datasets (log-level website, application, and paid media data) efficiently across cloud infrastructure.
+* **Modern Data Architecture:** Experience implementing Medallion architecture and a solid understanding of data warehouse design and schema structuring.
+* **Advanced dbt Core:** Expert-level knowledge of dbt (Core) for modular data modeling, including strict enforcement of schema testing, documentation, and complex dependency management.
+* **Version Control & CI/CD:** Proficient with Git workflows (branching strategies, pull requests, code reviews) and integrating pipelines into automated CI/CD deployment workflows.
+
+**Soft Skills:**
+
+* **Curious**: bring intellectual curiosity, an inquisitive nature, and a desire to deepen your knowledge and continue learning.
+* **Ownership**: take responsibility to proactively advance projects, contribute to the organization, and develop the best solutions.
+* **Initiative:** take initiative to understand full scope of business problems and propose solutions ahead of being directly asked
+* **Communication:** explain technical concepts, risks, tradeoffs, and recommendations clearly to technical and non-technical audiences.
+* **Collaboration:** work effectively cross-functionally with data scientists, data engineers, analysts, application engineers, product partners, and business stakeholders.
+
+**Bonus Points if you have:**
+
+* A graduate degree (Masters or PhD) in a quantitative field
+* Experience using Spark or similar distributed frameworks to build or support scalable data
+* Experience with data visualization tools such as Tableau or Power BI
+
+The expected Total Compensation for this role is $107,000 - $140,000 + Annual bonus. Individual compensation decisions are based on a variety of factors.
+
+**Job Benefits**
+
+* Ski/Mountain Perks! Free passes for employees, employee discounted lift tickets for friends and family AND free ski lessons
+* MORE employee discounts on lodging, food, gear, and mountain shuttles
+* 401(k) Retirement Plan
+* Employee Assistance Program
+* Excellent training and professional development
+
+Full Time roles are eligible for the above, plus:
+
+* Health Insurance; Medical Insurance, Dental Insurance, and Vision Insurance plans (for eligible seasonal employees after working 500 hours)
+* Free ski passes for dependents
+* Critical Illness and Accident plans
+
+Vail Resorts offers a ‘Hybrid’ work environment where employees living within 50 miles of the Broomfield office work on-site Tuesday, Wednesday, Thursday and have flexibility to work off-site on Mondays and Fridays. Employees living outside of a commutable distance can work remotely from British Columbia, Washington D.C., and the 16 U.S. states\* in which we currently operate. This includes: California, Colorado, Indiana, Michigan, Minnesota, Missouri, New Hampshire, New York, Nevada, Ohio, Pennsylvania, Utah, Vermont, Washington State, Wisconsin, and Wyoming.
+
+Please note that the ability to work in person or off-site, and the particulars related to such work, are subject to change at any time; and, accordingly, the Company reserves the right to change its policies and/or require in-person/in-office work or off-site work at any time in its sole discretion.
+
+In completing this application, and when submitting related documentation, applicants may redact information that identifies their age, date of birth, and/or dates of attendance at or graduation from an educational institution.
+
+We follow all federal, state, and local laws including restrictions on child/minor labor. Minors hired into this position will not be asked or permitted to engage in any activities restricted to adult workers.
+
+Vail Resorts is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veteran status or any other status protected by applicable law.
+
+*Requisition ID 518914*  
+*Reference Date: 11/17/2026*  
+*Job Code Function: Data Engineering*"
+feef5fa7c6610215,Data Engineer,Samsara,"Montréal, QC, Canada",1,"CAD 110,500 - 143,000 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=1af9ee2a0536ded4,https://grnh.se/qk0f55og1us,56,"Free scorer: your resume shows 4 of 15 listed skills (Python, REST, AWS, Git).","[""SQL"", ""Databricks"", ""Spark"", ""PySpark"", ""Airflow"", ""Dagster"", ""Prefect"", ""ETL"", ""Statistics"", ""Azure"", ""GCP""]",new,2026-11-24T22:58:43+00:00,2026-11-24T22:59:02+00:00,"[""Python"", ""REST"", ""AWS"", ""Git""]",,mid,in-1af9ee2a0536ded4,indeed,"**Who we are**
+
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+
+Working at Samsara means you'll help define the future of physical operations and be on a team that's shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you'll have the autonomy and support to make an impact as we build for the long term.
+
+**About the role:**
+
+Samsara is seeking a Data Engineer to join our Data team, comprising both Data Scientists, Data Analysts, and Data Engineers. Our team is at the forefront of enhancing data analysis efficiency and effectiveness. Our data engineers develop and maintain data pipelines integral to our analytics data model.
+
+As a Data Engineer, your primary responsibility will be designing and maintaining data pipelines, primarily utilizing SparkSQL and Pyspark, within our central data lake. These pipelines are crucial for ingesting and transforming source data from our IOT devices and software products into our core data model, facilitating statistical analysis, model training, and dashboard creation.
+
+This is a remote position open to candidates residing in Canada. Relocation assistance will not be provided for this role.
+
+**You should apply if:**
+
+* **You want to impact the industries that run our world:** The software, firmware, and hardware you build will result in real-world impact – helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.
+* **You are a life-long learner:** We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.
+* **You believe customers are more than a number:** Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.
+* **You are a team player:** Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, we're all racing toward our connected operations vision, and we intend to win – together.
+
+**In this role, you will:**
+
+* Build and maintain highly reliable computed tables, incorporating data from various sources, including unstructured data like video and audio, Samsara sensor & product data, and customer metadata.
+* Access, manipulate, and integrate external datasets with internal data.
+* Deliver high-quality data with strong uptime and reliability requirements, including customer-facing data sets.
+* Collaborate closely with cross-functional teams such as Data Science & Analytics, AI/ML, and other Data Engineers to ensure high-quality data for diverse purposes from causal inference, model training, and dashboarding.
+* Champion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices.
+
+**Minimum requirements for the role:**
+
+* BA / MS degree in Computer Science, Statistics, or a related discipline.
+* 4+ years experience in a data engineering-focused role.
+* Demonstrated experience in designing data models at scale.
+* Proficiency in building ETL pipelines to handle large volumes of data.
+* Experience with Spark-based data platforms.
+* Strong command of at least one data orchestration tool (e.g Airflow, Dagster, or Prefect).
+* Expertise in SQL, Python, and working with REST APIs.
+* Familiarity with software engineering fundamentals and reading backend development code.
+* Experience with version control systems such as Git/GitHub.
+
+**An ideal candidate also has:**
+
+* Familiarity with time series data and late-arriving data.
+* Knowledge of Databricks, Delta Lakes, and Dagster.
+* Previous experience working in a public cloud (e.g AWS, GCP, Azure).
+* Exposure working on a data model for a product's first-party data.
+* Exposure to complex data, including ML outputs and/or client-side signals.
+
+**Total Rewards**
+
+At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why our rewards are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time.
+
+Beyond compensation, we provide the foundations that enable long-term success: a flexible, employee-led remote model, a professional development stipend, comprehensive health and parental leave plans, and more. If you're ready to build for the long term and own the outcome, your journey starts here.
+
+**Flexible Working**
+
+At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual's ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.
+
+**Belonging at Samsara**
+
+At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.
+
+**Accommodations**
+
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewing@samsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+
+**Our Commitment to Authenticity**
+
+We use Tofu, a fraud detection tool, to validate the authenticity of applications and protect against identity fraud. This ensures we are connecting with real people and allows us to prioritize genuine candidates. Please see Samsara's Candidate Privacy Notice for more information.
+
+**Fraudulent Employment Offers**
+
+Samsara is aware of scams involving fake job interviews and offers. Please know we do not charge fees to applicants at any stage of the hiring process. Official communication about your application will only come from emails ending in @samsara.com, @us-greenhouse-mail.io or @mail3.guide.co. For more information regarding fraudulent employment offers, please visit our blog post here."
+ea31607a4e1b0033,Data Engineer,PwC Canada,"Toronto, ON, Canada",0,"CAD 71,500 - 119,200 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=4faa598190fa8bd9,https://jobs-ca.pwc.com/ca/en/job/PWCACA773574WDEXTERNALENCA/Data-Engineer?utm_source=indeed&utm_medium=phenom-feeds,51,"Free scorer: your resume shows 2 of 11 listed skills (Python, LLM).","[""SQL"", ""HTML"", ""Microservices"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""Azure"", ""CI/CD""]",new,2026-11-24T22:58:34+00:00,2026-11-24T22:59:03+00:00,"[""Python"", ""LLM""]",,mid,in-4faa598190fa8bd9,indeed,"A career in our Chief Data and Analytics Office (“CDAO”) within PwC’s Business Enablement team will provide you with the opportunity to leverage innovative solutions to enable data-driven decision making for our organization. We are dedicated to helping our leaders transform data into actionable insights through reporting, dashboards, and other data products. The ideal candidate will play a crucial role in the development, delivery, and continuous improvement of dashboards and reporting tools. You will work closely with stakeholders across Finance, Sales & Marketing, Human Capital, and other parts of the business to support our developers and project team members to ensure that our dashboards meet the strategic needs of our leadership and drive informed decision-making.
+
+**The Opportunity**
+
+As a Data Engineer at the Senior Associate level, unlock your potential and embrace the chance to drive meaningful outcomes that’ll elevate your career. Your role will include, but isn’t limited to:
+
+* Own delivery of data engineering tasks across projects and operational initiatives
+* Perform data ingestion/integration from diverse sources and enterprise applications
+* Manage integration patterns: batch, streaming, APIs/microservices
+* Design and maintain data models and support platform operations
+* Enable management reporting and BI dashboards
+* Contribute to CI/CD and DevOps processes
+* Support data architecture and governance practices (e.g., metadata, master/reference data, data quality)
+* Break down complex problems and make informed decisions in ambiguous environments
+* Translate conceptual architecture into deployable data architecture models and diagrams within cloud-native infrastructure
+Utilize tools such as SQL, Python, and Databricks for data storage and manipulation  
+
+  
+
+**What You’ll Bring**
+
+Your skills, knowledge, and experiences are what set you apart. Here’s what we look for:
+
+* Demonstrated experience or data engineering certification for Databricks or Azure
+* Degree in engineering, computer science, analytics, business and technology
+* Experience in enterprise data engineering roles, with hands-on experience with cloud platforms (Databricks preferred), databases, BI tools, and data/analytics platforms
+* Exposure to CI/CD, DevOps, and platform operations
+* Proficient in ETL patterns (batch, streaming, APIs/microservices) across structured/unstructured sources
+* Familiar with cloud-native data architecture: data mesh, lakehouse, warehouse
+* Advanced proficiency in SQL and data transformation techniques, and skilled in schema design for BI and analytics
+* Practical experience with Spark (PySpark/SparkSQL), Databricks, MS Fabric
+* Exposure to GenAI/LLM technologies preferred
+* Experience with Spark Declarative Pipelines (SDP) is a nice to have
+* Assist in solving complex data architecture and engineering problems discovered by the team with the coaching and assistance of the Lead Data Engineer and Technology Lead
+* This role does not require professional engineering licensure and is not classified as a formal engineering position under provincial regulatory definitions. While individuals with a P.Eng designation are welcome to apply, the responsibilities of this role do not involve the practice of professional engineering as defined by applicable legislation
+
+This position ensures continuity and upholds our standards of excellence following the departure of a valued team member.
+
+The salary range for this position is $71,500 - $119,200. The posted salary range represents the expected hiring range for PwC locations in major city centres. Given our national recruiting approach, ranges may vary for positions in other locations. At PwC Canada, base salary is determined by your skills, experience, qualifications and work location. In addition to base salary, eligible employees may have opportunities to participate in variable incentive pay programs which are designed to reward individual and firm-wide achievements. We are committed to offering competitive compensation and adhere to all relevant pay transparency legislation. During the hiring process, our Talent Acquisition team will provide details about our comprehensive total rewards package.
+
+  
+
+**Why you’ll love PwC**
+
+We’re inspiring and empowering our people to change the world. Powered by the latest technology, you’ll be a part of diverse teams helping public and private clients build trust and deliver sustained outcomes. This meaningful work, and our continuous development environment, will take your career to the next level. We reward your impact, and support your wellbeing, through a competitive compensation package, inclusive benefits and flexibility programs that will help you thrive in work and life. Learn more about our Application Process and Total Rewards Package at: https://jobs-ca.pwc.com/ca/en/life-at-pwc
+
+  
+
+PwC Canada acknowledges that we work and live across Turtle Island, on the land that is now known as Canada, which are the lands of the ancestral, treaty and unceded territories of the First Nations, Métis and Inuit Peoples. We recognize the systemic racism, colonialism and oppression that Indigenous Peoples have experienced and still go through, and we commit to allyship and solidarity.
+
+We’re committed to providing accommodation throughout the application, interview, and employment process. If you require accommodation to be at your best, please let us know during the application process.  
+The use of artificial intelligence (AI) in recruiting is just getting started, so we know you have questions about how and why we use it. At certain points during our recruiting process, we rely on AI to improve your experience. This could be during resume review or curating personalized job recommendations, asking you clarifying questions via a chatbot or during our interview scheduling to improve your experience. Our use of AI helps ensure we combat bias by evaluating candidates equally and fairly, without seeing identity information, such as your name, or gender for example). AI also helps us better predict successful hires by reviewing all applicants for a role and the relationship between your skills, experience and likely success at PwC Canada. While AI supports parts of our recruitment process, final hiring decisions always involve human review. For more information about our use and protection of your data, please refer to our Privacy Policy (https://www.pwc.com/ca/en/privacy-policy.html)."
+02a73872ed30c726,Software Engineer - Data Platform,Samsara,"Toronto, ON, Canada",1,"CAD 106,675 - 138,050 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=98a48aaeeafd7c56,https://grnh.se/ior747111us,56,"Free scorer: your resume shows 6 of 22 listed skills (Python, AWS, Lambda, S3).","[""Java"", ""Go"", ""Scala"", ""SQL"", ""DynamoDB"", ""Databricks"", ""SQS"", ""Spark"", ""Airflow"", ""Dagster"", ""Prefect"", ""ETL"", ""Kubernetes"", ""Terraform"", ""CloudFormation"", ""Security""]",new,2026-11-24T22:58:34+00:00,2026-11-24T22:59:03+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Docker"", ""Distributed Systems""]",,mid,in-98a48aaeeafd7c56,indeed,"**Who we are**
+
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+
+Working at Samsara means you'll help define the future of physical operations and be on a team that's shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you'll have the autonomy and support to make an impact as we build for the long term.
+
+**About the role:**
+
+Samsara is looking for a **Software Engineer to join our Data Platform team**, which owns and develops the core analytical platform across Samsara. This team builds and maintains the infrastructure that powers Samsara's data lake, distributed compute platform, and the systems that move data from our production data stores into our lakehouse.
+
+As a Software Engineer on Data Platform, you will design, build, and operate reliable, scalable, and secure infrastructure for ingesting, processing, cataloging, and accessing petabytes of data. You will work on the foundational systems that enable engineers, data scientists, analysts, and product teams across Samsara to build customer-facing features, train models, develop operational insights, and support the company's long-term AI and analytics roadmap.
+
+This is a specialized software engineering role focused on data infrastructure. You will work on systems such as Spark and Databricks infrastructure, Delta Lake on S3, data replication from primary data stores such as RDS and DynamoDB, orchestration and metadata services, internal data libraries, and infrastructure tooling across the big data ecosystem.
+
+This role is not an analytics or business data engineering role. If your experience is primarily focused on SQL modeling, BI dashboards, ETL tools, or building business-facing data marts, this role is likely not the right fit. The ideal candidate is a software engineer with deep experience building and operating production data platforms, distributed systems, or large-scale ingestion infrastructure.
+
+**This is a remote position open to candidates residing in Canada. Relocation assistance will not be provided for this role.**
+
+**You should apply if:**
+
+* **You want to impact the industries that run our world:** The software, firmware, and hardware you build will result in real-world impact – helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.
+* **You are a life-long learner:** We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.
+* **You believe customers are more than a number:** Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.
+* **You are a team player:** Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, we're all racing toward our connected operations vision, and we intend to win – together.
+
+#### **In this role, you will:**
+
+* Design, build, and operate high-scale data ingestion and replication systems from Samsara's primary production data stores, including RDS, DynamoDB, internal APIs, and event-driven systems, into our data lakehouse.
+* Build and maintain reliable, scalable, and modern data platform infrastructure capable of handling petabytes of data across Samsara's analytics, AI, product, and operational use cases.
+* Improve the reliability, observability, scalability, security, and developer experience of Samsara's Spark and Databricks-based data processing platform.
+* Develop internal libraries, APIs, frameworks, and tooling in languages such as Go and Python to help teams across Samsara move, process, discover, and access data safely and efficiently.
+* Work on foundational data lake and lakehouse technologies, including Delta Lake on S3, data catalogs, metadata services, orchestration systems, and platform automation.
+* Collaborate closely with infrastructure, product engineering, data science, analytics, security, and data engineering teams to understand platform needs and deliver durable, scalable solutions.
+* Stay connected to modern data platform technologies and help shape Samsara's long-term data infrastructure roadmap, including support for AI, privacy, security, global scale, and customer-facing data products.
+* Champion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+
+**Minimum requirements for the role:**
+
+* 4+ years of professional software engineering experience in production environments.
+* 4+ years of experience building or maintaining large-scale production data infrastructure, data platforms, distributed systems, or data lake systems.
+* Strong experience with Apache Spark or similar distributed data processing systems.
+* Experience operating production infrastructure in AWS, including services such as S3, RDS, DynamoDB, SQS, Kinesis, Lambda, or similar.
+* Experience designing, building, and operating reliable systems with strong ownership of scalability, observability, security, and operational excellence.
+* Proficiency in at least one production programming language such as Go, Python, Scala, or Java.
+* Ability to collaborate effectively with cross-functional partners, including software engineers, data scientists, analysts, security teams, and product stakeholders.
+
+**An ideal candidate also has:**
+
+* Experience with Databricks, Delta Lake, or similar lakehouse technologies such as Iceberg or Hudi.
+* Experience building data replication or ingestion systems from OLTP data stores into a data lake or lakehouse.
+* Experience with Infrastructure-as-Code tools such as Terraform or CloudFormation.
+* Familiarity with data catalogs, metadata systems, and data discovery tools such as Unity Catalog, Hive Metastore, DataHub, or Amundsen.
+* Experience with orchestration systems such as Airflow, Dagster, or Prefect.
+* Experience with streaming data, event-driven architectures, or systems that handle late-arriving or mutable data.
+* Familiarity with containerization or orchestration technologies such as Docker, Kubernetes, ECS, or Fargate.
+* Experience building internal platforms, libraries, or developer tooling used by other engineering teams.
+* Experience contributing to data infrastructure roadmaps, evaluating new technologies, and driving improvements that create leverage for internal and external customers.
+
+**Total Rewards**
+
+At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why our rewards are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time.
+
+Beyond compensation, we provide the foundations that enable long-term success: a flexible, employee-led remote model, a professional development stipend, comprehensive health and parental leave plans, and more. If you're ready to build for the long term and own the outcome, your journey starts here.
+
+**Flexible Working**
+
+At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual's ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.
+
+**Belonging at Samsara**
+
+At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.
+
+**Accommodations**
+
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewing@samsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+
+**Our Commitment to Authenticity**
+
+We use Tofu, a fraud detection tool, to validate the authenticity of applications and protect against identity fraud. This ensures we are connecting with real people and allows us to prioritize genuine candidates. Please see Samsara's Candidate Privacy Notice for more information.
+
+**Fraudulent Employment Offers**
+
+Samsara is aware of scams involving fake job interviews and offers. Please know we do not charge fees to applicants at any stage of the hiring process. Official communication about your application will only come from emails ending in @samsara.com, @us-greenhouse-mail.io or @mail3.guide.co. For more information regarding fraudulent employment offers, please visit our blog post here."
+32fccb1bb3968f9d,Senior Software Engineer (Python/Data),Fleetworthy,"Edmonton, AB, Canada",1,,2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=3fdaa27d11197803,https://grnh.se/h1tiz8i56us,64,"Free scorer: your resume shows 11 of 27 listed skills (Python, Django, FastAPI, REST).","[""JavaScript"", ""TypeScript"", ""SQL"", ""Flask"", ""React"", ""GraphQL"", ""Snowflake"", ""Databricks"", ""ETL"", ""Azure"", ""Kubernetes"", ""CI/CD"", ""GitLab"", ""Grafana"", ""Datadog"", ""TDD""]",new,2026-11-24T22:58:31+00:00,2026-11-24T22:59:03+00:00,"[""Python"", ""Django"", ""FastAPI"", ""REST"", ""PostgreSQL"", ""Redis""]",,senior,in-3fdaa27d11197803,indeed,"Fleetworthy offers the only complete technology suite for fleet readiness, uniting safety and compliance, toll management, and weigh station bypass solutions. We help fleets streamline operations, control costs, and operate with confidence.  
+  
+Trusted by 90% of the top fleets in North America, Fleetworthy offers the most adopted toll management solution and largest weigh station bypass network. Going beyond regulatory requirements, our safety and compliance capabilities strengthen safety programs and enable proactive audit readiness. We support millions of vehicles and drivers and are recognized across the industry for innovation and leadership.  
+  
+Fleetworthy is shaping the future of fleet readiness with AI-enabled, connected fleet technology that keeps drivers safe, fleets compliant, and operations running at peak efficiency. Learn more at fleetworthy.com.
+
+**The role**
+------------
+
+You'll lead a hands-on team building web applications, APIs, and data pipelines. You'll set technical direction, mentor developers, and work closely with product, while still writing code every week. We want a lead who's in the work, not above it.
+
+**How we build**
+----------------
+
+* **AI-native engineering.** AI coding agents are part of our daily workflow, not an experiment. We want someone who knows how to direct them well, and who knows when to distrust them.
+* **Pair and mob programming.** We build together, live. You'll spend real time working alongside teammates, especially in your first weeks.
+* **Real problems, real scale.** Millions of vehicles and drivers, and customers who depend on us to be right.
+* **Remote-first, with purpose.** Work from home, and come to Edmonton when it matters most: key team moments.
+
+**What you'll do**
+------------------
+
+* Lead the team and its projects, set technical direction, and mentor junior developers
+* Partner with product to turn ideas into well-scoped, technically sound stories
+* Build scalable ETL and data transformation workflows in Databricks (or similar)
+* Design, build, and maintain applications with Python, Django, and FastAPI
+* Create and integrate RESTful APIs
+* Own PostgreSQL schemas and write SQL you'd be proud to have reviewed
+* Raise the bar on quality through testing and thoughtful code review
+* Debug the hard problems across the stack
+* Explain your thinking clearly to engineers, product managers, and executives alike
+
+**What you bring**
+------------------
+
+**The essentials:**
+
+* Senior full-stack experience, and you've led a team or project, or regularly mentored other engineers
+* Advanced Python
+* Daily, hands-on experience with AI coding tools (such as Claude Code, Cursor, or GitHub Copilot)
+* Hands-on data pipeline and ETL experience with Databricks or comparable tools (Snowflake, Datalakes)
+* Excellent live communication. You think out loud well, and you're comfortable on screen shares and in pairing sessions
+* Experience with Django, Flask, or FastAPI, and with building REST APIs
+* Working proficiency with React and modern JavaScript/TypeScript
+* Strong SQL and PostgreSQL skills, including schema design and query optimization
+* A testing mindset (pytest, TDD) and strong debugging instincts
+* Comfort with Git, CI/CD pipelines (GitHub Actions, GitLab, Bitbucket, Azure DevOps), and ticketing tools like Jira or ServiceNow
+* Ability to travel to Edmonton for on-site interview (if requested)
+
+**Bonus points:**
+
+* Redis, GraphQL
+* Docker and Kubernetes
+* Azure or AWS
+* Geospatial data (PostGIS, H3, geocoding APIs)
+* Observability tools (Grafana, Datadog) and comfort working from traces, logs, and metrics
+
+**Why Fleetworthy**
+-------------------
+
+* Health benefits
+* A people-first culture
+* Ownership and purpose in your work
+* Unlimited vacation
+
+**Ready to lead something that matters?**
+-----------------------------------------
+
+Apply with your resume. If you've built serious Python data systems and led engineers through them, we want to hear about it, even if your background doesn't match every line above.
+
+*Fleetworthy is committed to fostering a diverse and inclusive culture that is respectful and welcoming of individual differences. We are proud to be an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion or belief (or lack thereof), sex, nationality, national or ethnic origin, civil status, age, citizenship status, sexual orientation, disability, genetic information, familial status, marital or registered civil partnership status, pregnancy or maternity status, gender identity, gender reassignment, military or veteran status, or any other protected characteristic in accordance with applicable laws and regulations.*"
+0e49ccb1edf128a2,Software Engineer - Data Platform,Samsara,"Montréal, QC, Canada",1,"CAD 106,675 - 138,050 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=44e2e525037893f4,https://grnh.se/ior747111us,56,"Free scorer: your resume shows 6 of 22 listed skills (Python, AWS, Lambda, S3).","[""Java"", ""Go"", ""Scala"", ""SQL"", ""DynamoDB"", ""Databricks"", ""SQS"", ""Spark"", ""Airflow"", ""Dagster"", ""Prefect"", ""ETL"", ""Kubernetes"", ""Terraform"", ""CloudFormation"", ""Security""]",new,2026-11-24T22:58:31+00:00,2026-11-24T22:59:04+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Docker"", ""Distributed Systems""]",,mid,in-44e2e525037893f4,indeed,"**Who we are**
+
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.
+
+Working at Samsara means you'll help define the future of physical operations and be on a team that's shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you'll have the autonomy and support to make an impact as we build for the long term.
+
+**About the role:**
+
+Samsara is looking for a **Software Engineer to join our Data Platform team**, which owns and develops the core analytical platform across Samsara. This team builds and maintains the infrastructure that powers Samsara's data lake, distributed compute platform, and the systems that move data from our production data stores into our lakehouse.
+
+As a Software Engineer on Data Platform, you will design, build, and operate reliable, scalable, and secure infrastructure for ingesting, processing, cataloging, and accessing petabytes of data. You will work on the foundational systems that enable engineers, data scientists, analysts, and product teams across Samsara to build customer-facing features, train models, develop operational insights, and support the company's long-term AI and analytics roadmap.
+
+This is a specialized software engineering role focused on data infrastructure. You will work on systems such as Spark and Databricks infrastructure, Delta Lake on S3, data replication from primary data stores such as RDS and DynamoDB, orchestration and metadata services, internal data libraries, and infrastructure tooling across the big data ecosystem.
+
+This role is not an analytics or business data engineering role. If your experience is primarily focused on SQL modeling, BI dashboards, ETL tools, or building business-facing data marts, this role is likely not the right fit. The ideal candidate is a software engineer with deep experience building and operating production data platforms, distributed systems, or large-scale ingestion infrastructure.
+
+**This is a remote position open to candidates residing in Canada. Relocation assistance will not be provided for this role.**
+
+**You should apply if:**
+
+* **You want to impact the industries that run our world:** The software, firmware, and hardware you build will result in real-world impact – helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.
+* **You are a life-long learner:** We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.
+* **You believe customers are more than a number:** Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.
+* **You are a team player:** Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, we're all racing toward our connected operations vision, and we intend to win – together.
+
+#### **In this role, you will:**
+
+* Design, build, and operate high-scale data ingestion and replication systems from Samsara's primary production data stores, including RDS, DynamoDB, internal APIs, and event-driven systems, into our data lakehouse.
+* Build and maintain reliable, scalable, and modern data platform infrastructure capable of handling petabytes of data across Samsara's analytics, AI, product, and operational use cases.
+* Improve the reliability, observability, scalability, security, and developer experience of Samsara's Spark and Databricks-based data processing platform.
+* Develop internal libraries, APIs, frameworks, and tooling in languages such as Go and Python to help teams across Samsara move, process, discover, and access data safely and efficiently.
+* Work on foundational data lake and lakehouse technologies, including Delta Lake on S3, data catalogs, metadata services, orchestration systems, and platform automation.
+* Collaborate closely with infrastructure, product engineering, data science, analytics, security, and data engineering teams to understand platform needs and deliver durable, scalable solutions.
+* Stay connected to modern data platform technologies and help shape Samsara's long-term data infrastructure roadmap, including support for AI, privacy, security, global scale, and customer-facing data products.
+* Champion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+
+**Minimum requirements for the role:**
+
+* 4+ years of professional software engineering experience in production environments.
+* 4+ years of experience building or maintaining large-scale production data infrastructure, data platforms, distributed systems, or data lake systems.
+* Strong experience with Apache Spark or similar distributed data processing systems.
+* Experience operating production infrastructure in AWS, including services such as S3, RDS, DynamoDB, SQS, Kinesis, Lambda, or similar.
+* Experience designing, building, and operating reliable systems with strong ownership of scalability, observability, security, and operational excellence.
+* Proficiency in at least one production programming language such as Go, Python, Scala, or Java.
+* Ability to collaborate effectively with cross-functional partners, including software engineers, data scientists, analysts, security teams, and product stakeholders.
+
+**An ideal candidate also has:**
+
+* Experience with Databricks, Delta Lake, or similar lakehouse technologies such as Iceberg or Hudi.
+* Experience building data replication or ingestion systems from OLTP data stores into a data lake or lakehouse.
+* Experience with Infrastructure-as-Code tools such as Terraform or CloudFormation.
+* Familiarity with data catalogs, metadata systems, and data discovery tools such as Unity Catalog, Hive Metastore, DataHub, or Amundsen.
+* Experience with orchestration systems such as Airflow, Dagster, or Prefect.
+* Experience with streaming data, event-driven architectures, or systems that handle late-arriving or mutable data.
+* Familiarity with containerization or orchestration technologies such as Docker, Kubernetes, ECS, or Fargate.
+* Experience building internal platforms, libraries, or developer tooling used by other engineering teams.
+* Experience contributing to data infrastructure roadmaps, evaluating new technologies, and driving improvements that create leverage for internal and external customers.
+
+**Total Rewards**
+
+At Samsara, we build for the people who keep the global economy moving. We want owners, not passengers, which is why our rewards are designed to fuel high-impact builders. Our compensation program delivers above-market total compensation through a combination of base salary, performance-based bonus/variable pay, and equity (for eligible roles) in a high-growth public company. We meaningfully differentiate pay for our top performers, who have the opportunity to earn above-market compensation that can outpace the broader market over time.
+
+Beyond compensation, we provide the foundations that enable long-term success: a flexible, employee-led remote model, a professional development stipend, comprehensive health and parental leave plans, and more. If you're ready to build for the long term and own the outcome, your journey starts here.
+
+**Flexible Working**
+
+At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual's ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.
+
+**Belonging at Samsara**
+
+At Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.
+
+**Accommodations**
+
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewing@samsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+
+**Our Commitment to Authenticity**
+
+We use Tofu, a fraud detection tool, to validate the authenticity of applications and protect against identity fraud. This ensures we are connecting with real people and allows us to prioritize genuine candidates. Please see Samsara's Candidate Privacy Notice for more information.
+
+**Fraudulent Employment Offers**
+
+Samsara is aware of scams involving fake job interviews and offers. Please know we do not charge fees to applicants at any stage of the hiring process. Official communication about your application will only come from emails ending in @samsara.com, @us-greenhouse-mail.io or @mail3.guide.co. For more information regarding fraudulent employment offers, please visit our blog post here."
+61e7ee70ebd9f2b1,Backend Engineer (Platform),Midnite,Canada,1,"CAD 115,000 - 155,000 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=52ac23482abfbcc6,https://jobs.ashbyhq.com/midnite/de381430-d09f-4af4-b44b-168663322ba4?utm_source=GEOVO9l5v7,69,"Free scorer: your resume shows 6 of 12 listed skills (Python, FastAPI, PostgreSQL, AWS).","[""Rust"", ""Flask"", ""Kafka"", ""SQS"", ""Terraform"", ""CI/CD""]",new,2026-11-24T22:58:31+00:00,2026-11-24T22:59:04+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""AWS"", ""Docker"", ""Distributed Systems""]",,mid,in-52ac23482abfbcc6,indeed,"**Why Midnite?**
+
+Midnite is a next-generation sports betting and gaming platform built for a new wave of players.
+
+We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today.
+
+Over 400,000 players have already made the move, and we’re only just getting started.
+
+We’re a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If you’re driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading.
+
+Not your grandad’s bookie.
+
+**The role**
+------------
+
+**Title:** Backend Engineer (Platform) — Mid-level  
+**Team:** Platform Engineering  
+**Location:** Remote, Canada  
+**Salary:** CAD $115,000–$155,000
+
+We’re looking for a backend engineer to join our Platform team and help build and improve the systems that power Midnite. This is a hands-on individual contributor role, focused on backend software and the platform foundations that allow product teams to ship reliably and safely.
+
+You’ll work across application and platform systems. You’ll build the foundations beneath product features, including service boundaries, data separation, reliability, deployment and regional scalability. It's a high-traffic, real-time platform in a regulated industry, where reliability, data separation and auditability really matter. You’ll own well-defined projects end to end, from design to production, and contribute to technical decisions across the team.
+
+**What you’ll work on in your first few months:**
+
+* Get to know our platform services, how they fit together and where their boundaries sit.
+* Own and ship improvements to reliability, observability or deployment.
+* Contribute to platform work behind Midnite’s Canada launch, owning well-defined pieces end to end.
+
+**Technical**
+-------------
+
+Our platform is primarily built in Python and hosted on AWS. Our stack includes technologies such as Flask and FastAPI, PostgreSQL, Docker, ECS, Terraform, SQS, Kafka and many others. Infrastructure is managed as code, every change ships through pull requests and automated CI/CD, and we deploy daily.
+
+Minimal process, the best tools: full access to AI-assisted engineering and lightweight planning in Linear and Notion. On Platform, developer experience is part of the job: we use the tooling, pipelines and paved paths we build every day, so if something slows us down, we fix it for everyone.
+
+You don’t need to know every tool on our list. Strong backend fundamentals, good engineering judgment and a willingness to pick up new tools matter more.
+
+**What you’ll do**
+------------------
+
+* Design, build and maintain backend and platform services that support Midnite’s products.
+* Improve reliability, performance and observability: tune queries and caching, add the metrics and traces that matter, and help investigate and resolve production issues.
+* Build and evolve event-driven services and data flows on Kafka and SQS, and improve the boundaries and interfaces between services, including regionalization and data separation work.
+* Write maintainable, well-tested code and take part in thoughtful code reviews. Improve our CI/CD pipelines and paved paths, so every team ships faster and more safely.
+* Join the follow-the-sun on-call rotation for a live, 24/7 platform, with clear playbooks and support from the team.
+
+**Collaboration**
+-----------------
+
+We’re a distributed team across Canada, the UK and Australia, and we work async-first. Decisions, designs and progress live in writing, which means fewer meetings, more focus time, and work that keeps moving around the clock.
+
+In this role, you will:
+
+* Partner with the Canada Platform Lead, the Head of Platform Engineering, and the global Platform team on design and implementation decisions.
+* Work with product engineering teams where platform changes touch their systems.
+* Write things down: share progress, trade-offs and blockers early so others can pick up where you left off.
+* Help shape the engineering culture of our growing Canada team.
+
+We’ll expect you to ask good questions, bring ideas and see your work through, with plenty of room to grow your backend, cloud and distributed systems skills along the way.
+
+**The next Midniter**
+---------------------
+
+* Solid professional backend experience, including owning features or services in production through design, delivery and support.
+* Proficiency in Python or another modern backend language, with a willingness to learn Python. Experience with Rust is a bonus.
+* Experience building or maintaining APIs and working with relational databases such as PostgreSQL.
+* Familiarity with cloud-hosted applications and deployments, whether on AWS or another cloud platform.
+* A practical approach to testing, error handling, maintainability and code review.
+* An understanding of backend design trade-offs, including reliability, performance and scalability.
+* Clear communication, curiosity and a collaborative approach to solving problems.
+
+**Nice to have**
+----------------
+
+* Experience with tools in our stack.
+* Experience with event-driven systems (Kafka, SQS or similar), caching, observability or CI/CD pipelines.
+* Experience investigating production incidents or improving the reliability of a service.
+* Interest in distributed systems, service isolation, data separation or multi-region architecture.
+* Experience in a high-traffic, real-time or regulated product environment.
+
+**Winnings**
+------------
+
+* Extended health, dental and vision coverage on top of your provincial plan.
+* We offer 33 days of paid annual vacation, including statutory holidays in your province, with additional tenure based increases (+2 days after 3 years, +3 more after 5), and unlimited paid sick days.
+* Remote across Canada, with flexible hours and a fully supported home office setup so you can do your best work from home.
+* Group RRSP with an employer match of up to 3% of base salary."
+4eef98237e9d8d39,Backend Engineer - Depop Value Creation,eBay,"Toronto, Ontario, Canada",0,,2026-11-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4493055515,,56,"Free scorer: your resume shows 3 of 11 listed skills (Python, AWS, Docker).","[""Java"", ""TypeScript"", ""Scala"", ""Node.js"", ""Express"", ""Kafka"", ""Kubernetes"", ""CI/CD""]",new,2026-11-24T22:58:27+00:00,2026-11-24T22:59:05+00:00,"[""Python"", ""AWS"", ""Docker""]",,mid,li-4493055515,linkedin,"At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+  
+  
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
+  
+  
+Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+  
+  
+Depop is a peer-to-peer circular fashion marketplace where anyone can buy, sell and discover secondhand fashion. Our mission is simple: to make fashion circular by making secondhand as exciting and rewarding as buying new.
+  
+  
+Founded in 2011, Depop’s diverse community has helped move resale into the mainstream, where buying secondhand is no longer an alternative, but how people of different ages now engage with fashion. Today, more than 56 million registered users come to Depop to find great value, express their own personal style and give clothes a longer life. We believe that everything you want already exists, and our role is to help people discover it. From everyday essentials to vintage and designer finds, Depop brings together a wide range of affordable styles in one place. It’s a marketplace where anyone can clear out their wardrobe or build a business, explore their style, and take part in a more circular way to shop.
+  
+  
+Powered by a team of over 500 people, our company is headquartered in London, with offices in New York. For more information, visit our News Room here.
+  
+  
+**The Team**
+For Depop users, trust means being able to trust what they see, transact with confidence and feel protected and fairly treated.
+  
+  
+You'll join a new cross-functional squad of backend and iOS engineers, partnering with a dedicated Engineering Manager, Product Manager and Product Designer. The team builds experiences that strengthen trust between buyers and sellers and help Depop grow as a trusted marketplace.
+  
+  
+**The Role**
+As a Backend Engineer, you'll help build and evolve the services that power these experiences. You'll take ownership of well-scoped problems, collaborate with experienced engineers on more complex challenges and help shape how a new team works.
+  
+  
+This role suits curious problem solvers who enjoy building customer-facing products and incorporating AI tooling into their everyday engineering workflows.
+  
+  
+**What You Will Accomplish**
+
+* Collaborate with Product, Design and Engineering to understand problems and deliver effective solutions.
+* Build and evolve reliable backend services and APIs, primarily using TypeScript, alongside Scala and Python.
+* Work with mobile engineers to deliver seamless end-to-end experiences.
+* Use AI tooling to learn, prototype, test and deliver software while maintaining code quality.
+* Contribute to service reliability through testing, monitoring, CI/CD and operational ownership.
+* Help define success metrics, learn from experiments and continuously improve solutions.
+
+**What You Will Bring**
+
+* Solid backend engineering fundamentals and experience delivering production services.
+* Proficiency in TypeScript, Python or a JVM language such as Java or Scala, with the ability to learn new technologies.
+* Experience translating product requirements into working, tested solutions.
+* Experience building APIs, integrating services and modelling data, with an understanding of event-driven or asynchronous systems.
+* Hands-on experience using AI coding tools, with the ability to evaluate their output.
+* Solid testing practices and experience with CI/CD and production monitoring.
+* Clear communication, curiosity and a willingness to seek guidance when needed.
+
+**Nice to Have**
+
+* Experience with TypeScript, Node.js, Express or Scala.
+* Experience building marketplace, mobile-first consumer or trust-related products.
+* Familiarity with privacy, compliance or experiment-led product development.
+* Experience with Kafka, AWS, Docker, Kubernetes or infrastructure-as-code.
+
+**Why Join This Team**
+You'll join a new squad early, helping shape its engineering practices, technical foundations and culture while receiving support from experienced engineers.
+  
+  
+You'll have meaningful ownership of customer-facing features that help millions of buyers and sellers transact with confidence. Working closely with Product, Design and mobile engineers, you'll see the impact of your work and have opportunities to grow your technical and product engineering skills.
+  
+  
+You'll also be part of an AI-forward engineering culture that encourages experimentation, continuous learning and thoughtful adoption of new tools.
+  
+  
+Learn more about Depop Engineering at https://engineering.depop.com/.
+  
+  
+**Additional Details**
+The base pay range for this position is expected in the range below:
+  
+  
+C$98,800 - C$131,900
+  
+  
+Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including RRSP eligibility, various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+  
+  
+This job posting relates to an existing vacancy within eBay.
+  
+  
+eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility.
+  
+  
+We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center and AI Hiring Guidelines."
+8065f79d518fe32d,Backend Engineer,Wisedocs,"Greater Toronto Area, Canada",0,,2026-11-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494385243,,71,"Free scorer: your resume shows 8 of 15 listed skills (Python, Django, PostgreSQL, LLM).","[""Flask"", ""Machine Learning"", ""Computer Vision"", ""Azure"", ""GCP"", ""Agile"", ""System Design""]",new,2026-11-24T22:57:35+00:00,2026-11-24T22:59:05+00:00,"[""Python"", ""Django"", ""PostgreSQL"", ""LLM"", ""AWS"", ""Docker""]",,mid,li-4494385243,linkedin,"**About Wisedocs**
+
+Wisedocs is transforming how organizations make claims decisions. Our platform combines AI with expert human review to analyze millions of documents, giving insurers, legal teams, and healthcare providers the speed, accuracy, and oversight they need to close claims with confidence.
+
+Our engineering organization is what makes that trust possible, from the AI pipeline and models that extract the data, to the labeling tools, to the customer-facing product our clients use every day.
+
+Transforming this industry takes the right people. If you want to build the engineering behind AI, expert human review, and customer trust, we’d love to meet you.
+
+**About you and the role**
+
+You build the systems that power our AI pipeline. Every document our clients upload passes through services you design and maintain, and the reliability and speed of those services determine how quickly our customers can move claims forward.
+
+You are a thoughtful back end engineer who writes efficient, reusable, and reliable Python, understands data structures and algorithms, and enjoys solving performance and scalability problems. You document your architectural decisions clearly and work well with front end and ML engineers.
+
+Our platform connects computer vision and generative models to the work of making sense of intricate legal and medical documents. Wisedocs spent the past year rebuilding its core technical platform from the ground up, including our back end, and that foundation is now in place. Our largest customers have doubled with us in the past year, and they are counting on the platform to stay fast and dependable as it grows.
+
+You will work across our Data Delivery and Core Platform teams, with close partnership from Machine Learning, to build and scale the services that move documents and data through our pipeline, from upload to download.
+
+At Wisedocs, you are close to the problems, customers, and decisions. You’ll take on meaningful responsibility, learn beyond the boundaries of your role, and see the impact of your work.
+
+**What you’ll do**
+
+·     Design, build, and maintain efficient, reusable, and reliable Python services that power our back end and ML pipeline
+
+·     Build and scale the services that move documents and data through our pipeline, from upload to download
+
+·     Identify and resolve performance and scalability issues to improve the robustness of the system
+
+·     Design data models and handle complex data structures and algorithms to keep processing accurate and fast
+
+·     Integrate models and processes from our Machine Learning team into the processing pipeline
+
+·     Work with front end engineers to design APIs and connect user-facing features to server-side logic
+
+·     Create and maintain technical documentation for system components and architecture, including the reasoning behind key decisions
+
+·     Contribute to automation across the Agile development, build, and deployment lifecycle
+
+·     Other duties as assigned
+
+**You’re a great candidate if...**
+
+·     3+ years of professional back end development experience, with extensive Python experience and a deep understanding of the language
+
+·     Proficiency with Python web frameworks such as Django or Flask
+
+·     Experience with relational or NoSQL database systems such as PostgreSQL
+
+·     Experience with a cloud platform such as AWS, Google Cloud, or Azure
+
+·     An understanding of automation practices across the Agile development, build, and deployment phases of the application lifecycle
+
+·     Experience diagnosing and improving performance in data-intensive systems
+
+·     A robust problem-solving mindset, comfortable navigating frequently changing work items and scope, and able to manage multiple tasks efficiently
+
+·     Clear written communication, including technical documentation
+
+Bonus points if...
+
+·     Experience building or operating data or ML pipelines, including model deployment
+
+·     Working knowledge of Linux, Git, and Docker
+
+·     Hands-on experience with LLM or agentic tooling
+
+·     A background in document processing, insurance, or healthcare data
+
+**Why you’ll love working here**
+
+You’ll own meaningful pieces of a platform we rebuilt from the ground up, working on problems that matter to insurers, legal teams, and healthcare providers. Your work will shape how quickly and accurately our customers can close claims.
+
+You’ll help drive our shift to AI-first engineering, rolling out an agentic way of building product and bringing our team along with you.
+
+Compensation Range
+
+Range: $100K – $140K CAD
+
+We are open to applications from candidates whose salary expectations fall outside of the stated range, provided the role aligns with your career goals and experience. We will further discuss compensation expectations if you are invited for a first-round interview.
+
+Number of Vacancies: [1]
+
+**Perks of working at Wisedocs**
+
+·     Healthcare: We offer a comprehensive benefits package that includes health, dental, and vision coverage, designed to support your overall well-being.
+
+·     Vacation: Take time off to travel, recharge, or focus on what matters most to you. We offer generous paid vacation so you can explore the world, pursue personal goals, or simply enjoy well-earned downtime.
+
+·     Flexible Work: We embrace a hybrid work approach, offering employees the flexibility to divide their time between a remote location and our vibrant downtown Toronto office. For our US workforce, we operate with a remote first model.
+
+·     Stock Options: Our foundational belief is that we all win together and always will. We offer competitive stock options so as you grow with us, your share value in Wisedocs grows alongside you.
+
+·     Learning & Development: We invest in your future. To help you develop your career, we offer a learning fund to all employees, as well as many Wisedocs-sponsored development opportunities.
+
+·     Team Events: We love bringing the team together, whether it's for a celebration, team building, or just fun. Every year this includes a company-wide onsite and our annual holiday party. Every event is planned and sponsored by Wisedocs.
+
+**Use of AI**
+
+While we encourage the use of AI within our day-to-day work and build it into our product, we do not use AI throughout the hiring process. We believe in a human-centric approach when reviewing and welcoming candidates through the interview process.
+
+**Our HQ**
+
+30 Duncan St #701, Toronto, ON M5V 2C3. This is a hybrid role, with 2 days a week in the office.
+
+**Diversity, Equity, and Inclusion**
+
+We are committed to equal employment opportunity regardless of race, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, marital status, ability, or gender identity.
+
+Wisedocs celebrates what makes every member of our team unique and strives to create a safe and inclusive workplace where everyone can be their truest selves. If you require any accommodation to succeed in your role and feel supported in the workplace, please feel free to let us know. We are more than happy to accommodate all."
+cd840078aa967963,"Python SAS Developer – SAS to Python Migration // Toronto, ON  // Onsite (FTE)",AceStack,"Toronto, Ontario, Canada",0,,2026-11-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494390773,,69,"Free scorer: your resume shows 3 of 6 listed skills (Python, Git, Linux).","[""SQL"", ""Redshift"", ""Unit Testing""]",new,2026-11-24T22:57:35+00:00,2026-11-24T22:59:05+00:00,"[""Python"", ""Git"", ""Linux""]",,mid,li-4494390773,linkedin,"**Role: Python SAS Developer – SAS to Python Migration**
+
+**Location:**
+Toronto, ON
+
+**Work Mode:**
+Onsite
+
+**Job Summary**
+
+We are looking for an experienced Python SAS Developer to support BMO’s U.S. Banking SAS Decommissioning Program. The ideal candidate will have strong hands-on experience with Python, Anaconda, SAS, and SQL, particularly in migrating legacy SAS applications, programs, and data-processing workloads to Python-based solutions.
+
+The role involves analyzing existing SAS workloads, developing scalable Python solutions, automating data-processing workflows, and supporting the modernization and retirement of legacy SAS environments.
+
+**Key Responsibilities**
+
+* Analyze existing SAS programs, datasets, and business processes to identify migration requirements.
+* Migrate legacy SAS workloads, programs, and analytical processes to Python using Anaconda.
+* Develop, test, and maintain scalable Python applications, scripts, and automation solutions.
+* Build and maintain Unix/Linux-based data-processing pipelines using shell scripting and CRON scheduling.
+* Work with relational databases, particularly Netezza and Amazon Redshift, to develop and optimize SQL queries.
+* Perform code debugging, unit testing, performance tuning, and quality improvements.
+* Maintain source code, version control, and technical documentation using Git and GitHub.
+* Collaborate with business stakeholders, developers, and infrastructure teams to ensure successful migration and modernization.
+* Support the migration, decommissioning, or retirement of active SAS workloads, targeting completion by December 2027.
+
+**Required Skills**
+
+1. **Python, Anaconda & SAS**
+
+* Strong hands-on Python development experience.
+* Experience working with SAS programs and datasets.
+* Proven experience migrating SAS workloads to Python.
+
+1. **SQL & Database Technologies**
+
+* Strong SQL development and data-processing skills.
+* Experience with Netezza and Amazon Redshift databases.
+
+1. **Linux/Unix & Automation**
+
+* Experience with Unix/Linux environments.
+* Shell scripting and CRON job scheduling.
+* Experience building and supporting automated data-processing workflows.
+
+**Preferred Skills**
+
+* Experience with SAS Enterprise Guide.
+* Familiarity with JupyterHub and Anaconda environments.
+* Experience with GitHub and GitHub Copilot.
+* Knowledge of unit testing, debugging, code optimization, and automation development.
+* Experience supporting large-scale application or platform modernization initiatives.
+
+**Education**
+
+* Bachelor's or Master's degree in Computer Science, Information Technology, Engineering, or a related field.
+
+**Ideal Candidate Profile**
+
+A hands-on Python developer with prior SAS-to-Python migration experience, strong SQL and database knowledge, and practical Unix/Linux scripting skills. Candidates with experience in banking or financial services and large-scale SAS modernization programs will be preferred."
+0fc16698d3d38264,Python Scala Developer,"Zodiac Solutions, Inc","Toronto, Ontario, Canada",0,,2026-11-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4493013848,,60,"Free scorer: your resume shows 4 of 13 listed skills (Python, REST, Docker, Git).","[""Scala"", ""SQL"", ""Microservices"", ""Pub/Sub"", ""Spark"", ""PySpark"", ""GCP"", ""CI/CD"", ""Security""]",new,2026-11-24T22:57:35+00:00,2026-11-24T22:59:05+00:00,"[""Python"", ""REST"", ""Docker"", ""Git""]",,mid,li-4493013848,linkedin,"""Must-Have Skills
+
+Strong hands-on Python
+
+Good hands-on Scala
+
+Strong Google Cloud Platform (GCP)
+
+GCS / Cloud Storage, Pub/Sub
+
+Dataflow and/or Dataproc
+
+Spark / PySpark / Spark Scala
+
+Strong SQL
+
+REST APIs / Microservices
+
+Git, CI/CD, Docker
+
+Production troubleshooting and performance tuning
+
+Cloud IAM, security, logging & monitoring"
 656c4fbb3f4c09c9,Senior Data Engineer,Datatonic,"Montreal, Canada",1,"CAD 120,000 - 150,000 /yearly",2026-11-24,"[""glassdoor""]",https://www.glassdoor.ca/job-listing/j?jl=1010333253670,,56,"Free scorer: your resume shows 4 of 15 listed skills (Python, REST, AWS, Linux).","[""Java"", ""SQL"", ""Spark"", ""Hadoop"", ""dbt"", ""ETL"", ""Looker"", ""Machine Learning"", ""Statistics"", ""GCP"", ""Agile""]",new,2026-11-24T00:40:22+00:00,2026-11-24T00:40:26+00:00,"[""Python"", ""REST"", ""AWS"", ""Linux""]",,senior,gd-1010333253670,glassdoor,"**Shape the Future of AI & Data with Us**
 
 At Datatonic, we are Google Cloud's **premier partner in AI,** driving transformation for world-class businesses. We push the boundaries of technology with expertise in **machine learning, data engineering,** and **analytics** on Google Cloud Platform. By partnering with us, clients future-proof their operations, unlock actionable insights, and stay ahead of the curve in a rapidly evolving world.
@@ -15958,6 +16854,8 @@ Java and Python, we are seeking a skilled Backend Developer with 5 to 8 years of
 **Toronto, ON**
 
 **Fulltime**
+
+Strong with Python coding & System designing .
 
 Primary Responsibilities
 
