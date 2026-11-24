@@ -1,4 +1,628 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+656c4fbb3f4c09c9,Senior Data Engineer,Datatonic,"Montreal, Canada",1,"CAD 120,000 - 150,000 /yearly",2026-11-24,"[""glassdoor""]",https://www.glassdoor.ca/job-listing/j?jl=1010333253670,,56,"Free scorer: your resume shows 4 of 15 listed skills (Python, REST, AWS, Linux).","[""Java"", ""SQL"", ""Spark"", ""Hadoop"", ""dbt"", ""ETL"", ""Looker"", ""Machine Learning"", ""Statistics"", ""GCP"", ""Agile""]",new,2026-11-24T00:40:22+00:00,2026-11-24T00:40:26+00:00,"[""Python"", ""REST"", ""AWS"", ""Linux""]",,senior,gd-1010333253670,glassdoor,"**Shape the Future of AI & Data with Us**
+
+At Datatonic, we are Google Cloud's **premier partner in AI,** driving transformation for world-class businesses. We push the boundaries of technology with expertise in **machine learning, data engineering,** and **analytics** on Google Cloud Platform. By partnering with us, clients future-proof their operations, unlock actionable insights, and stay ahead of the curve in a rapidly evolving world.
+
+### **Your Mission**
+
+As a Data Engineer, your mission is to design and develop scalable, high-performance data pipelines that enable seamless data processing, visualisation, and integration into machine learning models.
+
+You'll play a key role in shaping the data engineering foundation of our next-generation AI-driven products, ensuring that data flows efficiently and is readily accessible for advanced analytics.
+
+### **What You’ll Do**
+
+* **Build Scalable Data Pipelines:** Design, develop, and optimize robust data pipelines, making data easily accessible for visualization and machine learning applications.
+* **Leverage Cutting-Edge Technologies:** Work with cloud-based platforms and big data processing tools to create scalable and efficient solutions.
+* **Collaborate with Cross-Functional Teams:** Work closely with data scientists, ML engineers, and analysts in an agile environment to deliver impactful data-driven solutions.
+* **Partner with Industry Leaders:** Integrate best-in-class data solutions by working with Google Cloud Platform, dbt, and Looker.
+* **Manage Cloud Infrastructure:** Architect, maintain, and troubleshoot cloud-based infrastructure to ensure high availability and performance.
+* **Lead and Mentor Team Members:** Provide guidance and mentorship to engineers, supporting their professional development and ensuring best practices in data engineering.
+
+### **What You’ll Bring**
+
+* **Strong Programming Skills:** Expertise in Python and/or Java, with proficiency in SQL.
+* **Experience in Data Engineering:** 5+ years of experience in designing and building scalable data solutions.
+* **Passion for Data and Analytics:** A deep interest in optimizing data workflows and making data-driven decisions.
+* **Expertise in ETL and Big Data:** Hands-on experience with ETL tools, Hadoop-based technologies (e.g., Spark), and data processing frameworks like Beam or Flink.
+* **High-Quality Code Standards:** Ability to write tested, resilient, and well-documented code.
+* **Cloud Computing Experience:** Experience in building and maintaining cloud infrastructure (GCP or AWS is a plus).
+* **Problem-Solving Mindset:** Ability to take ownership and drive projects from concept to completion.
+* **Strong Communication & Collaboration:** Excellent interpersonal skills, with a team-oriented and proactive approach.
+* **Leadership & Mentorship Skills:** Experience in line management and mentoring engineers, helping to grow the team’s technical capabilities.
+
+### **Bonus Points If You Have:**
+
+* **Start-Up/Scale-Up Experience:** Previous experience working in a start-up or scale-up environment
+* **Command Line & Scripting:** Love for the command line and experience with Linux scripting.
+* **API Development Experience:** Experience building scalable REST APIs using Python or similar technologies.
+* **Machine Learning Knowledge:** Knowledge or experience in machine learning, data mining, statistics, and visualization.
+* **Client-Facing Role:** Prior experience in a client-facing position
+* **Open Source Contributions:** Experience contributing to open-source projects.
+
+### **What’s in It for You?**
+
+We believe in empowering our team to thrive, with benefits including:
+
+* **20 days** of **paid vacation** per calendar year
+* **Public Holidays** for your Province of Residence
+* **5 Wellness days** (sickness, personal time, mental health)
+* **5 Lifestyle days** (religious events, volunteer day, sick day)
+* **Matching Group Retirement Savings Plan** after 3 months
+* Competitive **Group Insurance plan** on Day 1 - individual premium paid 100%!
+* **Virtual Medicine** and **Family Assistance Program -** 100% employer-paid!
+* **Home office budget** - We are 100% remote!
+
+  + CAD $70/month for internet/phone expenses
+  + Company-supplied MacBook Pro or Air
+* **CAD $400/year** for books, relevant app subscriptions or an e-reader.
+* Opportunities for **paid certifications**
+* Opportunities for professional and personal learning through **Udemy Business**
+* Regular company **off-sites and meetups**
+
+### **Why Datatonic?**
+
+Join us to work alongside **AI enthusiasts** and **data experts** who are shaping tomorrow. At Datatonic, innovation isn’t just encouraged - it’s embedded in everything we do. If you’re ready to inspire change and deliver value at the forefront of data and AI, we’d love to hear from you!
+
+Are you ready to make an impact?
+
+**Apply now and take your career to the next level.**
+
+Compensation Range: CA$120K - CA$150K"
+8888acb261f3fbcc,Senior Data Product & Engineering Analyst,TD Bank,"Toronto, Canada",0,"CAD 81,600 - 115,200 /yearly",2026-11-24,"[""glassdoor""]",https://www.glassdoor.ca/job-listing/j?jl=1010333450417,,59,"Free scorer: your resume shows 3 of 9 listed skills (Python, LLM, Git).","[""SQL"", ""Databricks"", ""Spark"", ""Data Modeling"", ""Machine Learning"", ""Statistics""]",new,2026-11-24T00:40:16+00:00,2026-11-24T00:40:26+00:00,"[""Python"", ""LLM"", ""Git""]",,senior,gd-1010333450417,glassdoor,"**Work Location:**
+
+Toronto, Ontario, Canada
+
+**Hours:**
+
+37.5
+
+**Line of Business:**
+
+Technology Solutions
+
+**Pay Details:**
+
+$81,600 - $115,200 CAD
+
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+
+**Job Description:**
+
+**Role mandate**
+
+The Senior Data Product & Engineering Analyst is an opportunity for a bright and talented individual who wants to work at the intersection of data engineering, AI, product development, and business problem solving. The role uses AI to build data products and creates reusable AI toolkits that automate core data engineering work, including data mapping, reconciliations, data validation, and semantic modeling, so data products can be built faster and more consistently across TD Securities. The successful candidate will help design, build, test, and support data products that can be consumed by people, analytics, applications, and AI agents, The role is technical, but it is not a traditional platform engineering role. It is intended for a curious builder who can learn business context, understand user problems, work with data and AI teams, and help turn data into working products.
+
+  
+
+**Data products and AI-ready information assets**
+
+* Support development of reusable business-ready data products that can be consumed by people, applications, analytics, and AI agents.
+
+* Assist with product specifications, data contracts, transformation logic, data validations, quality indicators, source-to-target mappings, and technical documentation.
+
+* Help make business meaning explicit by documenting definitions, assumptions, dimensions, measures, hierarchies, lineage, and data product usage patterns.
+
+* Contribute to data models, semantic concepts, APIs, reusable datasets, and machine-readable structures that help agents and developers understand the business context in which data is used.
+
+* Help build and maintain the business ontology for assigned domains, modeling entities, attributes, and relationships for concepts such as clients, products, trades, and books using standards such as OWL, RDF, and SKOS.
+
+* Develop or configure agentic workflows, tools, and retrieval components that connect AI models to governed data products and business processes.
+
+**AI-enabled data engineering and reusable toolkits**
+
+• Use AI to accelerate the build of data products, applying AI-assisted approaches to design, build, test, and document data products with less manual effort and faster delivery.
+
+• Help build a reusable AI toolkit covering core data engineering activities, including source-to-target mapping, data profiling, transformation logic, reconciliations, data validation, and data quality rules.
+
+• Develop AI-assisted semantic modeling tools that propose business definitions, entity relationships, hierarchies, and ontology alignment so business meaning is consistent across data products.
+
+• Package proven approaches into reusable agents, prompts, templates, skills, and code components that other data product teams can adopt consistently.
+
+• Build in human review, testing, lineage, and audit evidence so AI-generated mappings, validations, and models meet control and governance expectations.
+
+• Experiment with emerging AI tools and agent frameworks, measure where they improve data engineering speed, quality, and consistency, and share what works through demos, examples, and lightweight playbooks.
+
+  
+
+**Business context and product mindset**
+
+• Work with product leads, engineers, AI practitioners, and business stakeholders to understand problems, workflows, user needs, and value drivers.
+
+• Build working knowledge of capital markets concepts without being expected to enter the role as a domain expert.
+
+• Bring a product mindset to technical work by asking how reusable components, agents, and data products can solve recurring problems rather than only completing one-off tasks.
+
+• Contribute to mapping domain data products and source data to the semantic definitions, ontology and knowledge graph, using AI-assisted tools to propose relationships and alignments for review by senior team members and business owners.
+
+Communicate technical ideas clearly, ask thoughtful questions, and translate learning into practical improvements for the team.
+
+  
+
+**Growth, learning, and future capability building**
+
+• Use the role as a growth opportunity to develop expertise in AI-enabled data engineering, reusable AI toolkits, AI product development, data products, semantic structures, and business-aligned engineering.
+
+• Stay curious about new tools and techniques, including generative AI, agent orchestration, retrieval systems, vector search, feature engineering, model evaluation, and semantic modeling.
+
+• Share learnings with the team through demos, documentation, reusable examples, and lightweight playbooks.
+
+• Develop judgment on when AI-assisted approaches improve outcomes and when human review, business context, or control considerations require additional care.
+
+**Skills, education & experience**
+
+• Bachelor degree, Masters preferred, or equivalent experience in Computer Science, Engineering, Mathematics, Data Science, Statistics, Physics, Finance, Economics, or related field.
+
+• Typically 1 to 4 years of relevant experience in data engineering, analytics engineering, machine learning engineering, AI product development, software development, data science, financial services technology, or related technical work.
+
+• Strong foundation in Python, SQL, data pipelines, data modeling, APIs, Git, testing, documentation, and modern engineering practices.
+
+• Exposure to Spark, Databricks, MLflow, feature stores, cloud platforms, orchestration tools, semantic layers, knowledge graphs, metadata systems, or workflow automation tools preferred.
+
+• Exposure to semantic technologies, ontologies, or knowledge graphs (e.g., OWL, RDF, SKOS, graph databases) is an asset.
+
+• Interest or exposure to generative AI, LLM applications, AI-assisted data mapping, reconciliation, and validation, agent frameworks, RAG, embeddings, vector databases, feature engineering, model evaluation, and semantic technologies.
+
+• Curious, creative, and thoughtful builder with strong analytical skills, attention to detail, communication ability, learning agility, and interest in gaining business knowledge.
+
+**Who We Are:**
+
+TD Securities offers a wide range of capital markets products and services to corporate, government, and institutional clients who choose us for our innovation, execution, and experience. With more than 6,500 professionals operating out of 40 cities across the globe, we strive to make every interaction, product and experience remarkably human and refreshingly simple. Our services include underwriting and distributing new issues, providing trusted advice and industry-leading insight, extending access to global markets, and delivering integrated transaction banking solutions. In 2023, we acquired Cowen Inc., offering our clients access to a premier U.S. equities business and highly-diverse equity research franchise, while growing our strong, diversified investment bank.
+
+Together, we are reimagining what banking can be for our clients, colleagues and communities.
+
+**Our Total Rewards Package**  
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+
+**Additional Information:**  
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+
+**Colleague Development**
+
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.
+
+If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.
+
+We're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.
+
+**Training & Onboarding**  
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+
+**Interview Process**  
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+
+**Accommodation**  
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+  
+  
+We look forward to hearing from you!
+
+**Language Requirement (Quebec only):**
+
+Sans Objet"
+c1b879ae2641999b,Python Full Stack Developer,Stellar Software Solutions,,1,"CAD 100,000 - 120,000 /yearly",2026-11-24,"[""glassdoor""]",https://www.glassdoor.ca/job-listing/j?jl=1010333558361,,63,"Free scorer: your resume shows 5 of 13 listed skills (Python, Django, FastAPI, Pandas).","[""SQL"", ""Flask"", ""NumPy"", ""Machine Learning"", ""PyTorch"", ""TensorFlow"", ""scikit-learn"", ""Kubernetes""]",new,2026-11-24T00:40:11+00:00,2026-11-24T00:40:27+00:00,"[""Python"", ""Django"", ""FastAPI"", ""Pandas"", ""Docker""]",,mid,gd-1010333558361,glassdoor,"**About the Role**
+
+We are looking for a motivated and detail-oriented Python developer with 6-8+ years of experience to join our development team. The ideal candidate will contribute to designing, developing and optimizing business process automation solutions and data driven solutions, leveraging cutting-edge AI technologies and modern containerization practices to build scalable and resilient applications.
+
+**Responsibilities**
+
+* This function covers incumbents responsible for various data and business process automation projects and applications, which includes troubleshooting, enhancements and builds.
+* Design, develop, and maintain robust and scalable backend systems, incorporating AI/ML capabilities (e.g., Retrieval-Augmented Generation, Large Language Model integration, Machine Learning Control Plane) and deploying solutions using containerization technologies.
+* Responsible for routine operational or administrative work.
+* Individuals will have their work thoroughly reviewed and checked by more senior incumbents and will have limited contact outside their immediate area.
+* Daily deliverable of routine and defined outputs, while at the same time developing knowledge of the broader context in which the work is being performed.
+
+**Salary**
+
+* The maximum potential base salary for this position is $120,000
+
+**Qualifications**
+
+* At least 6-8 years of experience as Python Full Stack Developer.
+* Demonstrated proficiency with key Python libraries for backend development, data processing, and AI/ML (e.g., FastAPI/Flask/Django, Pandas, NumPy, Scikit-learn, PyTorch/TensorFlow, LangChain, LlamaIndex).
+* Exposure in SQL/PL-SQL, RDBMS or any other database systems implementation and query.
+* Experience with AI development frameworks and concepts, including Retrieval-Augmented Generation (RAG), Machine Learning Control Plane (MCP), and Large Language Models (LLMs).
+* Proficiency in containerization technologies such as Docker and orchestration platforms like Kubernetes.
+* Ability to think strategically and the ability to engage resources outside of their direct control to achieve objectives.
+* Capable of writing and building components to integrate into new or existing systems.
+* Documentation experience for complex software components.
+* Experience in implementing product lifecycle - design, development, quality, deployment, maintenance.
+* Ready to work within a collaborative environment with teams.
+* Creative thinking for identifying new opportunities.
+
+Pay: $100,000.00-$120,000.00 per year
+
+Work Location: Remote"
+3e4b40e685fcf99e,Senior Data Engineer,Datatonic,"Montréal, QC, Canada",1,"CAD 120,000 - 150,000 /yearly",2026-11-23,"[""indeed""]",https://ca.indeed.com/viewjob?jk=9a534138d8fd2e87,https://jobs.ashbyhq.com/datatonic/8ae13f6a-853e-45b6-ad12-e9444109787b?utm_source=Zj32Mm85Ll,56,"Free scorer: your resume shows 4 of 15 listed skills (Python, REST, AWS, Linux).","[""Java"", ""SQL"", ""Spark"", ""Hadoop"", ""dbt"", ""ETL"", ""Looker"", ""Machine Learning"", ""Statistics"", ""GCP"", ""Agile""]",new,2026-11-24T00:40:07+00:00,2026-11-24T00:40:27+00:00,"[""Python"", ""REST"", ""AWS"", ""Linux""]",,senior,in-9a534138d8fd2e87,indeed,"**Shape the Future of AI & Data with Us**
+
+At Datatonic, we are Google Cloud's **premier partner in AI,** driving transformation for world-class businesses. We push the boundaries of technology with expertise in **machine learning, data engineering,** and **analytics** on Google Cloud Platform. By partnering with us, clients future-proof their operations, unlock actionable insights, and stay ahead of the curve in a rapidly evolving world.
+
+### **Your Mission**
+
+As a Data Engineer, your mission is to design and develop scalable, high-performance data pipelines that enable seamless data processing, visualisation, and integration into machine learning models.
+
+You'll play a key role in shaping the data engineering foundation of our next-generation AI-driven products, ensuring that data flows efficiently and is readily accessible for advanced analytics.
+
+### **What You’ll Do**
+
+* **Build Scalable Data Pipelines:** Design, develop, and optimize robust data pipelines, making data easily accessible for visualization and machine learning applications.
+* **Leverage Cutting-Edge Technologies:** Work with cloud-based platforms and big data processing tools to create scalable and efficient solutions.
+* **Collaborate with Cross-Functional Teams:** Work closely with data scientists, ML engineers, and analysts in an agile environment to deliver impactful data-driven solutions.
+* **Partner with Industry Leaders:** Integrate best-in-class data solutions by working with Google Cloud Platform, dbt, and Looker.
+* **Manage Cloud Infrastructure:** Architect, maintain, and troubleshoot cloud-based infrastructure to ensure high availability and performance.
+* **Lead and Mentor Team Members:** Provide guidance and mentorship to engineers, supporting their professional development and ensuring best practices in data engineering.
+
+### **What You’ll Bring**
+
+* **Strong Programming Skills:** Expertise in Python and/or Java, with proficiency in SQL.
+* **Experience in Data Engineering:** 5+ years of experience in designing and building scalable data solutions.
+* **Passion for Data and Analytics:** A deep interest in optimizing data workflows and making data-driven decisions.
+* **Expertise in ETL and Big Data:** Hands-on experience with ETL tools, Hadoop-based technologies (e.g., Spark), and data processing frameworks like Beam or Flink.
+* **High-Quality Code Standards:** Ability to write tested, resilient, and well-documented code.
+* **Cloud Computing Experience:** Experience in building and maintaining cloud infrastructure (GCP or AWS is a plus).
+* **Problem-Solving Mindset:** Ability to take ownership and drive projects from concept to completion.
+* **Strong Communication & Collaboration:** Excellent interpersonal skills, with a team-oriented and proactive approach.
+* **Leadership & Mentorship Skills:** Experience in line management and mentoring engineers, helping to grow the team’s technical capabilities.
+
+### **Bonus Points If You Have:**
+
+* **Start-Up/Scale-Up Experience:** Previous experience working in a start-up or scale-up environment
+* **Command Line & Scripting:** Love for the command line and experience with Linux scripting.
+* **API Development Experience:** Experience building scalable REST APIs using Python or similar technologies.
+* **Machine Learning Knowledge:** Knowledge or experience in machine learning, data mining, statistics, and visualization.
+* **Client-Facing Role:** Prior experience in a client-facing position
+* **Open Source Contributions:** Experience contributing to open-source projects.
+
+### **What’s in It for You?**
+
+We believe in empowering our team to thrive, with benefits including:
+
+* **20 days** of **paid vacation** per calendar year
+* **Public Holidays** for your Province of Residence
+* **5 Wellness days** (sickness, personal time, mental health)
+* **5 Lifestyle days** (religious events, volunteer day, sick day)
+* **Matching Group Retirement Savings Plan** after 3 months
+* Competitive **Group Insurance plan** on Day 1 - individual premium paid 100%!
+* **Virtual Medicine** and **Family Assistance Program -** 100% employer-paid!
+* **Home office budget** - We are 100% remote!
+
+  + CAD $70/month for internet/phone expenses
+  + Company-supplied MacBook Pro or Air
+* **CAD $400/year** for books, relevant app subscriptions or an e-reader.
+* Opportunities for **paid certifications**
+* Opportunities for professional and personal learning through **Udemy Business**
+* Regular company **off-sites and meetups**
+
+### **Why Datatonic?**
+
+Join us to work alongside **AI enthusiasts** and **data experts** who are shaping tomorrow. At Datatonic, innovation isn’t just encouraged - it’s embedded in everything we do. If you’re ready to inspire change and deliver value at the forefront of data and AI, we’d love to hear from you!
+
+Are you ready to make an impact?
+
+**Apply now and take your career to the next level.**
+
+Compensation Range: CA$120K - CA$150K"
+1435b07fa22d304e,Senior Data Product & Engineering Analyst,TD,"Toronto, ON, Canada",0,"CAD 81,600 - 115,200 /yearly",2026-11-23,"[""indeed""]",https://ca.indeed.com/viewjob?jk=32f5644cb082576b,https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Data-Product---Engineering-Analyst_R_1523794,59,"Free scorer: your resume shows 3 of 9 listed skills (Python, LLM, Git).","[""SQL"", ""Databricks"", ""Spark"", ""Data Modeling"", ""Machine Learning"", ""Statistics""]",new,2026-11-24T00:39:58+00:00,2026-11-24T00:40:27+00:00,"[""Python"", ""LLM"", ""Git""]",,senior,in-32f5644cb082576b,indeed,"**Work Location:**
+
+Toronto, Ontario, Canada
+
+**Hours:**
+
+37.5
+
+**Line of Business:**
+
+Technology Solutions
+
+**Pay Details:**
+
+$81,600 - $115,200 CAD
+
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+
+**Job Description:**
+
+**Role mandate**
+
+The Senior Data Product & Engineering Analyst is an opportunity for a bright and talented individual who wants to work at the intersection of data engineering, AI, product development, and business problem solving. The role uses AI to build data products and creates reusable AI toolkits that automate core data engineering work, including data mapping, reconciliations, data validation, and semantic modeling, so data products can be built faster and more consistently across TD Securities. The successful candidate will help design, build, test, and support data products that can be consumed by people, analytics, applications, and AI agents, The role is technical, but it is not a traditional platform engineering role. It is intended for a curious builder who can learn business context, understand user problems, work with data and AI teams, and help turn data into working products.
+
+  
+
+**Data products and AI-ready information assets**
+
+* Support development of reusable business-ready data products that can be consumed by people, applications, analytics, and AI agents.
+
+* Assist with product specifications, data contracts, transformation logic, data validations, quality indicators, source-to-target mappings, and technical documentation.
+
+* Help make business meaning explicit by documenting definitions, assumptions, dimensions, measures, hierarchies, lineage, and data product usage patterns.
+
+* Contribute to data models, semantic concepts, APIs, reusable datasets, and machine-readable structures that help agents and developers understand the business context in which data is used.
+
+* Help build and maintain the business ontology for assigned domains, modeling entities, attributes, and relationships for concepts such as clients, products, trades, and books using standards such as OWL, RDF, and SKOS.
+
+* Develop or configure agentic workflows, tools, and retrieval components that connect AI models to governed data products and business processes.
+
+**AI-enabled data engineering and reusable toolkits**
+
+• Use AI to accelerate the build of data products, applying AI-assisted approaches to design, build, test, and document data products with less manual effort and faster delivery.
+
+• Help build a reusable AI toolkit covering core data engineering activities, including source-to-target mapping, data profiling, transformation logic, reconciliations, data validation, and data quality rules.
+
+• Develop AI-assisted semantic modeling tools that propose business definitions, entity relationships, hierarchies, and ontology alignment so business meaning is consistent across data products.
+
+• Package proven approaches into reusable agents, prompts, templates, skills, and code components that other data product teams can adopt consistently.
+
+• Build in human review, testing, lineage, and audit evidence so AI-generated mappings, validations, and models meet control and governance expectations.
+
+• Experiment with emerging AI tools and agent frameworks, measure where they improve data engineering speed, quality, and consistency, and share what works through demos, examples, and lightweight playbooks.
+
+  
+
+**Business context and product mindset**
+
+• Work with product leads, engineers, AI practitioners, and business stakeholders to understand problems, workflows, user needs, and value drivers.
+
+• Build working knowledge of capital markets concepts without being expected to enter the role as a domain expert.
+
+• Bring a product mindset to technical work by asking how reusable components, agents, and data products can solve recurring problems rather than only completing one-off tasks.
+
+• Contribute to mapping domain data products and source data to the semantic definitions, ontology and knowledge graph, using AI-assisted tools to propose relationships and alignments for review by senior team members and business owners.
+
+Communicate technical ideas clearly, ask thoughtful questions, and translate learning into practical improvements for the team.
+
+  
+
+**Growth, learning, and future capability building**
+
+• Use the role as a growth opportunity to develop expertise in AI-enabled data engineering, reusable AI toolkits, AI product development, data products, semantic structures, and business-aligned engineering.
+
+• Stay curious about new tools and techniques, including generative AI, agent orchestration, retrieval systems, vector search, feature engineering, model evaluation, and semantic modeling.
+
+• Share learnings with the team through demos, documentation, reusable examples, and lightweight playbooks.
+
+• Develop judgment on when AI-assisted approaches improve outcomes and when human review, business context, or control considerations require additional care.
+
+**Skills, education & experience**
+
+• Bachelor degree, Masters preferred, or equivalent experience in Computer Science, Engineering, Mathematics, Data Science, Statistics, Physics, Finance, Economics, or related field.
+
+• Typically 1 to 4 years of relevant experience in data engineering, analytics engineering, machine learning engineering, AI product development, software development, data science, financial services technology, or related technical work.
+
+• Strong foundation in Python, SQL, data pipelines, data modeling, APIs, Git, testing, documentation, and modern engineering practices.
+
+• Exposure to Spark, Databricks, MLflow, feature stores, cloud platforms, orchestration tools, semantic layers, knowledge graphs, metadata systems, or workflow automation tools preferred.
+
+• Exposure to semantic technologies, ontologies, or knowledge graphs (e.g., OWL, RDF, SKOS, graph databases) is an asset.
+
+• Interest or exposure to generative AI, LLM applications, AI-assisted data mapping, reconciliation, and validation, agent frameworks, RAG, embeddings, vector databases, feature engineering, model evaluation, and semantic technologies.
+
+• Curious, creative, and thoughtful builder with strong analytical skills, attention to detail, communication ability, learning agility, and interest in gaining business knowledge.
+
+**Who We Are:**
+
+TD Securities offers a wide range of capital markets products and services to corporate, government, and institutional clients who choose us for our innovation, execution, and experience. With more than 6,500 professionals operating out of 40 cities across the globe, we strive to make every interaction, product and experience remarkably human and refreshingly simple. Our services include underwriting and distributing new issues, providing trusted advice and industry-leading insight, extending access to global markets, and delivering integrated transaction banking solutions. In 2023, we acquired Cowen Inc., offering our clients access to a premier U.S. equities business and highly-diverse equity research franchise, while growing our strong, diversified investment bank.
+
+Together, we are reimagining what banking can be for our clients, colleagues and communities.
+
+**Our Total Rewards Package**  
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+
+**Additional Information:**  
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+
+**Colleague Development**
+
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.
+
+If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.
+
+We're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.
+
+**Training & Onboarding**  
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+
+**Interview Process**  
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+
+**Accommodation**  
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+  
+  
+We look forward to hearing from you!
+
+**Language Requirement (Quebec only):**
+
+Sans Objet"
+9595fe666cdbba64,"Senior Data Engineer :Scala, Spark, Python, Hadoop, Databricks",TD,"Toronto, Ontario, Canada",0,,2026-11-23,"[""linkedin""]",https://www.linkedin.com/jobs/view/4493933692,,51,"Free scorer: your resume shows 4 of 22 listed skills (Python, REST, Docker, Distributed Systems).","[""C#"", ""Scala"", ""SQL"", ""gRPC"", ""Databricks"", ""Kafka"", ""Spark"", ""PySpark"", ""Hadoop"", ""ETL"", ""Data Modeling"", ""Excel"", ""Machine Learning"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD"", ""Security""]",new,2026-11-24T00:39:55+00:00,2026-11-24T00:40:28+00:00,"[""Python"", ""REST"", ""Docker"", ""Distributed Systems""]",,senior,li-4493933692,linkedin,"**Work Location:**
+Toronto, Ontario, Canada
+  
+  
+****Hours:****
+37.5
+  
+  
+****Line Of Business:****
+Technology Solutions
+  
+  
+****Pay Details:****
+$126,800 - $164,100 CAD
+  
+  
+This role is eligible for a discretionary variable compensation award that considers business and individual performance.
+  
+  
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+  
+  
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+  
+  
+****Job Description:****
+Department Overview
+  
+  
+TD Securities provides a wide range of capital market products and services to corporate, government and institutional clients who choose us for our knowledge and experience in six key areas of finance: Investment Banking, Debt Capital Markets, Institutional Equities, Private Equity, Precious Metals and Foreign Exchange & Money Market. Our services include the underwriting and distribution of new debt and equity issues, providing advice on strategic acquisitions and divestitures, and executing daily trading and investment needs.
+  
+  
+With more than 6,500 professionals operating out of 40 cities across the globe, we help clients meet their needs today and prepare for tomorrow. Our services include underwriting and distributing new issues, providing trusted advice and industry-leading insight, extending access to global markets, and delivering integrated transaction banking solutions.
+  
+  
+We are growth-oriented, people-focused, and community-minded. As a team, we work to deliver value for our clients every day.
+  
+  
+****Team Description****
+**The Counterparty Credit Risk group**
+at TD Securities is seeking experienced Data Engineers to build the next generation of risk computation platforms. The core mission of the applications we build is to help the firm quantify, understand, and reduce our external total exposure in case of adverse market conditions. We operate within a modern and complex area of finance, operating with sophisticated computational models, supporting billions of calculations daily and leveraging Big Data storage for analytics and data distribution.
+  
+  
+****Position Overview:****
+As a Senior Data Engineer in the XVA and CCR data development team, you will be responsible for designing, building, and maintaining scalable data pipelines that power our analytics and data-driven applications. You will work closely with cross-functional teams to deliver high-quality data solutions and ensure the integrity and availability of our data platforms.
+  
+  
+****Key Responsibilities:****
+
+* Design and develop distributed data processing systems using Scala, Python and Apache Spark.
+* Build and optimize large-scale data pipelines for batch and streaming data using Spark.
+* Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and deliver solutions.
+* Maintain a real-time data processing solution build on Scala , Spark , pyspark and Akka/Pekko framework.
+* Develop and maintain ETL processes to transform and integrate data from various sources.
+* Experience supporting Credit Risk, Counterparty Credit Risk (CCR), XVA, or Regulatory Reporting data platforms.
+* Hands-on experience with Databricks Unity Catalog, data lineage, data classification, and access governance frameworks.
+* Understanding of FpML, financial product modeling, and Capital Markets reference data standards.
+* Ensure data quality, reliability, and integrity through automated testing and monitoring.
+* Work with DevOps teams to deploy and manage CI/DC and data pipelines in a cloud environment.
+* Optimize and tune Spark jobs for performance and scalability.
+* Participate in code reviews and contribute to the improvement of engineering best practices.
+* Stay up-to-date with the latest technologies and best practices in data engineering.
+
+****Qualifications:****
+
+* Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+* 5+ years of experience in data engineering with a strong focus on Python, Scala and Spark.
+* Strong understanding of data warehousing and data modeling concepts and ETL processes.
+* Hands-on experience with cloud data platforms like Azure ADLS, Azure Databricks and Dremio.
+* Hands-on Experience with big data technologies such as Hadoop, Kafka, Hive and HBase.
+* Hands-on experience with the Akka/Pekko framework for building distributed systems.
+* Understanding of data communication protocol like REST and GRPC
+* Proficiency in SQL and experience with relational and NoSQL databases.
+* Experience with cloud platforms (e.g., GCP, Azure) and containerization technologies (e.g., Docker, Kubernetes) is a plus.
+* Excellent problem-solving skills and ability to work independently and in a team.
+* Strong communication skills and ability to collaborate with cross-functional teams.
+
+****Preferred Skills:****
+
+* Experience with Apache Kafka or Confluent is a plus.
+* Proficiency with C# for excel addins.
+* Experience with CI/CD pipelines and infrastructure as code (IaaC).
+* Knowledge of data governance and security best practices.
+* Knowledge of Capital Markets is a plus
+* Familiarity with machine learning and data science workflows.
+* Experience with real-time analytics and event-driven architectures.
+
+****Non-Technical Skills:****
+
+* Experience in collaborating efficiently within a global team
+* Strong communication skills
+* Demonstrable experience working in a fast-paced environment, and supportive of flexible goals aligned with business priorities
+* Knowledge of derivatives pricing and capital markets is a plus
+
+****Additional Information:****
+**Join in on what others in TD Global Technology Solutions are doing:**
+
+* Inspire a positive work environment and help champion quality, innovation, teamwork and service to the business.
+* Learn voraciously, stretch your thinking, share your knowledge and educate others.
+* Communicate and collaborate with both technical and non-technical professionals.
+* Cultivate winning relationships by building trust with business and technology partners.
+* Share our commitment to productivity, effectiveness and operational efficiency.
+
+****Who We Are:****
+TD Securities offers a wide range of capital markets products and services to corporate, government, and institutional clients who choose us for our innovation, execution, and experience. With more than 6,500 professionals operating out of 40 cities across the globe, we strive to make every interaction, product and experience remarkably human and refreshingly simple. Our services include underwriting and distributing new issues, providing trusted advice and industry-leading insight, extending access to global markets, and delivering integrated transaction banking solutions. In 2023, we acquired Cowen Inc., offering our clients access to a premier U.S. equities business and highly-diverse equity research franchise, while growing our strong, diversified investment bank.
+  
+  
+Together, we are reimagining what banking can be for our clients, colleagues and communities.
+  
+  
+**Our Total Rewards Package**
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+  
+  
+****Additional Information:****
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+  
+  
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+  
+  
+**Colleague Development**
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.
+  
+  
+If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.
+  
+  
+We're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.
+  
+  
+**Training & Onboarding**
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+  
+  
+**Interview Process**
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+  
+  
+**Accommodation**
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+  
+  
+We look forward to hearing from you!
+  
+  
+****Language Requirement (Quebec Only):****
+Sans Objet"
+5ecb514538dc63a9,Python Full Stack Developer,Stellar Software Solutions,"Remote, Canada",1,"CAD 100,000 - 120,000 /yearly",2026-11-23,"[""indeed""]",https://ca.indeed.com/viewjob?jk=5c95c9d701561520,,63,"Free scorer: your resume shows 5 of 13 listed skills (Python, Django, FastAPI, Pandas).","[""SQL"", ""Flask"", ""NumPy"", ""Machine Learning"", ""PyTorch"", ""TensorFlow"", ""scikit-learn"", ""Kubernetes""]",new,2026-11-24T00:39:55+00:00,2026-11-24T00:40:28+00:00,"[""Python"", ""Django"", ""FastAPI"", ""Pandas"", ""Docker""]",,mid,in-5c95c9d701561520,indeed,"**About the Role**
+
+We are looking for a motivated and detail-oriented Python developer with 6-8+ years of experience to join our development team. The ideal candidate will contribute to designing, developing and optimizing business process automation solutions and data driven solutions, leveraging cutting-edge AI technologies and modern containerization practices to build scalable and resilient applications.
+
+**Responsibilities**
+
+* This function covers incumbents responsible for various data and business process automation projects and applications, which includes troubleshooting, enhancements and builds.
+* Design, develop, and maintain robust and scalable backend systems, incorporating AI/ML capabilities (e.g., Retrieval-Augmented Generation, Large Language Model integration, Machine Learning Control Plane) and deploying solutions using containerization technologies.
+* Responsible for routine operational or administrative work.
+* Individuals will have their work thoroughly reviewed and checked by more senior incumbents and will have limited contact outside their immediate area.
+* Daily deliverable of routine and defined outputs, while at the same time developing knowledge of the broader context in which the work is being performed.
+
+**Salary**
+
+* The maximum potential base salary for this position is $120,000
+
+**Qualifications**
+
+* At least 6-8 years of experience as Python Full Stack Developer.
+* Demonstrated proficiency with key Python libraries for backend development, data processing, and AI/ML (e.g., FastAPI/Flask/Django, Pandas, NumPy, Scikit-learn, PyTorch/TensorFlow, LangChain, LlamaIndex).
+* Exposure in SQL/PL-SQL, RDBMS or any other database systems implementation and query.
+* Experience with AI development frameworks and concepts, including Retrieval-Augmented Generation (RAG), Machine Learning Control Plane (MCP), and Large Language Models (LLMs).
+* Proficiency in containerization technologies such as Docker and orchestration platforms like Kubernetes.
+* Ability to think strategically and the ability to engage resources outside of their direct control to achieve objectives.
+* Capable of writing and building components to integrate into new or existing systems.
+* Documentation experience for complex software components.
+* Experience in implementing product lifecycle - design, development, quality, deployment, maintenance.
+* Ready to work within a collaborative environment with teams.
+* Creative thinking for identifying new opportunities.
+
+Pay: $100,000.00-$120,000.00 per year
+
+Work Location: Remote"
+878bb776ae671181,Python Developer,MSR Technology Group,"Toronto, Ontario, Canada",0,,2026-11-23,"[""linkedin""]",https://www.linkedin.com/jobs/view/4493794323,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-11-24T00:39:14+00:00,2026-11-24T00:40:28+00:00,"[""Python""]",,mid,li-4493794323,linkedin,
+4c9cba4e97a9166b,Python Developer,TekStaff IT Solutions,"Toronto, Ontario, Canada",0,,2026-11-23,"[""linkedin""]",https://www.linkedin.com/jobs/view/4493909483,,73,"Free scorer: your resume shows 1 of 1 listed skills (Python); there's no job description, so this is a rough guess.",[],new,2026-11-24T00:39:14+00:00,2026-11-24T00:40:28+00:00,"[""Python""]",,mid,li-4493909483,linkedin,
 f51c0e3679b3a00b,Senior Data Engineer,Ipsos in Canada,"Toronto, Ontario, Canada",0,"CAD 100,000 - 110,000 /yearly",2026-11-20,"[""linkedin""]",https://www.linkedin.com/jobs/view/4492940666,,68,"Free scorer: your resume shows 4 of 8 listed skills (Python, LLM, AWS, Git).","[""SQL"", ""BigQuery"", ""GCP"", ""Serverless""]",new,2026-11-22T20:13:17+00:00,2026-11-22T20:13:48+00:00,"[""Python"", ""LLM"", ""AWS"", ""Git""]",,senior,li-4492940666,linkedin,"**Job Description**
 
 **Title: Senior Data Engineer**
@@ -364,7 +988,7 @@ For positions based in San Francisco or Los Angeles: Affirm considers qualified 
   
   
 By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
-708914af759a1091,GTM Data Engineer/ AI,RightsLine,"Toronto, ON, Canada",0,"CAD 170,000 - 180,000 /yearly",2026-11-21,"[""indeed""]",https://ca.indeed.com/viewjob?jk=e4a85e741d3dde1a,https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f93572d0-23af-4fc8-978b-3dc51f63c8fa&ccId=19000101_000001&jobId=593829&source=IN&lang=en_US,59,"Free scorer: your resume shows 2 of 6 listed skills (Python, LLM).","[""TypeScript"", ""SQL"", ""dbt"", ""Data Modeling""]",new,2026-11-21T20:00:26+00:00,2026-11-21T20:00:41+00:00,"[""Python"", ""LLM""]",,mid,in-e4a85e741d3dde1a,indeed,"Since 2012, Rightsline has been making work easier for rights and royalties professionals with our innovative rights and royalties management software, allowing our customers to maximize their portfolios without having to max out their daily to-do-lists.
+708914af759a1091,GTM Data Engineer/ AI,RightsLine,"Toronto, ON, Canada",0,"CAD 170,000 - 180,000 /yearly",2026-11-21,"[""indeed"", ""glassdoor""]",https://ca.indeed.com/viewjob?jk=e4a85e741d3dde1a,https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f93572d0-23af-4fc8-978b-3dc51f63c8fa&ccId=19000101_000001&jobId=593829&source=IN&lang=en_US,59,"Free scorer: your resume shows 2 of 6 listed skills (Python, LLM).","[""TypeScript"", ""SQL"", ""dbt"", ""Data Modeling""]",new,2026-11-21T20:00:26+00:00,2026-11-21T20:00:41+00:00,"[""Python"", ""LLM""]",,mid,in-e4a85e741d3dde1a,indeed,"Since 2012, Rightsline has been making work easier for rights and royalties professionals with our innovative rights and royalties management software, allowing our customers to maximize their portfolios without having to max out their daily to-do-lists.
 
 Our fully integrated and configurable platform provides customers with comprehensive access to all their rights and royalties, across all markets and platforms, instantly. Departments can communicate, collaborate, and cohesively take action without worrying about mistakes; and in-app reports and timely alerts ensure our customers never miss an opportunity to do more.
 
@@ -466,7 +1090,7 @@ If you are contacted for an interview and require accommodation during the inter
 ---------------
 
 If you want to join a company that strives for a mission, purpose and making an impact, we encourage you to apply today."
-47023ed5830921ba,Data Engineer,Bits In Glass,"Edmonton, AB, Canada",1,"CAD 90,000 - 110,000 /yearly",2026-11-21,"[""indeed""]",https://ca.indeed.com/viewjob?jk=bb0e2eedd1d9f713,https://bitsinglassca.bamboohr.com/careers/544?source=indeed&src=indeed&postedDate=2026-11-20,51,"Free scorer: your resume shows 5 of 29 listed skills (Python, FastAPI, PostgreSQL, AWS).","[""SQL"", ""SQL Server"", ""MongoDB"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""Databricks"", ""Kafka"", ""Neo4j"", ""Spark"", ""PySpark"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling"", ""Tableau"", ""Power BI"", ""Azure"", ""GCP"", ""Terraform"", ""CI/CD"", ""Agile"", ""Security""]",new,2026-11-21T20:00:23+00:00,2026-11-21T20:00:41+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""AWS"", ""Git""]",,mid,in-bb0e2eedd1d9f713,indeed,"Join a company that’s leading the way in AI and automation consulting. Our portfolio spans 10+ top technologies across business applications, data, process, cloud, and AI. At Bits In Glass, you’ll do meaningful work with a supportive, driven team that loves to collaborate and celebrate wins together. Whether you’re coding, consulting or bringing bold ideas to the table, you’ll tackle real business challenges, grow your skills, and make a BIG impact.
+47023ed5830921ba,Data Engineer,Bits In Glass,"Edmonton, AB, Canada",1,"CAD 90,000 - 110,000 /yearly",2026-11-21,"[""indeed"", ""glassdoor""]",https://ca.indeed.com/viewjob?jk=bb0e2eedd1d9f713,https://bitsinglassca.bamboohr.com/careers/544?source=indeed&src=indeed&postedDate=2026-11-20,51,"Free scorer: your resume shows 5 of 29 listed skills (Python, FastAPI, PostgreSQL, AWS).","[""SQL"", ""SQL Server"", ""MongoDB"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""Databricks"", ""Kafka"", ""Neo4j"", ""Spark"", ""PySpark"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling"", ""Tableau"", ""Power BI"", ""Azure"", ""GCP"", ""Terraform"", ""CI/CD"", ""Agile"", ""Security""]",new,2026-11-21T20:00:23+00:00,2026-11-21T20:00:41+00:00,"[""Python"", ""FastAPI"", ""PostgreSQL"", ""AWS"", ""Git""]",,mid,in-bb0e2eedd1d9f713,indeed,"Join a company that’s leading the way in AI and automation consulting. Our portfolio spans 10+ top technologies across business applications, data, process, cloud, and AI. At Bits In Glass, you’ll do meaningful work with a supportive, driven team that loves to collaborate and celebrate wins together. Whether you’re coding, consulting or bringing bold ideas to the table, you’ll tackle real business challenges, grow your skills, and make a BIG impact.
 
 Our growing team has earned global recognition as a Great Place to Work and received multiple industry partner awards—while keeping things fun and people-focused. If you’re looking to deepen your expertise and solve real-world problems, Bits In Glass could be the place for you
 
@@ -527,7 +1151,7 @@ BIG is a high growth Cloud Consulting firm with offices in Edmonton, Calgary, To
 **Compensation:** The expected base salary range for this position is $90,000 – $110,000 CAD annually. The final offer will depend on factors such as skills, experience, certifications, and qualifications relevant to the role.
 
 **AI Disclosure:** Bits In Glass uses artificial intelligence (AI) tools to help screen, assess, or select applicants for this position. All hiring decisions are reviewed and made by our recruitment team."
-d581ba981ad5e301,"Software Engineer I, Backend (Streaming Infra)",Affirm,"Toronto, ON, Canada",1,"CAD 101,000 - 151,000 /yearly",2026-11-21,"[""indeed""]",https://ca.indeed.com/viewjob?jk=b8146baedb3a97e1,https://grnh.se/u7np9g0a3us,66,"Free scorer: your resume shows 4 of 9 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kafka"", ""Spark"", ""Kubernetes""]",new,2026-11-21T20:00:17+00:00,2026-11-21T20:00:42+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,junior,in-b8146baedb3a97e1,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+d581ba981ad5e301,"Software Engineer I, Backend (Streaming Infra)",Affirm,"Toronto, ON, Canada",1,"CAD 101,000 - 151,000 /yearly",2026-11-21,"[""indeed"", ""glassdoor""]",https://ca.indeed.com/viewjob?jk=b8146baedb3a97e1,https://grnh.se/u7np9g0a3us,66,"Free scorer: your resume shows 4 of 9 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kafka"", ""Spark"", ""Kubernetes""]",new,2026-11-21T20:00:17+00:00,2026-11-21T20:00:42+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,junior,in-b8146baedb3a97e1,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
 
 Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.  
   
@@ -2494,32 +3118,73 @@ to design, develop, and optimize enterprise-scale data platforms on Azure. The i
 * Minimum 3+ years of hands-on experience with Azure Databricks and PySpark.
 * Experience building enterprise-grade Lakehouse architectures.
 * Strong understanding of performance tuning and optimization techniques for Spark workloads."
-0fbdfbe40487bf9c,Senior Data Engineer,Ardent SoftSol Inc.,"Toronto, Ontario, Canada",0,"CAD 100,000 - 110,000 /yearly",2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490931303,,49,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Databricks"", ""Spark"", ""PySpark"", ""Hadoop"", ""Azure""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:12+00:00,"[""Python""]",,senior,li-4490931303,linkedin,"**Title: Senior Data Engineer**
+0fbdfbe40487bf9c,Senior Data Engineer,Ardent SoftSol Inc.,"Toronto, Ontario, Canada",0,"CAD 100,000 - 110,000 /yearly",2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4490931303,,49,Free scorer: your resume shows 1 of 8 listed skills (Python).,"[""SQL"", ""Snowflake"", ""Databricks"", ""Spark"", ""PySpark"", ""Hadoop"", ""Azure""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:12+00:00,"[""Python""]",,senior,li-4490931303,linkedin,"**Senior Data Engineer (QE / SDET Focus)**
 
-**Location: Toronto, Canada**
+**Canada (Remote)**
 
-**Duration: Fulltime**
+**Full Time**
 
-**Hybrid 3 days from client office**
+**Job Description:**
 
-**Key Skills: Snowflake, PySpark, Azure, DevOps**
+This job posting is for an existing, active vacancy and we are looking to hire
+**Senior Data Engineer (QE / SDET Focus)**
+as fulltime hiring in Canada (WFH), who has experience in
+**Databricks, PySpark, Python, Azure, API automation, Kafka, and end-to-end testing**
+.
 
-**Domain: BFSI preferred**
+**Role Overview:**
 
-**Skills & Qualifications:**
+We are seeking a
+**Senior Data Engineer**
+with strong
+**Quality Engineering (SDET)**
+experience. The role is primarily focused on building and validating data solutions using
+**Databricks, Python, and Azure cloud technologies**
+, while also owning
+**automated testing, end-to-end validation, and quality assurance**
+across data pipelines, APIs, and backend systems.
 
-* 4+ years of Data Engineering experience
-* Advanced SQL; experience with relational and NoSQL databases
-* Strong experience with Snowflake, Hadoop, Spark, PySpark, Databricks, Azure
-* Proficiency in Python for data engineering
-* Familiarity with orchestration tools and workflow management systems
+**Key Responsibilities & Requirements:**
 
-**Responsibilities:**
+* 5+ years of experience in Data Engineering, SDET, or Quality Engineering.
+* Strong hands-on experience with
+  **Databricks**
+  and
+  **PySpark**
+  .
+* Develop and validate
+  **data pipelines**
+  and
+  **ETL/ELT processes**
+  .
+* Implement
+  **data quality**
+  and
+  **data validation**
+  practices.
+* Perform
+  **REST API test automation**
+  using
+  **Karate**
+  or similar tools.
+* Strong expertise in
+  **end-to-end testing**
+  .
+* Experience with
+  **Microsoft Azure**
+  .
+* Knowledge of
+  **Kafka**
+  and asynchronous backend testing.
+* Experience with
+  **Databricks testing and data validation frameworks**
+  .
 
-* Design, build, and maintain scalable data pipelines using Snowflake, Hadoop, Spark, PySpark, Azure
-* Implement data architectures and optimize workflows for large financial datasets
-* Write high-quality, maintainable Python and SQL code following best practices
-* Integrate data governance, metadata management, and lineage tracking into solutions"
+**Nice to Have:**
+
+* Docker and Kubernetes.
+* E-commerce domain experience.
+* Git, GitHub, and Jira."
 acadfccbd3415ba4,Data Engineer,BrainRidge Consulting,"Toronto, Ontario, Canada",0,,2026-11-16,"[""linkedin""]",https://www.linkedin.com/jobs/view/4491501904,,60,"Free scorer: your resume shows 4 of 12 listed skills (Python, AWS, Lambda, S3).","[""Java"", ""SQL"", ""Snowflake"", ""dbt"", ""ETL"", ""ELT"", ""CI/CD"", ""Security""]",new,2026-11-16T22:49:41+00:00,2026-11-16T22:50:13+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3""]",,mid,li-4491501904,linkedin,"**About BrainRidge**
 BrainRidge Consulting is a premium FinTech Technology Consulting firm with the energy of a startup and experience of an enterprise. With a mission to empower financial institutions and organizations to thrive in the digital age, we provide cutting-edge technology solutions and strategic guidance to drive innovation and growth. As we continue to grow, we are seeking a motivated and experienced Data Engineer.
   
