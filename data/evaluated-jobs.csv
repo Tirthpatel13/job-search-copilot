@@ -1,4 +1,935 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+e553dcbd6fe63452,Sr Backend Eng - Depop Value Creation,eBay,"Toronto, ON, Canada",0,"CAD 118,000 - 157,500 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=82337c930d8da23f,https://jobs.ebayinc.com/us/en/job/R0077243,56,"Free scorer: your resume shows 3 of 11 listed skills (Python, AWS, Docker).","[""Java"", ""TypeScript"", ""Scala"", ""Node.js"", ""Express"", ""Kafka"", ""Kubernetes"", ""CI/CD""]",new,2026-11-25T22:15:14+00:00,2026-11-25T22:15:36+00:00,"[""Python"", ""AWS"", ""Docker""]",,senior,in-82337c930d8da23f,indeed,"JOB DESCRIPTION
+
+At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
+
+Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+
+  
+
+Depop is a peer-to-peer circular fashion marketplace where anyone can buy, sell and discover secondhand fashion. Our mission is simple: to make fashion circular by making secondhand as exciting and rewarding as buying new.
+
+  
+
+Founded in 2011, Depop’s diverse community has helped move resale into the mainstream, where buying secondhand is no longer an alternative, but how people of different ages now engage with fashion.
+
+Today, more than 56 million registered users come to Depop to find great value, express their own personal style and give clothes a longer life. We believe that everything you want already exists, and our role is to help people discover it. From everyday essentials to vintage and designer finds, Depop brings together a wide range of affordable styles in one place. It’s a marketplace where anyone can clear out their wardrobe or build a business, explore their style, and take part in a more circular way to shop.
+
+  
+  
+
+Powered by a team of over 500 people, our company is headquartered in London, with offices in New York. For more information, visit our News Room here.
+
+  
+  
+  
+
+**The Team**
+============
+
+For Depop users, trust means being able to trust what they see, transact with confidence and feel protected and fairly treated.
+
+You'll join a new cross-functional squad of backend and iOS engineers, partnering with a dedicated Engineering Manager, Product Manager and Product Designer. The team builds experiences that strengthen trust between buyers and sellers and help Depop grow as a trusted marketplace.
+
+**The Role**
+============
+
+As **one of the first Senior Backend Engineers** in the squad, you'll shape both what we build and how we build it. You'll independently own complex features from problem definition through production, making thoughtful trade-offs across customer experience, technical quality, fairness and compliance.
+
+This role suits product-minded engineers who thrive in ambiguity, enjoy zero-to-one development and use AI tooling as a core part of how they work.
+
+**What You Will Accomplish**
+============================
+
+* Own complex features end to end, partnering with Product and Design to define problems, shape solutions and measure outcomes.
+* Break ambiguous problems into well-scoped work and challenge assumptions when simpler solutions exist.
+* Design and build scalable backend services and APIs, primarily using TypeScript, alongside Scala and Python.
+* Collaborate with mobile engineers to deliver reliable customer-facing experiences.
+* Leverage AI tooling to accelerate development while maintaining engineering quality, and help others do the same.
+* Raise engineering standards across architecture, testing, observability, CI/CD and technical debt.
+Mentor engineers, provide thoughtful code reviews and contribute to the team's technical direction.  
+
+**What You Will Bring**
+=======================
+
+* Strong backend engineering fundamentals and experience independently delivering production systems.
+* Proficiency in TypeScript, Python or a JVM language such as Java or Scala, with the ability to learn new technologies.
+* A track record of owning complex features from problem definition through production.
+* Hands-on experience incorporating AI coding tools into development workflows, with sound judgement about their output.
+* Experience designing scalable, reliable services and APIs, including event-driven systems and evolving data models across services.
+* Strong testing practices and experience with CI/CD, observability and production monitoring.
+Experience mentoring engineers or leading technical work, with strong communication and collaboration skills.  
+
+**Nice to Have**
+================
+
+* Experience with TypeScript, Node.js, Express or Scala.
+* Experience building marketplace, mobile-first consumer or trust-related products.
+* Experience balancing technical decisions with privacy, fairness or compliance requirements.
+* Experience working in experiment-led product teams.
+Familiarity with Kafka, AWS, Docker, Kubernetes or infrastructure-as-code.  
+
+**Why Join This Team**
+======================
+
+You'll have the opportunity to shape a new squad from the start, influencing its architecture, engineering practices and culture while taking meaningful ownership of complex customer-facing problems.
+
+Depop offers an environment where individual engineers can have significant visibility and impact. You'll work closely with Product, Design and mobile engineers, building experiences that directly influence how millions of buyers and sellers engage with the marketplace.
+
+You'll help establish an AI-forward engineering culture, mentor other engineers and influence how the team approaches technical decisions, experimentation and delivery.
+
+Learn more about Depop Engineering at https://engineering.depop.com/.
+
+**Additional Details**
+
+The base pay range for this position is expected in the range below:
+
+C$118,000 - C$157,500
+
+Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including RRSP eligibility, various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+This job posting relates to an existing vacancy within eBay.
+
+eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility.
+
+We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center and AI Hiring Guidelines.
+
+Apply Now
+
+Save Job"
+90a8f5af66e62d2f,Junior Backend Engineer - Features Team,samdesk Canada Inc.,"Edmonton, AB, Canada",1,"CAD 70,000 - 80,000 /yearly",2026-11-25,"[""indeed""]",https://ca.indeed.com/viewjob?jk=75b553db4018e273,https://samsters.bamboohr.com/careers/129?source=indeed&src=indeed&postedDate=2026-11-25,67,"Free scorer: your resume shows 6 of 13 listed skills (Python, REST, LLM, AWS).","[""TypeScript"", ""Node.js"", ""GraphQL"", ""Microservices"", ""MongoDB"", ""Machine Learning"", ""CI/CD""]",new,2026-11-25T22:15:11+00:00,2026-11-25T22:15:36+00:00,"[""Python"", ""REST"", ""LLM"", ""AWS"", ""Docker"", ""Git""]",,junior,in-75b553db4018e273,indeed,"**Junior Backend Engineer - Features Team**
+
+**Who We Are**
+
+samdesk is a global disruption monitoring platform delivering real-time crisis alerts 24 hours a day, 365 days a year, powered by AI. We make sense of the world’s most valuable real-time data sources with a singular purpose: to create a safer world. Headquartered in Edmonton, Alberta, Canada, with team members distributed around the globe, we work with some of the largest brands in the world, including DoorDash, Meta, Uber, Ford, and NATO. We are a growing team of builders and problem-solvers who are deeply passionate about the products and services we create.
+
+Check us out! www.samdesk.io
+
+**About the Role**
+
+The Junior Backend Engineer on the Features Team writes the code behind the apps and APIs our customers use to access samdesk’s real-time alert data. This is a build-focused role: you will spend most of your time, roughly 85 to 90%, writing, testing, and shipping code. You will pick up well-defined tickets across our data pipeline, APIs, LLM integrations, and internal tools, and take them from first commit to production. You will work alongside senior engineers who will review your work, pair with you on harder problems, and help you grow quickly. Your code will run in production and affect alerts delivered to users around the world, so you will learn to care about quality, testing, and reliability from day one.
+
+  
+
+This role reports to the Lead Backend Engineer on the Features Team and works closely with senior engineers, machine learning, and product.
+
+**Responsibilities**
+
+Building Features
+
+* Implement features, bug fixes, and improvements to the microservices and APIs that power the alert pipeline and samdesk applications
+* Help add new data sources to the pipeline, including parsing, enrichment, and routing logic
+* Build and extend integrations with OpenAI and Anthropic APIs, including prompts, tool use, and response handling
+* Contribute to internal tools used by operations, ML, and QA teams
+
+Quality and Reliability
+
+* Write unit and integration tests for the code you ship
+* Investigate and fix bugs, including production issues, with support from senior engineers
+* Add logging and metrics so your code can be monitored and debugged in production
+* Keep API and service documentation up to date as you make changes
+
+Learning and Collaboration
+
+* Participate in code reviews, both giving and receiving feedback
+* Ask questions early, flag blockers quickly, and give honest updates on progress
+* Learn our architecture, tools, and practices, and take on larger and less defined work over time
+* Use AI coding tools effectively while understanding and owning every line you commit
+
+  
+
+**Qualifications and Skills**
+
+Required
+
+* 1 to 2 years of professional software engineering experience, or equivalent experience through co-op terms, internships, or substantial personal or open-source projects
+* A degree or diploma in computer science, software engineering, or a related field, or equivalent practical experience
+* Solid working knowledge of Node.js (TypeScript) and/or Python
+* Understanding of REST APIs, HTTP, and basic data modelling
+* Comfort with Git and a collaborative code review workflow
+* Experience using AI coding tools as part of your day-to-day development
+
+Nice to Have
+
+* Projects that call the OpenAI or Anthropic APIs, or otherwise build on LLMs
+* Exposure to Docker, cloud services (AWS preferred), or CI/CD pipelines
+* Experience with MongoDB, GraphQL, or message queues
+* Familiarity with writing automated tests
+
+You'll Thrive Here If
+
+* You love building things and want to see your code in production quickly
+* You are curious about how systems work, and you dig in until you understand why
+* You take feedback well and apply it, and you are not afraid to ask questions
+* You care about doing it right, not just making it pass
+* You can point to something you built that you are proud of, and explain the trade-offs you made
+
+  
+
+**What Are the Perks? What’s In It For You?**
+
+* Work at the intersection of AI, public safety, and enterprise technology, with a committed and passionate team of innovators at a fast growing startup.
+* Competitive compensation and free access to a health benefits package, including dental, extended health, vision care, and a health spending account.
+* Hybrid and flexible working schedule
+* A seat on the rocket ship buckle up!
+
+  
+
+**Application Details**
+
+Help us help you stand out! Please thoughtfully answer the screening questions on the application page. We look forward to reviewing your application!
+
+**Diversity and Inclusion**
+
+samdesk is an equal opportunity employer committed to creating a safe, diverse and inclusive environment. We encourage qualified applicants of all backgrounds including ethnicity, religion, disability status, gender identity, sexual orientation, family status, age, nationality, and education levels to apply. If you are contacted for an interview and require accommodation during the interviewing process, please let us know.
+
+The position is based out of Edmonton, AB but we may also consider remote candidates. Please note that only candidates selected for the interview process will be contacted. Thank you!"
+c7aba91aa11595d6,Senior Backend Engineer - Features Team,samdesk Canada Inc.,"Edmonton, AB, Canada",1,"CAD 100,000 - 125,000 /yearly",2026-11-25,"[""indeed""]",https://ca.indeed.com/viewjob?jk=0528423f665c1f71,https://samsters.bamboohr.com/careers/130?source=indeed&src=indeed&postedDate=2026-11-23,67,"Free scorer: your resume shows 6 of 13 listed skills (Python, REST, LLM, AWS).","[""TypeScript"", ""Node.js"", ""GraphQL"", ""Microservices"", ""MongoDB"", ""SQS"", ""Machine Learning""]",new,2026-11-25T22:15:06+00:00,2026-11-25T22:15:37+00:00,"[""Python"", ""REST"", ""LLM"", ""AWS"", ""S3"", ""Docker""]",,senior,in-0528423f665c1f71,indeed,"**Senior Backend Engineer - Features Team**
+
+**Who We Are**
+
+samdesk is a global disruption monitoring platform delivering real-time crisis alerts 24 hours a day, 365 days a year, powered by AI. We make sense of the world’s most valuable real-time data sources with a singular purpose: to create a safer world. Headquartered in Edmonton, Alberta, Canada, with team members distributed around the globe, we work with some of the largest brands in the world, including DoorDash, Meta, Uber, Ford, and NATO. We are a growing team of builders and problem-solvers who are deeply passionate about the products and services we create.
+
+Check us out! www.samdesk.io
+
+**About the Role**
+
+The Senior Backend Engineer on the Features Team builds the apps and APIs that our customers use to access samdesk’s automated alert pipeline data. You will architect and build the systems that turn a firehose of data into information customers can act on.
+
+You will own the design and implementation of major components of our data pipeline and APIs, orchestrate the interplay between our LLMs and the pipeline, and build the internal tooling that our operations, ML, and product teams rely on daily. Most of your time, roughly 70 to 80%, will be spent designing, building, and reviewing code. Your decisions will have a direct impact on system reliability and the quality of alerts delivered to users around the world.
+
+This role reports to the Lead Backend Engineer on the Features Team and collaborates closely with machine learning, infrastructure, and product.
+
+**Responsibilities**
+
+Pipeline & API Engineering
+
+* Design, implement, and iterate on microservices and APIs consumed by the alert pipeline and samdesk applications
+* Add new data sources to the pipeline, ensuring correct parsing, enrichment, and routing
+* Identify and resolve bottlenecks in dataflow before they reach production
+* Design and document APIs for consumption by front-end teams and external integrations
+* Report on the health of key system components
+  
+
+AI Agent Development & LLM Orchestration
+
+* Design and implement AI agents that coordinate LLM inference with our real-time data pipeline
+* Build and maintain the orchestration layer governing how language models interact with structured pipeline outputs
+* Integrate with OpenAI and Anthropic APIs, including prompt engineering, tool use, and response handling at scale
+* Ensure agent workflows are observable, testable, and fault-tolerant in production
+  
+
+Internal Tooling
+
+* Architect and deliver internal tools used by operations, ML, and QA teams to monitor, debug, and improve alert quality
+* Identify gaps in developer and analyst workflows and build solutions that meaningfully reduce toil
+  
+
+Technical Excellence
+
+* Contribute to the roadmap and to architectural decisions led by the Lead Backend Engineer
+* Set the bar for code quality through rigorous code review, and mentor junior engineers
+* Ensure adequate test coverage across components so systems can be safely extended
+* Break down complex features into tasks and give accurate effort estimates for your own work
+
+  
+
+**Qualifications and Skills**
+
+Required
+
+* 5+ years of professional software engineering experience with a strong backend focus
+* Expert-level proficiency in Node.js (TypeScript) and/or Python
+* Hands-on experience with OpenAI and/or Anthropic APIs, including tool use, streaming, and prompt management
+* Deep experience designing and building scalable REST or GraphQL APIs
+* Experience with Docker and containerized application architecture
+* Expertise leveraging AI coding tools
+  
+
+Nice to Have
+
+* Experience with real-time data pipelines or event-driven architectures
+* Familiarity with LLM evaluation frameworks, observability tooling, or RAG architectures
+* Background in safety-critical or high-availability systems
+* Demonstrated experience building and operating AI agents or LLM-powered systems in production
+* Solid working knowledge of AWS services: ECS, SQS, S3, and CloudWatch
+* Production experience with MongoDB and Apollo GraphQL
+
+You'll Thrive Here If
+
+* You bring genuine intellectual ownership to the systems you build. You think about them when you’re not at your desk
+* You have strong opinions, loosely held. You argue for the right solution, not your solution
+* You’ve designed significant components in complex, fast-moving environments and know when to move and when to slow down
+* You can translate ambiguous product requirements into well-scoped technical plans without a playbook
+* You take production reliability personally and are proud of that time you took 7s down to 400ms
+
+  
+
+**What Are the Perks? What’s In It For You?**
+
+* Work at the intersection of AI, public safety, and enterprise technology, with a committed and passionate team of innovators at a fast growing startup.
+* Competitive compensation and free access to a health benefits package, including dental, extended health, vision care, and a health spending account.
+* Hybrid and flexible working schedule
+* A seat on the rocket ship buckle up!
+
+  
+
+**Application Details**
+
+Help us help you stand out! Please thoughtfully answer the screening questions on the application page. We look forward to reviewing your application!
+
+**Diversity and Inclusion**
+
+samdesk is an equal opportunity employer committed to creating a safe, diverse and inclusive environment. We encourage qualified applicants of all backgrounds including ethnicity, religion, disability status, gender identity, sexual orientation, family status, age, nationality, and education levels to apply. If you are contacted for an interview and require accommodation during the interviewing process, please let us know.
+
+The position is based out of Edmonton, AB but we may also consider remote candidates. Please note that only candidates selected for the interview process will be contacted. Thank you!"
+234ec20d8e9f4d75,Senior Backend Software Engineer - AI,SEEQ,Canada,1,"CAD 220,000 - 220,000 /yearly",2026-11-25,"[""indeed""]",https://ca.indeed.com/viewjob?jk=aceb7095433851da,https://apply.workable.com/j/393598F6D0,65,"Free scorer: your resume shows 4 of 9 listed skills (Python, PostgreSQL, LLM, Distributed Systems).","[""Java"", ""TypeScript"", ""SQL"", ""Kubernetes"", ""Agile""]",new,2026-11-25T22:15:06+00:00,2026-11-25T22:15:37+00:00,"[""Python"", ""PostgreSQL"", ""LLM"", ""Distributed Systems""]",,senior,in-aceb7095433851da,indeed,"Seeq builds advanced analytics software for customers in process manufacturing industries such as pharmaceuticals, mining, renewables, and energy — organizations with massive amounts of time-series and event data from industrial operations.
+
+We are a fully remote company that has operated this way from the start, using tools like Zoom, Slack, and our homegrown Qube virtual office to collaborate as if we were in the same building. Our teams iterate using agile practices and care deeply about clear communication, shared learning, and delivering software that exceeds customer expectations.
+
+**Role Overview**
+
+The Senior Backend Software Engineer - AI is a hands-on engineer who helps design, build, and scale the backend platforms and AI systems supporting Seeq’s intelligent applications.
+
+You will work on complex technical challenges involving production AI systems, agentic workflows, distributed systems, and backend platforms and agentic systems, helping establish the shared infrastructure, services, APIs, and engineering patterns that allow AI-enabled capabilities to operate reliably and safely at scale across Seeq.
+
+This is a deeply hands-on role. You will combine experience building AI systems with strong backend and distributed systems expertise, and continued involvement in designing, coding, debugging, and shipping production software.
+
+A Senior Software Engineer at Seeq is a highly independent and productive engineer who owns complex work, contributes to technical decisions, and begins taking on broader leadership and mentorship responsibilities. Primarily operates within their team while collaborating effectively with other teams.
+
+**Key Responsibilities**
+
+* **Design and build backend and AI platform capabilities:** Contribute to architecture, patterns, and technical approaches for scalable systems supporting AI and agentic applications.
+* **Deliver high-impact AI and platform initiatives:** Own complex, ambiguous projects from concept through production, collaborating with engineers, teams, and stakeholders.
+* **Build agentic systems:** Design and build systems supporting agent routing, orchestration, tool use, evaluations, runtime infrastructure, sandboxing, and agent-to-agent communication.
+* **Develop shared platform infrastructure:** Define Build and improve backend services, runtime environments, interfaces, and architectural patterns that other engineering teams rely on to build AI-enabled applications.
+* **Build reliable distributed and data-intensive systems:** Develop backend services and APIs capable of supporting AI workloads across large data volumes and complex workflows.
+* **Create reusable AI platform capabilities:** Build shared services, APIs, libraries, orchestration patterns, runtime infrastructure, and developer-facing platform capabilities that enable multiple teams to build, deploy, and operate AI features consistently.
+* **Improve AI evaluation and reliability:** Develop and implement approaches for evaluating agentic output, monitoring system behavior, and improving the reliability, safety, and observability of AI-enabled systems.
+* **Design systems integrations:** Build integrations that allow AI agents, internal services, and third-party enterprise platforms to communicate effectively.
+* **Drive work from idea to production:** Evaluate emerging approaches and translate promising AI technologies and patterns into pragmatic, maintainable production systems.
+* **Stay close to customers:** Work directly with customers during early deployments, understand how AI-enabled capabilities perform in real-world environments, and incorporate those learnings back into the product.
+* **Mentor and collaborate with engineers:** Provide technical mentorship in backend architecture, platform engineering, agentic systems, AI engineering, and operational excellence. Share technical knowledge and support the growth of other engineers, with increasing leadership responsibilities at higher levels.
+* **Contribute to technical direction:** Surface risks, challenge assumptions, and identify better technical approaches rather than waiting for problems or solutions to be fully defined. Participate in architectural decisions and help shape the evolution of our backend and AI platforms.
+* Collaborate with product managers and owners to develop and hone a vision for how generative AI is used by analytics engineering teams.
+
+  
+**Requirements**  
+
+* Minimum of 4 years of experience in backend software engineering.
+* Recent, hands-on experience developing and deploying generative AI or agentic systems in production environments.
+* Experience building agentic capabilities, including agents, routing and orchestration, tool integration, evaluations, runtimes, sandboxing, or related infrastructure.
+
+* Strong proficiency in Python and working knowledge of TypeScript and Java.
+* Experience with modern AI/LLM frameworks, SDKs, or orchestration tooling used to build production AI and agentic applications.
+* Familiarity with SQL and experience with relational databases such as PostgreSQL.
+* Experience operating software in a SaaS environment.
+* Strong understanding of production AI concerns including reliability, monitoring, performance, cost, and failure handling.
+* Ability to evaluate emerging AI approaches and translate them into pragmatic, maintainable software.
+* Demonstrated ability to independently drive complex technical problems forward.
+* Experience contributing to technical decisions, collaborating across engineering teams, and sharing technical knowledge.
+* Strong communication skills and experience mentoring and supporting other engineers.
+* A desire to build, ship, and maintain software in a fast-paced environment.
+
+Preferred:
+
+* Experience developing or implementing evaluation strategies and observability for AI or agentic systems.
+* Experience deploying and operating production systems in Kubernetes or another containerized runtime environment.
+* Experience with AI or backend platform capabilities used broadly across an engineering organization.
+* Experience with retrieval architectures such as vector search, hybrid retrieval, re-ranking, or RAG.
+* Experience integrating AI agents with third-party enterprise platforms.
+* Experience working with industrial, operational, or time-series data.
+* Experience building software products used by technical or engineering-focused customers.
+* A background in mechanical, chemical, process, or another engineering discipline before moving into software.
+
+  
+**Benefits**
+
+Seeq is a remote-first (only) company founded by serial entrepreneurs. Our executive team and board of directors have extensive experience with successful startup ventures in high-growth environments.
+
+We are founded on the idea that companies need better solutions for quickly and easily getting business insight from their industrial process data. Our mission is to provide software and services that convert that data into meaningful information that the business can use to improve profitability.
+
+We have a wonderful, kind-hearted, talented team that loves to collaborate, lead by example, and exceed our customers’ expectations. We are certified as a great place to work, an emerging startup, the Technology Fast 500, and Inc. Magazine's Best Places to Work.
+
+**The Perks of Working at Seeq**
+
+* Competitive salary plus cash bonus incentives.
+* + $220,000 CAD
+* Benefits:
+* + 12-week paid Seeq family leave
+  + Unlimited PTO
+  + Internet and mobile phone reimbursements
+  + Medical benefits
+  + Group term life insurance
+  + Short-term and long-term disability insurance pre-tax benefits
+  + Voluntary vision and dental (ortho)
+  + Vacation bonus program
+  + Employee Assistance Program
+  + Generous home office allowance
+  + The best co-workers (we've analyzed the data, so we know it's true.)
+  + Pet-friendly workspace (your dog will be so happy to have you home)
+  + You love your job!
+
+Seeq provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics.
+
+You must be authorized to work in the country in which you reside. Seeq does not sponsor US F1 or H-1B work visas"
+87d13dc1a85a9c92,Data Engineer,HelloFresh,"Toronto, Ontario, Canada",0,,2026-11-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494456332,,59,"Free scorer: your resume shows 5 of 15 listed skills (Python, AWS, S3, Docker).","[""SQL"", ""Snowflake"", ""Databricks"", ""Kafka"", ""Spark"", ""PySpark"", ""Airflow"", ""dbt"", ""Data Modeling"", ""CI/CD""]",new,2026-11-25T22:15:05+00:00,2026-11-25T22:15:37+00:00,"[""Python"", ""AWS"", ""S3"", ""Docker"", ""Git""]",,mid,li-4494456332,linkedin,"**S'more About The Team**
+As a Data Engineer in Supply Chain Operations, you will take technical ownership of the end-to-end data lifecycle—spanning system architecture, pipeline design, production development, and continuous operations. You will build and scale high-throughput batch and real-time streaming data pipelines that harmonize data streams across menu planning, forecasting, procurement, fulfillment, and logistics.
+  
+  
+In this role, you play a critical part in driving operational efficiency, cost optimization, and supply chain scalability by ensuring our global data infrastructure is performant, resilient, and mission-critical. Partnering closely with Data Scientists, Operations Analysts, and SCM stakeholders, you will model complex physical domain entities and engineer robust data assets that power real-time tracking, analytics, and automated decision-making across HelloFresh's operational business processes.
+  
+  
+**Lettuce Share What This Role Will Be Responsible For**
+
+* Design, build, and maintain robust batch and streaming data pipelines connecting procurement systems, warehouse management systems (WMS), logistics, fulfillment, forecasting, and customer feedback data.
+* Develop real-time data integrations for tracking ingredient inventory levels, order assembly status, and carrier shipment tracking across distribution centers.
+* Partner with Data Scientists and Operations Analysts to operationalize demand forecasting models, track inventory accuracy, and monitor key business metrics like cost per box or fulfillment error rates.
+* Ensure high data quality, freshness, and lineage tracking for operational dashboards, executive KPIs, and automated alertsWork with modern cloud data technologies such as AWS (S3, EMR, Glue), Databricks, Snowflake, Apache Spark/PySpark, Kafka, and Airflow.
+* Collaborate closely with cross-functional stakeholders in Procurement, Fulfillment Operations, Logistics, and Product to translate physical workflow requirements into robust data infrastructure.
+* Contribute to a collaborative knowledge-sharing environment by providing technical guidance and coaching to team members and operational partners.
+
+**Sound a-peeling? Here's what we're looking for**
+
+* Proven track record of scientific or engineering work (Bachelor's, Master's, or PhD in Computer Science, Software Engineering, or a related technical field).
+* 3+ years of professional experience as a Data Engineer delivering high-impact production pipelines.
+* Fluency in Python, SQL, dbt, and PySpark for building scalable data pipelines on modern cloud infrastructure.
+* Strong data modeling expertise (dimensional modeling, relational architecture, event-driven streams) applied to physical supply chain or logistics operations.
+* Familiarity with software engineering best practices, including Git, CI/CD pipelines, Docker, and cloud platforms like AWS.
+* Expertise leveraging Generative AI tools (e.g., Claude, GitHub Copilot) to accelerate development, debugging, performance tuning, and documentation.
+* Exceptional communication skills to bridge technical implementation details with warehouse operators, logistics planners, and business stakeholders.
+
+**Let’s cut to the cheese, this is why you'll love it here**
+
+* Box Discount - Amazing discounts on 1 box per week! 75% discount on weekly HelloFresh and Chefs Plate meal kits AND 50% off weekly Factor meal box.
+* Health & Wellness - Health & Dental benefits from day 1, a Health Spending Account, unlimited access to the Headspace app to meet your self-care needs, and 25% discount on GoodLife fitness memberships!
+* RRSP Matching - Competitive RRSP matching program offered
+* Vacation & PTO - Time off is also an important part of self-care! We offer generous vacation and PTO to help you create a good work-life balance.
+* Family Benefits - A parental leave top-up program for expectant parents.
+* Growth & Development - We support your career progression and invest in your continued learning through experiences and initiatives owned by our dedicated L&D team
+* Work Hard & Have Fun - From team socials to engaging company days, you’ll have plenty of opportunity to experience the fun!
+* Diversity & Inclusion Initiatives - With impactful ERG’s like FreshPride, Women Empowered and LIMES, we are committed to our diversity, equity & inclusion efforts.
+* Food Puns - this one is kind of a big dill if you haven’t already noticed. We even have some punny meeting room names!
+
+**Flexible Hybrid Approach**
+At HelloFresh, we know that flexible work arrangements are essential in enabling you to do your best work, while balancing your personal and life needs. Offering remote work flexibility, along with the opportunity to interact and collaborate in the office are all a part of creating a great employee experience.
+  
+  
+To meet these needs, we are pleased to provide Flexible Hybrid work. Flexible Hybrid is a people-first approach that is based on choice, trust, personalization, and empowers teams to choose when and how often they work from the office and work from home, in addition to team days and company days. This means a minimum of 2 days in office per week, with most teams in office between 2-3 days a week.
+  
+  
+*HelloFresh Canada uses AI-integrated technology to help us process and evaluate applications more efficiently. This includes tools that screen and assess candidate qualifications based on the requirements for this role. While these tools assist our workflow, all final selection decisions are made by our hiring team.*
+*This is a posting for an existing vacancy. We are actively seeking to fill this position.*
+*#Engineering*
+Toronto, ON Pay Range
+  
+  
+$104,000—$119,000 CAD"
+0373f96e71cbeb85,Senior Data Engineer,"Connor, Clark & Lunn Financial Group (CC&L)","Toronto, Ontario, Canada",0,,2026-11-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4406616426,,55,"Free scorer: your resume shows 3 of 12 listed skills (Python, LLM, AWS).","[""SQL"", ""Airflow"", ""Dagster"", ""Prefect"", ""ETL"", ""ELT"", ""Data Modeling"", ""Azure"", ""Security""]",new,2026-11-25T22:15:05+00:00,2026-11-25T22:15:37+00:00,"[""Python"", ""LLM"", ""AWS""]",,senior,li-4406616426,linkedin,"Interested in joining one of Canada's top performing asset managers? We are looking for a
+**Senior Data Engineer**
+for an existing vacancy in our IT department, Connor, Clark & Lunn Financial Group (CC&LFG) is building an AI Enablement Team to accelerate the responsible adoption of AI across the organization. The Senior Data Integration Engineer will design, build, and manage the pipelines, governance controls, and semantic context that power enterprise-wide AI and analytics. This role goes beyond integration: it ensures data is optimized for autonomous and agentic AI systems that can plan, act, and adapt dynamically within guardrails. At CC&LFG, you will help lay the foundation for agentic AI in financial services — designing the data, governance, and orchestration systems that make AI reliable, explainable, and enterprise-ready. You’ll work on cutting-edge AI pipelines, enabling the business to move from AI-assisted insights to AI-driven autonomous workflows. You will create the trusted foundation on which AI agents, copilots, and orchestration frameworks securely operate. Our offices currently operate on a hybrid model with three days in office.
+  
+  
+**What You Will Do**
+**Design & Build Pipelines**
+
+* Develop scalable ETL/ELT processes to integrate structured, semi-structured, and unstructured data from diverse systems (applications, APIs, databases).
+* Enable real-time and event-driven data flows to support autonomous agent decision-making.
+
+**Safeguard Data & Governance**
+
+* Implement robust controls for security, privacy, compliance, and bias mitigation.
+* Establish observability and audit trails for agentic AI pipelines, ensuring transparency and accountability.
+
+**Enable AI & Agentic Readiness**
+
+* Enrich datasets with semantic context and metadata to power LLM ingestion, RAG pipelines, embeddings, and multi-agent collaboration.
+* Build connectors and APIs that allow agentic AI systems to dynamically query, retrieve, and act on enterprise data.
+* Support workflow orchestration across AI agents and business systems.
+
+**Operationalize Agentic AI**
+
+* Develop feedback loops and monitoring systems to detect drift, hallucinations, or risk in autonomous AI actions.
+* Ensure guardrails (policy enforcement, escalation paths, human-in-the-loop design) are integrated into pipelines and workflows.
+
+**Streamline Knowledge Sharing**
+
+* Document integration processes, orchestration patterns, and governance standards to ensure reuse and cross-team adoption.
+* Provide blueprints for how AI agents interact with structured enterprise data.
+
+**Collaborate Across Teams**
+
+* Partner with AI Solutions Engineers, governance leads, and business stakeholders to embed data integration into AI-driven workflows.
+* Drive alignment between technical infrastructure and business value realization from agentic AI.
+
+**What You Bring**
+
+* Proven experience building resilient, scalable data pipelines for structured and unstructured datasets.
+* Strong skills in SQL, Python, orchestration frameworks (Airflow, Prefect, Dagster) and modern data transformation tools.
+* Familiarity with cloud platforms (Azure, AWS, Microsoft Fabric) and integration with AI/ML services.
+* Expertise in data modeling, semantic enrichment, embeddings, and vector databases for LLM/RAG pipelines.
+* Understanding of agentic AI concepts: workflow orchestration, autonomous decision-making, human-in-the-loop design, and safety guardrails.
+* Knowledge of data governance practices including AI ethics, security, privacy, compliance, and auditability.
+* Ability to collaborate with engineers, AI product teams, and business leaders to make enterprise data agent-ready.
+
+The salary range for this position is $140,000 - $160,000. The salary range provided reflects the base salary range for this position as required by legislation. In addition, there is an annual performance bonus which contributes to the total compensation for this position. Further questions may be directed to the HR team during the interview process.
+  
+  
+**What We Offer**
+At Connor, Clark & Lunn Financial Group, we’re ""invested in our greatest asset, you"". Our shared goals reflect what matters most to our people:
+  
+  
+
+* Your community: we foster belonging through collaboration, inclusion and flexibility. Enjoy social events, volunteering and a strong commitment to corporate social responsibility. Our flexible work practices are designed to support work-life balance and provide employees with flexibility in where and how they work
+* Your growth: we prioritize your development with meaningful work, continuous learning budgets, paid study days and support for professional designations.
+* Recognizing you: your contributions are rewarded with competitive total compensation, retirement savings support, wellness credits, enhanced parental leave, and comprehensive health benefits.
+
+For a closer look at how you can build your career with us, we invite you to explore cclgroup.com.
+  
+  
+We are committed to providing an inclusive, accessible recruitment and selection process. We welcome and encourage applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the recruitment and selection process. Please contact talentacquisition@cclgroup.com if you require accommodation.
+  
+  
+AI may be used to support certain stages of our screening & recruitment process. These tools support, but do not replace, human judgment and decision-making."
+97cfbde61bbffffe,Aws data engineer,Quantum World Technologies Inc.,"Toronto, Ontario, Canada",0,,2026-11-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494657573,,64,"Free scorer: your resume shows 4 of 10 listed skills (Python, AWS, S3, GitHub Actions).","[""Spark"", ""PySpark"", ""Airflow"", ""Data Modeling"", ""Terraform"", ""CI/CD""]",new,2026-11-25T22:15:05+00:00,2026-11-25T22:15:37+00:00,"[""Python"", ""AWS"", ""S3"", ""GitHub Actions""]",,mid,li-4494657573,linkedin,"AWS Data Services: EMR, Glue, Athena, S3
+
+Data Processing: Spark/PySpark, Python, Hudi/Iceberg
+
+Orchestration: Apache Airflow / MWAA
+
+Data Engineering: Data modeling, ingestion, transformation, data quality, and production pipeline operations
+
+DevOps: Terraform, GitHub Actions, CI/CD
+
+Experience in financial services, particularly investment management or Middle Office data, would be an advantage."
+257ac67af39a8a45,"Senior AWS Data Engineer – PySpark, AWS Glue, EMR, Airflow & Iceberg","Astra-North Infoteck Inc.  ~ Conquering today’s challenges, achieving tomorrow’s vision!","Toronto, Ontario, Canada",0,,2026-11-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494935166,,64,"Free scorer: your resume shows 4 of 10 listed skills (Python, AWS, S3, GitHub Actions).","[""Spark"", ""PySpark"", ""Airflow"", ""Data Modeling"", ""Terraform"", ""CI/CD""]",new,2026-11-25T22:15:05+00:00,2026-11-25T22:15:38+00:00,"[""Python"", ""AWS"", ""S3"", ""GitHub Actions""]",,senior,li-4494935166,linkedin,"**Senior AWS Data Engineer – PySpark, AWS Glue, EMR, Airflow & Iceberg**
+
+**Location:**
+Toronto, ON – Hybrid (4 Days WFO)
+
+**Interview:**
+In-person interview required.
+  
+
+**Job Description:**
+
+We are looking for a strong, hands-on Data Engineer with experience in:
+
+* **AWS Data Services:**
+  EMR, Glue, Athena, S3
+* **Data Processing:**
+  Spark/PySpark, Python, Hudi/Iceberg
+* **Orchestration:**
+  Apache Airflow / MWAA
+* **Data Engineering:**
+  Data modeling, ingestion, transformation, data quality, and production pipeline operations
+* **DevOps:**
+  Terraform, GitHub Actions, CI/CD
+
+Experience in financial services, particularly investment management or Middle Office data, would be an advantage.
+
+We are looking for someone who can independently take ownership of data onboarding requirements, from source analysis and technical design through implementation and production readiness, rather than someone with a primarily architectural or advisory background."
+6fdaee9f4cb37730,"Data Engineer, Platform",Clio,"Toronto, Ontario, Canada",0,,2026-11-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494726773,,50,"Free scorer: your resume shows 2 of 13 listed skills (Python, AWS).","[""Ruby"", ""Scala"", ""SQL"", ""Databricks"", ""Kafka"", ""Spark"", ""Airflow"", ""ETL"", ""ELT"", ""Data Modeling"", ""Terraform""]",new,2026-11-25T22:15:05+00:00,2026-11-25T22:15:38+00:00,"[""Python"", ""AWS""]",,mid,li-4494726773,linkedin,"Clio is the global leader in legal AI technology, empowering legal professionals and law firms of every size to work smarter, faster, and more securely.
+  
+  
+We are transforming the legal experience for all by bettering the lives of legal professionals while increasing access to justice.
+  
+  
+**Summary:**
+**What your team does:**
+Our growing data engineering team is driven to deliver an incredible experience to our customers. As a Data Engineer at Clio, you will build data pipelines from scratch, as well as make data sets accessible to our partner teams by writing great production code. We move quickly, work with new state of the art technologies, and are motivated by solving complex problems.
+  
+  
+This role is available to candidates across Canada excluding Quebec. If you are local to our hubs in Burnaby, Calgary, or Toronto, then you will be expected to come into the office twice a week.
+  
+  
+**A day in the life might look like:**
+
+* Implement data ingestion (real time and batch) using best practices in data modeling, ETL/ELT processes by leveraging AWS technologies and data tools
+* Design, build, and maintain data transformation pipelines consolidating various data sources (streaming or batch) into specific Data Lakes / Data Warehouses
+* Collaborate with engineers to help adopt best practices in data system creation, data integrity, test design, analysis, validation, and documentation
+* Develop prototype or ""proof of concept"" implementations of projects where the technical solution is unknown or unproven
+
+**What you may have:**
+
+* Experience in software development as well as experience in data engineering
+* Experience with cloud infrastructure (AWS preferred, bonus for Terraform)
+* Proficiency in at least one major language (e.g. Python, Scala, Ruby) and SQL, the drive to write elegant and maintainable code, and desire to pick up new technologies
+* Experience with streaming and batch data tools: Spark, Kafka, Airflow
+* Data warehousing experience working with Databricks or similar
+* Experience building data pipelines and the infrastructure required to deploy data models and dashboards that allow data visualization
+* Exceptional collaboration and communication skills with the ability to derive clarity in ambiguous environments
+* A keen interest in improving your craft by using AI
+
+This posting is for a net new role.
+  
+  
+**What you will find here:**
+Compensation is one of the main components of Clio’s Total Rewards Program. We have developed a series of programs and processes to ensure we are creating fair and competitive pay practices that form the foundation of our human and high-performing culture.
+  
+  
+**Some highlights of our Total Rewards program include:**
+
+* Competitive, equitable salary with top-tier health benefits, dental, and vision insurance
+* Hybrid work environment, with expectation for local Clions to be in office minimum twice per week. (Find your Hub)
+* Flexible time off policy, with an encouraged 20 days off per year.
+* $2000 annual counseling benefit
+* RRSP matching and RESP contribution
+* Clioversary recognition program with special acknowledgement at 3, 5, 7, and 10 years
+
+The expected salary range for this role is $119,000 to $161,000 CAD. Initial placement within the range is informed by geographic region, experience, and skillset, with room to progress as impact and tenure grow. Final offer amounts will vary based on candidate profile.
+  
+  
+**Diversity, Inclusion, Belonging and Equity (DIBE) & Accessibility**
+Our team shows up as their authentic selves, and are united by our mission. We are dedicated to diversity, equity and inclusion. We pride ourselves in building and fostering an environment where our teams feel included, valued, and enabled to do the best work of their careers, wherever they choose to log in from. We believe that different perspectives, skills, backgrounds, and experiences result in higher-performing teams and better innovation. We are committed to equal employment and we encourage candidates from all backgrounds to apply.
+  
+  
+Clio provides accessibility accommodations during the recruitment process. Should you require any accommodation, please let us know and we will work with you to meet your needs.
+  
+  
+Learn more about our culture at clio.com/careers
+  
+  
+We're a Human and High Performing AI company, meaning we use artificial intelligence to improve all of our operations. In recruitment, AI helps us streamline the process for greater efficiency. However, we've built our systems to ensure that a human always reviews AI-generated output, and we never make automated hiring decisions.
+  
+  
+***Disclaimer:**
+We only communicate with candidates through official @clio.com email addresses.*"
+1ccf274967c74149,Data engineer/Sr. Data Engineer,The Home Depot Canada,"Toronto, Ontario, Canada",0,,2026-11-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494308093,,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Git).","[""SQL"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""ETL"", ""Data Modeling"", ""Tableau"", ""Statistics"", ""Azure"", ""GCP"", ""CI/CD""]",new,2026-11-25T22:15:05+00:00,2026-11-25T22:15:38+00:00,"[""Python"", ""AWS"", ""Git""]",,senior,li-4494308093,linkedin,"**Pay Range: $80,000 - $110,000**
+**At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting your growth with us.**
+**Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you’re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot.**
+Do you have a learning mindset and a passion for data-driven decision-making? Do you thrive in a dynamic environment where you can leverage technology to uncover efficiencies? Would working in a highly collaborative and relationship driven company that values respect for everyone excite you? Look no further than Home Depot Canada.
+  
+  
+We go beyond routine reporting; we engage in creative, hands-on work within an empowering environment where every decision is backed by high-quality data. If you are an innovator passionate about data engineering and reimagining the future of retail, apply today and help shape the next chapter at
+**The Home Depot Canada**
+.
+  
+  
+As a
+**Data Engineer**
+, you will design and build scalable data pipelines to organize, transform, and optimize billions of rows of data for analytics and decision-making. Leveraging
+**Google BigQuery (GBQ), Python**
+, and retail domain expertise, you will deliver solutions that power insights, solve complex problems, and support short- and long-term strategies. You will collaborate closely with business teams and data analysts to translate requirements into efficient transformations, ensuring clean, reliable, and high-performance data across the organization.
+  
+  
+**About The Team**
+You will join the Data & Analytics Engineering pillar within Decision Analytics, Finance at Home Depot Canada. The team owns the data foundations behind the function’s analytics products, including clearance analytics and store performance scorecards, and is migrating legacy Alteryx workloads to BigQuery-native automated pipelines. You will partner with Finance, Merchandising, Supply Chain, Store Ops, E-comm and IT teams, and work within the engineering standards, governance, and AI guardrails set by the team.
+  
+  
+**At the Home Depot**
+**the Data Engineer is responsible for:**
+**Data Modeling & Pipeline Engineering**
+
+* Pipeline Development: Design, develop, and maintain scalable data pipelines and ETL processes for both structured and unstructured data.
+* Data Transformation: Build and optimize tables and views for dashboards and self-service analytics, gathering and translating business requirements into efficient data transformations.
+* Platform Modernization: Migrate Finance analytics workloads from desktop Alteryx and locally run workflows to BigQuery-native automated pipelines.
+* Technical Execution: Leverage Google BigQuery, Python, and GBQ stored procedures to develop robust solutions and optimize complex queries.
+
+**Data Optimization & AI Innovation**
+
+* AI Integration: Leverage and integrate advanced AI tools—such as Gemini, GitHub Copilot, NotebookLM, etc.—to enhance data solutions, automate complex workflows, and build next-generation analytics capabilities.
+* Governance & Accuracy: Ensure data quality, governance, and high performance across large-scale datasets.
+* Automation: Automate processes and implement strategies to continuously improve data quality across the customer experience.
+* Monitoring & Reliability: Monitor pipeline health and delivery SLAs; implement logging, alerting, and debugging standards to catch and resolve failures before they affect downstream reporting.
+* Performance & Cost Optimization: Optimize BigQuery queries and pipeline design (partitioning, clustering, slot usage) to improve delivery speed and control compute spend.
+* Engineering Standards: Apply version control, CI/CD, and documentation practices to all analytical code and pipelines.
+* Continuous Improvement: Drive operational efficiency by identifying process bottlenecks and adopting modern data engineering tools and frameworks.
+
+**Cross-Functional Collaboration & Business Impact**
+
+* Strategic Partnering: Collaborate with business teams, data analysts, and technology partners to deliver reliable, actionable data solutions.
+* Insight Delivery: Aggregate and prepare data for reporting, dashboards, and scorecards. Provide data extraction support and respond to ad hoc analysis requests.
+* Communication: Effectively convey complex technical information and data constraints to stakeholders with a business-oriented background, ensuring alignment with organizational objectives.
+
+**What you will need to be successful in this role:**
+**Education & Experience**
+
+* Education: Bachelor’s degree in Computer Science, Engineering, Statistics, Applied Mathematics, or a related technical/quantitative field.
+* Experience: 3-5 years of experience in data engineering or a related field. A strong understanding of the retail domain, particularly finance and merchandising data, is highly beneficial.
+* Certifications (Bonus): Relevant technical certifications are a strong asset (e.g., Google Professional Data Engineer, AWS Certified Big Data – Specialty, Microsoft Certified: Azure Data Engineer Associate).
+
+**Technical Proficiency**
+
+* Core Languages: Deep proficiency in SQL and Python.
+* Cloud & Big Data: Hands-on experience with Google Cloud Platform (GCP) services and one or more big data technologies.
+* AI: Familiarity with or strong interest in using AI platforms and coding assistants (such as Gemini, Copilot etc.) to accelerate development and build smarter data solutions.
+* Data Warehousing: Strong familiarity with modern data warehousing solutions such as BigQuery, Snowflake, or Redshift.
+* Engineering Concepts: Proven experience building and maintaining complex ETL pipelines, designing stored procedures, and working with large-scale datasets.
+* Data Modelling: Strong experience designing dimensional and analytics-ready data models (facts, dimensions, aggregates) that support dashboards, scorecards, and self-service analytics.
+* Migration & Automation (Bonus): Experience re-engineering Alteryx workflows (or similar desktop ETL tools) into automated, cloud-native pipelines.
+* Engineering Practices: Version control (Git), CI/CD for analytical code, performance tuning, and documentation.
+* BI Data Layer (Bonus): Experience building curated data layers for BI tools such as Tableau.
+
+**Skills & Competencies**
+
+* Innovation & AI Mindset: A forward-thinking approach with a passion for adopting Generative AI and automation to solve complex problems and reduce manual engineering tasks.
+* Problem Solving: Strong analytical mindset with a core focus on process optimization, automation, and continuous improvement.
+* Communication: Excellent interpersonal skills with the ability to bridge the gap between highly technical engineering work and business strategy.
+* Agility: Excellent organizational and time management skills, with the ability to manage multiple projects and adapt to change in a fast-paced environment.
+
+In our commitment to efficiency, consistency, and a fair hiring experience for all candidates, The Home Depot Canada uses
+**Artificial Intelligence (AI) technology to assist with the screening and assessment of applicants**
+for this position. This technology is used to quickly and consistently identify candidates whose skills and experience are the strongest match for the role. Our process is designed to ensure human oversight is maintained throughout the selection process."
+7048e63015764f35,"Data Engineer, Customer Data Platform",AGF Investments,"Toronto, Ontario, Canada",0,,2026-11-23,"[""linkedin""]",https://www.linkedin.com/jobs/view/4437612626,,50,"Free scorer: your resume shows 2 of 12 listed skills (Python, REST).","[""Java"", ""JavaScript"", ""TypeScript"", ""SQL"", ""Databricks"", ""ETL"", ""ELT"", ""Data Modeling"", ""Tableau"", ""Security""]",new,2026-11-25T22:15:05+00:00,2026-11-25T22:15:39+00:00,"[""Python"", ""REST""]",,mid,li-4437612626,linkedin,"**About AGF Management Limited:**
+Founded in 1957, AGF Management Limited (AGF) is an independent and globally diverse asset management firm. Our companies deliver excellence in investing in the public and private markets through three business lines: AGF Investments, AGF Capital Partners and AGF Private Wealth.
+  
+  
+AGF brings a disciplined approach, focused on incorporating sound, responsible and sustainable corporate practices. The firm’s collective investment expertise, driven by its fundamental, quantitative and alternative investing capabilities, extends globally to a wide range of clients, from financial advisors and their clients to high-net worth and institutional investors including pension plans, corporate plans, sovereign wealth funds, endowments and foundations.
+  
+  
+Headquartered in Toronto, Canada, AGF has investment operations and client servicing teams on the ground in North America and Europe. AGF serves more than 820,000 investors. AGF trades on the Toronto Stock Exchange under the symbol AGF.B.
+  
+  
+**About the Role:**
+Our CRM platform team is hiring a senior hands-on data engineer to own the data behind our Salesforce CRM and Tableau analytics environment, and the pipelines that feed it. You will introduce Salesforce Data360 as our customer data platform and the activation layer for our AI roadmap and lead initiatives to modernize our legacy data architecture and data sources using modern cloud data lakes and warehouses.
+  
+  
+You might be a fit if you have built MDM, identity-resolution or customer-profile pipelines, have worked on modern cloud data platforms such as data lakes and warehouses, and want to apply that experience in Salesforce Data360.
+  
+  
+**Role mandate:**
+Optimize the CRM data foundation, pipelines, and stand up, operate, govern, and evolve Salesforce Data360 as the enterprise customer data platform, increase AI and analytics capabilities across Salesforce user communities.
+  
+  
+What You Will Do
+  
+  
+Build Data360 as our customer data platform
+  
+  
+
+* Design, build, govern and administer Data360, connecting and blending data from our CRM and other source systems. Key lifecycle responsibilities include architecture, configuration, administration, ingestion, identity resolution, harmonization, segmentation, activation, monitoring, optimization and ongoing evolution.
+* Ingest and map source data to the Data360 / data model objects so every connected system speaks a common language and set key qualifiers to minimize collisions.
+* Configure identity resolution rules: match rules (exact, fuzzy, normalized) and reconciliation rules (most recent, most frequent, source priority) that build unified profiles.
+* Understand where records are governed and where behavioral and engagement data is unified downstream in Data360.
+* Set up access, permission sets, consent and privacy controls.
+* Track lineage and data quality so only clean data reaches our AI models and Agentforce.
+* Turn unified data into Calculated Insights, dynamic segments and real-time triggers for Salesforce clouds, TableauNext and Agentforce.
+* Assist with Salesforce AI enablement (agents and automation) within our CRM and Tableau analytics environment.
+
+Modernize data architecture and pipelines
+  
+  
+
+* Build and own scalable pipelines end to end, including Informatica, across Salesforce, Data360, relational databases, flat files, APIs and middleware.
+* Own transformation logic, large-volume data loads, reconciliation, deduplication, monitoring, error handling and performance tuning.
+* Assess legacy data architecture, sources, data quality and technical debt; lead practical improvements and recommend how to modernize on cloud data lakes and warehouses.
+* Redesign data models and pipelines so data is easy to reach, removing the manual effort of pulling data from source systems or files.
+* Lead migrations and re-platforming of legacy sources and pipelines.
+
+Skills You Bring
+  
+  
+You bring 6+ years of experience in data engineering, MDM principles and data modeling, and you learn new platforms such as Data360 quickly.
+  
+  
+**Key technologies you will work with:**
+Salesforce, Data360 (Data Cloud), Tableau Cloud/TableauNext, Informatica, SQL databases, flat files, CData, Databricks Master Data Management and customer identity skills
+  
+  
+
+* MDM principles and experience: apply MDM principles to customer identity and unified profile design across CRM, transaction, portfolio, behavioral and enterprise data.
+* Identity resolution and matching logic: deterministic matching on exact keys (transactional, email, CRM ID) and probabilistic matching using fuzzy logic on names, addresses or IDs.
+* Reconciliation rules and profile unification: define which attribute value wins when conflicting records merge (most recent, most frequent, source priority) to support trusted profiles.
+* Strong MDM principles, identity resolution, modeling and integration skills; Data360 specifics can be learned.
+
+Core technical and data engineering skills
+  
+  
+
+* End-to-end pipeline architecture: proven experience designing, building and owning scalable batch ETL/ELT pipelines across relational databases, flat files, middleware and cloud platforms, using enterprise tools (such as Informatica) alongside SQL and Python.
+* Data modeling and harmonization: strong background in relational, dimensional and canonical modeling, with the ability to map disparate source schemas into unified, governed customer models (such as DLO-to-DMO mapping in Data360 or comparable CDPs).
+* Semantic modeling: experience building a semantics or metrics layer that defines entities, relationships, business definitions and calculated metrics once, so analysts and AI agents get consistent answers, using the business glossary or ontology style approach to defining and governing terms.
+* Programming and automation: deep proficiency in SQL and Python, plus working knowledge of other languages for custom integrations, API connectors or scripting (such as Java, JavaScript, TypeScript, T-SQL, PL/SQL, PowerShell).
+* Multi-system integration: hands-on experience connecting REST APIs (JSON), SDKs and external platforms to modern cloud data lakes and warehouses (such as Databricks), using both automated ingestion and zero-copy data federation.
+* Data modernization and performance tuning: practical experience assessing legacy architectures, data models and technical debt, aligning with current business needs and re-platforming workflows to cloud lakehouses, and tuning data loads, deduplication and transformations for speed and cost.
+
+Governance and architecture skills
+  
+  
+
+* Architectural boundary design: sound judgment on upstream MDM governance (where golden records live) versus downstream unification and activation in a CDP such as Data360.
+* Data isolation and security governance: experience designing multi-tenant or business-unit data segregation (such as Data Spaces and multi-org strategies) and applying privacy and role-based access controls to meet regulatory requirements.
+* Lineage and quality monitoring: tracking data origin and transformations end to end, and enforcing quality standards that keep corrupt data out of analytics, AI models and Agentforce grounding.
+
+Business and analytical skills
+  
+  
+
+* Cross-functional data stewardship: working with sales, marketing and operations to align business definitions and data requirements.
+* Segmentation and activation strategy: translating unified data into Calculated Insights, dynamic segments and real-time triggers.
+* Curiosity about AI: hands-on experience applying AI, and the ability to learn new AI capabilities quickly.
+
+Strong Assets
+  
+  
+
+* Hands-on experience with Salesforce Data360 / Data Cloud.
+* Salesforce certifications or platform experience (Sales Cloud, Service Cloud, FSC).
+* Databricks experience.
+* Experience in financial services or another regulated industry.
+
+**How You Work**
+You own end-to-end delivery independently: supporting production, leading the Data360 and modernization initiatives, and doing the hands-on work yourself. You document architecture decisions and trade-offs clearly and collaborate with extended data, technical, business and analytics teams.
+  
+  
+**What Success Looks Like**
+
+* Data360 is live as our customer data platform, with trusted unified profiles feeding our AI roadmap.
+* Our legacy data architecture is assessed, and a modernization plan is prepared on modern cloud data lake and warehouse technology.
+* Data pipelines are streamlined, and we load and access data without heavy reliance on other teams.
+* Clean, governed data reaches our CRM, Tableau analytics and Salesforce AI tools.
+* Business and Operational teams are more productive and efficient through expanded data, automation and AI capabilities across the Salesforce ecosystem.
+
+**Compensation:**
+The anticipated compensation range for this role is $100,000 – $122,500 annually, which represents base salary and, where applicable, variable compensation components (e.g., annual bonus, commissions, etc.). Actual compensation will be determined based on many factors such as role location, candidate experience / qualifications, market conditions, and internal equity.
+  
+  
+AGF aims to offer a comprehensive and competitive total rewards package designed to support the success and well-being of our employees, which may include a combination of base salary, variable compensation, benefits, and retirement savings plans.
+  
+  
+No unsolicited agency referrals please.
+  
+  
+AGF is an equal opportunity employer committed to fostering an inclusive and accessible workplace. We welcome and encourage applications from individuals of all backgrounds, including women, Indigenous peoples, racialized persons, persons with disabilities, and members of the 2SLGBTQIA+ community.
+  
+  
+We do not discriminate on the basis of race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or expression, marital status, family status, disability, or any other status protected by applicable legislation.
+  
+  
+We are committed to providing reasonable accommodations for applicants with disabilities throughout the recruitment process. If you require accommodation at any stage of the application or hiring process, please contact us at hr@agf.com so that appropriate arrangements can be made.
+  
+  
+# R11306"
+4adcc25e572c4218,Backend Engineer,US Mobile,"Toronto, Ontario, Canada",0,"CAD 90,000 - 135,000 /yearly",2026-11-25,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4494670699,https://jobs.lever.co/USMobile/9109cef4-59db-4fb9-84f7-c9e158b4b1bb?lever-source=Indeed,60,"Free scorer: your resume shows 5 of 15 listed skills (Python, Django, REST, AWS).","[""Java"", ""Flask"", ""Spring"", ""MongoDB"", ""RabbitMQ"", ""SQS"", ""Data Modeling"", ""CI/CD"", ""Agile"", ""System Design""]",new,2026-11-25T22:13:20+00:00,2026-11-25T22:15:39+00:00,"[""Python"", ""Django"", ""REST"", ""AWS"", ""Git""]",,mid,li-4494670699,linkedin,"**About US Mobile**
+US Mobile is redefining what it means to be a connectivity company. Help us reimagine what a modern carrier can be through world-class technology, thoughtful design and an obsession with creating products people genuinely love.
+  
+  
+**The role**
+US Mobile is building the future of wireless communication. The goal: one unified network open to any person and any device, worldwide. Connection without walls.
+  
+  
+We're getting there by empowering customers. All three major networks on one phone and one plan, plus home internet from Starlink. No lock-in. No commitments. Custom fit plans at every price point. 24/7 customer support with real people, empowered to help. We get real-time feedback from Reddit, surveys, and customer support informing product roadmaps and everything we do. It's working: Consumer Reports named us the top-rated mobile carrier two years in a row.\*
+  
+  
+And we're building innovative systems that scale. A network agnostic tech stack. Agile, cross-functional teams built on trust and mutual respect. This work isn't for everyone. If you work fast, flexibly, and collaboratively, without compromising standards, we want to hear from you.
+  
+  
+We're looking for a talented backend engineer to help us scale and connect millions of devices to wireless networks. You'll join a collaborative team, ship real features to production, and grow quickly with support from experienced engineers. We want ambitious, curious, entrepreneurial team members who are excited to tackle these challenges.
+  
+  
+**What You'll Do:**
+
+* Build and ship new features that reach customers
+* Help us scale to tens of millions of customers and connected devices
+* Build quality tools and frameworks to ensure a high-quality product
+* Contribute to systems that ensure continuous uptime
+* Grow your design and architecture skills alongside senior engineers
+
+**Responsibilities:**
+
+* Develop and maintain RESTful APIs using Java (Spring Boot or related web frameworks) or Python (Flask, Django)
+* Implement asynchronous service communication using RabbitMQ or AWS SQS/SNS
+* Work with NoSQL databases like MongoDB for data modeling and storage
+* Collaborate with Product, QA, and DevOps teams to deliver reliable and scalable features
+* Write clean, testable, and well-documented code with unit and integration tests
+* Contribute to system design discussions, participate in code reviews, and help with performance tuning
+* Debug and resolve production issues with guidance from senior teammates
+* Use AI-assisted development tools to work faster and learn faster
+
+**Qualifications:**
+
+* 3+ years of professional backend experience with Java and Spring Boot (or Python with Flask or Django)
+* Experience building and consuming REST APIs
+* Working knowledge of message brokers such as RabbitMQ or AWS SQS/SNS
+* Familiarity with MongoDB or other NoSQL database technologies
+* Hands-on experience using AI-assisted development tools such as Claude and Opencode for code generation, debugging, writing tests and documentation, with the judgment to review and validate what they produce
+* Working knowledge of Git, CI/CD workflows, and agile development practices
+* Good debugging and problem-solving skills
+* Clear communication and a collaborative approach to teamwork
+* A desire to learn, take feedback, and take on increasing ownership
+
+**Benefits and Perks:**
+
+* Competitive Salary
+* Gym reimbursement
+* Flexible working hours
+* Supplemental Insurance
+* Professional development stipend
+* Flexible time off
+
+Think you're a good fit? Apply to learn more!
+  
+  
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
+87898c449b5a47a4,Senior Developer (Python / SQL) - Capital Markets Investment Analytics,Akkodis,"Toronto, Ontario, Canada",0,,2026-11-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494925891,,68,"Free scorer: your resume shows 1 of 2 listed skills (Python); there's no job description, so this is a rough guess.","[""SQL""]",new,2026-11-25T22:13:20+00:00,2026-11-25T22:15:39+00:00,"[""Python""]",,senior,li-4494925891,linkedin,
+acb7dad7f815523b,Senior Backend Engineer,US Mobile,"Toronto, Ontario, Canada",0,"CAD 140,000 - 200,000 /yearly",2026-11-25,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4494686041,https://jobs.lever.co/USMobile/c495b8bb-f299-4f5e-a993-9712d78e739a?lever-source=Indeed,61,"Free scorer: your resume shows 5 of 14 listed skills (Python, Django, REST, AWS).","[""Java"", ""Flask"", ""Spring"", ""MongoDB"", ""RabbitMQ"", ""SQS"", ""Data Modeling"", ""CI/CD"", ""Agile""]",new,2026-11-25T22:13:20+00:00,2026-11-25T22:15:39+00:00,"[""Python"", ""Django"", ""REST"", ""AWS"", ""Git""]",,senior,li-4494686041,linkedin,"**About US Mobile**
+US Mobile is redefining what it means to be a connectivity company. Help us reimagine what a modern carrier can be through world-class technology, thoughtful design and an obsession with creating products people genuinely love.
+  
+  
+**The role**
+US Mobile is building the future of wireless communication. The goal: one unified network open to any person and any device, worldwide. Connection without walls.
+  
+  
+We're getting there by empowering customers. All three major networks on one phone and one plan, plus home internet from Starlink. No lock-in. No commitments. Custom fit plans at every price point. 24/7 customer support with real people, empowered to help. We get real-time feedback from Reddit, surveys, and customer support informing product roadmaps and everything we do. It's working: Consumer Reports named us the top-rated mobile carrier two years in a row.\*
+  
+  
+And we're building innovative systems that scale. A network agnostic tech stack. Agile, cross-functional teams built on trust and mutual respect. This work isn't for everyone. If you work fast, flexibly, and collaboratively, without compromising standards, we want to hear from you.
+  
+  
+We're looking for an exceptional senior backend engineer to help us scale and connect millions of devices to wireless networks. You'll own significant parts of our platform from design through production, and raise the quality of the team around you. We want talented, ambitious, entrepreneurial team members who are excited to tackle these challenges.
+  
+  
+**What You'll Do:**
+
+* Design and own backend services and features end to end
+* Deploy exciting new features
+* Help us scale to tens of millions of customers and connected devices
+* Build quality tools and frameworks to ensure a high-quality product
+* Build systems to ensure continuous uptime
+* Mentor mid-level engineers and strengthen our engineering practices
+
+**Responsibilities:**
+
+* Design, develop, and maintain RESTful APIs using Java (Spring Boot or related web frameworks) or Python (Flask, Django)
+* Design and implement asynchronous service communication using RabbitMQ or AWS SQS/SNS
+* Own data modeling and storage decisions with NoSQL databases like MongoDB
+* Lead technical design for projects and features, and write design documents for review
+* Collaborate with Product, QA, and DevOps teams to deliver reliable and scalable features
+* Write clean, testable, and well-documented code with unit and integration tests
+* Lead code reviews, performance tuning, and production incident response
+* Mentor and coach mid-level engineers through code reviews, pairing and design feedback
+* Use AI-assisted development tools across the development lifecycle
+
+**Qualifications:**
+
+* 7+ years of experience with Java and Spring Boot
+* Strong experience building and consuming REST APIs
+* Hands-on experience with message brokers such as RabbitMQ or AWS SQS/SNS
+* Experience with MongoDB or other NoSQL database technologies
+* Experience integrating and leveraging AI-assisted development tools such as Claude and Opencode to accelerate backend development, including code generation, debugging, and optimization of APIs and services
+* Demonstrated ability to incorporate AI tools into the software development lifecycle, such as automated code reviews and documentation generation, while critically validating their output
+* Solid understanding of Git, CI/CD workflows, and agile development practices
+* Excellent debugging and problem-solving skills
+* Track record of owning projects from design through production
+* Strong communication and team collaboration skills, including mentoring others
+
+**Perks and Benefits:**
+
+* Competitive Salary
+* Gym reimbursement
+* Flexible working hours
+* Supplemental Insurance
+* Professional development stipend
+* Flexible time off
+
+Think you're a good fit? Apply to learn more!
+  
+  
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
 7661863337c9bee5,Data engineer/Sr. Data Engineer,Home Depot Canada,"Toronto, ON, Canada",0,"CAD 80,000 - 110,000 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=fcf2ac102ca7666b,https://careers.homedepot.ca/job-view-id/2114098?utm_campaign=Indeed.ca,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Git).","[""SQL"", ""Snowflake"", ""BigQuery"", ""Redshift"", ""ETL"", ""Data Modeling"", ""Tableau"", ""Statistics"", ""Azure"", ""GCP"", ""CI/CD""]",new,2026-11-24T22:58:46+00:00,2026-11-24T22:59:01+00:00,"[""Python"", ""AWS"", ""Git""]",,senior,in-fcf2ac102ca7666b,indeed,"**Pay Range: $80,000 - $110,000**
 
 **At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting your growth with us.**
@@ -237,11 +1168,13 @@ We use Tofu, a fraud detection tool, to validate the authenticity of application
 **Fraudulent Employment Offers**
 
 Samsara is aware of scams involving fake job interviews and offers. Please know we do not charge fees to applicants at any stage of the hiring process. Official communication about your application will only come from emails ending in @samsara.com, @us-greenhouse-mail.io or @mail3.guide.co. For more information regarding fraudulent employment offers, please visit our blog post here."
-ea31607a4e1b0033,Data Engineer,PwC Canada,"Toronto, ON, Canada",0,"CAD 71,500 - 119,200 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=4faa598190fa8bd9,https://jobs-ca.pwc.com/ca/en/job/PWCACA773574WDEXTERNALENCA/Data-Engineer?utm_source=indeed&utm_medium=phenom-feeds,51,"Free scorer: your resume shows 2 of 11 listed skills (Python, LLM).","[""SQL"", ""HTML"", ""Microservices"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""Azure"", ""CI/CD""]",new,2026-11-24T22:58:34+00:00,2026-11-24T22:59:03+00:00,"[""Python"", ""LLM""]",,mid,in-4faa598190fa8bd9,indeed,"A career in our Chief Data and Analytics Office (“CDAO”) within PwC’s Business Enablement team will provide you with the opportunity to leverage innovative solutions to enable data-driven decision making for our organization. We are dedicated to helping our leaders transform data into actionable insights through reporting, dashboards, and other data products. The ideal candidate will play a crucial role in the development, delivery, and continuous improvement of dashboards and reporting tools. You will work closely with stakeholders across Finance, Sales & Marketing, Human Capital, and other parts of the business to support our developers and project team members to ensure that our dashboards meet the strategic needs of our leadership and drive informed decision-making.
-
+ea31607a4e1b0033,Data Engineer,PwC Canada,"Toronto, ON, Canada",0,"CAD 71,500 - 119,200 /yearly",2026-11-24,"[""indeed"", ""linkedin""]",https://ca.indeed.com/viewjob?jk=4faa598190fa8bd9,https://jobs-ca.pwc.com/ca/en/job/PWCACA773574WDEXTERNALENCA/Data-Engineer?utm_source=indeed&utm_medium=phenom-feeds,51,"Free scorer: your resume shows 2 of 11 listed skills (Python, LLM).","[""SQL"", ""HTML"", ""Microservices"", ""Databricks"", ""Spark"", ""PySpark"", ""ETL"", ""Azure"", ""CI/CD""]",new,2026-11-24T22:58:34+00:00,2026-11-24T22:59:03+00:00,"[""Python"", ""LLM""]",,mid,in-4faa598190fa8bd9,indeed,"A career in our Chief Data and Analytics Office (“CDAO”) within PwC’s Business Enablement team will provide you with the opportunity to leverage innovative solutions to enable data-driven decision making for our organization. We are dedicated to helping our leaders transform data into actionable insights through reporting, dashboards, and other data products. The ideal candidate will play a crucial role in the development, delivery, and continuous improvement of dashboards and reporting tools. You will work closely with stakeholders across Finance, Sales & Marketing, Human Capital, and other parts of the business to support our developers and project team members to ensure that our dashboards meet the strategic needs of our leadership and drive informed decision-making.
+  
+  
 **The Opportunity**
-
 As a Data Engineer at the Senior Associate level, unlock your potential and embrace the chance to drive meaningful outcomes that’ll elevate your career. Your role will include, but isn’t limited to:
+  
+  
 
 * Own delivery of data engineering tasks across projects and operational initiatives
 * Perform data ingestion/integration from diverse sources and enterprise applications
@@ -252,13 +1185,12 @@ As a Data Engineer at the Senior Associate level, unlock your potential and embr
 * Support data architecture and governance practices (e.g., metadata, master/reference data, data quality)
 * Break down complex problems and make informed decisions in ambiguous environments
 * Translate conceptual architecture into deployable data architecture models and diagrams within cloud-native infrastructure
-Utilize tools such as SQL, Python, and Databricks for data storage and manipulation  
-
-  
+* Utilize tools such as SQL, Python, and Databricks for data storage and manipulation
 
 **What You’ll Bring**
-
 Your skills, knowledge, and experiences are what set you apart. Here’s what we look for:
+  
+  
 
 * Demonstrated experience or data engineering certification for Databricks or Azure
 * Degree in engineering, computer science, analytics, business and technology
@@ -274,20 +1206,21 @@ Your skills, knowledge, and experiences are what set you apart. Here’s what we
 * This role does not require professional engineering licensure and is not classified as a formal engineering position under provincial regulatory definitions. While individuals with a P.Eng designation are welcome to apply, the responsibilities of this role do not involve the practice of professional engineering as defined by applicable legislation
 
 This position ensures continuity and upholds our standards of excellence following the departure of a valued team member.
-
+  
+  
 The salary range for this position is $71,500 - $119,200. The posted salary range represents the expected hiring range for PwC locations in major city centres. Given our national recruiting approach, ranges may vary for positions in other locations. At PwC Canada, base salary is determined by your skills, experience, qualifications and work location. In addition to base salary, eligible employees may have opportunities to participate in variable incentive pay programs which are designed to reward individual and firm-wide achievements. We are committed to offering competitive compensation and adhere to all relevant pay transparency legislation. During the hiring process, our Talent Acquisition team will provide details about our comprehensive total rewards package.
-
   
-
+  
 **Why you’ll love PwC**
-
 We’re inspiring and empowering our people to change the world. Powered by the latest technology, you’ll be a part of diverse teams helping public and private clients build trust and deliver sustained outcomes. This meaningful work, and our continuous development environment, will take your career to the next level. We reward your impact, and support your wellbeing, through a competitive compensation package, inclusive benefits and flexibility programs that will help you thrive in work and life. Learn more about our Application Process and Total Rewards Package at: https://jobs-ca.pwc.com/ca/en/life-at-pwc
-
   
-
+  
 PwC Canada acknowledges that we work and live across Turtle Island, on the land that is now known as Canada, which are the lands of the ancestral, treaty and unceded territories of the First Nations, Métis and Inuit Peoples. We recognize the systemic racism, colonialism and oppression that Indigenous Peoples have experienced and still go through, and we commit to allyship and solidarity.
-
-We’re committed to providing accommodation throughout the application, interview, and employment process. If you require accommodation to be at your best, please let us know during the application process.  
+  
+  
+We’re committed to providing accommodation throughout the application, interview, and employment process. If you require accommodation to be at your best, please let us know during the application process.
+  
+  
 The use of artificial intelligence (AI) in recruiting is just getting started, so we know you have questions about how and why we use it. At certain points during our recruiting process, we rely on AI to improve your experience. This could be during resume review or curating personalized job recommendations, asking you clarifying questions via a chatbot or during our interview scheduling to improve your experience. Our use of AI helps ensure we combat bias by evaluating candidates equally and fairly, without seeing identity information, such as your name, or gender for example). AI also helps us better predict successful hires by reviewing all applicants for a role and the relationship between your skills, experience and likely success at PwC Canada. While AI supports parts of our recruitment process, final hiring decisions always involve human review. For more information about our use and protection of your data, please refer to our Privacy Policy (https://www.pwc.com/ca/en/privacy-policy.html)."
 02a73872ed30c726,Software Engineer - Data Platform,Samsara,"Toronto, ON, Canada",1,"CAD 106,675 - 138,050 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=98a48aaeeafd7c56,https://grnh.se/ior747111us,56,"Free scorer: your resume shows 6 of 22 listed skills (Python, AWS, Lambda, S3).","[""Java"", ""Go"", ""Scala"", ""SQL"", ""DynamoDB"", ""Databricks"", ""SQS"", ""Spark"", ""Airflow"", ""Dagster"", ""Prefect"", ""ETL"", ""Kubernetes"", ""Terraform"", ""CloudFormation"", ""Security""]",new,2026-11-24T22:58:34+00:00,2026-11-24T22:59:03+00:00,"[""Python"", ""AWS"", ""Lambda"", ""S3"", ""Docker"", ""Distributed Systems""]",,mid,in-98a48aaeeafd7c56,indeed,"**Who we are**
 
@@ -615,48 +1548,61 @@ We’ll expect you to ask good questions, bring ideas and see your work through,
 * We offer 33 days of paid annual vacation, including statutory holidays in your province, with additional tenure based increases (+2 days after 3 years, +3 more after 5), and unlimited paid sick days.
 * Remote across Canada, with flexible hours and a fully supported home office setup so you can do your best work from home.
 * Group RRSP with an employer match of up to 3% of base salary."
-4eef98237e9d8d39,Backend Engineer - Depop Value Creation,eBay,"Toronto, Ontario, Canada",0,,2026-11-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4493055515,,56,"Free scorer: your resume shows 3 of 11 listed skills (Python, AWS, Docker).","[""Java"", ""TypeScript"", ""Scala"", ""Node.js"", ""Express"", ""Kafka"", ""Kubernetes"", ""CI/CD""]",new,2026-11-24T22:58:27+00:00,2026-11-24T22:59:05+00:00,"[""Python"", ""AWS"", ""Docker""]",,mid,li-4493055515,linkedin,"At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
-  
-  
+4eef98237e9d8d39,Backend Engineer - Depop Value Creation,eBay,"Toronto, Ontario, Canada",0,"CAD 98,800 - 131,900 /yearly",2026-11-24,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4493055515,https://jobs.ebayinc.com/us/en/job/R0077245,56,"Free scorer: your resume shows 3 of 11 listed skills (Python, AWS, Docker).","[""Java"", ""TypeScript"", ""Scala"", ""Node.js"", ""Express"", ""Kafka"", ""Kubernetes"", ""CI/CD""]",new,2026-11-24T22:58:27+00:00,2026-11-24T22:59:05+00:00,"[""Python"", ""AWS"", ""Docker""]",,mid,li-4493055515,linkedin,"JOB DESCRIPTION
+
+At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+
 Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
-  
-  
+
 Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+
   
   
+
 Depop is a peer-to-peer circular fashion marketplace where anyone can buy, sell and discover secondhand fashion. Our mission is simple: to make fashion circular by making secondhand as exciting and rewarding as buying new.
+
   
   
+
 Founded in 2011, Depop’s diverse community has helped move resale into the mainstream, where buying secondhand is no longer an alternative, but how people of different ages now engage with fashion. Today, more than 56 million registered users come to Depop to find great value, express their own personal style and give clothes a longer life. We believe that everything you want already exists, and our role is to help people discover it. From everyday essentials to vintage and designer finds, Depop brings together a wide range of affordable styles in one place. It’s a marketplace where anyone can clear out their wardrobe or build a business, explore their style, and take part in a more circular way to shop.
+
   
   
+
 Powered by a team of over 500 people, our company is headquartered in London, with offices in New York. For more information, visit our News Room here.
+
   
   
+  
+
 **The Team**
+============
+
 For Depop users, trust means being able to trust what they see, transact with confidence and feel protected and fairly treated.
-  
-  
+
 You'll join a new cross-functional squad of backend and iOS engineers, partnering with a dedicated Engineering Manager, Product Manager and Product Designer. The team builds experiences that strengthen trust between buyers and sellers and help Depop grow as a trusted marketplace.
+
   
-  
+
 **The Role**
+============
+
 As a Backend Engineer, you'll help build and evolve the services that power these experiences. You'll take ownership of well-scoped problems, collaborate with experienced engineers on more complex challenges and help shape how a new team works.
-  
-  
+
 This role suits curious problem solvers who enjoy building customer-facing products and incorporating AI tooling into their everyday engineering workflows.
-  
-  
+
 **What You Will Accomplish**
+============================
 
 * Collaborate with Product, Design and Engineering to understand problems and deliver effective solutions.
 * Build and evolve reliable backend services and APIs, primarily using TypeScript, alongside Scala and Python.
 * Work with mobile engineers to deliver seamless end-to-end experiences.
 * Use AI tooling to learn, prototype, test and deliver software while maintaining code quality.
 * Contribute to service reliability through testing, monitoring, CI/CD and operational ownership.
-* Help define success metrics, learn from experiments and continuously improve solutions.
+Help define success metrics, learn from experiments and continuously improve solutions.  
 
 **What You Will Bring**
+=======================
 
 * Solid backend engineering fundamentals and experience delivering production services.
 * Proficiency in TypeScript, Python or a JVM language such as Java or Scala, with the ability to learn new technologies.
@@ -664,45 +1610,44 @@ This role suits curious problem solvers who enjoy building customer-facing produ
 * Experience building APIs, integrating services and modelling data, with an understanding of event-driven or asynchronous systems.
 * Hands-on experience using AI coding tools, with the ability to evaluate their output.
 * Solid testing practices and experience with CI/CD and production monitoring.
-* Clear communication, curiosity and a willingness to seek guidance when needed.
+Clear communication, curiosity and a willingness to seek guidance when needed.  
 
 **Nice to Have**
+================
 
 * Experience with TypeScript, Node.js, Express or Scala.
 * Experience building marketplace, mobile-first consumer or trust-related products.
 * Familiarity with privacy, compliance or experiment-led product development.
-* Experience with Kafka, AWS, Docker, Kubernetes or infrastructure-as-code.
+Experience with Kafka, AWS, Docker, Kubernetes or infrastructure-as-code.  
 
 **Why Join This Team**
+======================
+
 You'll join a new squad early, helping shape its engineering practices, technical foundations and culture while receiving support from experienced engineers.
-  
-  
+
 You'll have meaningful ownership of customer-facing features that help millions of buyers and sellers transact with confidence. Working closely with Product, Design and mobile engineers, you'll see the impact of your work and have opportunities to grow your technical and product engineering skills.
-  
-  
+
 You'll also be part of an AI-forward engineering culture that encourages experimentation, continuous learning and thoughtful adoption of new tools.
-  
-  
+
 Learn more about Depop Engineering at https://engineering.depop.com/.
-  
-  
+
 **Additional Details**
+
 The base pay range for this position is expected in the range below:
-  
-  
+
 C$98,800 - C$131,900
-  
-  
+
 Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including RRSP eligibility, various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
-  
-  
+
 This job posting relates to an existing vacancy within eBay.
-  
-  
+
 eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility.
-  
-  
-We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center and AI Hiring Guidelines."
+
+We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center and AI Hiring Guidelines.
+
+Apply Now
+
+Save Job"
 8065f79d518fe32d,Backend Engineer,Wisedocs,"Greater Toronto Area, Canada",0,,2026-11-24,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494385243,,71,"Free scorer: your resume shows 8 of 15 listed skills (Python, Django, PostgreSQL, LLM).","[""Flask"", ""Machine Learning"", ""Computer Vision"", ""Azure"", ""GCP"", ""Agile"", ""System Design""]",new,2026-11-24T22:57:35+00:00,2026-11-24T22:59:05+00:00,"[""Python"", ""Django"", ""PostgreSQL"", ""LLM"", ""AWS"", ""Docker""]",,mid,li-4494385243,linkedin,"**About Wisedocs**
 
 Wisedocs is transforming how organizations make claims decisions. Our platform combines AI with expert human review to analyze millions of documents, giving insurers, legal teams, and healthcare providers the speed, accuracy, and oversight they need to close claims with confidence.
@@ -6875,37 +7820,55 @@ Scotiabank is a leading bank in the Americas. Guided by our purpose: ""for every
   
   
 At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted."
-37d5364d8f06bdc8,Data Engineering Specialist,Nasdaq,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489637982,,52,Free scorer: your resume shows 1 of 5 listed skills (Python).,"[""SQL"", ""Databricks"", ""Spark"", ""PySpark""]",new,2026-11-11T20:06:51+00:00,2026-11-11T20:07:24+00:00,"[""Python""]",,mid,li-4489637982,linkedin,"**Job Description**
-As a Data Engineering Specialist reporting to the Senior Director of Data Engineering, you'll play a critical role in designing, building, and scaling the data infrastructure that powers one of the world's largest data marketplaces — serving hundreds of thousands of professionals across finance, technology, and beyond.
+37d5364d8f06bdc8,Data Engineering Specialist,Nasdaq,"Toronto, Ontario, Canada",0,,2026-11-10,"[""linkedin""]",https://www.linkedin.com/jobs/view/4489637982,,52,Free scorer: your resume shows 1 of 5 listed skills (Python).,"[""SQL"", ""Databricks"", ""Spark"", ""PySpark""]",new,2026-11-11T20:06:51+00:00,2026-11-11T20:07:24+00:00,"[""Python""]",,mid,li-4489637982,linkedin,"Ready to build the data solutions behind the next generation of Investor Relations intelligence?
   
   
-You'll thrive in this position if you're analytical, detail-oriented, and passionate about data quality and engineering excellence in a fast-paced, high-impact environment.
+Join Nasdaq IR Intelligence as a
+**Data Engineering Specialist**
+and turn complex investor and market data into actionable intelligence. Our IR Intelligence team helps public companies better understand their shareholders, monitor market activity and make more informed investor relations decisions by combining proprietary data, intelligent workflows and deep domain expertise.
   
   
-Key Responsibilities
+Working alongside Product Managers, Analysts, Engineers and AI specialists, you’ll build data pipelines and solutions that scale analytical workflows while preserving the expertise and judgement our clients rely on. You’ll bring together data engineering, AI, automation and capital markets to build technology that directly supports how public companies understand and engage with their investors.
   
   
+**What You’ll Do**
 
-* Design, implement, and maintain components of our data platform, with a strong focus on data onboarding and automation.
-* Build and optimize data ingestion pipelines that clean, transform, and load large volumes of structured and unstructured data.
-* Develop automated data processing, transformation, and quality assurance workflows to ensure completeness, accuracy, and reliability.
-* Write and manage distributed data pipelines supporting both real-time and batch processing across cloud environments.
-* Champion a collaborative code review culture that promotes maintainability, best practices, and continuous improvement.
+* Design, build and maintain scalable data pipelines supporting ownership intelligence, equity surveillance, investor targeting, engagement intelligence and market intelligence.
+* Build reliable data processing workflows that integrate proprietary Nasdaq data with external data sources.
+* Translate complex analytical methodologies and business requirements into scalable data products and reusable components.
+* Partner with Product, Engineering, Analytics and business teams to understand existing workflows and identify opportunities for automation.
+* Develop data solutions that support AI-enabled capabilities, including pattern recognition, signal generation, workflow automation and decision support.
+* Build monitoring, data quality and governance processes to ensure data is accurate, complete, timely and reliable.
+* Prototype and operationalize new data and automation capabilities in partnership with Product, Engineering and AI teams.
+* Create tools and automation that reduce manual work and help teams focus on higher-value analysis and client outcomes.
 
-**Required Qualifications**
+**What You’ll Bring**
 
-* Bachelor's degree in Computer Science, Engineering, or equivalent practical experience.
-* 5-7 years of professional experience in software or data engineering.
-* Proficiency in Python (required), with working knowledge of SQL and Spark/PySpark.
-* Hands-on experience with cloud platforms and data tools, including distributed data pipeline development and orchestration.
-* Strong written and verbal communication skills in English, with the ability to document clearly and concisely.
+* Bachelor’s degree in Computer Science, Engineering, Mathematics, Data Science or a related field.
+* 5+ years of experience in Data Engineering, Analytics Engineering, Data Science or a related technical field.
+* Strong hands-on experience with Python and SQL.
+* Experience designing, building and maintaining data pipelines and large-scale data processing workflows.
+* Experience working with AWS or another major cloud platform and modern data technologies.
+* Strong understanding of data modelling, ETL/ELT, data quality and workflow orchestration.
+* Experience translating complex business requirements into scalable technical solutions.
+* Strong analytical and problem-solving skills.
+* Ability to collaborate effectively with both technical and non-technical teams.
+* Strong written and verbal communication skills.
 
-**Preferred Qualifications**
+**Nice to Have**
 
-* Experience building and integrating AI tools into data engineering workflows.
-* Data engineering certification (e.g., Databricks Certified Data Engineering Associate or Professional).
-* Prior experience in fintech, capital markets, or a regulated data environment.
+* Experience with Databricks, Spark and AWS or similar modern data platforms and processing technologies.
+* Experience working with financial markets, investor relations, market intelligence or financial services data.
+* Experience applying AI, machine learning, NLP or large language models to business workflows.
+* Experience developing workflow automation or AI-enabled data solutions.
+* Experience building internal data products, tools or intelligence platforms that support decision-making.
+* Experience partnering directly with business stakeholders to turn specialized analytical workflows into scalable technical solutions.
 
+This position will be located in
+**Toronto**
+and offers the opportunity for a hybrid work environment at least 3 days a week in-office, subject to change, providing flexibility and accessibility for qualified candidates.
+  
+  
 **Come as You Are**
 Nasdaq is an equal opportunity employer. We welcome applications from candidates of all backgrounds and identities.
   
@@ -18518,7 +19481,13 @@ Our hybrid work model prioritizes an office-first approach, encouraging employee
   
 *IMCO is committed to providing accommodation for people with disabilities throughout the recruitment process. If you require support, please let us know and we will work with you to meet your needs. Artificial intelligence (AI) tools may be used to support parts of our recruitment process, such as screening and assessments. However, all hiring decisions are made by our recruitment team. Candidates being considered for this position will be required to undergo background screening.*"
 23505e11b671a1be,Senior Data Engineer,Autodesk,"Toronto, Ontario, Canada",0,"CAD 107,000 - 157,300 /yearly",2026-10-15,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4479165878,https://jobs.autodesk.com/careers/job/1443154005442,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,
-4ef1625fa848ea5e,Senior Data Engineer (DBX),Munich Re,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470940282,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"**Position Overview**
+4ef1625fa848ea5e,Senior Data Engineer (DBX),Munich Re,"Toronto, Ontario, Canada",0,,2026-10-14,"[""linkedin""]",https://www.linkedin.com/jobs/view/4470940282,,68,"Free scorer: the posting lists no skills the free scorer recognises; there's no job description, so this is a rough guess.",[],new,2026-10-16T17:14:26+00:00,2026-10-29T00:46:56+00:00,[],,,,linkedin,"Location: Toronto, Ontario
+  
+  
+
+* Successful candidates must relocate to the specified location and will be employed under the hiring entity’s terms.
+
+**Position Overview**
 Munich Re is a global market leader in re-insurance, global specialty insurance and digital solutions. New technologies are disrupting the insurance value chain. Our innovative minds in IT spearhead the transformation and make change happen. We support clients with a comprehensive range of insurance and risk management products. Our goal is to become even more digital through the expertise of our IT & Tech specialists, and by leveraging data and insights to support innovation and client service. We are therefore making targeted IT investments and helping our insurance clients and partners to tackle problems in the modern digital world with innovative and forward-looking solutions.
   
   
