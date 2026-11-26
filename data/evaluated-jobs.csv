@@ -1,4 +1,571 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+17680ac5946823f0,"Senior Consultant, Data Engineer",Project X Ltd,"Toronto, ON, Canada",0,"CAD 120,000 - 145,000 /yearly",2026-11-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=b42b09c83debdb2c,https://projectx.applytojob.com/apply/KNGN2vlL7g/Senior-Consultant-Data-Engineer?source=INDE&~,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Git).","[""SQL"", ""Snowflake"", ""Redshift"", ""Airflow"", ""dbt"", ""ETL"", ""Data Modeling"", ""Machine Learning"", ""Azure"", ""CI/CD"", ""Agile""]",new,2026-11-26T22:13:25+00:00,2026-11-26T22:13:40+00:00,"[""Python"", ""AWS"", ""Git""]",,senior,in-b42b09c83debdb2c,indeed,"Company: Project X Ltd.  
+Employment Type: Full Time  
+Location: Toronto, Ontario (Hybrid working model) 3 Working days in Office  
+Salary Range: $120,000-$145,000 CAD Annually  
+  
+**About Project X Ltd.**
+
+Project X Ltd. builds high-performing teams of talented, client-focused problem solvers who thrive on complex data challenges. Guided by our values of Care, Bravery, Excellence, and Innovation, we value people who take ownership of their work, step up when needed, and get things done.
+
+Our team members are trusted advisors who collaborate closely, think creatively, and deliver practical, high-quality solutions for our clients. We look for individuals who are curious, accountable, eager to learn, and supportive of their teammates—because at Project X, our people are what make us great.
+
+**Role Summary**
+
+We’re looking for a passionate and curious Senior Data Engineer with strong DBT and Python skills and solid experience working with large-scale data solutions. You’ll play a key role in building high-quality, reusable ETL patterns and automating robust, scalable data pipelines that power analytics and business decision-making. Experience with Matillion ETL or Project X’s Data Pipeline Control (DPC) framework is a plus, and exposure to generative AI (GenAI) tools or techniques is considered an asset.
+
+Key Responsibilities
+
+* Develop, deploy, and maintain data pipelines using Python and tools such as Matillion ETL or DPC.
+* Collaborate with data architects and analysts to define and meet data integration requirements.
+* Translate mapping documents into production-ready data workflows.
+* Ensure data integrity by implementing quality checks, handling errors, and performing root cause analysis.
+* Apply tiered architecture design patterns (bronze/silver/gold models) to pipeline development.
+* Create or maintain metadata and control structures for visibility and traceability.
+* Work with cloud-based data warehouses (e.g., Snowflake, Azure Synapse, Redshift).
+* Participate in Agile processes, including sprint planning and reviews.
+
+**What We’re Looking For – Required Qualifications**
+
+* 5 + years of hands-on experience in data engineering with a focus on Python-based development.
+* Proven experience using DBT (Data Build Tool) for data transformation and modeling
+* Experience with ETL development (Matillion, DPC, or other orchestration tools).
+* Strong SQL skills and ability to work with structured and semi-structured data.
+* Familiarity with cloud data platforms such as Snowflake, Azure, or AWS.
+* Understanding of data quality practices, error handling, and recovery strategies.
+* Ability to interpret mapping documents and accurately implement logic.
+* Experience with version control (e.g., Git) and CI/CD pipelines is a plus.
+* Bonus: Exposure to GenAI, LLMs, or machine learning workflows.
+
+**Nice to Have**
+
+* Experience in data modeling, data governance, or metadata frameworks.
+* Knowledge of data observability tools or building monitoring dashboards.
+* Familiarity with orchestration tools like Airflow or transformation tools like dbt.
+* Consulting experience or comfort working in fast-paced, client-facing environments.
+
+**Use of Artificial Intelligence in Recruitment**
+
+Project X may use automated or AI-enabled tools as part of the recruitment and selection process. These tools may support activities such as resume screening, candidate matching, or application management. All hiring decisions involve human review and judgment.
+
+**Employment Equity, Accessibility & Accommodations**
+
+Project X is committed to fostering an inclusive, accessible workplace. Accommodations are available upon request in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code.
+
+**Privacy Notice**
+
+Personal information collected during the recruitment process will be used solely for recruitment purposes and handled in accordance with applicable privacy legislation.
+
+**How to Apply**
+
+Please apply with your resume and cover letter.
+
+KNGN2vlL7g"
+db381c72b3d34052,"MTS 1, Software Engineer, Backend",eBay,"Toronto, ON, Canada",0,"CAD 142,400 - 190,100 /yearly",2026-11-25,"[""indeed""]",https://ca.indeed.com/viewjob?jk=cead7b469a1fc288,https://jobs.ebayinc.com/us/en/job/R0077566,52,"Free scorer: your resume shows 2 of 10 listed skills (Python, Distributed Systems).","[""Java"", ""TypeScript"", ""Scala"", ""SQL"", ""Spring"", ""Node.js"", ""A/B Testing"", ""React""]",new,2026-11-26T22:13:19+00:00,2026-11-26T22:13:40+00:00,"[""Python"", ""Distributed Systems""]",,mid,in-cead7b469a1fc288,indeed,"JOB DESCRIPTION
+
+At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
+
+Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+
+**MTS 1, Software Engineer (Experimentation & Feature Flag)**
+
+  
+  
+
+**About eBay**
+
+eBay is a global commerce leader that connects millions of buyers and sellers around the world. We empower people and create economic opportunities for individuals, businesses, and communities. We're driven by a vision to create a more sustainable form of commerce that benefits the environment and society as a whole. Join us as we continue to innovate and shape the future of e-commerce.
+
+  
+  
+
+**Job Description:**
+
+Cloud Data Technologies (CDT) team at eBay is responsible for all the data infrastructure and management of end-to-end data lifecycle for all eBay data from onsite to analytics use cases.
+
+  
+  
+
+**About the role:**
+
+We are seeking an experienced Software Engineer to help us develop eBay’s experimentation and feature flag platform.
+
+  
+  
+
+**What you will do and learn:**
+
+* Implement the distributed platform with macro-services for eBay’s feature flag and experimentation working through the entire stack from UI to the backend
+* Contribute to long-term architecture through design reviews, ensuring scalability and resilience.
+* Enhance and support the system with low latency, high throughput and scalability requirements using multiple technologies such as NodeJS and Java.
+* Drive operational excellence for services you own, including observability and incident response.
+* Collaborate with data scientists, domain business customers, and other engineering teams to define and refine product requirements and tech solutions.
+  
+
+  
+
+**What you bring:**
+
+Software development skills including data manipulation
+
+  
+  
+
+* Backend - Java, TypeScript
+* Experience on designing large-scale distributed systems
+* Ability to independently deliver complex projects from requirements to production.
+* Systems thinker who anticipates bottlenecks, schema evolution, and reliability issues.
+* Strong communication skills to influence cross-team technical outcomes.
+* Growth mindset with curiosity to learn and apply new technologies.
+* Data Pipeline experience desired but not required
+  
+
+  
+
+**Qualifications:**
+
+* 5+ years work experience in software design and implementation, including 2+ years of distributed systems or data platform experience
+* Proven ability to design and deliver critical systems with impact.
+* Experience with ReactJS, SpringBoot, or similar technologies
+* Experience of designing and developing large-scale software applications using Object-Oriented Design and JVM languages (Java, Scala)
+* Proficiency in programming languages such as Java, SQL, Python, Typescript and NodeJS.
+* Knowledge of A/B Testing or feature flag.
+* Bachelor or MS degree in Computer Science or related field.
+
+**Additional Details**
+
+The base pay range for this position is expected in the range below:
+
+C$142,400 - C$190,100
+
+Base pay offered may vary depending on multiple individualized factors, including location, skills, and experience. The total compensation package for this position may also include other elements, including a target bonus and restricted stock units (as applicable) in addition to a full range of medical, financial, and/or other benefits (including RRSP eligibility, various paid time off benefits, such as PTO and parental leave). Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+This job posting relates to an existing vacancy within eBay.
+
+eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility.
+
+We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center and AI Hiring Guidelines.
+
+Apply Now
+
+Save Job"
+7fdc9dc314c5165b,Python Developer - Pathwise,Aon,"Toronto, ON, Canada",0,"CAD 96,425 - 125,000 /yearly",2026-11-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=48c0319ca20af3f3,https://canadaenglish-careers-aon.icims.com/jobs/105663/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,58,"Free scorer: your resume shows 3 of 10 listed skills (Python, Pandas, Git).","[""NumPy"", ""SciPy"", ""ETL"", ""Azure"", ""CI/CD"", ""Agile"", ""Unit Testing""]",new,2026-11-26T22:13:13+00:00,2026-11-26T22:13:41+00:00,"[""Python"", ""Pandas"", ""Git""]",,mid,in-48c0319ca20af3f3,indeed,"Posting Description:
+
+**Aon is looking for Python Developer**
+
+***Role Type: Existing vacancy***
+
+Join Aon's Strategy and Technology Group (STG) and help build innovative technology solutions that empower better decisions for our clients. As part of a collaborative, high-performing team, you will develop advanced actuarial and financial software solutions, automation tools, and AI-driven capabilities that support Aon's global business.
+
+Applicants must be legally authorized to work in Canada. This role is not eligible for sponsorship, and we are unable to sponsor or take over sponsorship of an employment visa or work permit.
+
+The salary range for this position is CAD $96,425- 125,000. The actual salary will vary based on applicant’s education, experience, skills and abilities, as well as internal equity. The salary may also be adjusted based on applicant’s geographic location.
+
+Aon also offers you a generous incentive earning opportunity and a comprehensive benefits package.
+
+**Aon is in the business of better decisions**
+
+At Aon, we shape decisions for the better to protect and enrich the lives of people around the world.
+
+As an organization, we are united through trust as one inclusive team and we are passionate about helping our colleagues and clients succeed.
+
+**What the day will look like**
+
+  
+
+* Design, develop, and maintain Python tools, libraries, and frameworks that support PathWise actuarial and financial modelling, including standard templates and reusable components.
+* Build and enhance automation solutions for model implementation and DevOps processes, simplifying workflows for modelling actuaries and other non‑developer users.
+* Contribute to the development of the PathWise Python modelling layer, including standard classes and templates used to orchestrate models, control data flows, and perform ETL‑style processing.
+* Develop and maintain Azure DevOps pipelines, utilities, and engineering tools that improve efficiency, reliability, and scalability of PathWise‑related solutions.
+* Apply and promote software quality practices, including maintainable design, unit testing, code reviews, and use of CI/CD pipelines.
+* Partner with actuarial, technology, and business teams to understand requirements, solve complex challenges, and deliver practical, well‑engineered solutions.
+* Contribute throughout the full software development lifecycle in an Agile environment.
+
+**How this opportunity is different**
+
+This is an excellent opportunity to work at the intersection of technology and actuarial modelling on Aon’s PathWise platform. As a Python Developer, you will play a key role in shaping the tooling, frameworks, and DevOps practices that underpin next‑generation Aon Life Solutions products. You will collaborate with global teams to bring ideas from concept to production while helping define how PathWise models are built, managed, and automated.
+
+**Skills and experience that will lead to success**
+
+  
+
+* Bachelor’s degree in Computer Science, Computer Engineering, or a related field.
+* 4+ years of experience developing software products, tools, or applications using Python.
+* Experience building maintainable, tested, production‑quality Python applications or libraries.
+* Strong proficiency in Python; experience with libraries such as NumPy, Pandas, and SciPy is an asset.
+* Familiarity with unit testing, code reviews, CI/CD pipelines, and software quality practices.
+* Hands‑on experience working within DevOps processes, including implementing or managing automated build, test, and deployment workflows (e.g., in Azure DevOps).
+* Experience working in Agile environments and across the Software Development Life Cycle (SDLC).
+* Hands‑on experience with tools such as Azure DevOps, Jira, Confluence, and Git.
+* Strong analytical and problem‑solving skills with the ability to collaborate effectively across actuarial, technology, and business teams.
+* Experience in actuarial, financial services, insurance, or quantitative modelling environments is an asset.
+* Exposure to cloud technologies, High‑Performance Computing (HPC), automation tools, or AI/ML is beneficial but not required.
+
+***Aon is not accepting unsolicited resumes from search firms for this position. If you are a search firm, you will not be compensated in any way for your submission of a candidate, even if Aon hires that candidate*****.**
+
+#LI-HYBRID  
+#LI-NA1"
+3187c4cb48b1ec75,"Software Engineer II, Backend (Test Infra)",Affirm,"Remote, Canada",1,"CAD 133,000 - 183,000 /yearly",2026-11-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=a240d54f9be1adc1,https://grnh.se/1e7fre6w3us,87,"Free scorer: your resume shows 5 of 6 listed skills (Python, REST, AWS, Docker).","[""TypeScript""]",new,2026-11-26T22:13:10+00:00,2026-11-26T22:13:41+00:00,"[""Python"", ""REST"", ""AWS"", ""Docker"", ""Pytest""]",,mid,in-a240d54f9be1adc1,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.  
+We are seeking a highly motivated Software Engineer II with strong experience in test automation to contribute to Developer Productivity, with a focus on Test Platform Engineering. The Test Infra team empowers developers to efficiently write, run, analyze, and maintain automated tests. The team's goals include expanding testing capabilities; building and maintaining testing frameworks; optimizing test orchestration; improving post-run reporting; ensuring the performance and reliability of CI pipelines; introducing AI-driven solutions to enhance developer productivity; and promoting best practices for test automation across the organization.  
+  
+As a Software Engineer II in Test Platform Engineering, you will play a key role in building and evolving the core testing infrastructure that supports engineering productivity across the organization. Your work will have a direct impact on how hundreds of engineers develop, validate, and deliver high-quality software. You will focus on designing and maintaining scalable, reliable, and developer-friendly frontend and backend test automation solutions, as well as CI pipelines, enabling teams to deliver changes with confidence and receive fast, actionable feedback. You will collaborate closely with the Engineering Manager and the team in Europe to continuously improve quality.  
+Affirm is growing fast and we want you to enable us to scale our products to 10x and beyond through building world-class systems that enable Affirm in its mission to provide honest financial products that improve lives.  
+  
+**What You'll Do:**
+
+* Own, improve, and maintain integration and E2E test automation frameworks, along with their associated CI pipelines.
+* Design and implement technical solutions to optimize test execution time and enhance test stability.
+* Write technical specifications and ADRs, contribute to technical solution design, and collaborate with engineers across the company.
+* Support engineering teams by assisting with triage requests and sharing best practices for quality assurance and test automation.
+* Contribute to the evolution of the company's overall test strategy.
+* With the support of your team's tech lead and manager, you will break down larger projects into individual tasks, deliver them in multiple phases, and collaborate with others to ensure timely delivery of your work.
+* This role includes participation in an on-call rotation
+  
+
+**What We Look For:**
+
+* An East Coast location to enable smoother collaboration with European colleagues.
+* 3+ years of experience in test automation.
+* Proficient in both TypeScript and Python.
+* Hands-on experience with Playwright and Pytest.
+* Experience in building and optimizing CI pipelines.
+* Experience with Docker and AWS.
+* Strong background in quality assurance, test design, and in-depth knowledge of testing techniques and methodologies.
+* Excellent communication and collaboration skills, both verbal and written, with proficiency in asynchronous communication methods such as tech specs, RFCs, wikis, and project plans.
+* Experience in building or enhancing test automation frameworks and infrastructure is highly desirable.
+* Mobile, infrastructure and performance test automation experience will be considered a significant advantage.
+* Eager to grow and continuously learn new skills.
+* You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders
+* This position requires either equivalent practical experience or a Bachelor's degree in a related field.
+
+**Pay Grade - L**  
+**Equity Grade - 5**  
+  
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.  
+  
+Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).  
+  
+CAN base pay range per year: **$133,000 - $183,000 CAD**
+
+Additional benefits include:  
+
+* Flexible Spending Wallets for tech, food and lifestyle
+* Away Days - wellness days to take off work and recharge
+* Learning & Development programs
+* Parental benefits
+* Employee Resource & Community Groups
+
+Location - Remote Canada
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
+4b0ed609bd9679b9,Data Engineer I,Docebo,"Toronto, Ontario, Canada",0,"CAD 68,600 - 91,500 /yearly",2026-11-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4466544261,,55,"Free scorer: your resume shows 3 of 12 listed skills (Python, REST, Git).","[""SQL"", ""Snowflake"", ""BigQuery"", ""Databricks"", ""Airflow"", ""dbt"", ""ETL"", ""ELT"", ""Data Modeling""]",new,2026-11-26T22:13:09+00:00,2026-11-26T22:13:41+00:00,"[""Python"", ""REST"", ""Git""]",,junior,li-4466544261,linkedin,"**Artificial Intelligence. Actual Impact.**
+At Docebo, we’re using AI to change how people learn at work—and we mean actually change it. We’re an AI-powered learning platform that helps organizations create, deliver, and manage training all in one place. But our real mission goes deeper: we help teams move faster, work smarter, and focus on the work that truly matters. Our platform is built with intelligent, time-saving tools that personalize learning, eliminate busywork, and turn training from a checkbox into a superpower. The result? Better experiences for learners and real results for businesses.
+  
+  
+We’re shaping the future of learning with a team that isn’t afraid to challenge the status quo. If you're excited by the idea of using AI to make work-life better for real people–you’ll feel right at home here. And it’s not just what we build, it’s how we show up. At Docebo, our values aren’t just posters on the wall—they guide how we work every day. We call it the
+**Docebo Heart**
+: trust by default, assume positive intent, and create space for different perspectives to thrive.
+  
+  
+Want to get a better feel for what it's like to work at Docebo? Check out our Life page on our LinkedIn to get a glimpse into our culture, people, and the experiences that make Docebo a great place to grow your career.
+  
+  
+So… what are you waiting for? Join 900+ Docebians around the world and help us reinvent the way people learn, because learning never stops.
+  
+  
+🚀 The Adventure Ahead
+  
+  
+As our Data Engineer I, you will build and fine-tune the robust cloud data pipelines that power our analytics, data science, and product teams. You’ll tackle real-world architecture challenges, collaborate with world-class engineers, and directly shape how intelligent learning experiences reach millions of users worldwide.
+  
+  
+We are seeking engineers who bring deep analytical rigor to data modeling and relentless dedication to data quality.
+  
+  
+🛠️ The Day-to-Day
+  
+  
+
+* Engineer the Flow: Implement high-performance ELT/ETL transformations using tools like dbt based on innovative specs from senior engineers and architects.
+* Orchestrate Data Jobs: Build, deploy, and maintain seamless data ingestion and transformation jobs powered by Airflow and Cloud Composer.
+* Guard Data Quality: Write and execute vital data tests—including row counts, null checks, and reference validations—to keep our datasets clean and trusted.
+* Monitor & Resolve: Proactively investigate automated alerts, ensuring peak system performance and escalating deeper architectural changes when needed.
+* Shape Lakehouse Architecture: Maintain pristine schemas and naming conventions across Snowflake, BigQuery, or Databricks while implementing table and view enhancements.
+* Document & Empower: Create clear documentation for pipelines, schemas, and caveats so the entire engineering team can safely build on your foundation.
+* Partner & Collaborate: Work closely alongside Analytics and Data Science teams to deeply understand their query needs and deliver optimized data structures.
+
+⚡ Your Superpowers
+  
+  
+
+* Solid Academic & Technical Foundation: Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related technical field (or equivalent practical experience).
+* Early Career Momentum: 2-3 years of hands-on experience in data engineering, BI engineering, or equivalent project-driven environments.
+* SQL Mastery: Exceptional ability to write clean SQL (joins, filters, aggregations) and query across cloud data platforms like Snowflake, BigQuery, or Databricks.
+* ETL/ELT Aptitude: Strong foundational understanding of data transformation concepts and comfort navigating tools like dbt and Airflow under guided supervision.
+* Code & Version Control Literacy: Familiarity with Python (or similar languages) and Git-based collaborative workflows to ship clean code efficiently.
+
+**Our Hybrid Work Philosophy 🤝**
+Great work can happen anywhere but coming together helps us go further. Our team spends three days a week in the office (Tuesday-Thursday) to collaborate, solve problems, and learn from each other. With flexibility the rest of the week, it’s a balance designed to help everyone do their best work and keep growing.
+  
+  
+**Our Total Rewards Philosophy**
+🎉
+  
+  
+Our Total Rewards Philosophy centers around three core areas to reward and care for our People:
+  
+  
+
+* Rewarding Impact: We lead with competitive pay to reward the impact, skills and traits that fuel our success.
+* Fostering Holistic Wellbeing: We care deeply about and invest in the whole person with programs that support our people’s physical, mental, and financial well-being.
+* Empowering Our Talent Culture: We build a culture of trust and empowerment by designing our rewards and benefits with transparency, equity, and flexibility, enabling our people to do their best work and stay for the long haul.
+
+**Our Promise to You**
+😍
+  
+  
+
+* Financial Wellness: Own a piece of Docebo through our Employee Share Purchase Plan (ESPP) at a 15% discount, plus a competitive compensation package.
+* Your Well-Being, Covered: You’ll get access to health benefits, so you can get the care you need when you need it.
+* Rest, Relax, Repeat: Rest and recharge with paid vacation days, two company-wide Docebo Days, floating holidays for cultural celebrations, and your birthday off!
+* Family First: We provide coverage offering you time with your little one(s) so you can soak up all those precious moments. Fun fact: we had 30 Docebian babies join the family in 2025!
+* Connections That Count: Connect with global communities through our Employee Resource Groups (including PRIDE, DWA, BIDOC, and Green Ambassadors) and company-wide events that keep the fun rolling all year long.
+
+**About Docebo 💙**
+At Docebo, we create seamless, AI-powered learning experiences for over 3,000 customers worldwide. We have successfully achieved two IPOs (TSX: DCBO & NASDAQ: DCBO), been recognized as a top SaaS e-learning solution, and are growing exponentially in the process. We're a global company, with office across North America, EMEA, APAC, and beyond. Our team is guided by five core values—
+**Grow Together Win Together, Build with Our Customer, Clear is Kind, Own Outcomes, Progress Over Perfection**
+—that shape everything we do. If this resonates with you, now is the perfect time to join one of the fastest-growing learning technology companies in the world.
+  
+  
+Docebo is an Equal Employment Opportunity employer. We are committed to diversity and inclusion in our workforce. All qualified applicants and employees will receive consideration for employment regardless of their race, colour, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, citizenship status, age, disability, genetic information, or any other category protected under applicable law.
+  
+  
+As a federal contractor, Docebo is committed to the principles of affirmative action and equal employment opportunity for protected veterans and individuals with disabilities. Docebo does not discriminate because of protected veteran status or on the basis of disability, and Docebo takes affirmative action to employ and advance in employment qualified protected veterans and individuals with disabilities.
+  
+  
+Any individuals requiring a reasonable accommodation or would like to voluntarily disclose a disability or protected veteran status to assist with their employment application should send an e-mail to their recruiter directly.
+  
+  
+Compensation Range: CA$68.6K - CA$91.5K"
+c539a5eb6e208559,Data Engineer,Tata Consultancy Services,"Toronto, Ontario, Canada",0,"CAD 90,000 - 110,000 /yearly",2026-11-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4495002884,,49,Free scorer: your resume shows 1 of 7 listed skills (Python).,"[""Java"", ""SQL"", ""Databricks"", ""PySpark"", ""ETL"", ""Azure""]",new,2026-11-26T22:13:09+00:00,2026-11-26T22:13:42+00:00,"[""Python""]",,mid,li-4495002884,linkedin,"**Inclusion without Exception**
+
+Tata Consultancy Services (TCS) is an equal opportunity employer, and embraces diversity in race, nationality, ethnicity, gender, age, physical ability, neurodiversity, and sexual orientation, to create a workforce that reflects the societies we operate in. Our continued commitment to Culture and Diversity is reflected in our people stories across our workforce and implemented through equitable workplace policies and processes.
+
+TCS has been serving the Canadian marketplace for more than 35 years and today is the technology partner of choice for many of the country's leading organizations. As one of the largest IT services providers in Canada and globally, TCS is aiming to become the world's largest AI-led technology services company and is enabling its clients to transform themselves across the full AI stack, from infrastructure to intelligence.
+
+Rooted in the heritage and values of the Tata Group, TCS is focused on creating long-term value for its clients, investors, employees, and the communities it serves. With a highly skilled workforce supporting customers from coast to coast, TCS has consistently been recognized as a Top Employer by the Top Employers Institute, including a recent top ranking at the country level.
+
+TCS also sponsors 14 of the world's most prestigious marathons and endurance events, including the TCS Toronto Waterfront Marathon, reflecting its commitment to health, sustainability, and community empowerment.
+
+**Azure Data Factory / Databricks Engineer**
+
+**Skills: ADF / ADB / PySpark / SQL**
+
+Job Description
+
+* Demonstrated experience as a Data Engineer with strong cloud and data engineering expertise.
+* Previous experience as a Data Engineer or in a similar role.
+* Technical expertise with data models, data mining, and segmentation techniques.
+* Knowledge of programming languages Java and Python.
+* Hands-on experience with SQL database design.
+* Great numerical and analytical skills.
+
+Responsibilities
+
+* Design, develop, and maintain data pipelines using Azure Data Factory (ADF) for data ingestion, transformation, and integration.
+* Develop and optimize data processing solutions using Azure Databricks (ADB) and PySpark.
+* Build and maintain scalable ETL/data engineering workflows across cloud-based data sources.
+* Develop and optimize complex SQL queries, database objects, and data processing logic.
+* Design and work with data models, data mining, and segmentation techniques based on business requirements.
+* Use Python and Java for data processing, transformation, and engineering requirements.
+* Troubleshoot data pipeline failures, performance issues, and data quality problems across ADF and Databricks workloads.
+* Apply strong numerical and analytical skills to validate, analyze, and process large datasets.
+* Collaborate with technical and business teams to understand data requirements and deliver reliable data engineering solutions.
+
+**Salary Range - CA$ 90,000 - CA$ 110,000 Per Year**
+
+Tata Consultancy Services Canada Inc. is committed to meeting the accessibility needs of all individuals in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code (OHRC). Should you require accommodation during the recruitment and selection process, please inform Human Resources.
+
+Thank you for your interest in TCS. Candidates that meet the qualifications for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile."
+8bcc30826520b2c5,Data Platform & AI Engineer,Harbourfront Wealth Management,"Toronto, Ontario, Canada",0,"CAD 130,000 - 150,000 /yearly",2026-11-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494953666,,55,"Free scorer: your resume shows 3 of 12 listed skills (Python, REST, Git).","[""SQL"", ""GraphQL"", ""Databricks"", ""PySpark"", ""Power BI"", ""Machine Learning"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-26T22:13:09+00:00,2026-11-26T22:13:42+00:00,"[""Python"", ""REST"", ""Git""]",,mid,li-4494953666,linkedin,"**Who we are:**
+
+Harbourfront Wealth is a dynamic industry leader specializing in financial services and wealth management. We are a fast-growing wealth management firm with over $24 billion in assets under administration, comprised of five integrated entities: CIRO dealer, investment counsel, asset manager, U.S. Registered Investment Advisor (RIA) and insurance company. At Harbourfront Wealth, our core values start with the belief that great people make great companies.
+
+**Career opportunity:**
+Harbourfront Wealth Management is seeking an experienced
+**Data Platform & AI Engineer**
+to join our Data & AI Platform team on a full-time, permanent basis. Based in Toronto, ON, this role offers a hybrid/remote working model with infrequent attendance at our Burlington office. The successful candidate will help build and strengthen Harbourfront’s enterprise data platform, with Microsoft Fabric at the centre of our data, integration and AI ecosystem.
+
+This is a hands-on senior engineering role with responsibility across platform engineering, data architecture, integration modernization and production reliability. You will help move Harbourfront from fragmented pipelines and point-to-point integrations toward governed, reusable data products that can be trusted and scaled across the organization.
+
+You will work closely with business stakeholders, internal teams and external partners while remaining hands-on with architecture, code, technical reviews and production problem-solving.
+
+**You will be responsible for:**
+
+* Owning the technical architecture and operational health of Microsoft Fabric, including OneLake, Lakehouse, Warehouse, Fabric Data Factory and related Azure services.
+* Design, build and support production data solutions using SQL, Python and PySpark.
+* Develop reusable enterprise data products across areas such as clients, households, accounts, portfolios, advisors, holdings and transactions.
+* Modernize existing pipelines and integrations, determining when solutions should be retained, refactored, consolidated, replaced or retired.
+* Design reliable batch, API, event, CDC and other integration patterns with appropriate monitoring, reconciliation and recovery.
+* Establish strong engineering practices across Git, CI/CD, testing, deployment, observability and production support.
+* Lead technical design, architecture, code and operational-readiness reviews.
+* Review work delivered by external partners and ensure appropriate testing, documentation, source code, deployment assets and knowledge transfer are completed.
+* Build governed data products and services that can support analytics, machine learning and GenAI applications.
+* Partner with business and governance stakeholders to ensure data solutions meet requirements for security, lineage, access and permitted use.
+* Mentor engineers and establish reusable standards and patterns that strengthen Harbourfront’s internal capabilities.
+
+**The ideal candidate for this position has:**
+
+* 7+ years of experience in data engineering, platform engineering, analytics engineering or a related field, including senior ownership of production solutions.
+* Hands-on experience designing, building and supporting enterprise solutions using Microsoft Fabric or a comparable Azure Lakehouse environment.
+* Advanced SQL, Python and PySpark skills.
+* Strong experience with enterprise data modelling, including dimensional modelling, data domains, effective-dated history, lineage and data quality.
+* Experience modernizing complex or inherited data pipelines and integrations.
+* Strong understanding of production reliability, including monitoring, reconciliation, retries, recovery, incident management and root-cause analysis.
+* Experience with Git and CI/CD, including code reviews, automated testing and controlled deployment practices.
+* Experience leading technical design or code reviews and working with internal or external delivery partners.
+* Strong communication skills with the ability to explain technical recommendations, risks and trade-offs to both technical and non-technical stakeholders.
+* Fluent English is required; French is considered an asset.
+* Bachelor’s degree in computer science, engineering, information systems, mathematics or a related field, or equivalent hands-on experience.
+* Previous experience within wealth management, financial services or another regulated industry.
+
+**Considered an Asset:**
+
+* Broader experience across Microsoft Fabric, including OneLake, Lakehouse, Warehouse, Fabric Data Factory, Delta tables and capacity monitoring.
+* Experience with Azure Data Factory, API Management, Functions, Event Grid, Service Bus, ADLS Gen2, CDC or SFTP.
+* Experience designing and supporting REST or GraphQL APIs.
+* Knowledge of Microsoft Entra ID, Microsoft Purview, RBAC, data lineage and data governance.
+* Experience with Power BI Direct Lake, Azure AI Foundry, Fabric Data Agents or governed MCP integrations.
+* Experience with Databricks, Delta Lake, MLflow or Unity Catalog.
+* Microsoft Fabric, Azure Data Engineer or Databricks certifications.
+
+**What you will get:**
+
+* The opportunity to shape Harbourfront’s long-term data and integration architecture.
+* Meaningful technical ownership across architecture, implementation and production outcomes.
+* A modern Microsoft data environment including Fabric, OneLake, Power BI, Azure integration services, Purview and Azure AI capabilities.
+* The opportunity to work on data products supporting advisors, clients, Finance, Operations, Compliance and AI-enabled workflows.
+* A highly visible role within an emerging Data & AI capability where the standards and solutions you build can have an immediate impact.
+
+**Salary Range: $130,000 - $150,000 per annum (actual salary offered will be commensurate with education, experience, and internal parity).**
+
+**Diversity and Inclusion**
+
+Diversity is an important value to us. We are committed to providing equal opportunities in employment and to providing a workplace which is free from discrimination and harassment. This means that all job applicants and employees will receive equal treatment regardless of race, colour, ethnic or national origins, sex, marital status, disability, age, sexual orientation, religion, or belief."
+218bf39c98aebfc3,Python Scala Developer,Tata Consultancy Services,"Toronto, Ontario, Canada",0,"CAD 90,000 - 100,000 /yearly",2026-11-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4495035138,,58,"Free scorer: your resume shows 4 of 13 listed skills (Python, REST, Docker, Git).","[""Scala"", ""SQL"", ""Microservices"", ""Pub/Sub"", ""Spark"", ""PySpark"", ""GCP"", ""CI/CD"", ""Security""]",new,2026-11-26T22:11:34+00:00,2026-11-26T22:13:42+00:00,"[""Python"", ""REST"", ""Docker"", ""Git""]",,mid,li-4495035138,linkedin,"**Inclusion without Exception**
+
+Tata Consultancy Services (TCS) is an equal opportunity employer, and embraces diversity in race, nationality, ethnicity, gender, age, physical ability, neurodiversity, and sexual orientation, to create a workforce that reflects the societies we operate in. Our continued commitment to Culture and Diversity is reflected in our people stories across our workforce and implemented through equitable workplace policies and processes.
+
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry-leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, engineering excellence and customer service.
+
+It has set an aspiration to become the world's largest AI-led technology services company and is enabling its clients to transform themselves across the full AI stack, from infrastructure to intelligence.
+
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its employees, and the community at large. With a highly skilled workforce spread across 56 countries and 194 service delivery centers across the world, the company has been recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, the company has built long term partnerships with its clients. Many of these relationships have endured into decades and navigated every technology cycle, from mainframes in the 1970s to artificial intelligence today.
+
+**Must-Have Skills**
+
+* Strong hands-on Python
+* Hands-on experience with Scala
+* Strong Google Cloud Platform (GCP)
+* GCS / Cloud Storage, Pub/Sub
+* Dataflow and/or Dataproc
+* Spark / PySpark / Spark Scala
+* Strong SQL
+* REST APIs / Microservices
+* Git, CI/CD, Docker
+* Production troubleshooting and performance tuning
+* Cloud IAM, security, logging & monitoring
+
+**Key Responsibilities**
+
+* Build scalable backend and data-intensive applications using Python and Scala.
+* Develop cloud-native solutions on GCP.
+* Build data-processing pipelines using GCS, Pub/Sub, Dataflow, Dataproc and Spark.
+* Develop and integrate REST APIs and microservices.
+* Handle high-volume/distributed data processing using PySpark or Spark Scala.
+* Troubleshoot production issues, perform RCA, and optimize application performance.
+* Implement CI/CD and containerized deployments using Git and Docker.
+* Ensure security, reliability, monitoring, and production readiness.
+
+Salary Range - CA$ 90,000 - CA$ 100,000 Per Year
+
+TCS does not use artificial intelligence tools for candidate screening or evaluation. This post is for a current vacancy. The hiring process includes an initial screening, followed by a technical evaluation and managerial discussion.
+
+Tata Consultancy Services Canada Inc. is committed to meeting the accessibility needs of all individuals in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code (OHRC). Should you require accommodation during the recruitment and selection process, please inform Human Resources.
+
+Thank you for your interest in TCS. Candidates that meet the qualifications for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile."
+11ce1af592939c98,Python & Talend ETL Developer – Banking,Tata Consultancy Services,"Toronto, Ontario, Canada",0,"CAD 90,000 - 100,000 /yearly",2026-11-26,"[""linkedin""]",https://www.linkedin.com/jobs/view/4495025544,,64,"Free scorer: your resume shows 5 of 12 listed skills (Python, REST, PostgreSQL, Git).","[""SQL"", ""SQL Server"", ""Oracle"", ""ETL"", ""ELT"", ""CI/CD"", ""Security""]",new,2026-11-26T22:11:34+00:00,2026-11-26T22:13:42+00:00,"[""Python"", ""REST"", ""PostgreSQL"", ""Git"", ""Linux""]",,mid,li-4495025544,linkedin,"**Inclusion without Exception**
+
+Tata Consultancy Services (TCS) is an equal opportunity employer, and embraces diversity in race, nationality, ethnicity, gender, age, physical ability, neurodiversity, and sexual orientation, to create a workforce that reflects the societies we operate in. Our continued commitment to Culture and Diversity is reflected in our people stories across our workforce and implemented through equitable workplace policies and processes.
+
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry-leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, engineering excellence and customer service.
+
+It has set an aspiration to become the world's largest AI-led technology services company and is enabling its clients to transform themselves across the full AI stack, from infrastructure to intelligence.
+
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its employees, and the community at large. With a highly skilled workforce spread across 56 countries and 194 service delivery centers across the world, the company has been recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, the company has built long term partnerships with its clients. Many of these relationships have endured into decades and navigated every technology cycle, from mainframes in the 1970s to artificial intelligence today.
+
+**Experience:**
+Demonstrated experience in Python and Talend ETL development in complex enterprise environments
+
+**Core Skills**
+
+* Strong hands-on Python development for data processing, automation, scripting, and APIs
+* Strong hands-on Talend Data Integration / Talend Open Studio
+* Advanced SQL, including complex queries, stored procedures, and performance optimization
+* ETL/ELT, data mapping, transformation, migration, data quality, and reconciliation
+* Experience with Oracle, SQL Server, or PostgreSQL
+* Batch processing and file-based integrations
+* REST APIs, JSON, XML, CSV, SFTP
+* Linux/Unix, Git, CI/CD and production deployments
+* Production troubleshooting, RCA, and SLA-driven support
+
+**Key Responsibilities**
+
+* Develop and maintain Python applications, scripts, automation, and data-processing solutions.
+* Design and support Talend ETL/ELT jobs and data pipelines.
+* Handle large-volume data integration and migration using SQL and relational databases.
+* Develop batch, API, SFTP, and file-based integrations across banking systems.
+* Perform data validation, reconciliation, exception handling, and performance tuning.
+* Troubleshoot critical production batch/interface failures and perform root-cause analysis.
+* Coordinate with application, database, infrastructure, business, and data teams.
+* Follow banking requirements for security, auditability, change management, and production releases.
+
+**Required Qualifications**
+
+* Python: Strong hands-on coding, not just basic scripting
+* Talend: Actual ETL job development experience
+* SQL: Complex queries, stored procedures, optimization
+* ETL/Data Integration: Mapping, transformation, quality, reconciliation
+* Integration: REST APIs + JSON/XML/CSV + SFTP/file processing
+* Production Support: Linux/Unix, Git/CI-CD, troubleshooting and RCA
+
+Salary Range - CA$ 90,000 - CA$ 100,000 Per Year
+
+TCS does not use artificial intelligence tools for candidate screening or evaluation. This post is for a current vacancy. The hiring process includes an initial screening, followed by a technical evaluation and managerial discussion.
+
+Tata Consultancy Services Canada Inc. is committed to meeting the accessibility needs of all individuals in accordance with the Accessibility for Ontarians with Disabilities Act (AODA) and the Ontario Human Rights Code (OHRC). Should you require accommodation during the recruitment and selection process, please inform Human Resources.
+
+Thank you for your interest in TCS. Candidates that meet the qualifications for this position will be contacted within a 2-week period. We invite you to continue to apply for other opportunities that match your profile."
 e553dcbd6fe63452,Sr Backend Eng - Depop Value Creation,eBay,"Toronto, ON, Canada",0,"CAD 118,000 - 157,500 /yearly",2026-11-24,"[""indeed""]",https://ca.indeed.com/viewjob?jk=82337c930d8da23f,https://jobs.ebayinc.com/us/en/job/R0077243,56,"Free scorer: your resume shows 3 of 11 listed skills (Python, AWS, Docker).","[""Java"", ""TypeScript"", ""Scala"", ""Node.js"", ""Express"", ""Kafka"", ""Kubernetes"", ""CI/CD""]",new,2026-11-25T22:15:14+00:00,2026-11-25T22:15:36+00:00,"[""Python"", ""AWS"", ""Docker""]",,senior,in-82337c930d8da23f,indeed,"JOB DESCRIPTION
 
 At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
@@ -865,7 +1432,105 @@ Think you're a good fit? Apply to learn more!
   
   
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
-87898c449b5a47a4,Senior Developer (Python / SQL) - Capital Markets Investment Analytics,Akkodis,"Toronto, Ontario, Canada",0,,2026-11-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494925891,,68,"Free scorer: your resume shows 1 of 2 listed skills (Python); there's no job description, so this is a rough guess.","[""SQL""]",new,2026-11-25T22:13:20+00:00,2026-11-25T22:15:39+00:00,"[""Python""]",,senior,li-4494925891,linkedin,
+87898c449b5a47a4,Senior Developer (Python / SQL) - Capital Markets Investment Analytics,Akkodis,"Toronto, Ontario, Canada",0,,2026-11-25,"[""linkedin""]",https://www.linkedin.com/jobs/view/4494925891,,68,"Free scorer: your resume shows 1 of 2 listed skills (Python); there's no job description, so this is a rough guess.","[""SQL""]",new,2026-11-25T22:13:20+00:00,2026-11-25T22:15:39+00:00,"[""Python""]",,senior,li-4494925891,linkedin,"**Title:**
+Senior Developer - Capital Markets Investment Analytics
+
+**Position Type:**
+Contract
+
+**Industry Sector:**
+Financial Services (Capital Markets, Asset Management, Investment Management, Pension Funds)
+
+**Duration:**
+12 Month Contract
+
+**Location:**
+Toronto, ON (Downtown Toronto)
+
+**Work Model:**
+Hybrid (3 days per week in office)
+
+**Engagement Model:**
+Professional Services Engagement - B2B (Incorporated entities preferred)
+
+**About the Opportunity**
+
+Akkodis is partnering with a leading Canadian institutional investment organization seeking an experienced
+**Senior Developer**
+to join a high-performing Capital Markets Investment Analytics team.
+
+This is an opportunity to work on business-critical technology platforms that support quantitative investment strategies, automated trade execution, market data integration, investment research, and portfolio analytics used across global capital markets operations.
+
+We are looking for a senior hands-on Software Developer to join our Capital Markets Investment Analytics (CMIA) team. This role will partner closely with portfolio managers, quantitative researchers, traders, and investment professionals to build, enhance, and support business-critical trading, market data, and investment analytics platforms. The successful candidate will play a key role in delivering software solutions that support quantitative investment strategies, trade execution, and front-office decision making.
+
+**What You'll Be Doing**
+
+* Work directly with portfolio managers, traders, quantitative researchers, and other front-office stakeholders to gather requirements and deliver technology solutions supporting investment and trading activities.
+* Design, develop, enhance, and support software platforms supporting quantitative investing and automated trade execution
+* Build scalable applications and services used by traders, portfolio managers, researchers, and investment professionals
+* Lead technical initiatives through the full software development lifecycle from design through deployment and support
+* Collaborate closely with investment teams to understand business requirements and translate them into technical solutions
+* Enhance and maintain existing investment analytics, market data, and trade execution platforms
+* Support the onboarding of new investment strategies, asset classes, and trading capabilities
+* Contribute to cloud modernization initiatives leveraging Azure-based technologies
+* Develop and optimize data pipelines, analytics services, and supporting infrastructure
+* Improve application performance, scalability, resiliency, and automation capabilities
+* Provide operational support for production systems and help improve platform reliability
+* Mentor developers and contribute to engineering best practices, code quality, and continuous improvement initiatives
+* Participate in Agile delivery processes, sprint planning, and technical design discussions
+
+**Required Expertise**
+
+* At least 7+ years of software development experience within enterprise environments
+* 2+ years of experience in a Lead Developer, Technical Lead, or Senior Engineering capacity
+* Expert-level
+  **Python**
+  application development experience in enterprise environments
+* Strong SQL and database development experience (database design, optimization, query tuning, and data integration)
+* Experience building and supporting business-critical software applications
+* Proven experience leading projects through the full software development lifecycle
+* Experience designing APIs, services, distributed applications, and scalable backend systems
+* Cloud experience with
+  **Microsoft Azure**
+* Experience with modern DevOps practices and CI/CD pipelines
+* Git, GitHub, GitHub Actions, Jenkins, Jira, or similar tooling
+* Experience building data-intensive applications and integrating multiple data sources
+* Strong analytical, problem-solving, and communication skills
+* Ability to work directly with technical and business stakeholders
+
+**Nice to Have**
+:
+
+* Experience with Bloomberg API (BPIPE, DAPI)
+* Experience with Refinitiv, Reuters, S&P Global Market Intelligence, or other financial data providers
+* Experience with OneTick or time-series databases
+* C# development experience
+* Experience supporting fixed income, multi-asset, or quantitative investment strategies
+* CFA enrollment or candidacy
+* Canadian Securities Course (CSC)
+* Experience within institutional investment, hedge fund, pension, banking, or capital markets environments
+
+**Technology Environment:**
+Python, SQL, Azure, AKS, Snowflake, SQL Server, Oracle, Git, GitHub Actions, Jenkins, Jira
+
+**Ideal Background:**
+
+The ideal candidate combines strong software engineering fundamentals with experience building and supporting investment, trading, market data, or quantitative research platforms. They should be comfortable working directly with investment professionals while remaining hands-on in designing and developing robust, scalable software solutions.
+
+**How to Apply**
+
+If you are interested in learning more, don't hesitate to apply today or check-out Akkodis Canada website for more opportunities.
+
+**Important**
+
+This is a business-to-business engagement. Candidates must represent an incorporated entity, hold a valid business number, maintain appropriate insurance, and invoice for services rendered.
+
+We thank all applicants for their interest in this opportunity. Only candidates meeting the above qualifications will be contacted for further discussions.
+
+**Accessibility**
+:
+
+At Akkodis, part of The Adecco Group, our purpose is simple: to make the future work for everyone. We live our values, Passion, Collaboration, Inclusion, Courage, and Customers at Heart, by fostering a workplace where diversity is celebrated and every voice matters. We encourage applications from individuals of all backgrounds and identities. Together, we’re making the future work for everyone."
 acb7dad7f815523b,Senior Backend Engineer,US Mobile,"Toronto, Ontario, Canada",0,"CAD 140,000 - 200,000 /yearly",2026-11-25,"[""linkedin"", ""indeed""]",https://www.linkedin.com/jobs/view/4494686041,https://jobs.lever.co/USMobile/c495b8bb-f299-4f5e-a993-9712d78e739a?lever-source=Indeed,61,"Free scorer: your resume shows 5 of 14 listed skills (Python, Django, REST, AWS).","[""Java"", ""Flask"", ""Spring"", ""MongoDB"", ""RabbitMQ"", ""SQS"", ""Data Modeling"", ""CI/CD"", ""Agile""]",new,2026-11-25T22:13:20+00:00,2026-11-25T22:15:39+00:00,"[""Python"", ""Django"", ""REST"", ""AWS"", ""Git""]",,senior,li-4494686041,linkedin,"**About US Mobile**
 US Mobile is redefining what it means to be a connectivity company. Help us reimagine what a modern carrier can be through world-class technology, thoughtful design and an obsession with creating products people genuinely love.
   
