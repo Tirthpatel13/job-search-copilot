@@ -1,4 +1,332 @@
 id,title,company,location,is_remote,salary,date_posted,sources,url,apply_url,score,score_reason,gaps,status,fetched_at,scored_at,matched,notes,seniority,external_id,source,description
+3a0dc2493b6d12dc,Data Engineer III (Azure/PySpark/Python/SQL),TD,"Toronto, ON, Canada",0,"CAD 125,500 - 154,000 /yearly",2026-11-27,"[""indeed""]",https://ca.indeed.com/viewjob?jk=a27687ec6879e633,https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-III--Azure-PySpark-Python-SQL-_R_1522927,49,Free scorer: your resume shows 1 of 7 listed skills (Python).,"[""SQL"", ""Databricks"", ""PySpark"", ""Azure"", ""CI/CD"", ""Security""]",new,2026-11-27T21:51:50+00:00,2026-11-27T21:52:17+00:00,"[""Python""]",,senior,in-a27687ec6879e633,indeed,"**Work Location:**
+
+Toronto, Ontario, Canada
+
+**Hours:**
+
+37.5
+
+**Line of Business:**
+
+Technology Solutions
+
+**Pay Details:**
+
+$125,500 - $154,000 CADThe pay details posted reflect a temporary market premium specific to this role that is reassessed annually.
+
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+
+**Job Description:**
+
+The team owns the engineering frameworks that power TD’s Rahona big data platform, including large-scale data ingestion, orchestration, processing, and retention capabilities.
+
+As a Data Engineer III, you will combine hands-on engineering with technical leadership, leading complex initiatives, mentoring engineers, driving engineering best practices, and advancing automation and AI-enabled data engineering.
+
+* Lead the design and delivery of complex, scalable data engineering solutions on Microsoft Azure.
+* Design and develop data pipelines and frameworks using Azure Data Factory (ADF), Azure Databricks (ADB), Delta Lake, PySpark, Python, and SQL.
+* Apply strong practices across data quality, metadata, lineage, governance, and lifecycle management, including Databricks Unity Catalog.
+* Translate business requirements into effective technical solutions and communicate designs clearly to stakeholders.
+* Lead resolution of complex technical, production, performance, and data-quality issues.
+
+* Provide technical leadership across design, development, testing, deployment, and production support.
+* Lead architecture and design reviews and ensure alignment with security, governance, and enterprise standards.
+* Drive engineering best practices across code quality, reusable patterns, automated testing, CI/CD, Azure DevOps, observability, performance, and operational resilience.
+* Identify and manage technical risks and continuously improve engineering frameworks and practices.
+* Drive AI and automation adoption to improve developer productivity, code quality, testing, troubleshooting, and delivery efficiency.
+
+* Provide technical leadership and mentorship to engineers across the team.
+* Guide solution design, code reviews, technical decisions, and complex problem solving.
+* Champion engineering standards, reusable solutions, automation, and knowledge sharing.
+* Encourage experimentation and responsible adoption of AI-assisted and agentic engineering capabilities.
+Foster a collaborative, accountable, inclusive, and continuous-learning culture.  
+
+  
+
+**Job Requirements**
+
+* Advanced knowledge of modern data engineering architectures, technologies, frameworks, and patterns.
+* Strong hands-on expertise with Azure, ADF, Azure Databricks, Unity Catalog, Delta Lake, PySpark, Python, and SQL.
+* Experience designing and delivering large-scale data ingestion and processing solutions.
+* Ability to independently lead complex technical initiatives from design through production.
+* Demonstrated ability to establish engineering standards, influence technical direction, and act as a trusted technical advisor.
+
+* Degree, postgraduate degree, or technical certification in Computer Science, Engineering, Data Management, or a related discipline, or equivalent practical experience.
+* 8+ years of relevant data engineering or software engineering experience.
+* Strong experience with Azure data platforms, ADF, Azure Databricks, Unity Catalog, Delta Lake, PySpark, Python, and SQL.
+* Demonstrated experience leading complex technical initiatives, mentoring engineers, and driving engineering best practices.
+Experience with DevOps, CI/CD, automation, and AI-assisted engineering is strongly preferred.  
+
+**Where You'll Work**
+
+You’ll be expected to work primarily onsite at a TD location for meetings, team events and experiences. The hiring manager will provide more information about how this works for their team.
+
+**Who We Are:**
+
+TD is one of the world's leading global financial institutions and is the fifth largest bank in North America by branches/stores. Every day, we strive to make every interaction, product, and experience remarkably human and refreshingly simple for over 27 million households and businesses in Canada, the United States and around the world. More than 95,000 TD colleagues bring their skills, talent, and creativity to foster deeper relationships, ensure disciplined execution, and build a simpler, faster banking experience. TD is deeply committed to being a leader in client experience, that is why we believe that all colleagues, no matter where they work, are client facing. Together, we are reimagining what banking can be for our clients, colleagues and communities.
+
+**Our Total Rewards Package**  
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+
+**Additional Information:**  
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+
+**Colleague Development**
+
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.
+
+If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.
+
+We're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.
+
+**Training & Onboarding**  
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+
+**Interview Process**  
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+
+**Accommodation**  
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+  
+  
+We look forward to hearing from you!
+
+**Language Requirement (Quebec only):**
+
+Sans Objet"
+68850f28ace68fb6,Data Engineer,Ontario Securities Commission,"Toronto, ON, Canada",0,,2026-11-27,"[""indeed""]",https://ca.indeed.com/viewjob?jk=8e44d668a8e6eac7,https://osc.wd3.myworkdayjobs.com/en-US/OSCCareers/job/CA-ON-Toronto/Data-Engineer_JR101010,54,"Free scorer: your resume shows 3 of 13 listed skills (Python, LLM, Git).","[""SQL"", ""Databricks"", ""PySpark"", ""Data Modeling"", ""Machine Learning"", ""Statistics"", ""Azure"", ""CI/CD"", ""Agile"", ""Security""]",new,2026-11-27T21:51:50+00:00,2026-11-27T21:52:18+00:00,"[""Python"", ""LLM"", ""Git""]",,mid,in-8e44d668a8e6eac7,indeed,"Business UnitRegular, Full timeClosing Date: December 15, 2026
+
+The Ontario Securities Commission (OSC) is the statutory body responsible for regulating Ontario’s capital markets in accordance with the mandate established in the provincial Securities Act and the Commodity Futures Act. The mandate of the OSC is to provide protection to investors from unfair, improper or fraudulent practices, to foster fair, efficient and competitive capital markets and confidence in the capital markets, to foster capital formation, and to contribute to the stability of the financial system and the reduction of systemic risk. This mandate is performed through policy, operational, and enforcement activities. The OSC also contributes to national and global securities regulation development.
+
+We offer a diverse, fair, and flexible work environment and take pride in our challenging and rewarding work.
+
+Join the Technology Innovation team at the Ontario Securities Commission as a Data Engineer. You will partner with business stakeholders to turn complex regulatory needs into data pipelines and AI-enabled data applications, spanning data engineering, data science and full-stack development. Knowledge of capital markets data sets is an asset. You will report to the Manager, Technology Innovation.
+
+**What You’ll Do**
+
+* Partner with internal stakeholders to understand current and future business needs and shape data platform architecture and solutions.
+* Design, build and deploy data-driven applications, including user interfaces, APIs and back-end services, using AI capabilities such as large language models (LLMs).
+* Develop and maintain scalable data pipelines for the extraction, transformation and loading of high-volume, complex data.
+* Monitor and improve data quality, and lead analysis to troubleshoot and resolve data issues.
+* Work with Security, Architecture, Technical Services and Data Governance teams to ensure compliance with security, data management and responsible AI requirements.
+* Act as the data engineering subject matter expert in agile pods, advising business and analytics teams on data models, tools and the use of data.
+* Support analysis of data and trends using programming, statistical or machine learning techniques to generate insights and reports.
+
+**Qualifications**
+
+* 10+ years working with data as a Data Engineer, Data Scientist, Full Stack Developer or in a similar role.
+* Undergraduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
+* Advanced SQL and relational database skills, with experience building and optimizing big data pipelines, architectures and data sets.
+* Experience building end-to-end data applications, including front-end interfaces, APIs and back-end services.
+* Hands-on experience using generative AI in development workflows and integrating LLMs into applications (e.g. prompt design, retrieval-augmented generation, LLM APIs).
+* Strong analytical and root cause analysis skills with structured and unstructured data, and experience working with cross-functional teams.
+
+**Core Technical Skills**
+
+* Core: Python, SQL, PySpark, Databricks and Lakehouse engineering, Azure / ADLS, data integration, data modeling, data quality, Git / Azure DevOps / CI/CD, security and data governance.
+* AI: LLM concepts, RAG, embeddings, vector search, AI data preparation, model/API integration.
+
+Grow your career and make a difference working at the OSC.
+
+\* OSC Employees: please apply in Workday using the Browse Jobs feature within your Jobs Hub \*
+
+We thank all applicants for their interest in the Ontario Securities Commission. We will contact those selected for an interview.
+
+The OSC is committed to diversity and providing an inclusive workplace and providing accommodation in accordance with the Accessibility for Ontarians with Disabilities Act and the Human Rights Code. It is our priority to ensure employment opportunities are visible and barrier-free to all under-represented groups including but not limited to, Indigenous, Black and racialized groups, people with disabilities, women and people from the 2SLGBTQI+ community, to achieve an employee demographic profile reflective of the demographic profile of Ontarians.
+
+The OSC is a proud partner with the following organizations: Ascend Canada, BlackNorth Initiative, Canadian Centre for Diversity and Inclusion, and Pride at Work Canada
+
+If you require an accommodation during the recruitment process, please let us know by contacting our confidential inbox HRRecruitment@osc.gov.on.ca.
+
+Visit Accessibility at the OSC to review the OSC’s policies on accessibility and accommodation in the workplace."
+1bec2ba6c2236d73,Senior Databricks Administrator / Python Developer,TD,"Toronto, ON, Canada",0,"CAD 81,600 - 115,200 /yearly",2026-11-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=c1ab970cc2689917,https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Databricks-Administrator---Python-Developer_R_1502083,61,"Free scorer: your resume shows 4 of 11 listed skills (Python, REST, Git, Linux).","[""SQL"", ""Oracle"", ""Databricks"", ""Spark"", ""PySpark"", ""CI/CD"", ""Security""]",new,2026-11-27T21:51:50+00:00,2026-11-27T21:52:18+00:00,"[""Python"", ""REST"", ""Git"", ""Linux""]",,senior,in-c1ab970cc2689917,indeed,"**Work Location:**
+
+Toronto, Ontario, Canada
+
+**Hours:**
+
+37.5
+
+**Line of Business:**
+
+Technology Solutions
+
+**Pay Details:**
+
+$81,600 - $115,200 CADThis role is eligible for a discretionary variable compensation award that considers business and individual performance.
+
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+
+**Job Description:**
+
+We are seeking a skilled Senior Databricks Administrator with Python Development experience to support enterprise data and analytics platforms. The ideal candidate will possess deep expertise in Python application development, and Databricks platform administration, along with experience modernizing and migrating legacy data workloads to Databricks. This role requires a hands-on technical experience who can develop scalable solutions, administer Databricks environments, optimize platform performance, and assist in platform migration initiative.
+
+**KEY ACCOUNTABILITIES**
+
+**Databricks Administration (Primary Focus)**
+
+* Administer and support enterprise Databricks environments.
+* Configure and manage:
+  + Workspaces
+  + Clusters
+  + Job Workflows
+  + Unity Catalog
+  + Access Controls and Permissions
+  + Service Principals
+  + Secret Scopes
+  + Cluster Policies
+* Monitor platform performance, utilization, and costs.
+* Implement governance, security, and compliance controls.
+* Troubleshoot platform issues and optimize cluster configurations.
+* Collaborate with cloud infrastructure and security teams.
+
+**Python Development (Primary Focus)**
+
+* Design, develop, test, and maintain enterprise-grade Python applications and data processing solutions.
+* Develop reusable Python frameworks, libraries, APIs, and automation tools.
+* Develop data ingestion, transformation, and orchestration solutions.
+* Write clean, maintainable, and well-documented code following software engineering best practices.
+* Conduct code reviews and mentor junior developers.
+* Implement CI/CD pipelines and automated testing strategies.
+
+**Required Qualifications**
+
+* Bachelor’s degree in Computer Science, Information Technology, Engineering, or related field.
+* 5+ years supporting enterprise Databricks administration.
+* 5+ years of Python development experience.
+* Experience with Linux Operating System
+* Experience supporting enterprise cloud-based analytics platforms.
+* Strong understanding of software engineering best practices.
+* Experience with SAS 9.4 preferred.
+
+**Required Technical Skills**
+
+**Databricks Administration**
+
+* Databricks Workspace Administration
+* Unity Catalog Administration
+* Cluster Management
+* Compute & Cluster Policies
+* Job Workflows
+* Identity and Access Management
+* Security and Governance
+* Monitoring and Cost Optimization
+* Instance Pools
+* Repos/Git Integrtion
+
+**Python Development**
+
+* Advanced Python programming
+* Object-Oriented Programming (OOP)
+* REST API development
+* Python package development
+* Unit and integration testing
+* Git and version control
+
+**Data Engineering**
+
+* PySpark
+* Oracle
+* Spark SQL
+* Delta Lake
+
+**Who We Are:**
+
+TD is one of the world's leading global financial institutions and is the fifth largest bank in North America by branches/stores. Every day, we strive to make every interaction, product, and experience remarkably human and refreshingly simple for over 27 million households and businesses in Canada, the United States and around the world. More than 95,000 TD colleagues bring their skills, talent, and creativity to foster deeper relationships, ensure disciplined execution, and build a simpler, faster banking experience. TD is deeply committed to being a leader in client experience, that is why we believe that all colleagues, no matter where they work, are client facing. Together, we are reimagining what banking can be for our clients, colleagues and communities.
+
+**Our Total Rewards Package**  
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+
+**Additional Information:**  
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+
+**Colleague Development**
+
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.
+
+If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.
+
+We're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.
+
+**Training & Onboarding**  
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+
+**Interview Process**  
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+
+**Accommodation**  
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+  
+  
+We look forward to hearing from you!
+
+**Language Requirement (Quebec only):**
+
+Sans Objet"
+5e47d56f08788ef1,"Senior Software Engineer, Backend (Trust Infra)",Affirm,"Vancouver, BC, Canada",1,"CAD 153,000 - 213,000 /yearly",2026-11-27,"[""indeed""]",https://ca.indeed.com/viewjob?jk=15c4569d24dc015c,https://grnh.se/jo6gne3g3us,66,"Free scorer: your resume shows 4 of 9 listed skills (Python, REST, AWS, Distributed Systems).","[""Kotlin"", ""MySQL"", ""Kubernetes"", ""Helm"", ""Security""]",new,2026-11-27T21:51:47+00:00,2026-11-27T21:52:18+00:00,"[""Python"", ""REST"", ""AWS"", ""Distributed Systems""]",,senior,in-15c4569d24dc015c,indeed,"At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+The Trust Infra team elevates the security posture of our infrastructure and services by embedding security in everything from provisioning to deployment, improving developer experience through automation, and building guardrails that enable safe, rapid delivery. Artifacts owned by this team include our secrets management system, authentication and authorization, cryptography, certificate workloads, and other core security components within our Kubernetes and cloud infrastructure.  
+  
+**What You'll Do**  
+
+* You will be responsible for owning and delivering quarterly goals for your team, leading engineers on your team through ambiguity to solve open-ended problems, and ensuring that everyone is supported throughout delivery.
+* You will support your peers and stakeholders in the product development lifecycle by collaborating with product management, design & analytics by participating in ideation, articulating technical constraints, and partnering on decisions that properly consider risks and trade-offs.
+* You will proactively identify project, process, technology or business issues, advocate for them, and lead in solving them.
+* You will support the operations and availability of your team's artifacts by creating and monitoring metrics, escalating when needed, and supporting ""keep the lights on"" & on-call efforts.
+* You will foster a culture of quality and ownership on your team by setting or improving code review and design standards for your team, and advocating for them beyond your team through your writing and tech talks.
+* You will help develop talent on your team by providing feedback and guidance, and leading by example.
+
+  
+**What We Look For**  
+
+* You have 4+ years of experience designing, developing and launching backend systems at scale using languages like Python or Kotlin.
+* You have a track record of developing highly available distributed systems using technologies like AWS, MySQL and Kubernetes.
+
+* You have deep expertise of Kubernetes resource management, Helm charts, and operator patterns, centered around security workloads.
+* You have experience defining a technical plan for the delivery of a significant feature or system component with an elegant, simple and extensible design. You write high quality code that is easily understood and used by others.
+* You are proficient at making significant changes in a large code base, and have developed a suite of tools and practices that enable you and your team to do so safely.
+* Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+* You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+
+Pay Grade - N  
+Equity Grade - 6  
+  
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.  
+  
+Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
+
+CAN base pay range per year: $153,000 - $213,000 CAD
+
+**Location - Remote Canada**
+
+**This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan.**
+
+#LI-Remote
+
+**Remote-first with flexibility built in**  
+Affirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+**Benefits designed for you**  
+Our benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+* Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+* Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+* Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+* Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We're committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we're happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described."
 17680ac5946823f0,"Senior Consultant, Data Engineer",Project X Ltd,"Toronto, ON, Canada",0,"CAD 120,000 - 145,000 /yearly",2026-11-26,"[""indeed""]",https://ca.indeed.com/viewjob?jk=b42b09c83debdb2c,https://projectx.applytojob.com/apply/KNGN2vlL7g/Senior-Consultant-Data-Engineer?source=INDE&~,53,"Free scorer: your resume shows 3 of 14 listed skills (Python, AWS, Git).","[""SQL"", ""Snowflake"", ""Redshift"", ""Airflow"", ""dbt"", ""ETL"", ""Data Modeling"", ""Machine Learning"", ""Azure"", ""CI/CD"", ""Agile""]",new,2026-11-26T22:13:25+00:00,2026-11-26T22:13:40+00:00,"[""Python"", ""AWS"", ""Git""]",,senior,in-b42b09c83debdb2c,indeed,"Company: Project X Ltd.  
 Employment Type: Full Time  
 Location: Toronto, Ontario (Hybrid working model) 3 Working days in Office  
